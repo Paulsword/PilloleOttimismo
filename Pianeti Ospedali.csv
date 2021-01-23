@@ -1,45 +1,45 @@
-﻿REGIONE;;Abitanti;Totale posti letto;Posti letto/100.000 ab.;% variazione ricoveri ultimi 7 gg rispetto al totale;% occupazione posti letto;POPUP % incremento ricoveri ultimi 7 gg rispetto al totale;POPUP % occupazione posti letto;Control;Aggiornamento AGENAS
-ITALIA;;60359546;63542;105;-5;35;-5;35;Reparti;21/01/2021 ore 19:15
-Lombardia;;10060574;11047;110;1;33;1;33;Reparti;21/01/2021 ore 19:15
-Emilia Romagna;Emilia;4459477;6126;137;-6;40;-6;40;Reparti;21/01/2021 ore 19:15
-Veneto;;4905854;6000;122;-19;33;-19;33;Reparti;21/01/2021 ore 19:15
-Piemonte;;4356406;5824;134;-6;42;-6;42;Reparti;21/01/2021 ore 19:15
-Friuli VG;Friuli;1215220;1277;105;2;53;2;53;Reparti;21/01/2021 ore 19:15
-Valle d'Aosta;Valle;125666;227;181;-2;19;-2;19;Reparti;21/01/2021 ore 19:15
-Liguria;;1550640;1758;113;-6;36;-6;36;Reparti;21/01/2021 ore 19:15
-Trento;Trento;541098;604;112;-25;39;-25;39;Reparti;21/01/2021 ore 19:15
-Bolzano;Bolzano;531178;538;101;7;42;7;42;Reparti;21/01/2021 ore 19:15
-Marche;;1525271;1176;77;-5;47;-5;47;Reparti;21/01/2021 ore 19:15
-Toscana;;3729641;5033;135;-9;13;-9;13;Reparti;21/01/2021 ore 19:15
-Lazio;;5879082;6421;109;-6;41;-6;41;Reparti;21/01/2021 ore 19:15
-Umbria;;882015;765;87;3;37;3;37;Reparti;21/01/2021 ore 19:15
-Abruzzo;;1311580;1476;113;-2;30;-2;30;Reparti;21/01/2021 ore 19:15
-Molise;;305617;221;72;-2;25;-2;25;Reparti;21/01/2021 ore 19:15
-Campania;;5801692;4462;77;6;32;6;32;Reparti;21/01/2021 ore 19:15
-Puglia;;4029053;3440;85;-3;39;-3;39;Reparti;21/01/2021 ore 19:15
-Basilicata;;562869;416;74;0;19;0;19;Reparti;21/01/2021 ore 19:15
-Calabria;;1947131;911;47;5;33;5;33;Reparti;21/01/2021 ore 19:15
-Sicilia;;4999891;4161;83;3;35;3;35;Reparti;21/01/2021 ore 19:15
-Sardegna;;1639591;1659;101;-12;28;-12;28;Reparti;21/01/2021 ore 19:15
-ITALIA;;60359546;8574;14;-5;28;-5;28;Terapie Intensive;21/01/2021 ore 19:15
-Lombardia;;10060574;1210;12;-12;34;-12;34;Terapie Intensive;21/01/2021 ore 19:15
-Emilia Romagna;Emilia;4459477;757;17;-6;29;-6;29;Terapie Intensive;21/01/2021 ore 19:15
-Veneto;;4905854;1000;20;-7;31;-7;31;Terapie Intensive;21/01/2021 ore 19:15
-Piemonte;;4356406;628;14;-8;25;-8;25;Terapie Intensive;21/01/2021 ore 19:15
-Friuli VG;Friuli;1215220;175;14;-13;34;-13;34;Terapie Intensive;21/01/2021 ore 19:15
-Valle d'Aosta;Valle;125666;20;16;0;10;0;10;Terapie Intensive;21/01/2021 ore 19:15
-Liguria;;1550640;216;14;-5;29;-5;29;Terapie Intensive;21/01/2021 ore 19:15
-Trento;Trento;541098;90;17;2;48;2;48;Terapie Intensive;21/01/2021 ore 19:15
-Bolzano;Bolzano;531178;77;14;22;36;22;36;Terapie Intensive;21/01/2021 ore 19:15
-Marche;;1525271;222;15;9;37;9;37;Terapie Intensive;21/01/2021 ore 19:15
-Toscana;;3729641;567;15;-12;20;-12;20;Terapie Intensive;21/01/2021 ore 19:15
-Lazio;;5879082;943;16;-5;30;-5;30;Terapie Intensive;21/01/2021 ore 19:15
-Umbria;;882015;130;15;-10;35;-10;35;Terapie Intensive;21/01/2021 ore 19:15
-Abruzzo;;1311580;189;14;8;23;8;23;Terapie Intensive;21/01/2021 ore 19:15
-Molise;;305617;36;12;0;22;0;22;Terapie Intensive;21/01/2021 ore 19:15
-Campania;;5801692;620;11;-4;16;-4;16;Terapie Intensive;21/01/2021 ore 19:15
-Puglia;;4029053;460;11;-7;33;-7;33;Terapie Intensive;21/01/2021 ore 19:15
-Basilicata;;562869;88;16;50;7;50;7;Terapie Intensive;21/01/2021 ore 19:15
-Calabria;;1947131;152;8;-10;17;-10;17;Terapie Intensive;21/01/2021 ore 19:15
-Sicilia;;4999891;822;16;8;27;8;27;Terapie Intensive;21/01/2021 ore 19:15
-Sardegna;;1639591;172;10;2;30;2;30;Terapie Intensive;21/01/2021 ore 19:15
+﻿REGIONE,,Abitanti,Totale posti letto,Posti letto/100.000 ab.,% variazione ricoveri ultimi 7 gg rispetto al totale,% occupazione posti letto,POPUP % incremento ricoveri ultimi 7 gg rispetto al totale,POPUP % occupazione posti letto,Control,Aggiornamento AGENAS
+ITALIA,,60359546,63542,105,-5,34,-5,34,Reparti,21/01/2021 ore 19:15
+Lombardia,,10060574,11047,110,-1,32,-1,32,Reparti,21/01/2021 ore 19:15
+Emilia Romagna,Emilia,4459477,6126,137,-4,39,-4,39,Reparti,21/01/2021 ore 19:15
+Veneto,,4905854,6000,122,-19,32,-19,32,Reparti,21/01/2021 ore 19:15
+Piemonte,,4356406,5824,134,-7,40,-7,40,Reparti,21/01/2021 ore 19:15
+Friuli VG,Friuli,1215220,1277,105,-3,52,-3,52,Reparti,21/01/2021 ore 19:15
+Valle d'Aosta,Valle,125666,227,181,0,18,0,18,Reparti,21/01/2021 ore 19:15
+Liguria,,1550640,1758,113,-8,35,-8,35,Reparti,21/01/2021 ore 19:15
+Trento,Trento,541098,604,112,-28,36,-28,36,Reparti,21/01/2021 ore 19:15
+Bolzano,Bolzano,531178,538,101,9,42,9,42,Reparti,21/01/2021 ore 19:15
+Marche,,1525271,1176,77,-6,47,-6,47,Reparti,21/01/2021 ore 19:15
+Toscana,,3729641,5033,135,-10,13,-10,13,Reparti,21/01/2021 ore 19:15
+Lazio,,5879082,6421,109,-4,42,-4,42,Reparti,21/01/2021 ore 19:15
+Umbria,,882015,765,87,2,37,2,37,Reparti,21/01/2021 ore 19:15
+Abruzzo,,1311580,1476,113,-1,30,-1,30,Reparti,21/01/2021 ore 19:15
+Molise,,305617,221,72,-5,24,-5,24,Reparti,21/01/2021 ore 19:15
+Campania,,5801692,4462,77,3,32,3,32,Reparti,21/01/2021 ore 19:15
+Puglia,,4029053,3440,85,-3,39,-3,39,Reparti,21/01/2021 ore 19:15
+Basilicata,,562869,416,74,4,20,4,20,Reparti,21/01/2021 ore 19:15
+Calabria,,1947131,911,47,-3,31,-3,31,Reparti,21/01/2021 ore 19:15
+Sicilia,,4999891,4161,83,3,35,3,35,Reparti,21/01/2021 ore 19:15
+Sardegna,,1639591,1659,101,-12,27,-12,27,Reparti,21/01/2021 ore 19:15
+ITALIA,,60359546,8574,14,-5,28,-5,28,Terapie Intensive,21/01/2021 ore 19:15
+Lombardia,,10060574,1210,12,-12,34,-12,34,Terapie Intensive,21/01/2021 ore 19:15
+Emilia Romagna,Emilia,4459477,757,17,-5,29,-5,29,Terapie Intensive,21/01/2021 ore 19:15
+Veneto,,4905854,1000,20,-11,29,-11,29,Terapie Intensive,21/01/2021 ore 19:15
+Piemonte,,4356406,628,14,-7,24,-7,24,Terapie Intensive,21/01/2021 ore 19:15
+Friuli VG,Friuli,1215220,175,14,-10,35,-10,35,Terapie Intensive,21/01/2021 ore 19:15
+Valle d'Aosta,Valle,125666,20,16,-33,10,-33,10,Terapie Intensive,21/01/2021 ore 19:15
+Liguria,,1550640,216,14,3,28,3,28,Terapie Intensive,21/01/2021 ore 19:15
+Trento,Trento,541098,90,17,-2,46,-2,46,Terapie Intensive,21/01/2021 ore 19:15
+Bolzano,Bolzano,531178,77,14,4,31,4,31,Terapie Intensive,21/01/2021 ore 19:15
+Marche,,1525271,222,15,-4,36,-4,36,Terapie Intensive,21/01/2021 ore 19:15
+Toscana,,3729641,567,15,-15,19,-15,19,Terapie Intensive,21/01/2021 ore 19:15
+Lazio,,5879082,943,16,-3,31,-3,31,Terapie Intensive,21/01/2021 ore 19:15
+Umbria,,882015,130,15,-12,34,-12,34,Terapie Intensive,21/01/2021 ore 19:15
+Abruzzo,,1311580,189,14,-2,21,-2,21,Terapie Intensive,21/01/2021 ore 19:15
+Molise,,305617,36,12,14,22,14,22,Terapie Intensive,21/01/2021 ore 19:15
+Campania,,5801692,620,11,12,17,12,17,Terapie Intensive,21/01/2021 ore 19:15
+Puglia,,4029053,460,11,3,33,3,33,Terapie Intensive,21/01/2021 ore 19:15
+Basilicata,,562869,88,16,25,6,25,6,Terapie Intensive,21/01/2021 ore 19:15
+Calabria,,1947131,152,8,-11,16,-11,16,Terapie Intensive,21/01/2021 ore 19:15
+Sicilia,,4999891,822,16,6,27,6,27,Terapie Intensive,21/01/2021 ore 19:15
+Sardegna,,1639591,172,10,4,30,4,30,Terapie Intensive,21/01/2021 ore 19:15
