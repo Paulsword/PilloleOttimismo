@@ -1,108 +1,108 @@
 ﻿REGIONE,Abitanti,Incidenza (Nuovi positivi/100.000 Ab.) ultimi 7 gg,Variazione % nuovi casi in 7 giorni,POPUP Incidenza (Nuovi positivi/100.000 Ab.) ultimi 7 gg,POPUP % ∆ casi ultimi 7 gg rispetto ai 7 gg precedenti,
-Bergamo,1114590,49,9.5,49,9.5,Lombardia
-Brescia,1265954,179,7.1,179,7.1,Lombardia
-Como,599204,181,-1.7,181,-1.7,Lombardia
-Cremona,358955,95,-3.1,95,-3.1,Lombardia
-Lecco,337380,138,54,138,54,Lombardia
-Lodi,230198,125,0.7,125,0.7,Lombardia
-Monza B.,873935,104,42.6,104,42.6,Lombardia
-Milano,3250315,97,-2.3,97,-2.3,Lombardia
-Mantova,412292,190,-13.7,190,-13.7,Lombardia
-Pavia,545888,128,-8.4,128,-8.4,Lombardia
-Sondrio,181095,176,-8.9,176,-8.9,Lombardia
-Varese,890768,146,1.2,146,1.2,Lombardia
-Piacenza,287152,162,-25,162,-25,Emilia Romagna
-Parma,451631,91,-10.5,91,-10.5,Emilia Romagna
-Reggio E.,531891,191,0,191,0,Emilia Romagna
-Modena,705393,163,-30.5,163,-30.5,Emilia Romagna
-Bologna,1014619,182,-3.4,182,-3.4,Emilia Romagna
-Ferrara,345691,197,-4.5,197,-4.5,Emilia Romagna
-Ravenna,389456,152,-9.5,152,-9.5,Emilia Romagna
-Forlì CE,394627,253,-14.2,253,-14.2,Emilia Romagna
-Rimini,339017,275,-22.4,275,-22.4,Emilia Romagna
-Padova,937908,167,-11,167,-11,Veneto
-Venezia,853338,163,-18.4,163,-18.4,Veneto
-Rovigo,234937,110,-10.7,110,-10.7,Veneto
-Vicenza,862418,122,-7.9,122,-7.9,Veneto
-Verona,926497,145,-26.6,145,-26.6,Veneto
-Belluno,202950,157,-10.4,157,-10.4,Veneto
-Treviso,887806,155,-8.4,155,-8.4,Veneto
-Ancona,471228,198,4.7,198,4.7,Marche
-Pesaro,358886,172,-9,172,-9,Marche
-Macerata,314178,166,-7.6,166,-7.6,Marche
-Fermo,173800,188,-16,188,-16,Marche
-Ascoli P.,207179,117,-15.9,117,-15.9,Marche
-Alessandria,421284,137,8.4,137,8.4,Piemonte
-Asti,214638,142,16,142,16,Piemonte
-Biella,175585,79,-7.3,79,-7.3,Piemonte
-Cuneo,587098,91,-21.6,91,-21.6,Piemonte
-Novara,369018,140,57.9,140,57.9,Piemonte
-Torino,2259523,136,19.7,136,19.7,Piemonte
-Vercelli,170911,82,23.9,82,23.9,Piemonte
-VCO,158349,167,6.4,167,6.4,Piemonte
-Firenze,1011349,88,22.1,88,22.1,Toscana
-Pistoia,292473,100,33.9,100,33.9,Toscana
-Lucca,387876,68,17.3,68,17.3,Toscana
-Siena,267197,112,7.6,112,7.6,Toscana
-Massa C.,194878,125,12,125,12,Toscana
-Arezzo,342654,101,19.7,101,19.7,Toscana
-Pisa,419037,68,2.5,68,2.5,Toscana
-Livorno,334832,116,2.6,116,2.6,Toscana
-Grosseto,221629,54,120,54,133.3,Toscana
-Prato,257716,92,53.2,92,53.2,Toscana
-Napoli,3084890,151,15.5,151,15.5,Campania
-Salerno,1098513,114,15.8,114,15.8,Campania
-Caserta,922965,95,0,95,0,Campania
-Avellino,418306,85,43,85,43,Campania
-Benev.,277018,91,55.9,91,55.9,Campania
-Roma,4342212,135,17.5,135,17.5,Lazio
-Frosinone,489083,115,-29,115,-29,Lazio
-Rieti,155503,136,-36.8,136,-36.8,Lazio
-Viterbo,317030,74,-61.8,74,-61.8,Lazio
-Latina,575254,181,-36.9,181,-36.9,Lazio
-Savona,276064,175,-17.8,175,-17.8,Liguria
-La Spezia,219556,106,-16.2,106,-16.2,Liguria
-Imperia,213840,207,33.9,207,33.9,Liguria
-Genova,841180,88,28.5,88,28.5,Liguria
-Trieste,234493,216,-18.2,216,-18.2,Friuli VG
-Gorizia,139403,250,8.4,250,8.4,Friuli VG
-Udine,528791,306,-13,306,-13,Friuli VG
-Pordenone,312533,308,-24.1,308,-24.1,Friuli VG
-Agrigento,434870,59,-14.7,59,-14.7,Sicilia
-Caltaniss.,262458,142,-35.5,142,-35.5,Sicilia
-Catania,1107702,145,-36.1,145,-36.1,Sicilia
-Enna,164788,87,-16.4,87,-16.4,Sicilia
-Messina,626876,223,-21.6,223,-21.6,Sicilia
-Palermo,1252588,162,-38.3,162,-38.3,Sicilia
-Ragusa,320893,43,-42.4,43,-42.4,Sicilia
-Siracusa,399224,167,-35.3,167,-35.3,Sicilia
-Trapani,430492,145,-41.5,145,-41.5,Sicilia
-Bari,1251994,188,-14.8,188,-14.8,Puglia
-BAT,390011,158,-0.6,158,-0.6,Puglia
-Brindisi,392975,118,25.8,118,25.8,Puglia
-Foggia,622183,194,-7.2,194,-7.2,Puglia
-Lecce,795134,100,21.5,100,21.5,Puglia
-Taranto,576756,230,2,230,2,Puglia
-Terni,225633,85,7.9,85,7.9,Umbria
-Perugia,656382,265,36.7,265,36.7,Umbria
-L'Aquila,299031,62,-9.3,62,-9.3,Abruzzo
-Chieti,385588,152,39.5,152,39.5,Abruzzo
-Pescara,318909,183,24.6,183,24.6,Abruzzo
-Teramo,308052,106,-2.4,106,-2.4,Abruzzo
-Campob.,221238,157,34.9,157,34.9,Molise
-Isernia,84379,70,-34.4,70,-34.4,Molise
-Bolzano,531178,629,13.7,629,13.7,Bolzano
-Trento,541098,211,-13.8,211,-13.8,Trento
-Cagliari,431038,77,-19.9,77,-19.9,Sardegna
-Sud Sard.,350725,40,-45.4,40,-45.4,Sardegna
-Oristano,157707,82,1.6,82,1.6,Sardegna
-Nuoro,208550,135,20,135,20,Sardegna
-Sassari,491571,107,6.7,107,6.7,Sardegna
-Potenza,364960,76,-17.3,76,-17.3,Basilicata
-Matera,197909,59,120,59,138.8,Basilicata
-Aosta,125666,60,-33.9,60,-33.9,Valle d'Aosta
-Cosenza,705753,101,16.2,101,16.2,Calabria
-Reggio C.,548009,125,-21.4,125,-21.4,Calabria
-Catanzaro,358316,95,4.9,95,4.9,Calabria
-Vibo V.,160073,111,21.9,111,21.9,Calabria
-Crotone,174980,38,-41.1,38,-41.1,Calabria
+Bergamo,1114590,47,0.8,47,0.8,Lombardia
+Brescia,1265954,182,7.6,182,7.6,Lombardia
+Como,599204,180,3.5,180,3.5,Lombardia
+Cremona,358955,94,3.4,94,3.4,Lombardia
+Lecco,337380,154,88.1,154,88.1,Lombardia
+Lodi,230198,120,4.5,120,4.5,Lombardia
+Monza B.,873935,107,44.9,107,44.9,Lombardia
+Milano,3250315,99,0.9,99,0.9,Lombardia
+Mantova,412292,176,-16.2,176,-16.2,Lombardia
+Pavia,545888,122,-8.5,122,-8.5,Lombardia
+Sondrio,181095,172,-11.9,172,-11.9,Lombardia
+Varese,890768,129,-6.1,129,-6.1,Lombardia
+Piacenza,287152,154,-19.3,154,-19.3,Emilia Romagna
+Parma,451631,92,-10.5,92,-10.5,Emilia Romagna
+Reggio E.,531891,194,5.6,194,5.6,Emilia Romagna
+Modena,705393,158,-26.6,158,-26.6,Emilia Romagna
+Bologna,1014619,181,-5,181,-5,Emilia Romagna
+Ferrara,345691,207,8,207,8,Emilia Romagna
+Ravenna,389456,145,-17,145,-17,Emilia Romagna
+Forlì CE,394627,244,-19.1,244,-19.1,Emilia Romagna
+Rimini,339017,285,-2.5,285,-2.5,Emilia Romagna
+Padova,937908,150,-19.7,150,-19.7,Veneto
+Venezia,853338,166,-19.5,166,-19.5,Veneto
+Rovigo,234937,99,-16.2,99,-16.2,Veneto
+Vicenza,862418,126,-10.3,126,-10.3,Veneto
+Verona,926497,135,-25.2,135,-25.2,Veneto
+Belluno,202950,185,-20.4,185,-20.4,Veneto
+Treviso,887806,148,-12.9,148,-12.9,Veneto
+Ancona,471228,183,1.8,183,1.8,Marche
+Pesaro,358886,177,-3.2,177,-3.2,Marche
+Macerata,314178,159,-8.2,159,-8.2,Marche
+Fermo,173800,187,-6.9,187,-6.9,Marche
+Ascoli P.,207179,123,-9.9,123,-9.9,Marche
+Alessandria,421284,128,-3.6,128,-3.6,Piemonte
+Asti,214638,152,28.2,152,28.2,Piemonte
+Biella,175585,91,15.2,91,15.2,Piemonte
+Cuneo,587098,96,-16.8,96,-16.8,Piemonte
+Novara,369018,133,40,133,40,Piemonte
+Torino,2259523,140,26.4,140,26.4,Piemonte
+Vercelli,170911,90,57.1,90,57.1,Piemonte
+VCO,158349,153,-19.3,153,-19.3,Piemonte
+Firenze,1011349,92,25.1,92,25.1,Toscana
+Pistoia,292473,104,32.8,104,32.8,Toscana
+Lucca,387876,74,39.3,74,39.3,Toscana
+Siena,267197,113,12.6,113,12.6,Toscana
+Massa C.,194878,135,25.1,135,25.1,Toscana
+Arezzo,342654,104,17.9,104,17.9,Toscana
+Pisa,419037,71,16,71,16,Toscana
+Livorno,334832,118,3.9,118,3.9,Toscana
+Grosseto,221629,55,115.8,55,115.8,Toscana
+Prato,257716,104,82.9,104,82.9,Toscana
+Napoli,3084890,152,18.7,152,18.7,Campania
+Salerno,1098513,108,13.9,108,13.9,Campania
+Caserta,922965,105,20.2,105,20.2,Campania
+Avellino,418306,88,28.3,88,28.3,Campania
+Benev.,277018,121,66.2,121,66.2,Campania
+Roma,4342212,132,27.2,132,27.2,Lazio
+Frosinone,489083,137,-13.8,137,-13.8,Lazio
+Rieti,155503,143,-38,143,-38,Lazio
+Viterbo,317030,54,-70,54,-73.3,Lazio
+Latina,575254,192,-39.2,192,-39.2,Lazio
+Savona,276064,174,-17.1,174,-17.1,Liguria
+La Spezia,219556,129,8,129,8,Liguria
+Imperia,213840,213,28.2,213,28.2,Liguria
+Genova,841180,84,12.9,84,12.9,Liguria
+Trieste,234493,212,-15.9,212,-15.9,Friuli VG
+Gorizia,139403,245,12.1,245,12.1,Friuli VG
+Udine,528791,309,-1.7,309,-1.7,Friuli VG
+Pordenone,312533,344,2.4,344,2.4,Friuli VG
+Agrigento,434870,59,-19.2,59,-19.2,Sicilia
+Caltaniss.,262458,143,-30.9,143,-30.9,Sicilia
+Catania,1107702,129,-40.9,129,-40.9,Sicilia
+Enna,164788,87,-22.6,87,-22.6,Sicilia
+Messina,626876,198,-29.4,198,-29.4,Sicilia
+Palermo,1252588,162,-33.8,162,-33.8,Sicilia
+Ragusa,320893,36,-52.3,36,-52.3,Sicilia
+Siracusa,399224,156,-34.7,156,-34.7,Sicilia
+Trapani,430492,142,-32.4,142,-32.4,Sicilia
+Bari,1251994,186,-13.1,186,-13.1,Puglia
+BAT,390011,148,-9.3,148,-9.3,Puglia
+Brindisi,392975,128,37.3,128,37.3,Puglia
+Foggia,622183,210,12.6,210,12.6,Puglia
+Lecce,795134,107,26,107,26,Puglia
+Taranto,576756,216,2.9,216,2.9,Puglia
+Terni,225633,87,23.1,87,23.1,Umbria
+Perugia,656382,267,28.6,267,28.6,Umbria
+L'Aquila,299031,61,-7.6,61,-7.6,Abruzzo
+Chieti,385588,149,14.8,149,14.8,Abruzzo
+Pescara,318909,193,32.3,193,32.3,Abruzzo
+Teramo,308052,107,-1.2,107,-1.2,Abruzzo
+Campob.,221238,164,24.4,164,24.4,Molise
+Isernia,84379,79,-10.7,79,-10.7,Molise
+Bolzano,531178,644,17.1,644,17.1,Bolzano
+Trento,541098,235,11.2,235,11.2,Trento
+Cagliari,431038,76,-20.5,76,-20.5,Sardegna
+Sud Sard.,350725,33,-53.2,33,-53.2,Sardegna
+Oristano,157707,85,-3.6,85,-3.6,Sardegna
+Nuoro,208550,142,40.8,142,40.8,Sardegna
+Sassari,491571,119,23.3,119,23.3,Sardegna
+Potenza,364960,75,-9.8,75,-9.8,Basilicata
+Matera,197909,58,115.1,58,115.1,Basilicata
+Aosta,125666,52,-43,52,-43,Valle d'Aosta
+Cosenza,705753,90,0.6,90,0.6,Calabria
+Reggio C.,548009,131,-12.7,131,-12.7,Calabria
+Catanzaro,358316,74,-32.8,74,-32.8,Calabria
+Vibo V.,160073,110,60,110,60,Calabria
+Crotone,174980,42,2.8,42,2.8,Calabria
