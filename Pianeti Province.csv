@@ -1,108 +1,108 @@
-﻿REGIONE,Abitanti,Incidenza (Nuovi positivi/100.000 Ab.) ultimi 7 gg,Variazione % nuovi casi in 7 giorni,POPUP Incidenza (Nuovi positivi/100.000 Ab.) ultimi 7 gg,POPUP % ∆ casi ultimi 7 gg rispetto ai 7 gg precedenti,
-Bergamo,1114590,50,7.3,50,7.3,Lombardia
-Brescia,1265954,187,2.7,187,2.7,Lombardia
-Como,599204,160,-11.3,160,-11.3,Lombardia
-Cremona,358955,86,-9.4,86,-9.4,Lombardia
-Lecco,337380,125,-19.2,125,-19.2,Lombardia
-Lodi,230198,93,-23.1,93,-23.1,Lombardia
-Monza B.,873935,84,-21.6,84,-21.6,Lombardia
-Milano,3250315,85,-14.3,85,-14.3,Lombardia
-Mantova,412292,153,-13.3,153,-13.3,Lombardia
-Pavia,545888,121,-1.3,121,-1.3,Lombardia
-Sondrio,181095,150,-13.1,150,-13.1,Lombardia
-Varese,890768,123,-5,123,-5,Lombardia
-Piacenza,287152,154,0,154,0,Emilia Romagna
-Parma,451631,101,9.6,101,9.6,Emilia Romagna
-Reggio E.,531891,184,-5.1,184,-5.1,Emilia Romagna
-Modena,705393,183,16.2,183,16.2,Emilia Romagna
-Bologna,1014619,196,8.2,196,8.2,Emilia Romagna
-Ferrara,345691,165,-20,165,-20,Emilia Romagna
-Ravenna,389456,122,-15.9,122,-15.9,Emilia Romagna
-Forlì CE,394627,231,-5.5,231,-5.5,Emilia Romagna
-Rimini,339017,286,0.6,286,0.6,Emilia Romagna
-Padova,937908,103,-31.6,103,-31.6,Veneto
-Venezia,853338,96,-42.6,96,-42.6,Veneto
-Rovigo,234937,87,-12.1,87,-12.1,Veneto
-Vicenza,862418,95,-24.8,95,-24.8,Veneto
-Verona,926497,78,-42.3,78,-42.3,Veneto
-Belluno,202950,66,-64.3,66,-64.3,Veneto
-Treviso,887806,99,-33.3,99,-33.3,Veneto
-Ancona,471228,218,19.3,218,19.3,Marche
-Pesaro,358886,127,-28.3,127,-28.3,Marche
-Macerata,314178,169,6,169,6,Marche
-Fermo,173800,148,-20.9,148,-20.9,Marche
-Ascoli P.,207179,116,-5.9,116,-5.9,Marche
-Alessandria,421284,89,-30.9,89,-30.9,Piemonte
-Asti,214638,122,-19.9,122,-19.9,Piemonte
-Biella,175585,96,6.3,96,6.3,Piemonte
-Cuneo,587098,98,2.3,98,2.3,Piemonte
-Novara,369018,114,-13.9,114,-13.9,Piemonte
-Torino,2259523,128,-8.3,128,-8.3,Piemonte
-Vercelli,170911,90,0,90,0,Piemonte
-VCO,158349,135,-11.6,135,-11.6,Piemonte
-Firenze,1011349,108,17.3,108,17.3,Toscana
-Pistoia,292473,132,27,132,27,Toscana
-Lucca,387876,91,22.6,91,22.6,Toscana
-Siena,267197,92,-19.1,92,-19.1,Toscana
-Massa C.,194878,126,-7.2,126,-7.2,Toscana
-Arezzo,342654,107,2.8,107,2.8,Toscana
-Pisa,419037,89,25.8,89,25.8,Toscana
-Livorno,334832,116,-2,116,-2,Toscana
-Grosseto,221629,58,4.1,58,4.1,Toscana
-Prato,257716,125,20.2,125,20.2,Toscana
-Napoli,3084890,174,13.8,174,13.8,Campania
-Salerno,1098513,176,62.8,176,62.8,Campania
-Caserta,922965,124,17.8,124,17.8,Campania
-Avellino,418306,97,10.6,97,10.6,Campania
-Benev.,277018,130,7.8,130,7.8,Campania
-Roma,4342212,123,-6.9,123,-6.9,Lazio
-Frosinone,489083,100,-27.5,100,-27.5,Lazio
-Rieti,155503,131,-8.1,131,-8.1,Lazio
-Viterbo,317030,101,85.5,101,85.5,Lazio
-Latina,575254,114,-40.6,114,-40.6,Lazio
-Savona,276064,132,-24.1,132,-24.1,Liguria
-La Spezia,219556,138,6.7,138,6.7,Liguria
-Imperia,213840,219,3.1,219,3.1,Liguria
-Genova,841180,94,11.7,94,11.7,Liguria
-Trieste,234493,170,-19.9,170,-19.9,Friuli VG
-Gorizia,139403,209,-14.6,209,-14.6,Friuli VG
-Udine,528791,251,-18.7,251,-18.7,Friuli VG
-Pordenone,312533,208,-39.6,208,-39.6,Friuli VG
-Agrigento,434870,52,-12.1,52,-12.1,Sicilia
-Caltaniss.,262458,101,-29.8,101,-29.8,Sicilia
-Catania,1107702,113,-12.8,113,-12.8,Sicilia
-Enna,164788,45,-48.6,45,-48.6,Sicilia
-Messina,626876,105,-46.9,105,-46.9,Sicilia
-Palermo,1252588,175,8.3,175,8.3,Sicilia
-Ragusa,320893,36,0.9,36,0.9,Sicilia
-Siracusa,399224,86,-44.9,86,-44.9,Sicilia
-Trapani,430492,112,-21.5,112,-21.5,Sicilia
-Bari,1251994,193,3.5,193,3.5,Puglia
-BAT,390011,137,-7.8,137,-7.8,Puglia
-Brindisi,392975,125,-2.2,125,-2.2,Puglia
-Foggia,622183,169,-19.4,169,-19.4,Puglia
-Lecce,795134,77,-28,77,-28,Puglia
-Taranto,576756,230,6.6,230,6.6,Puglia
-Terni,225633,78,-10.2,78,-10.2,Umbria
-Perugia,656382,300,12.3,300,12.3,Umbria
-L'Aquila,299031,96,58.2,96,58.2,Abruzzo
-Chieti,385588,207,39.6,207,39.6,Abruzzo
-Pescara,318909,267,38.2,267,38.2,Abruzzo
-Teramo,308052,137,28.6,137,28.6,Abruzzo
-Campob.,221238,207,26.8,207,26.8,Molise
-Isernia,84379,72,-9,72,-9,Molise
-Bolzano,531178,781,21.2,781,21.2,Bolzano
-Trento,541098,239,1.9,239,1.9,Trento
-Cagliari,431038,71,-5.5,71,-5.5,Sardegna
-Sud Sard.,350725,33,-1.7,33,-1.7,Sardegna
-Oristano,157707,120,41,120,41,Sardegna
-Nuoro,208550,93,-34.7,93,-34.7,Sardegna
-Sassari,491571,61,-48.2,61,-48.2,Sardegna
-Potenza,364960,70,-6.5,70,-6.5,Basilicata
-Matera,197909,64,10.5,64,10.5,Basilicata
-Aosta,125666,43,-16.9,43,-16.9,Valle d'Aosta
-Cosenza,705753,66,-26.5,66,-26.5,Calabria
-Reggio C.,548009,134,2.2,134,2.2,Calabria
-Catanzaro,358316,40,-45.5,40,-45.5,Calabria
-Vibo V.,160073,99,-10.2,99,-10.2,Calabria
-Crotone,174980,19,-54.1,19,-54.1,Calabria
+﻿REGIONE,Abitanti,Incidenza (Nuovi positivi/100.000 Ab.) ultimi 7 gg,Variazione % nuovi casi in 7 giorni,POPUP Incidenza (Nuovi positivi/100.000 Ab.) ultimi 7 gg,POPUP % ∆ casi ultimi 7 gg rispetto ai 7 gg precedenti,,Aggiornamento
+Bergamo,1114590,50,7.3,50,7.3,Lombardia,2/5/2021
+Brescia,1265954,187,2.7,187,2.7,Lombardia,2/5/2021
+Como,599204,160,-11.3,160,-11.3,Lombardia,2/5/2021
+Cremona,358955,86,-9.4,86,-9.4,Lombardia,2/5/2021
+Lecco,337380,125,-19.2,125,-19.2,Lombardia,2/5/2021
+Lodi,230198,93,-23.1,93,-23.1,Lombardia,2/5/2021
+Monza B.,873935,84,-21.6,84,-21.6,Lombardia,2/5/2021
+Milano,3250315,85,-14.3,85,-14.3,Lombardia,2/5/2021
+Mantova,412292,153,-13.3,153,-13.3,Lombardia,2/5/2021
+Pavia,545888,121,-1.3,121,-1.3,Lombardia,2/5/2021
+Sondrio,181095,150,-13.1,150,-13.1,Lombardia,2/5/2021
+Varese,890768,123,-5,123,-5,Lombardia,2/5/2021
+Piacenza,287152,154,0,154,0,Emilia Romagna,2/5/2021
+Parma,451631,101,9.6,101,9.6,Emilia Romagna,2/5/2021
+Reggio E.,531891,184,-5.1,184,-5.1,Emilia Romagna,2/5/2021
+Modena,705393,183,16.2,183,16.2,Emilia Romagna,2/5/2021
+Bologna,1014619,196,8.2,196,8.2,Emilia Romagna,2/5/2021
+Ferrara,345691,165,-20,165,-20,Emilia Romagna,2/5/2021
+Ravenna,389456,122,-15.9,122,-15.9,Emilia Romagna,2/5/2021
+Forlì CE,394627,231,-5.5,231,-5.5,Emilia Romagna,2/5/2021
+Rimini,339017,286,0.6,286,0.6,Emilia Romagna,2/5/2021
+Padova,937908,103,-31.6,103,-31.6,Veneto,2/5/2021
+Venezia,853338,96,-42.6,96,-42.6,Veneto,2/5/2021
+Rovigo,234937,87,-12.1,87,-12.1,Veneto,2/5/2021
+Vicenza,862418,95,-24.8,95,-24.8,Veneto,2/5/2021
+Verona,926497,78,-42.3,78,-42.3,Veneto,2/5/2021
+Belluno,202950,66,-64.3,66,-64.3,Veneto,2/5/2021
+Treviso,887806,99,-33.3,99,-33.3,Veneto,2/5/2021
+Ancona,471228,218,19.3,218,19.3,Marche,2/5/2021
+Pesaro,358886,127,-28.3,127,-28.3,Marche,2/5/2021
+Macerata,314178,169,6,169,6,Marche,2/5/2021
+Fermo,173800,148,-20.9,148,-20.9,Marche,2/5/2021
+Ascoli P.,207179,116,-5.9,116,-5.9,Marche,2/5/2021
+Alessandria,421284,89,-30.9,89,-30.9,Piemonte,2/5/2021
+Asti,214638,122,-19.9,122,-19.9,Piemonte,2/5/2021
+Biella,175585,96,6.3,96,6.3,Piemonte,2/5/2021
+Cuneo,587098,98,2.3,98,2.3,Piemonte,2/5/2021
+Novara,369018,114,-13.9,114,-13.9,Piemonte,2/5/2021
+Torino,2259523,128,-8.3,128,-8.3,Piemonte,2/5/2021
+Vercelli,170911,90,0,90,0,Piemonte,2/5/2021
+VCO,158349,135,-11.6,135,-11.6,Piemonte,2/5/2021
+Firenze,1011349,108,17.3,108,17.3,Toscana,2/5/2021
+Pistoia,292473,132,27,132,27,Toscana,2/5/2021
+Lucca,387876,91,22.6,91,22.6,Toscana,2/5/2021
+Siena,267197,92,-19.1,92,-19.1,Toscana,2/5/2021
+Massa C.,194878,126,-7.2,126,-7.2,Toscana,2/5/2021
+Arezzo,342654,107,2.8,107,2.8,Toscana,2/5/2021
+Pisa,419037,89,25.8,89,25.8,Toscana,2/5/2021
+Livorno,334832,116,-2,116,-2,Toscana,2/5/2021
+Grosseto,221629,58,4.1,58,4.1,Toscana,2/5/2021
+Prato,257716,125,20.2,125,20.2,Toscana,2/5/2021
+Napoli,3084890,174,13.8,174,13.8,Campania,2/5/2021
+Salerno,1098513,176,62.8,176,62.8,Campania,2/5/2021
+Caserta,922965,124,17.8,124,17.8,Campania,2/5/2021
+Avellino,418306,97,10.6,97,10.6,Campania,2/5/2021
+Benev.,277018,130,7.8,130,7.8,Campania,2/5/2021
+Roma,4342212,123,-6.9,123,-6.9,Lazio,2/5/2021
+Frosinone,489083,100,-27.5,100,-27.5,Lazio,2/5/2021
+Rieti,155503,131,-8.1,131,-8.1,Lazio,2/5/2021
+Viterbo,317030,101,85.5,101,85.5,Lazio,2/5/2021
+Latina,575254,114,-40.6,114,-40.6,Lazio,2/5/2021
+Savona,276064,132,-24.1,132,-24.1,Liguria,2/5/2021
+La Spezia,219556,138,6.7,138,6.7,Liguria,2/5/2021
+Imperia,213840,219,3.1,219,3.1,Liguria,2/5/2021
+Genova,841180,94,11.7,94,11.7,Liguria,2/5/2021
+Trieste,234493,170,-19.9,170,-19.9,Friuli VG,2/5/2021
+Gorizia,139403,209,-14.6,209,-14.6,Friuli VG,2/5/2021
+Udine,528791,251,-18.7,251,-18.7,Friuli VG,2/5/2021
+Pordenone,312533,208,-39.6,208,-39.6,Friuli VG,2/5/2021
+Agrigento,434870,52,-12.1,52,-12.1,Sicilia,2/5/2021
+Caltaniss.,262458,101,-29.8,101,-29.8,Sicilia,2/5/2021
+Catania,1107702,113,-12.8,113,-12.8,Sicilia,2/5/2021
+Enna,164788,45,-48.6,45,-48.6,Sicilia,2/5/2021
+Messina,626876,105,-46.9,105,-46.9,Sicilia,2/5/2021
+Palermo,1252588,175,8.3,175,8.3,Sicilia,2/5/2021
+Ragusa,320893,36,0.9,36,0.9,Sicilia,2/5/2021
+Siracusa,399224,86,-44.9,86,-44.9,Sicilia,2/5/2021
+Trapani,430492,112,-21.5,112,-21.5,Sicilia,2/5/2021
+Bari,1251994,193,3.5,193,3.5,Puglia,2/5/2021
+BAT,390011,137,-7.8,137,-7.8,Puglia,2/5/2021
+Brindisi,392975,125,-2.2,125,-2.2,Puglia,2/5/2021
+Foggia,622183,169,-19.4,169,-19.4,Puglia,2/5/2021
+Lecce,795134,77,-28,77,-28,Puglia,2/5/2021
+Taranto,576756,230,6.6,230,6.6,Puglia,2/5/2021
+Terni,225633,78,-10.2,78,-10.2,Umbria,2/5/2021
+Perugia,656382,300,12.3,300,12.3,Umbria,2/5/2021
+L'Aquila,299031,96,58.2,96,58.2,Abruzzo,2/5/2021
+Chieti,385588,207,39.6,207,39.6,Abruzzo,2/5/2021
+Pescara,318909,267,38.2,267,38.2,Abruzzo,2/5/2021
+Teramo,308052,137,28.6,137,28.6,Abruzzo,2/5/2021
+Campob.,221238,207,26.8,207,26.8,Molise,2/5/2021
+Isernia,84379,72,-9,72,-9,Molise,2/5/2021
+Bolzano,531178,781,21.2,781,21.2,Bolzano,2/5/2021
+Trento,541098,239,1.9,239,1.9,Trento,2/5/2021
+Cagliari,431038,71,-5.5,71,-5.5,Sardegna,2/5/2021
+Sud Sard.,350725,33,-1.7,33,-1.7,Sardegna,2/5/2021
+Oristano,157707,120,41,120,41,Sardegna,2/5/2021
+Nuoro,208550,93,-34.7,93,-34.7,Sardegna,2/5/2021
+Sassari,491571,61,-48.2,61,-48.2,Sardegna,2/5/2021
+Potenza,364960,70,-6.5,70,-6.5,Basilicata,2/5/2021
+Matera,197909,64,10.5,64,10.5,Basilicata,2/5/2021
+Aosta,125666,43,-16.9,43,-16.9,Valle d'Aosta,2/5/2021
+Cosenza,705753,66,-26.5,66,-26.5,Calabria,2/5/2021
+Reggio C.,548009,134,2.2,134,2.2,Calabria,2/5/2021
+Catanzaro,358316,40,-45.5,40,-45.5,Calabria,2/5/2021
+Vibo V.,160073,99,-10.2,99,-10.2,Calabria,2/5/2021
+Crotone,174980,19,-54.1,19,-54.1,Calabria,2/5/2021

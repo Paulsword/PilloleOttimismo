@@ -1,45 +1,108 @@
-﻿REGIONE,,Abitanti,Totale posti letto,Posti letto/100.000 ab.,% variazione ricoveri ultimi 7 gg rispetto al totale,% occupazione posti letto,POPUP % incremento ricoveri ultimi 7 gg rispetto al totale,POPUP % occupazione posti letto,Control,Aggiornamento AGENAS
-ITALIA,,60359546,62827,104,-4,31,-4,31,Reparti,04/02/2021 ore 18:55
-Lombardia,,10060574,10476,104,2,34,2,34,Reparti,04/02/2021 ore 18:55
-Emilia Romagna,Emilia,4459477,6126,137,-8,32,-8,32,Reparti,04/02/2021 ore 18:55
-Veneto,,4905854,6000,122,-21,20,-21,20,Reparti,04/02/2021 ore 18:55
-Piemonte,,4356406,5824,134,-7,35,-7,35,Reparti,04/02/2021 ore 18:55
-Friuli VG,Friuli,1215220,1277,105,-11,42,-11,42,Reparti,04/02/2021 ore 18:55
-Valle d'Aosta,Valle,125666,227,181,-31,11,-31,11,Reparti,04/02/2021 ore 18:55
-Liguria,,1550640,1736,112,7,36,7,36,Reparti,04/02/2021 ore 18:55
-Trento,Trento,541098,594,110,-24,24,-24,24,Reparti,04/02/2021 ore 18:55
-Bolzano,Bolzano,531178,560,105,16,46,16,46,Reparti,04/02/2021 ore 18:55
-Marche,,1525271,1174,77,-2,45,-2,45,Reparti,04/02/2021 ore 18:55
-Toscana,,3729641,5033,135,-2,13,-2,13,Reparti,04/02/2021 ore 18:55
-Lazio,,5879082,6421,109,-7,35,-7,35,Reparti,04/02/2021 ore 18:55
-Umbria,,882015,785,89,8,48,8,48,Reparti,04/02/2021 ore 18:55
-Abruzzo,,1311580,1476,113,17,31,17,31,Reparti,04/02/2021 ore 18:55
-Molise,,305617,221,72,23,29,23,29,Reparti,04/02/2021 ore 18:55
-Campania,,5801692,4459,77,5,33,5,33,Reparti,04/02/2021 ore 18:55
-Puglia,,4029053,3448,86,1,41,1,41,Reparti,04/02/2021 ore 18:55
-Basilicata,,562869,424,75,18,20,18,20,Reparti,04/02/2021 ore 18:55
-Calabria,,1947131,913,47,-5,29,-5,29,Reparti,04/02/2021 ore 18:55
-Sicilia,,4999891,4051,81,-9,31,-9,31,Reparti,04/02/2021 ore 18:55
-Sardegna,,1639591,1602,98,-11,25,-11,25,Reparti,04/02/2021 ore 18:55
-ITALIA,,60359546,8626,14,-6,25,-6,25,Terapie Intensive,04/02/2021 ore 18:55
-Lombardia,,10060574,1200,12,-5,30,-5,30,Terapie Intensive,04/02/2021 ore 18:55
-Emilia Romagna,Emilia,4459477,757,17,-13,24,-13,24,Terapie Intensive,04/02/2021 ore 18:55
-Veneto,,4905854,1000,20,-28,17,-28,17,Terapie Intensive,04/02/2021 ore 18:55
-Piemonte,,4356406,628,14,-2,23,-2,23,Terapie Intensive,04/02/2021 ore 18:55
-Friuli VG,Friuli,1215220,175,14,10,37,10,37,Terapie Intensive,04/02/2021 ore 18:55
-Valle d'Aosta,Valle,125666,20,16,-25,15,-25,15,Terapie Intensive,04/02/2021 ore 18:55
-Liguria,,1550640,217,14,-3,29,-3,29,Terapie Intensive,04/02/2021 ore 18:55
-Trento,Trento,541098,90,17,-6,36,-6,36,Terapie Intensive,04/02/2021 ore 18:55
-Bolzano,Bolzano,531178,100,19,17,35,17,35,Terapie Intensive,04/02/2021 ore 18:55
-Marche,,1525271,233,15,1,32,1,32,Terapie Intensive,04/02/2021 ore 18:55
-Toscana,,3729641,552,15,5,19,5,19,Terapie Intensive,04/02/2021 ore 18:55
-Lazio,,5879082,943,16,-6,29,-6,29,Terapie Intensive,04/02/2021 ore 18:55
-Umbria,,882015,130,15,25,51,25,51,Terapie Intensive,04/02/2021 ore 18:55
-Abruzzo,,1311580,189,14,20,25,20,25,Terapie Intensive,04/02/2021 ore 18:55
-Molise,,305617,39,13,25,26,25,26,Terapie Intensive,04/02/2021 ore 18:55
-Campania,,5801692,620,11,8,17,8,17,Terapie Intensive,04/02/2021 ore 18:55
-Puglia,,4029053,460,11,0,37,0,37,Terapie Intensive,04/02/2021 ore 18:55
-Basilicata,,562869,88,16,-40,2,-50,2,Terapie Intensive,04/02/2021 ore 18:55
-Calabria,,1947131,152,8,30,17,30,17,Terapie Intensive,04/02/2021 ore 18:55
-Sicilia,,4999891,832,17,-14,22,-14,22,Terapie Intensive,04/02/2021 ore 18:55
-Sardegna,,1639591,201,12,-28,14,-28,14,Terapie Intensive,04/02/2021 ore 18:55
+﻿REGIONE,,Abitanti,Totale posti letto,Posti letto/100.000 ab.,% variazione ricoveri ultimi 7 gg rispetto al totale,% occupazione posti letto,POPUP % incremento ricoveri ultimi 7 gg rispetto al totale,POPUP % occupazione posti letto,Control,Aggiornamento AGENAS,Aggiornamento
+ITALIA,,60359546,62827,104,-4,31,-4,31,Reparti,05/02/2021 ore 18:44,2/5/2021
+Lombardia,,10060574,10476,104,2,34,2,34,Reparti,05/02/2021 ore 18:44,2/5/2021
+Emilia Romagna,Emilia,4459477,6126,137,-8,32,-8,32,Reparti,05/02/2021 ore 18:44,2/5/2021
+Veneto,,4905854,6000,122,-21,20,-21,20,Reparti,05/02/2021 ore 18:44,2/5/2021
+Piemonte,,4356406,5824,134,-7,35,-7,35,Reparti,05/02/2021 ore 18:44,2/5/2021
+Friuli VG,Friuli,1215220,1277,105,-11,42,-11,42,Reparti,05/02/2021 ore 18:44,2/5/2021
+Valle d'Aosta,Valle,125666,227,181,-31,11,-31,11,Reparti,05/02/2021 ore 18:44,2/5/2021
+Liguria,,1550640,1736,112,7,36,7,36,Reparti,05/02/2021 ore 18:44,2/5/2021
+Trento,Trento,541098,594,110,-24,24,-24,24,Reparti,05/02/2021 ore 18:44,2/5/2021
+Bolzano,Bolzano,531178,560,105,16,46,16,46,Reparti,05/02/2021 ore 18:44,2/5/2021
+Marche,,1525271,1174,77,-2,45,-2,45,Reparti,05/02/2021 ore 18:44,2/5/2021
+Toscana,,3729641,5033,135,-2,13,-2,13,Reparti,05/02/2021 ore 18:44,2/5/2021
+Lazio,,5879082,6421,109,-7,35,-7,35,Reparti,05/02/2021 ore 18:44,2/5/2021
+Umbria,,882015,785,89,8,48,8,48,Reparti,05/02/2021 ore 18:44,2/5/2021
+Abruzzo,,1311580,1476,113,17,31,17,31,Reparti,05/02/2021 ore 18:44,2/5/2021
+Molise,,305617,221,72,23,29,23,29,Reparti,05/02/2021 ore 18:44,2/5/2021
+Campania,,5801692,4459,77,5,33,5,33,Reparti,05/02/2021 ore 18:44,2/5/2021
+Puglia,,4029053,3448,86,1,41,1,41,Reparti,05/02/2021 ore 18:44,2/5/2021
+Basilicata,,562869,424,75,18,20,18,20,Reparti,05/02/2021 ore 18:44,2/5/2021
+Calabria,,1947131,913,47,-5,29,-5,29,Reparti,05/02/2021 ore 18:44,2/5/2021
+Sicilia,,4999891,4051,81,-9,31,-9,31,Reparti,05/02/2021 ore 18:44,2/5/2021
+Sardegna,,1639591,1602,98,-11,25,-11,25,Reparti,05/02/2021 ore 18:44,2/5/2021
+ITALIA,,60359546,8626,14,-6,25,-6,25,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Lombardia,,10060574,1200,12,-5,30,-5,30,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Emilia Romagna,Emilia,4459477,757,17,-13,24,-13,24,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Veneto,,4905854,1000,20,-28,17,-28,17,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Piemonte,,4356406,628,14,-2,23,-2,23,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Friuli VG,Friuli,1215220,175,14,10,37,10,37,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Valle d'Aosta,Valle,125666,20,16,-25,15,-25,15,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Liguria,,1550640,217,14,-3,29,-3,29,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Trento,Trento,541098,90,17,-6,36,-6,36,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Bolzano,Bolzano,531178,100,19,17,35,17,35,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Marche,,1525271,233,15,1,32,1,32,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Toscana,,3729641,552,15,5,19,5,19,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Lazio,,5879082,943,16,-6,29,-6,29,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Umbria,,882015,130,15,25,51,25,51,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Abruzzo,,1311580,189,14,20,25,20,25,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Molise,,305617,39,13,25,26,25,26,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Campania,,5801692,620,11,8,17,8,17,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Puglia,,4029053,460,11,0,37,0,37,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Basilicata,,562869,88,16,-40,2,-50,2,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Calabria,,1947131,152,8,30,17,30,17,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Sicilia,,4999891,832,17,-14,22,-14,22,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+Sardegna,,1639591,201,12,-28,14,-28,14,Terapie Intensive,05/02/2021 ore 18:44,2/5/2021
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
