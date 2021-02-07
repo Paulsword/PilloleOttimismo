@@ -1,45 +1,45 @@
 ﻿REGIONE,,Abitanti,Totale posti letto,Posti letto/100.000 ab.,% variazione ricoveri ultimi 7 gg rispetto al totale,% occupazione posti letto,POPUP % incremento ricoveri ultimi 7 gg rispetto al totale,POPUP % occupazione posti letto,Control,Aggiornamento AGENAS,Aggiornamento
-ITALIA,,60359546,62827,104,-3,31,-3,31,Reparti,05/02/2021 ore 18:44,06/02/21
-Lombardia,,10060574,10476,104,3,34,3,34,Reparti,05/02/2021 ore 18:44,06/02/21
-Emilia Romagna,Emilia,4459477,6126,137,-8,32,-8,32,Reparti,05/02/2021 ore 18:44,06/02/21
-Veneto,,4905854,6000,122,-22,19,-22,19,Reparti,05/02/2021 ore 18:44,06/02/21
-Piemonte,,4356406,5824,134,-6,34,-6,34,Reparti,05/02/2021 ore 18:44,06/02/21
-Friuli VG,Friuli,1215220,1277,105,-11,42,-11,42,Reparti,05/02/2021 ore 18:44,06/02/21
-Valle d'Aosta,Valle,125666,227,181,-31,11,-31,11,Reparti,05/02/2021 ore 18:44,06/02/21
-Liguria,,1550640,1736,112,4,35,4,35,Reparti,05/02/2021 ore 18:44,06/02/21
-Trento,Trento,541098,594,110,-24,22,-24,22,Reparti,05/02/2021 ore 18:44,06/02/21
-Bolzano,Bolzano,531178,560,105,12,43,12,43,Reparti,05/02/2021 ore 18:44,06/02/21
-Marche,,1525271,1174,77,-2,45,-2,45,Reparti,05/02/2021 ore 18:44,06/02/21
-Toscana,,3729641,5033,135,-1,13,-1,13,Reparti,05/02/2021 ore 18:44,06/02/21
-Lazio,,5879082,6421,109,-6,35,-6,35,Reparti,05/02/2021 ore 18:44,06/02/21
-Umbria,,882015,785,89,12,49,12,49,Reparti,05/02/2021 ore 18:44,06/02/21
-Abruzzo,,1311580,1476,113,19,31,19,31,Reparti,05/02/2021 ore 18:44,06/02/21
-Molise,,305617,221,72,22,30,22,30,Reparti,05/02/2021 ore 18:44,06/02/21
-Campania,,5801692,4459,77,5,34,5,34,Reparti,05/02/2021 ore 18:44,06/02/21
-Puglia,,4029053,3448,86,3,41,3,41,Reparti,05/02/2021 ore 18:44,06/02/21
-Basilicata,,562869,424,75,20,20,20,20,Reparti,05/02/2021 ore 18:44,06/02/21
-Calabria,,1947131,913,47,-9,27,-9,27,Reparti,05/02/2021 ore 18:44,06/02/21
-Sicilia,,4999891,4051,81,-9,30,-9,30,Reparti,05/02/2021 ore 18:44,06/02/21
-Sardegna,,1639591,1602,98,-12,25,-12,25,Reparti,05/02/2021 ore 18:44,06/02/21
-ITALIA,,60359546,8626,14,-5,24,-5,24,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Lombardia,,10060574,1200,12,-6,30,-6,30,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Emilia Romagna,Emilia,4459477,757,17,-10,24,-10,24,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Veneto,,4905854,1000,20,-29,16,-29,16,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Piemonte,,4356406,628,14,-7,22,-7,22,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Friuli VG,Friuli,1215220,175,14,11,36,11,36,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Valle d'Aosta,Valle,125666,20,16,-25,15,-25,15,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Liguria,,1550640,217,14,-2,28,-2,28,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Trento,Trento,541098,90,17,-20,31,-20,31,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Bolzano,Bolzano,531178,100,19,6,34,6,34,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Marche,,1525271,233,15,6,32,6,32,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Toscana,,3729641,552,15,15,20,15,20,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Lazio,,5879082,943,16,-4,29,-4,29,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Umbria,,882015,130,15,27,54,27,54,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Abruzzo,,1311580,189,14,14,26,14,26,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Molise,,305617,39,13,50,31,50,31,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Campania,,5801692,620,11,17,17,17,17,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Puglia,,4029053,460,11,-4,34,-4,34,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Basilicata,,562869,88,16,-40,1,-50,1,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Calabria,,1947131,152,8,50,18,50,18,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Sicilia,,4999891,832,17,-15,21,-15,21,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
-Sardegna,,1639591,201,12,-21,15,-21,15,Terapie Intensive,05/02/2021 ore 18:44,06/02/21
+ITALIA,,60359546,62887,104,-4,31,-4,31,Reparti,06/02/2021 ore 19:37,07/02/21
+Lombardia,,10060574,10388,103,-1,33,-1,33,Reparti,06/02/2021 ore 19:37,07/02/21
+Emilia Romagna,Emilia,4459477,6126,137,-8,32,-8,32,Reparti,06/02/2021 ore 19:37,07/02/21
+Veneto,,4905854,6000,122,-22,19,-22,19,Reparti,06/02/2021 ore 19:37,07/02/21
+Piemonte,,4356406,5824,134,-5,35,-5,35,Reparti,06/02/2021 ore 19:37,07/02/21
+Friuli VG,Friuli,1215220,1277,105,-12,41,-12,41,Reparti,06/02/2021 ore 19:37,07/02/21
+Valle d'Aosta,Valle,125666,227,181,-25,11,-25,11,Reparti,06/02/2021 ore 19:37,07/02/21
+Liguria,,1550640,1784,115,-1,34,-1,34,Reparti,06/02/2021 ore 19:37,07/02/21
+Trento,Trento,541098,594,110,-24,23,-24,23,Reparti,06/02/2021 ore 19:37,07/02/21
+Bolzano,Bolzano,531178,564,106,9,43,9,43,Reparti,06/02/2021 ore 19:37,07/02/21
+Marche,,1525271,1174,77,0,45,0,45,Reparti,06/02/2021 ore 19:37,07/02/21
+Toscana,,3729641,5033,135,0,13,0,13,Reparti,06/02/2021 ore 19:37,07/02/21
+Lazio,,5879082,6421,109,-7,35,-7,35,Reparti,06/02/2021 ore 19:37,07/02/21
+Umbria,,882015,785,89,14,52,14,52,Reparti,06/02/2021 ore 19:37,07/02/21
+Abruzzo,,1311580,1476,113,23,32,23,32,Reparti,06/02/2021 ore 19:37,07/02/21
+Molise,,305617,221,72,19,31,19,31,Reparti,06/02/2021 ore 19:37,07/02/21
+Campania,,5801692,4459,77,6,34,6,34,Reparti,06/02/2021 ore 19:37,07/02/21
+Puglia,,4029053,3545,88,3,40,3,40,Reparti,06/02/2021 ore 19:37,07/02/21
+Basilicata,,562869,424,75,27,20,27,20,Reparti,06/02/2021 ore 19:37,07/02/21
+Calabria,,1947131,913,47,-16,26,-16,26,Reparti,06/02/2021 ore 19:37,07/02/21
+Sicilia,,4999891,4050,81,-10,30,-10,30,Reparti,06/02/2021 ore 19:37,07/02/21
+Sardegna,,1639591,1602,98,-14,24,-14,24,Reparti,06/02/2021 ore 19:37,07/02/21
+ITALIA,,60359546,8742,14,-5,24,-5,24,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Lombardia,,10060574,1200,12,-1,30,-1,30,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Emilia Romagna,Emilia,4459477,757,17,-12,24,-12,24,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Veneto,,4905854,1000,20,-30,15,-30,15,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Piemonte,,4356406,628,14,-4,22,-4,22,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Friuli VG,Friuli,1215220,175,14,5,36,5,36,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Valle d'Aosta,Valle,125666,20,16,0,15,0,15,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Liguria,,1550640,217,14,-6,28,-6,28,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Trento,Trento,541098,90,17,-26,29,-26,29,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Bolzano,Bolzano,531178,100,19,9,35,9,35,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Marche,,1525271,233,15,3,32,3,32,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Toscana,,3729641,552,15,13,20,13,20,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Lazio,,5879082,943,16,-7,28,-7,28,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Umbria,,882015,130,15,35,56,35,56,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Abruzzo,,1311580,189,14,11,27,11,27,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Molise,,305617,39,13,22,28,22,28,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Campania,,5801692,620,11,6,17,6,17,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Puglia,,4029053,569,14,-1,28,-1,28,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Basilicata,,562869,88,16,-40,1,-50,1,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Calabria,,1947131,152,8,30,17,30,17,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Sicilia,,4999891,832,17,-13,21,-13,21,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
+Sardegna,,1639591,208,13,-13,16,-13,16,Terapie Intensive,06/02/2021 ore 19:37,07/02/21
