@@ -1,4 +1,4 @@
-﻿Data,,,Regione,,Abitanti,Positivi negli ultimi 7 giorni ogni 100.000 abitanti,Posti letto liberi Area Non Critica,Posti letto liberi Area Critica,Soglia,Provincia,TIPO_UTS
+﻿Data,,,Regione,,Abitanti,Positivi negli ultimi 7 giorni ogni 100.000 abitanti,Posti letto liberi Area Non Critica,Posti letto liberi Area Critica,Soglia,TIPO_UTS,Provincia
 13-feb,1,0,Lombardia,Bergamo,1114590,78,66,88,154,Provincia,BERGAMO
 14-feb,2,0,Lombardia,Bergamo,1114590,88,66,88,154,Provincia,BERGAMO
 15-feb,3,0,Lombardia,Bergamo,1114590,89,66,88,154,Provincia,BERGAMO
