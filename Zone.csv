@@ -1,40 +1,40 @@
 ﻿Data,CASI,VARIAZIONI,0,1,2,3,Regione
-1-ott,16,16.1,100,0,0,0,Lombardia
-2-ott,16,13.9,100,0,0,0,Lombardia
-3-ott,18,22.3,100,0,0,0,Lombardia
-4-ott,18,28.7,100,0,0,0,Lombardia
-5-ott,20,35.1,100,0,0,0,Lombardia
-6-ott,21,43,100,0,0,0,Lombardia
-7-ott,24,63.8,100,0,0,0,Lombardia
-8-ott,28,76.6,100,0,0,0,Lombardia
-9-ott,35,114.9,100,0,0,0,Lombardia
-10-ott,42,140.6,100,0,0,0,Lombardia
-11-ott,49,166.5,100,0,0,0,Lombardia
-12-ott,54,171.1,100,0,0,0,Lombardia
-13-ott,61,186.6,100,0,0,0,Lombardia
-14-ott,74,203.3,100,0,0,0,Lombardia
-15-ott,88,213.8,100,0,0,0,Lombardia
-16-ott,102,194.2,100,0,0,0,Lombardia
-17-ott,117,178.3,100,0,0,0,Lombardia
-18-ott,137,177.2,100,0,0,0,Lombardia
-19-ott,146,172.7,100,0,0,0,Lombardia
-20-ott,156,155.6,100,0,0,0,Lombardia
-21-ott,179,140.8,100,0,0,0,Lombardia
-22-ott,199,126.4,100,0,0,0,Lombardia
-23-ott,224,119.1,100,0,0,0,Lombardia
-24-ott,247,110.2,100,0,0,0,Lombardia
-25-ott,274,100.8,100,0,0,0,Lombardia
-26-ott,293,100,100,0,0,0,Lombardia
-27-ott,323,107.2,100,0,0,0,Lombardia
-28-ott,357,100,100,0,0,0,Lombardia
-29-ott,389,95.5,100,0,0,0,Lombardia
-30-ott,429,91.8,100,0,0,0,Lombardia
-31-ott,469,90,100,0,0,0,Lombardia
-1-nov,497,81.2,100,0,0,0,Lombardia
-2-nov,514,75.4,100,0,0,0,Lombardia
-3-nov,531,64.6,100,0,0,0,Lombardia
-4-nov,533,49.4,100,0,0,0,Lombardia
-5-nov,548,40.9,100,0,0,0,Lombardia
+1-ott,16,16.1,0,0,0,0,Lombardia
+2-ott,16,13.9,0,0,0,0,Lombardia
+3-ott,18,22.3,0,0,0,0,Lombardia
+4-ott,18,28.7,0,0,0,0,Lombardia
+5-ott,20,35.1,0,0,0,0,Lombardia
+6-ott,21,43,0,0,0,0,Lombardia
+7-ott,24,63.8,0,0,0,0,Lombardia
+8-ott,28,76.6,0,0,0,0,Lombardia
+9-ott,35,114.9,0,0,0,0,Lombardia
+10-ott,42,140.6,0,0,0,0,Lombardia
+11-ott,49,166.5,0,0,0,0,Lombardia
+12-ott,54,171.1,0,0,0,0,Lombardia
+13-ott,61,186.6,0,0,0,0,Lombardia
+14-ott,74,203.3,0,0,0,0,Lombardia
+15-ott,88,213.8,0,0,0,0,Lombardia
+16-ott,102,194.2,0,0,0,0,Lombardia
+17-ott,117,178.3,0,0,0,0,Lombardia
+18-ott,137,177.2,0,0,0,0,Lombardia
+19-ott,146,172.7,0,0,0,0,Lombardia
+20-ott,156,155.6,0,0,0,0,Lombardia
+21-ott,179,140.8,0,0,0,0,Lombardia
+22-ott,199,126.4,0,0,0,0,Lombardia
+23-ott,224,119.1,0,0,0,0,Lombardia
+24-ott,247,110.2,0,0,0,0,Lombardia
+25-ott,274,100.8,0,0,0,0,Lombardia
+26-ott,293,100,0,0,0,0,Lombardia
+27-ott,323,107.2,0,0,0,0,Lombardia
+28-ott,357,100,0,0,0,0,Lombardia
+29-ott,389,95.5,0,0,0,0,Lombardia
+30-ott,429,91.8,0,0,0,0,Lombardia
+31-ott,469,90,0,0,0,0,Lombardia
+1-nov,497,81.2,0,0,0,0,Lombardia
+2-nov,514,75.4,0,0,0,0,Lombardia
+3-nov,531,64.6,0,0,0,0,Lombardia
+4-nov,533,49.4,0,0,0,0,Lombardia
+5-nov,548,40.9,0,0,0,0,Lombardia
 6-nov,558,30,0,0,0,100,Lombardia
 7-nov,583,24.5,0,0,0,100,Lombardia
 8-nov,561,12.8,0,0,0,100,Lombardia
@@ -182,42 +182,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,16,-4.9,100,0,0,0,Emilia-Romagna
-2-ott,17,0.3,100,0,0,0,Emilia-Romagna
-3-ott,18,14.7,100,0,0,0,Emilia-Romagna
-4-ott,20,29.9,100,0,0,0,Emilia-Romagna
-5-ott,22,48.3,100,0,0,0,Emilia-Romagna
-6-ott,24,50.4,100,0,0,0,Emilia-Romagna
-7-ott,26,63.5,100,0,0,0,Emilia-Romagna
-8-ott,27,74.1,100,0,0,0,Emilia-Romagna
-9-ott,30,80.1,100,0,0,0,Emilia-Romagna
-10-ott,35,91.6,100,0,0,0,Emilia-Romagna
-11-ott,39,96.8,100,0,0,0,Emilia-Romagna
-12-ott,43,97.3,100,0,0,0,Emilia-Romagna
-13-ott,47,99.3,100,0,0,0,Emilia-Romagna
-14-ott,50,96.1,100,0,0,0,Emilia-Romagna
-15-ott,56,105.1,100,0,0,0,Emilia-Romagna
-16-ott,62,107.6,100,0,0,0,Emilia-Romagna
-17-ott,68,95.4,100,0,0,0,Emilia-Romagna
-18-ott,71,80.6,100,0,0,0,Emilia-Romagna
-19-ott,76,76.3,100,0,0,0,Emilia-Romagna
-20-ott,80,70,100,0,0,0,Emilia-Romagna
-21-ott,87,73.7,100,0,0,0,Emilia-Romagna
-22-ott,97,72.5,100,0,0,0,Emilia-Romagna
-23-ott,105,68.1,100,0,0,0,Emilia-Romagna
-24-ott,117,71.6,100,0,0,0,Emilia-Romagna
-25-ott,132,84.9,100,0,0,0,Emilia-Romagna
-26-ott,145,90.3,100,0,0,0,Emilia-Romagna
-27-ott,165,106.8,100,0,0,0,Emilia-Romagna
-28-ott,177,103.1,100,0,0,0,Emilia-Romagna
-29-ott,192,97.7,100,0,0,0,Emilia-Romagna
-30-ott,212,102,100,0,0,0,Emilia-Romagna
-31-ott,231,97.7,100,0,0,0,Emilia-Romagna
-1-nov,244,85,100,0,0,0,Emilia-Romagna
-2-nov,255,76,100,0,0,0,Emilia-Romagna
-3-nov,266,61.2,100,0,0,0,Emilia-Romagna
-4-nov,278,57.1,100,0,0,0,Emilia-Romagna
-5-nov,293,52.6,100,0,0,0,Emilia-Romagna
+1-ott,16,-4.9,0,0,0,0,Emilia-Romagna
+2-ott,17,0.3,0,0,0,0,Emilia-Romagna
+3-ott,18,14.7,0,0,0,0,Emilia-Romagna
+4-ott,20,29.9,0,0,0,0,Emilia-Romagna
+5-ott,22,48.3,0,0,0,0,Emilia-Romagna
+6-ott,24,50.4,0,0,0,0,Emilia-Romagna
+7-ott,26,63.5,0,0,0,0,Emilia-Romagna
+8-ott,27,74.1,0,0,0,0,Emilia-Romagna
+9-ott,30,80.1,0,0,0,0,Emilia-Romagna
+10-ott,35,91.6,0,0,0,0,Emilia-Romagna
+11-ott,39,96.8,0,0,0,0,Emilia-Romagna
+12-ott,43,97.3,0,0,0,0,Emilia-Romagna
+13-ott,47,99.3,0,0,0,0,Emilia-Romagna
+14-ott,50,96.1,0,0,0,0,Emilia-Romagna
+15-ott,56,105.1,0,0,0,0,Emilia-Romagna
+16-ott,62,107.6,0,0,0,0,Emilia-Romagna
+17-ott,68,95.4,0,0,0,0,Emilia-Romagna
+18-ott,71,80.6,0,0,0,0,Emilia-Romagna
+19-ott,76,76.3,0,0,0,0,Emilia-Romagna
+20-ott,80,70,0,0,0,0,Emilia-Romagna
+21-ott,87,73.7,0,0,0,0,Emilia-Romagna
+22-ott,97,72.5,0,0,0,0,Emilia-Romagna
+23-ott,105,68.1,0,0,0,0,Emilia-Romagna
+24-ott,117,71.6,0,0,0,0,Emilia-Romagna
+25-ott,132,84.9,0,0,0,0,Emilia-Romagna
+26-ott,145,90.3,0,0,0,0,Emilia-Romagna
+27-ott,165,106.8,0,0,0,0,Emilia-Romagna
+28-ott,177,103.1,0,0,0,0,Emilia-Romagna
+29-ott,192,97.7,0,0,0,0,Emilia-Romagna
+30-ott,212,102,0,0,0,0,Emilia-Romagna
+31-ott,231,97.7,0,0,0,0,Emilia-Romagna
+1-nov,244,85,0,0,0,0,Emilia-Romagna
+2-nov,255,76,0,0,0,0,Emilia-Romagna
+3-nov,266,61.2,0,0,0,0,Emilia-Romagna
+4-nov,278,57.1,0,0,0,0,Emilia-Romagna
+5-nov,293,52.6,0,0,0,0,Emilia-Romagna
 6-nov,297,40.4,0,100,0,0,Emilia-Romagna
 7-nov,296,28.3,0,100,0,0,Emilia-Romagna
 8-nov,310,27.1,0,100,0,0,Emilia-Romagna
@@ -365,42 +365,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,30,29.4,100,0,0,0,Veneto
-2-ott,30,26.7,100,0,0,0,Veneto
-3-ott,32,28.5,100,0,0,0,Veneto
-4-ott,34,38.6,100,0,0,0,Veneto
-5-ott,35,33.6,100,0,0,0,Veneto
-6-ott,36,35.2,100,0,0,0,Veneto
-7-ott,40,51.7,100,0,0,0,Veneto
-8-ott,41,34.7,100,0,0,0,Veneto
-9-ott,49,62.3,100,0,0,0,Veneto
-10-ott,55,74.4,100,0,0,0,Veneto
-11-ott,59,74.4,100,0,0,0,Veneto
-12-ott,61,75.3,100,0,0,0,Veneto
-13-ott,67,87.3,100,0,0,0,Veneto
-14-ott,72,80.7,100,0,0,0,Veneto
-15-ott,75,82,100,0,0,0,Veneto
-16-ott,77,56.1,100,0,0,0,Veneto
-17-ott,81,47.5,100,0,0,0,Veneto
-18-ott,89,51,100,0,0,0,Veneto
-19-ott,92,51.9,100,0,0,0,Veneto
-20-ott,92,38.3,100,0,0,0,Veneto
-21-ott,108,48.9,100,0,0,0,Veneto
-22-ott,123,64.2,100,0,0,0,Veneto
-23-ott,140,81.9,100,0,0,0,Veneto
-24-ott,159,96.1,100,0,0,0,Veneto
-25-ott,173,95.2,100,0,0,0,Veneto
-26-ott,186,101.5,100,0,0,0,Veneto
-27-ott,207,124.2,100,0,0,0,Veneto
-28-ott,222,105.4,100,0,0,0,Veneto
-29-ott,238,93.7,100,0,0,0,Veneto
-30-ott,267,91.1,100,0,0,0,Veneto
-31-ott,287,80.1,100,0,0,0,Veneto
-1-nov,304,75.8,100,0,0,0,Veneto
-2-nov,313,68.2,100,0,0,0,Veneto
-3-nov,328,58.7,100,0,0,0,Veneto
-4-nov,334,50.8,100,0,0,0,Veneto
-5-nov,358,50.6,100,0,0,0,Veneto
+1-ott,30,29.4,0,0,0,0,Veneto
+2-ott,30,26.7,0,0,0,0,Veneto
+3-ott,32,28.5,0,0,0,0,Veneto
+4-ott,34,38.6,0,0,0,0,Veneto
+5-ott,35,33.6,0,0,0,0,Veneto
+6-ott,36,35.2,0,0,0,0,Veneto
+7-ott,40,51.7,0,0,0,0,Veneto
+8-ott,41,34.7,0,0,0,0,Veneto
+9-ott,49,62.3,0,0,0,0,Veneto
+10-ott,55,74.4,0,0,0,0,Veneto
+11-ott,59,74.4,0,0,0,0,Veneto
+12-ott,61,75.3,0,0,0,0,Veneto
+13-ott,67,87.3,0,0,0,0,Veneto
+14-ott,72,80.7,0,0,0,0,Veneto
+15-ott,75,82,0,0,0,0,Veneto
+16-ott,77,56.1,0,0,0,0,Veneto
+17-ott,81,47.5,0,0,0,0,Veneto
+18-ott,89,51,0,0,0,0,Veneto
+19-ott,92,51.9,0,0,0,0,Veneto
+20-ott,92,38.3,0,0,0,0,Veneto
+21-ott,108,48.9,0,0,0,0,Veneto
+22-ott,123,64.2,0,0,0,0,Veneto
+23-ott,140,81.9,0,0,0,0,Veneto
+24-ott,159,96.1,0,0,0,0,Veneto
+25-ott,173,95.2,0,0,0,0,Veneto
+26-ott,186,101.5,0,0,0,0,Veneto
+27-ott,207,124.2,0,0,0,0,Veneto
+28-ott,222,105.4,0,0,0,0,Veneto
+29-ott,238,93.7,0,0,0,0,Veneto
+30-ott,267,91.1,0,0,0,0,Veneto
+31-ott,287,80.1,0,0,0,0,Veneto
+1-nov,304,75.8,0,0,0,0,Veneto
+2-nov,313,68.2,0,0,0,0,Veneto
+3-nov,328,58.7,0,0,0,0,Veneto
+4-nov,334,50.8,0,0,0,0,Veneto
+5-nov,358,50.6,0,0,0,0,Veneto
 6-nov,364,36,0,100,0,0,Veneto
 7-nov,386,34.6,0,100,0,0,Veneto
 8-nov,408,34.2,0,100,0,0,Veneto
@@ -548,42 +548,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,19,30.4,100,0,0,0,Piemonte
-2-ott,21,47.5,100,0,0,0,Piemonte
-3-ott,25,66,100,0,0,0,Piemonte
-4-ott,26,63.8,100,0,0,0,Piemonte
-5-ott,27,60.3,100,0,0,0,Piemonte
-6-ott,31,78.1,100,0,0,0,Piemonte
-7-ott,33,76.1,100,0,0,0,Piemonte
-8-ott,39,101.9,100,0,0,0,Piemonte
-9-ott,43,100,100,0,0,0,Piemonte
-10-ott,48,88.8,100,0,0,0,Piemonte
-11-ott,53,102.6,100,0,0,0,Piemonte
-12-ott,61,124.2,100,0,0,0,Piemonte
-13-ott,68,121.9,100,0,0,0,Piemonte
-14-ott,73,118.6,100,0,0,0,Piemonte
-15-ott,89,130.7,100,0,0,0,Piemonte
-16-ott,99,130.7,100,0,0,0,Piemonte
-17-ott,110,129,100,0,0,0,Piemonte
-18-ott,126,136.5,100,0,0,0,Piemonte
-19-ott,137,125.6,100,0,0,0,Piemonte
-20-ott,156,128.1,100,0,0,0,Piemonte
-21-ott,185,153.8,100,0,0,0,Piemonte
-22-ott,197,121.5,100,0,0,0,Piemonte
-23-ott,225,128,100,0,0,0,Piemonte
-24-ott,238,117.5,100,0,0,0,Piemonte
-25-ott,265,110.4,100,0,0,0,Piemonte
-26-ott,281,105.1,100,0,0,0,Piemonte
-27-ott,305,96.2,100,0,0,0,Piemonte
-28-ott,329,77.4,100,0,0,0,Piemonte
-29-ott,353,78.8,100,0,0,0,Piemonte
-30-ott,368,63.7,100,0,0,0,Piemonte
-31-ott,399,67.5,100,0,0,0,Piemonte
-1-nov,393,48.3,100,0,0,0,Piemonte
-2-nov,402,43,100,0,0,0,Piemonte
-3-nov,418,37,100,0,0,0,Piemonte
-4-nov,435,32.4,100,0,0,0,Piemonte
-5-nov,449,27.3,100,0,0,0,Piemonte
+1-ott,19,30.4,0,0,0,0,Piemonte
+2-ott,21,47.5,0,0,0,0,Piemonte
+3-ott,25,66,0,0,0,0,Piemonte
+4-ott,26,63.8,0,0,0,0,Piemonte
+5-ott,27,60.3,0,0,0,0,Piemonte
+6-ott,31,78.1,0,0,0,0,Piemonte
+7-ott,33,76.1,0,0,0,0,Piemonte
+8-ott,39,101.9,0,0,0,0,Piemonte
+9-ott,43,100,0,0,0,0,Piemonte
+10-ott,48,88.8,0,0,0,0,Piemonte
+11-ott,53,102.6,0,0,0,0,Piemonte
+12-ott,61,124.2,0,0,0,0,Piemonte
+13-ott,68,121.9,0,0,0,0,Piemonte
+14-ott,73,118.6,0,0,0,0,Piemonte
+15-ott,89,130.7,0,0,0,0,Piemonte
+16-ott,99,130.7,0,0,0,0,Piemonte
+17-ott,110,129,0,0,0,0,Piemonte
+18-ott,126,136.5,0,0,0,0,Piemonte
+19-ott,137,125.6,0,0,0,0,Piemonte
+20-ott,156,128.1,0,0,0,0,Piemonte
+21-ott,185,153.8,0,0,0,0,Piemonte
+22-ott,197,121.5,0,0,0,0,Piemonte
+23-ott,225,128,0,0,0,0,Piemonte
+24-ott,238,117.5,0,0,0,0,Piemonte
+25-ott,265,110.4,0,0,0,0,Piemonte
+26-ott,281,105.1,0,0,0,0,Piemonte
+27-ott,305,96.2,0,0,0,0,Piemonte
+28-ott,329,77.4,0,0,0,0,Piemonte
+29-ott,353,78.8,0,0,0,0,Piemonte
+30-ott,368,63.7,0,0,0,0,Piemonte
+31-ott,399,67.5,0,0,0,0,Piemonte
+1-nov,393,48.3,0,0,0,0,Piemonte
+2-nov,402,43,0,0,0,0,Piemonte
+3-nov,418,37,0,0,0,0,Piemonte
+4-nov,435,32.4,0,0,0,0,Piemonte
+5-nov,449,27.3,0,0,0,0,Piemonte
 6-nov,498,35.3,0,0,0,100,Piemonte
 7-nov,534,33.8,0,0,0,100,Piemonte
 8-nov,577,46.7,0,0,0,100,Piemonte
@@ -731,42 +731,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,19,8.3,100,0,0,0,Friuli VG
-2-ott,22,22.9,100,0,0,0,Friuli VG
-3-ott,21,10.6,100,0,0,0,Friuli VG
-4-ott,23,22.1,100,0,0,0,Friuli VG
-5-ott,25,36.8,100,0,0,0,Friuli VG
-6-ott,27,38.5,100,0,0,0,Friuli VG
-7-ott,30,79.5,100,0,0,0,Friuli VG
-8-ott,35,79.9,100,0,0,0,Friuli VG
-9-ott,41,90.5,100,0,0,0,Friuli VG
-10-ott,47,121.5,100,0,0,0,Friuli VG
-11-ott,51,120.9,100,0,0,0,Friuli VG
-12-ott,54,119.6,100,0,0,0,Friuli VG
-13-ott,53,100,100,0,0,0,Friuli VG
-14-ott,62,106,100,0,0,0,Friuli VG
-15-ott,65,86.2,100,0,0,0,Friuli VG
-16-ott,66,60.3,100,0,0,0,Friuli VG
-17-ott,69,46.5,100,0,0,0,Friuli VG
-18-ott,74,44.8,100,0,0,0,Friuli VG
-19-ott,77,41.1,100,0,0,0,Friuli VG
-20-ott,84,58.3,100,0,0,0,Friuli VG
-21-ott,87,40.2,100,0,0,0,Friuli VG
-22-ott,94,46.3,100,0,0,0,Friuli VG
-23-ott,109,64.6,100,0,0,0,Friuli VG
-24-ott,129,85.7,100,0,0,0,Friuli VG
-25-ott,144,93.6,100,0,0,0,Friuli VG
-26-ott,164,113.3,100,0,0,0,Friuli VG
-27-ott,173,104.7,100,0,0,0,Friuli VG
-28-ott,188,115.1,100,0,0,0,Friuli VG
-29-ott,209,121,100,0,0,0,Friuli VG
-30-ott,222,104.2,100,0,0,0,Friuli VG
-31-ott,248,92.3,100,0,0,0,Friuli VG
-1-nov,254,76.6,100,0,0,0,Friuli VG
-2-nov,244,49.1,100,0,0,0,Friuli VG
-3-nov,254,47.2,100,0,0,0,Friuli VG
-4-nov,257,36.5,100,0,0,0,Friuli VG
-5-nov,263,26.2,100,0,0,0,Friuli VG
+1-ott,19,8.3,0,0,0,0,Friuli VG
+2-ott,22,22.9,0,0,0,0,Friuli VG
+3-ott,21,10.6,0,0,0,0,Friuli VG
+4-ott,23,22.1,0,0,0,0,Friuli VG
+5-ott,25,36.8,0,0,0,0,Friuli VG
+6-ott,27,38.5,0,0,0,0,Friuli VG
+7-ott,30,79.5,0,0,0,0,Friuli VG
+8-ott,35,79.9,0,0,0,0,Friuli VG
+9-ott,41,90.5,0,0,0,0,Friuli VG
+10-ott,47,121.5,0,0,0,0,Friuli VG
+11-ott,51,120.9,0,0,0,0,Friuli VG
+12-ott,54,119.6,0,0,0,0,Friuli VG
+13-ott,53,100,0,0,0,0,Friuli VG
+14-ott,62,106,0,0,0,0,Friuli VG
+15-ott,65,86.2,0,0,0,0,Friuli VG
+16-ott,66,60.3,0,0,0,0,Friuli VG
+17-ott,69,46.5,0,0,0,0,Friuli VG
+18-ott,74,44.8,0,0,0,0,Friuli VG
+19-ott,77,41.1,0,0,0,0,Friuli VG
+20-ott,84,58.3,0,0,0,0,Friuli VG
+21-ott,87,40.2,0,0,0,0,Friuli VG
+22-ott,94,46.3,0,0,0,0,Friuli VG
+23-ott,109,64.6,0,0,0,0,Friuli VG
+24-ott,129,85.7,0,0,0,0,Friuli VG
+25-ott,144,93.6,0,0,0,0,Friuli VG
+26-ott,164,113.3,0,0,0,0,Friuli VG
+27-ott,173,104.7,0,0,0,0,Friuli VG
+28-ott,188,115.1,0,0,0,0,Friuli VG
+29-ott,209,121,0,0,0,0,Friuli VG
+30-ott,222,104.2,0,0,0,0,Friuli VG
+31-ott,248,92.3,0,0,0,0,Friuli VG
+1-nov,254,76.6,0,0,0,0,Friuli VG
+2-nov,244,49.1,0,0,0,0,Friuli VG
+3-nov,254,47.2,0,0,0,0,Friuli VG
+4-nov,257,36.5,0,0,0,0,Friuli VG
+5-nov,263,26.2,0,0,0,0,Friuli VG
 6-nov,266,19.9,0,100,0,0,Friuli VG
 7-nov,278,12.2,0,100,0,0,Friuli VG
 8-nov,287,13,0,100,0,0,Friuli VG
@@ -914,42 +914,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,22,47.4,100,0,0,0,Valle d'Aosta
-2-ott,30,216.7,100,0,0,0,Valle d'Aosta
-3-ott,21,17.4,100,0,0,0,Valle d'Aosta
-4-ott,27,70,100,0,0,0,Valle d'Aosta
-5-ott,37,142.1,100,0,0,0,Valle d'Aosta
-6-ott,34,65.4,100,0,0,0,Valle d'Aosta
-7-ott,41,73.3,100,0,0,0,Valle d'Aosta
-8-ott,55,146.4,100,0,0,0,Valle d'Aosta
-9-ott,60,100,100,0,0,0,Valle d'Aosta
-10-ott,95,344.4,100,0,0,0,Valle d'Aosta
-11-ott,104,285.3,100,0,0,0,Valle d'Aosta
-12-ott,119,226.1,100,0,0,0,Valle d'Aosta
-13-ott,142,314,100,0,0,0,Valle d'Aosta
-14-ott,159,284.6,100,0,0,0,Valle d'Aosta
-15-ott,198,260.9,100,0,0,0,Valle d'Aosta
-16-ott,205,239.5,100,0,0,0,Valle d'Aosta
-17-ott,232,143.3,100,0,0,0,Valle d'Aosta
-18-ott,276,164.9,100,0,0,0,Valle d'Aosta
-19-ott,358,200,100,0,0,0,Valle d'Aosta
-20-ott,392,176.4,100,0,0,0,Valle d'Aosta
-21-ott,450,183,100,0,0,0,Valle d'Aosta
-22-ott,466,135.3,100,0,0,0,Valle d'Aosta
-23-ott,522,154.3,100,0,0,0,Valle d'Aosta
-24-ott,549,136.3,100,0,0,0,Valle d'Aosta
-25-ott,568,105.8,100,0,0,0,Valle d'Aosta
-26-ott,575,60.7,100,0,0,0,Valle d'Aosta
-27-ott,561,43.3,100,0,0,0,Valle d'Aosta
-28-ott,534,18.6,100,0,0,0,Valle d'Aosta
-29-ott,606,30,100,0,0,0,Valle d'Aosta
-30-ott,653,25,100,0,0,0,Valle d'Aosta
-31-ott,646,17.7,100,0,0,0,Valle d'Aosta
-1-nov,676,19,100,0,0,0,Valle d'Aosta
-2-nov,659,14.5,100,0,0,0,Valle d'Aosta
-3-nov,688,22.7,100,0,0,0,Valle d'Aosta
-4-nov,730,36.7,100,0,0,0,Valle d'Aosta
-5-nov,679,11.9,100,0,0,0,Valle d'Aosta
+1-ott,22,47.4,0,0,0,0,Valle d'Aosta
+2-ott,30,216.7,0,0,0,0,Valle d'Aosta
+3-ott,21,17.4,0,0,0,0,Valle d'Aosta
+4-ott,27,70,0,0,0,0,Valle d'Aosta
+5-ott,37,142.1,0,0,0,0,Valle d'Aosta
+6-ott,34,65.4,0,0,0,0,Valle d'Aosta
+7-ott,41,73.3,0,0,0,0,Valle d'Aosta
+8-ott,55,146.4,0,0,0,0,Valle d'Aosta
+9-ott,60,100,0,0,0,0,Valle d'Aosta
+10-ott,95,344.4,0,0,0,0,Valle d'Aosta
+11-ott,104,285.3,0,0,0,0,Valle d'Aosta
+12-ott,119,226.1,0,0,0,0,Valle d'Aosta
+13-ott,142,314,0,0,0,0,Valle d'Aosta
+14-ott,159,284.6,0,0,0,0,Valle d'Aosta
+15-ott,198,260.9,0,0,0,0,Valle d'Aosta
+16-ott,205,239.5,0,0,0,0,Valle d'Aosta
+17-ott,232,143.3,0,0,0,0,Valle d'Aosta
+18-ott,276,164.9,0,0,0,0,Valle d'Aosta
+19-ott,358,200,0,0,0,0,Valle d'Aosta
+20-ott,392,176.4,0,0,0,0,Valle d'Aosta
+21-ott,450,183,0,0,0,0,Valle d'Aosta
+22-ott,466,135.3,0,0,0,0,Valle d'Aosta
+23-ott,522,154.3,0,0,0,0,Valle d'Aosta
+24-ott,549,136.3,0,0,0,0,Valle d'Aosta
+25-ott,568,105.8,0,0,0,0,Valle d'Aosta
+26-ott,575,60.7,0,0,0,0,Valle d'Aosta
+27-ott,561,43.3,0,0,0,0,Valle d'Aosta
+28-ott,534,18.6,0,0,0,0,Valle d'Aosta
+29-ott,606,30,0,0,0,0,Valle d'Aosta
+30-ott,653,25,0,0,0,0,Valle d'Aosta
+31-ott,646,17.7,0,0,0,0,Valle d'Aosta
+1-nov,676,19,0,0,0,0,Valle d'Aosta
+2-nov,659,14.5,0,0,0,0,Valle d'Aosta
+3-nov,688,22.7,0,0,0,0,Valle d'Aosta
+4-nov,730,36.7,0,0,0,0,Valle d'Aosta
+5-nov,679,11.9,0,0,0,0,Valle d'Aosta
 6-nov,658,0.9,0,0,0,100,Valle d'Aosta
 7-nov,668,3.4,0,0,0,100,Valle d'Aosta
 8-nov,605,-10.6,0,0,0,100,Valle d'Aosta
@@ -1097,42 +1097,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,37,-17.9,100,0,0,0,Liguria
-2-ott,41,4.4,100,0,0,0,Liguria
-3-ott,46,11.5,100,0,0,0,Liguria
-4-ott,50,31.8,100,0,0,0,Liguria
-5-ott,50,22.2,100,0,0,0,Liguria
-6-ott,56,38.4,100,0,0,0,Liguria
-7-ott,64,74.4,100,0,0,0,Liguria
-8-ott,66,78.8,100,0,0,0,Liguria
-9-ott,70,68.8,100,0,0,0,Liguria
-10-ott,73,60.5,100,0,0,0,Liguria
-11-ott,90,78.8,100,0,0,0,Liguria
-12-ott,95,89.4,100,0,0,0,Liguria
-13-ott,113,103.7,100,0,0,0,Liguria
-14-ott,125,96.8,100,0,0,0,Liguria
-15-ott,143,116.1,100,0,0,0,Liguria
-16-ott,168,140.9,100,0,0,0,Liguria
-17-ott,185,152.2,100,0,0,0,Liguria
-18-ott,184,103.3,100,0,0,0,Liguria
-19-ott,192,101.7,100,0,0,0,Liguria
-20-ott,222,96.1,100,0,0,0,Liguria
-21-ott,234,86.8,100,0,0,0,Liguria
-22-ott,251,74.8,100,0,0,0,Liguria
-23-ott,263,56.2,100,0,0,0,Liguria
-24-ott,300,62.4,100,0,0,0,Liguria
-25-ott,318,73.4,100,0,0,0,Liguria
-26-ott,325,68.7,100,0,0,0,Liguria
-27-ott,339,52.5,100,0,0,0,Liguria
-28-ott,363,55.3,100,0,0,0,Liguria
-29-ott,384,53.4,100,0,0,0,Liguria
-30-ott,399,51.6,100,0,0,0,Liguria
-31-ott,401,33.7,100,0,0,0,Liguria
-1-nov,406,27.5,100,0,0,0,Liguria
-2-nov,417,28.6,100,0,0,0,Liguria
-3-nov,413,21.8,100,0,0,0,Liguria
-4-nov,425,17.1,100,0,0,0,Liguria
-5-nov,437,13.8,100,0,0,0,Liguria
+1-ott,37,-17.9,0,0,0,0,Liguria
+2-ott,41,4.4,0,0,0,0,Liguria
+3-ott,46,11.5,0,0,0,0,Liguria
+4-ott,50,31.8,0,0,0,0,Liguria
+5-ott,50,22.2,0,0,0,0,Liguria
+6-ott,56,38.4,0,0,0,0,Liguria
+7-ott,64,74.4,0,0,0,0,Liguria
+8-ott,66,78.8,0,0,0,0,Liguria
+9-ott,70,68.8,0,0,0,0,Liguria
+10-ott,73,60.5,0,0,0,0,Liguria
+11-ott,90,78.8,0,0,0,0,Liguria
+12-ott,95,89.4,0,0,0,0,Liguria
+13-ott,113,103.7,0,0,0,0,Liguria
+14-ott,125,96.8,0,0,0,0,Liguria
+15-ott,143,116.1,0,0,0,0,Liguria
+16-ott,168,140.9,0,0,0,0,Liguria
+17-ott,185,152.2,0,0,0,0,Liguria
+18-ott,184,103.3,0,0,0,0,Liguria
+19-ott,192,101.7,0,0,0,0,Liguria
+20-ott,222,96.1,0,0,0,0,Liguria
+21-ott,234,86.8,0,0,0,0,Liguria
+22-ott,251,74.8,0,0,0,0,Liguria
+23-ott,263,56.2,0,0,0,0,Liguria
+24-ott,300,62.4,0,0,0,0,Liguria
+25-ott,318,73.4,0,0,0,0,Liguria
+26-ott,325,68.7,0,0,0,0,Liguria
+27-ott,339,52.5,0,0,0,0,Liguria
+28-ott,363,55.3,0,0,0,0,Liguria
+29-ott,384,53.4,0,0,0,0,Liguria
+30-ott,399,51.6,0,0,0,0,Liguria
+31-ott,401,33.7,0,0,0,0,Liguria
+1-nov,406,27.5,0,0,0,0,Liguria
+2-nov,417,28.6,0,0,0,0,Liguria
+3-nov,413,21.8,0,0,0,0,Liguria
+4-nov,425,17.1,0,0,0,0,Liguria
+5-nov,437,13.8,0,0,0,0,Liguria
 6-nov,446,11.8,0,100,0,0,Liguria
 7-nov,447,11.6,0,100,0,0,Liguria
 8-nov,457,12.6,0,100,0,0,Liguria
@@ -1280,42 +1280,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,43,49,100,0,0,0,Trento
-2-ott,46,54.3,100,0,0,0,Trento
-3-ott,48,36.6,100,0,0,0,Trento
-4-ott,47,34.6,100,0,0,0,Trento
-5-ott,52,36.9,100,0,0,0,Trento
-6-ott,57,59.3,100,0,0,0,Trento
-7-ott,56,45.5,100,0,0,0,Trento
-8-ott,58,34.6,100,0,0,0,Trento
-9-ott,58,26,100,0,0,0,Trento
-10-ott,56,16.1,100,0,0,0,Trento
-11-ott,57,21.7,100,0,0,0,Trento
-12-ott,48,-7.4,100,0,0,0,Trento
-13-ott,46,-19.4,100,0,0,0,Trento
-14-ott,45,-19.1,100,0,0,0,Trento
-15-ott,46,-21,100,0,0,0,Trento
-16-ott,59,1.9,100,0,0,0,Trento
-17-ott,65,16.5,100,0,0,0,Trento
-18-ott,67,17.5,100,0,0,0,Trento
-19-ott,81,68.2,100,0,0,0,Trento
-20-ott,93,102.8,100,0,0,0,Trento
-21-ott,115,153.7,100,0,0,0,Trento
-22-ott,132,187.1,100,0,0,0,Trento
-23-ott,150,152.6,100,0,0,0,Trento
-24-ott,165,152.4,100,0,0,0,Trento
-25-ott,175,161.6,100,0,0,0,Trento
-26-ott,181,123.5,100,0,0,0,Trento
-27-ott,211,126.5,100,0,0,0,Trento
-28-ott,219,90.2,100,0,0,0,Trento
-29-ott,223,68.8,100,0,0,0,Trento
-30-ott,226,50.7,100,0,0,0,Trento
-31-ott,268,62.7,100,0,0,0,Trento
-1-nov,288,64.3,100,0,0,0,Trento
-2-nov,301,66.2,100,0,0,0,Trento
-3-nov,274,29.8,100,0,0,0,Trento
-4-nov,281,28,100,0,0,0,Trento
-5-nov,308,38,100,0,0,0,Trento
+1-ott,43,49,0,0,0,0,Trento
+2-ott,46,54.3,0,0,0,0,Trento
+3-ott,48,36.6,0,0,0,0,Trento
+4-ott,47,34.6,0,0,0,0,Trento
+5-ott,52,36.9,0,0,0,0,Trento
+6-ott,57,59.3,0,0,0,0,Trento
+7-ott,56,45.5,0,0,0,0,Trento
+8-ott,58,34.6,0,0,0,0,Trento
+9-ott,58,26,0,0,0,0,Trento
+10-ott,56,16.1,0,0,0,0,Trento
+11-ott,57,21.7,0,0,0,0,Trento
+12-ott,48,-7.4,0,0,0,0,Trento
+13-ott,46,-19.4,0,0,0,0,Trento
+14-ott,45,-19.1,0,0,0,0,Trento
+15-ott,46,-21,0,0,0,0,Trento
+16-ott,59,1.9,0,0,0,0,Trento
+17-ott,65,16.5,0,0,0,0,Trento
+18-ott,67,17.5,0,0,0,0,Trento
+19-ott,81,68.2,0,0,0,0,Trento
+20-ott,93,102.8,0,0,0,0,Trento
+21-ott,115,153.7,0,0,0,0,Trento
+22-ott,132,187.1,0,0,0,0,Trento
+23-ott,150,152.6,0,0,0,0,Trento
+24-ott,165,152.4,0,0,0,0,Trento
+25-ott,175,161.6,0,0,0,0,Trento
+26-ott,181,123.5,0,0,0,0,Trento
+27-ott,211,126.5,0,0,0,0,Trento
+28-ott,219,90.2,0,0,0,0,Trento
+29-ott,223,68.8,0,0,0,0,Trento
+30-ott,226,50.7,0,0,0,0,Trento
+31-ott,268,62.7,0,0,0,0,Trento
+1-nov,288,64.3,0,0,0,0,Trento
+2-nov,301,66.2,0,0,0,0,Trento
+3-nov,274,29.8,0,0,0,0,Trento
+4-nov,281,28,0,0,0,0,Trento
+5-nov,308,38,0,0,0,0,Trento
 6-nov,315,39.5,0,100,0,0,Trento
 7-nov,289,8,0,100,0,0,Trento
 8-nov,284,-1.2,0,100,0,0,Trento
@@ -1463,42 +1463,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,34,-10.3,100,0,0,0,Bolzano
-2-ott,28,-17.5,100,0,0,0,Bolzano
-3-ott,27,-21.5,100,0,0,0,Bolzano
-4-ott,29,-17,100,0,0,0,Bolzano
-5-ott,28,-23.3,100,0,0,0,Bolzano
-6-ott,30,-18.7,100,0,0,0,Bolzano
-7-ott,37,12.7,100,0,0,0,Bolzano
-8-ott,44,29.1,100,0,0,0,Bolzano
-9-ott,56,98,100,0,0,0,Bolzano
-10-ott,69,151.4,100,0,0,0,Bolzano
-11-ott,79,168.6,100,0,0,0,Bolzano
-12-ott,84,202,100,0,0,0,Bolzano
-13-ott,87,195.5,100,0,0,0,Bolzano
-14-ott,100,173.3,100,0,0,0,Bolzano
-15-ott,106,139.1,100,0,0,0,Bolzano
-16-ott,114,102.3,100,0,0,0,Bolzano
-17-ott,126,82,100,0,0,0,Bolzano
-18-ott,142,80.2,100,0,0,0,Bolzano
-19-ott,150,77.9,100,0,0,0,Bolzano
-20-ott,183,109.1,100,0,0,0,Bolzano
-21-ott,195,94.2,100,0,0,0,Bolzano
-22-ott,223,110.7,100,0,0,0,Bolzano
-23-ott,249,119,100,0,0,0,Bolzano
-24-ott,272,116.6,100,0,0,0,Bolzano
-25-ott,304,113.9,100,0,0,0,Bolzano
-26-ott,348,132.8,100,0,0,0,Bolzano
-27-ott,355,94.2,100,0,0,0,Bolzano
-28-ott,355,82.1,100,0,0,0,Bolzano
-29-ott,364,63.5,100,0,0,0,Bolzano
-30-ott,380,52.2,100,0,0,0,Bolzano
-31-ott,431,58.1,100,0,0,0,Bolzano
-1-nov,467,53.7,100,0,0,0,Bolzano
-2-nov,489,40.4,100,0,0,0,Bolzano
-3-nov,537,51.3,100,0,0,0,Bolzano
-4-nov,548,54.4,100,0,0,0,Bolzano
-5-nov,635,74.3,100,0,0,0,Bolzano
+1-ott,34,-10.3,0,0,0,0,Bolzano
+2-ott,28,-17.5,0,0,0,0,Bolzano
+3-ott,27,-21.5,0,0,0,0,Bolzano
+4-ott,29,-17,0,0,0,0,Bolzano
+5-ott,28,-23.3,0,0,0,0,Bolzano
+6-ott,30,-18.7,0,0,0,0,Bolzano
+7-ott,37,12.7,0,0,0,0,Bolzano
+8-ott,44,29.1,0,0,0,0,Bolzano
+9-ott,56,98,0,0,0,0,Bolzano
+10-ott,69,151.4,0,0,0,0,Bolzano
+11-ott,79,168.6,0,0,0,0,Bolzano
+12-ott,84,202,0,0,0,0,Bolzano
+13-ott,87,195.5,0,0,0,0,Bolzano
+14-ott,100,173.3,0,0,0,0,Bolzano
+15-ott,106,139.1,0,0,0,0,Bolzano
+16-ott,114,102.3,0,0,0,0,Bolzano
+17-ott,126,82,0,0,0,0,Bolzano
+18-ott,142,80.2,0,0,0,0,Bolzano
+19-ott,150,77.9,0,0,0,0,Bolzano
+20-ott,183,109.1,0,0,0,0,Bolzano
+21-ott,195,94.2,0,0,0,0,Bolzano
+22-ott,223,110.7,0,0,0,0,Bolzano
+23-ott,249,119,0,0,0,0,Bolzano
+24-ott,272,116.6,0,0,0,0,Bolzano
+25-ott,304,113.9,0,0,0,0,Bolzano
+26-ott,348,132.8,0,0,0,0,Bolzano
+27-ott,355,94.2,0,0,0,0,Bolzano
+28-ott,355,82.1,0,0,0,0,Bolzano
+29-ott,364,63.5,0,0,0,0,Bolzano
+30-ott,380,52.2,0,0,0,0,Bolzano
+31-ott,431,58.1,0,0,0,0,Bolzano
+1-nov,467,53.7,0,0,0,0,Bolzano
+2-nov,489,40.4,0,0,0,0,Bolzano
+3-nov,537,51.3,0,0,0,0,Bolzano
+4-nov,548,54.4,0,0,0,0,Bolzano
+5-nov,635,74.3,0,0,0,0,Bolzano
 6-nov,704,85.3,0,100,0,0,Bolzano
 7-nov,746,73.3,0,100,0,0,Bolzano
 8-nov,793,69.6,0,100,0,0,Bolzano
@@ -1646,42 +1646,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,11,-1.8,100,0,0,0,Marche
-2-ott,11,1.2,100,0,0,0,Marche
-3-ott,14,19,100,0,0,0,Marche
-4-ott,16,44.9,100,0,0,0,Marche
-5-ott,17,67.1,100,0,0,0,Marche
-6-ott,18,64.4,100,0,0,0,Marche
-7-ott,22,113.6,100,0,0,0,Marche
-8-ott,24,122.4,100,0,0,0,Marche
-9-ott,25,114.9,100,0,0,0,Marche
-10-ott,26,93.7,100,0,0,0,Marche
-11-ott,30,86,100,0,0,0,Marche
-12-ott,30,79.5,100,0,0,0,Marche
-13-ott,34,91,100,0,0,0,Marche
-14-ott,39,80.5,100,0,0,0,Marche
-15-ott,44,82,100,0,0,0,Marche
-16-ott,48,96.3,100,0,0,0,Marche
-17-ott,50,91.8,100,0,0,0,Marche
-18-ott,57,92.2,100,0,0,0,Marche
-19-ott,61,99.1,100,0,0,0,Marche
-20-ott,61,82.2,100,0,0,0,Marche
-21-ott,65,67.2,100,0,0,0,Marche
-22-ott,77,75.7,100,0,0,0,Marche
-23-ott,99,106,100,0,0,0,Marche
-24-ott,109,116.5,100,0,0,0,Marche
-25-ott,130,129.1,100,0,0,0,Marche
-26-ott,139,129.2,100,0,0,0,Marche
-27-ott,158,158.6,100,0,0,0,Marche
-28-ott,166,155.6,100,0,0,0,Marche
-29-ott,190,147.3,100,0,0,0,Marche
-30-ott,195,96.7,100,0,0,0,Marche
-31-ott,210,92.3,100,0,0,0,Marche
-1-nov,221,69.7,100,0,0,0,Marche
-2-nov,229,64.9,100,0,0,0,Marche
-3-nov,233,47.1,100,0,0,0,Marche
-4-nov,253,51.8,100,0,0,0,Marche
-5-nov,253,33.1,100,0,0,0,Marche
+1-ott,11,-1.8,0,0,0,0,Marche
+2-ott,11,1.2,0,0,0,0,Marche
+3-ott,14,19,0,0,0,0,Marche
+4-ott,16,44.9,0,0,0,0,Marche
+5-ott,17,67.1,0,0,0,0,Marche
+6-ott,18,64.4,0,0,0,0,Marche
+7-ott,22,113.6,0,0,0,0,Marche
+8-ott,24,122.4,0,0,0,0,Marche
+9-ott,25,114.9,0,0,0,0,Marche
+10-ott,26,93.7,0,0,0,0,Marche
+11-ott,30,86,0,0,0,0,Marche
+12-ott,30,79.5,0,0,0,0,Marche
+13-ott,34,91,0,0,0,0,Marche
+14-ott,39,80.5,0,0,0,0,Marche
+15-ott,44,82,0,0,0,0,Marche
+16-ott,48,96.3,0,0,0,0,Marche
+17-ott,50,91.8,0,0,0,0,Marche
+18-ott,57,92.2,0,0,0,0,Marche
+19-ott,61,99.1,0,0,0,0,Marche
+20-ott,61,82.2,0,0,0,0,Marche
+21-ott,65,67.2,0,0,0,0,Marche
+22-ott,77,75.7,0,0,0,0,Marche
+23-ott,99,106,0,0,0,0,Marche
+24-ott,109,116.5,0,0,0,0,Marche
+25-ott,130,129.1,0,0,0,0,Marche
+26-ott,139,129.2,0,0,0,0,Marche
+27-ott,158,158.6,0,0,0,0,Marche
+28-ott,166,155.6,0,0,0,0,Marche
+29-ott,190,147.3,0,0,0,0,Marche
+30-ott,195,96.7,0,0,0,0,Marche
+31-ott,210,92.3,0,0,0,0,Marche
+1-nov,221,69.7,0,0,0,0,Marche
+2-nov,229,64.9,0,0,0,0,Marche
+3-nov,233,47.1,0,0,0,0,Marche
+4-nov,253,51.8,0,0,0,0,Marche
+5-nov,253,33.1,0,0,0,0,Marche
 6-nov,265,35.7,0,100,0,0,Marche
 7-nov,273,30.1,0,100,0,0,Marche
 8-nov,261,18.5,0,100,0,0,Marche
@@ -1829,42 +1829,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,20,-4.8,100,0,0,0,Toscana
-2-ott,22,0.7,100,0,0,0,Toscana
-3-ott,25,15.8,100,0,0,0,Toscana
-4-ott,27,34.4,100,0,0,0,Toscana
-5-ott,30,47.4,100,0,0,0,Toscana
-6-ott,34,71.8,100,0,0,0,Toscana
-7-ott,39,88.5,100,0,0,0,Toscana
-8-ott,44,117.4,100,0,0,0,Toscana
-9-ott,51,126.6,100,0,0,0,Toscana
-10-ott,60,143.2,100,0,0,0,Toscana
-11-ott,69,154.8,100,0,0,0,Toscana
-12-ott,77,157.1,100,0,0,0,Toscana
-13-ott,84,147.5,100,0,0,0,Toscana
-14-ott,91,135.7,100,0,0,0,Toscana
-15-ott,98,122.4,100,0,0,0,Toscana
-16-ott,105,106.3,100,0,0,0,Toscana
-17-ott,114,88.9,100,0,0,0,Toscana
-18-ott,124,79.9,100,0,0,0,Toscana
-19-ott,138,80.4,100,0,0,0,Toscana
-20-ott,147,75.4,100,0,0,0,Toscana
-21-ott,155,69.7,100,0,0,0,Toscana
-22-ott,170,73.9,100,0,0,0,Toscana
-23-ott,185,75.5,100,0,0,0,Toscana
-24-ott,202,77.1,100,0,0,0,Toscana
-25-ott,228,82.9,100,0,0,0,Toscana
-26-ott,259,87.4,100,0,0,0,Toscana
-27-ott,286,94.5,100,0,0,0,Toscana
-28-ott,309,99.2,100,0,0,0,Toscana
-29-ott,331,94.5,100,0,0,0,Toscana
-30-ott,371,100.8,100,0,0,0,Toscana
-31-ott,398,97,100,0,0,0,Toscana
-1-nov,412,80.9,100,0,0,0,Toscana
-2-nov,407,57,100,0,0,0,Toscana
-3-nov,421,47,100,0,0,0,Toscana
-4-nov,424,37.3,100,0,0,0,Toscana
-5-nov,432,30.6,100,0,0,0,Toscana
+1-ott,20,-4.8,0,0,0,0,Toscana
+2-ott,22,0.7,0,0,0,0,Toscana
+3-ott,25,15.8,0,0,0,0,Toscana
+4-ott,27,34.4,0,0,0,0,Toscana
+5-ott,30,47.4,0,0,0,0,Toscana
+6-ott,34,71.8,0,0,0,0,Toscana
+7-ott,39,88.5,0,0,0,0,Toscana
+8-ott,44,117.4,0,0,0,0,Toscana
+9-ott,51,126.6,0,0,0,0,Toscana
+10-ott,60,143.2,0,0,0,0,Toscana
+11-ott,69,154.8,0,0,0,0,Toscana
+12-ott,77,157.1,0,0,0,0,Toscana
+13-ott,84,147.5,0,0,0,0,Toscana
+14-ott,91,135.7,0,0,0,0,Toscana
+15-ott,98,122.4,0,0,0,0,Toscana
+16-ott,105,106.3,0,0,0,0,Toscana
+17-ott,114,88.9,0,0,0,0,Toscana
+18-ott,124,79.9,0,0,0,0,Toscana
+19-ott,138,80.4,0,0,0,0,Toscana
+20-ott,147,75.4,0,0,0,0,Toscana
+21-ott,155,69.7,0,0,0,0,Toscana
+22-ott,170,73.9,0,0,0,0,Toscana
+23-ott,185,75.5,0,0,0,0,Toscana
+24-ott,202,77.1,0,0,0,0,Toscana
+25-ott,228,82.9,0,0,0,0,Toscana
+26-ott,259,87.4,0,0,0,0,Toscana
+27-ott,286,94.5,0,0,0,0,Toscana
+28-ott,309,99.2,0,0,0,0,Toscana
+29-ott,331,94.5,0,0,0,0,Toscana
+30-ott,371,100.8,0,0,0,0,Toscana
+31-ott,398,97,0,0,0,0,Toscana
+1-nov,412,80.9,0,0,0,0,Toscana
+2-nov,407,57,0,0,0,0,Toscana
+3-nov,421,47,0,0,0,0,Toscana
+4-nov,424,37.3,0,0,0,0,Toscana
+5-nov,432,30.6,0,0,0,0,Toscana
 6-nov,428,15.4,0,100,0,0,Toscana
 7-nov,434,9.2,0,100,0,0,Toscana
 8-nov,437,6.2,0,100,0,0,Toscana
@@ -2012,42 +2012,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,26,8.4,100,0,0,0,Lazio
-2-ott,27,8,100,0,0,0,Lazio
-3-ott,27,9.2,100,0,0,0,Lazio
-4-ott,28,12.3,100,0,0,0,Lazio
-5-ott,29,13.8,100,0,0,0,Lazio
-6-ott,30,19,100,0,0,0,Lazio
-7-ott,33,27.6,100,0,0,0,Lazio
-8-ott,34,30.8,100,0,0,0,Lazio
-9-ott,36,35.8,100,0,0,0,Lazio
-10-ott,38,39.9,100,0,0,0,Lazio
-11-ott,40,42.2,100,0,0,0,Lazio
-12-ott,43,47.7,100,0,0,0,Lazio
-13-ott,48,60.3,100,0,0,0,Lazio
-14-ott,51,57.7,100,0,0,0,Lazio
-15-ott,55,62,100,0,0,0,Lazio
-16-ott,62,71.8,100,0,0,0,Lazio
-17-ott,73,89.5,100,0,0,0,Lazio
-18-ott,87,114.1,100,0,0,0,Lazio
-19-ott,96,123.2,100,0,0,0,Lazio
-20-ott,107,122,100,0,0,0,Lazio
-21-ott,118,130.7,100,0,0,0,Lazio
-22-ott,130,134.2,100,0,0,0,Lazio
-23-ott,140,124.4,100,0,0,0,Lazio
-24-ott,152,108.5,100,0,0,0,Lazio
-25-ott,157,81.4,100,0,0,0,Lazio
-26-ott,170,77.4,100,0,0,0,Lazio
-27-ott,183,71.4,100,0,0,0,Lazio
-28-ott,196,65.5,100,0,0,0,Lazio
-29-ott,209,61,100,0,0,0,Lazio
-30-ott,223,59.8,100,0,0,0,Lazio
-31-ott,233,54.1,100,0,0,0,Lazio
-1-nov,247,57.1,100,0,0,0,Lazio
-2-nov,250,46.8,100,0,0,0,Lazio
-3-nov,254,38.4,100,0,0,0,Lazio
-4-nov,262,33.5,100,0,0,0,Lazio
-5-nov,274,31.4,100,0,0,0,Lazio
+1-ott,26,8.4,0,0,0,0,Lazio
+2-ott,27,8,0,0,0,0,Lazio
+3-ott,27,9.2,0,0,0,0,Lazio
+4-ott,28,12.3,0,0,0,0,Lazio
+5-ott,29,13.8,0,0,0,0,Lazio
+6-ott,30,19,0,0,0,0,Lazio
+7-ott,33,27.6,0,0,0,0,Lazio
+8-ott,34,30.8,0,0,0,0,Lazio
+9-ott,36,35.8,0,0,0,0,Lazio
+10-ott,38,39.9,0,0,0,0,Lazio
+11-ott,40,42.2,0,0,0,0,Lazio
+12-ott,43,47.7,0,0,0,0,Lazio
+13-ott,48,60.3,0,0,0,0,Lazio
+14-ott,51,57.7,0,0,0,0,Lazio
+15-ott,55,62,0,0,0,0,Lazio
+16-ott,62,71.8,0,0,0,0,Lazio
+17-ott,73,89.5,0,0,0,0,Lazio
+18-ott,87,114.1,0,0,0,0,Lazio
+19-ott,96,123.2,0,0,0,0,Lazio
+20-ott,107,122,0,0,0,0,Lazio
+21-ott,118,130.7,0,0,0,0,Lazio
+22-ott,130,134.2,0,0,0,0,Lazio
+23-ott,140,124.4,0,0,0,0,Lazio
+24-ott,152,108.5,0,0,0,0,Lazio
+25-ott,157,81.4,0,0,0,0,Lazio
+26-ott,170,77.4,0,0,0,0,Lazio
+27-ott,183,71.4,0,0,0,0,Lazio
+28-ott,196,65.5,0,0,0,0,Lazio
+29-ott,209,61,0,0,0,0,Lazio
+30-ott,223,59.8,0,0,0,0,Lazio
+31-ott,233,54.1,0,0,0,0,Lazio
+1-nov,247,57.1,0,0,0,0,Lazio
+2-nov,250,46.8,0,0,0,0,Lazio
+3-nov,254,38.4,0,0,0,0,Lazio
+4-nov,262,33.5,0,0,0,0,Lazio
+5-nov,274,31.4,0,0,0,0,Lazio
 6-nov,282,26.3,0,100,0,0,Lazio
 7-nov,288,23.2,0,100,0,0,Lazio
 8-nov,290,17.2,0,100,0,0,Lazio
@@ -2195,42 +2195,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,23,31.4,100,0,0,0,Umbria
-2-ott,28,54.4,100,0,0,0,Umbria
-3-ott,28,55.9,100,0,0,0,Umbria
-4-ott,34,91.1,100,0,0,0,Umbria
-5-ott,35,89,100,0,0,0,Umbria
-6-ott,40,116.8,100,0,0,0,Umbria
-7-ott,42,95.7,100,0,0,0,Umbria
-8-ott,46,98,100,0,0,0,Umbria
-9-ott,56,102.9,100,0,0,0,Umbria
-10-ott,66,133.1,100,0,0,0,Umbria
-11-ott,73,114.6,100,0,0,0,Umbria
-12-ott,88,150.6,100,0,0,0,Umbria
-13-ott,96,143.8,100,0,0,0,Umbria
-14-ott,105,151.9,100,0,0,0,Umbria
-15-ott,125,172.4,100,0,0,0,Umbria
-16-ott,131,132.9,100,0,0,0,Umbria
-17-ott,139,109.6,100,0,0,0,Umbria
-18-ott,161,118.8,100,0,0,0,Umbria
-19-ott,163,84.9,100,0,0,0,Umbria
-20-ott,169,75.7,100,0,0,0,Umbria
-21-ott,193,83.8,100,0,0,0,Umbria
-22-ott,210,67.1,100,0,0,0,Umbria
-23-ott,238,81.9,100,0,0,0,Umbria
-24-ott,274,97.1,100,0,0,0,Umbria
-25-ott,289,80,100,0,0,0,Umbria
-26-ott,300,84.3,100,0,0,0,Umbria
-27-ott,314,85.2,100,0,0,0,Umbria
-28-ott,320,65.5,100,0,0,0,Umbria
-29-ott,352,68.1,100,0,0,0,Umbria
-30-ott,384,61.6,100,0,0,0,Umbria
-31-ott,379,38.5,100,0,0,0,Umbria
-1-nov,414,43,100,0,0,0,Umbria
-2-nov,406,35.2,100,0,0,0,Umbria
-3-nov,418,33.2,100,0,0,0,Umbria
-4-nov,429,34.1,100,0,0,0,Umbria
-5-nov,437,24.1,100,0,0,0,Umbria
+1-ott,23,31.4,0,0,0,0,Umbria
+2-ott,28,54.4,0,0,0,0,Umbria
+3-ott,28,55.9,0,0,0,0,Umbria
+4-ott,34,91.1,0,0,0,0,Umbria
+5-ott,35,89,0,0,0,0,Umbria
+6-ott,40,116.8,0,0,0,0,Umbria
+7-ott,42,95.7,0,0,0,0,Umbria
+8-ott,46,98,0,0,0,0,Umbria
+9-ott,56,102.9,0,0,0,0,Umbria
+10-ott,66,133.1,0,0,0,0,Umbria
+11-ott,73,114.6,0,0,0,0,Umbria
+12-ott,88,150.6,0,0,0,0,Umbria
+13-ott,96,143.8,0,0,0,0,Umbria
+14-ott,105,151.9,0,0,0,0,Umbria
+15-ott,125,172.4,0,0,0,0,Umbria
+16-ott,131,132.9,0,0,0,0,Umbria
+17-ott,139,109.6,0,0,0,0,Umbria
+18-ott,161,118.8,0,0,0,0,Umbria
+19-ott,163,84.9,0,0,0,0,Umbria
+20-ott,169,75.7,0,0,0,0,Umbria
+21-ott,193,83.8,0,0,0,0,Umbria
+22-ott,210,67.1,0,0,0,0,Umbria
+23-ott,238,81.9,0,0,0,0,Umbria
+24-ott,274,97.1,0,0,0,0,Umbria
+25-ott,289,80,0,0,0,0,Umbria
+26-ott,300,84.3,0,0,0,0,Umbria
+27-ott,314,85.2,0,0,0,0,Umbria
+28-ott,320,65.5,0,0,0,0,Umbria
+29-ott,352,68.1,0,0,0,0,Umbria
+30-ott,384,61.6,0,0,0,0,Umbria
+31-ott,379,38.5,0,0,0,0,Umbria
+1-nov,414,43,0,0,0,0,Umbria
+2-nov,406,35.2,0,0,0,0,Umbria
+3-nov,418,33.2,0,0,0,0,Umbria
+4-nov,429,34.1,0,0,0,0,Umbria
+5-nov,437,24.1,0,0,0,0,Umbria
 6-nov,442,14.9,0,100,0,0,Umbria
 7-nov,465,22.5,0,100,0,0,Umbria
 8-nov,453,9.3,0,100,0,0,Umbria
@@ -2378,42 +2378,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,14,0,100,0,0,0,Abruzzo
-2-ott,14,0.6,100,0,0,0,Abruzzo
-3-ott,16,5.6,100,0,0,0,Abruzzo
-4-ott,15,-18.9,100,0,0,0,Abruzzo
-5-ott,17,28.2,100,0,0,0,Abruzzo
-6-ott,20,52.7,100,0,0,0,Abruzzo
-7-ott,23,74.1,100,0,0,0,Abruzzo
-8-ott,25,82.5,100,0,0,0,Abruzzo
-9-ott,30,114.4,100,0,0,0,Abruzzo
-10-ott,34,112.6,100,0,0,0,Abruzzo
-11-ott,37,143.7,100,0,0,0,Abruzzo
-12-ott,43,154.7,100,0,0,0,Abruzzo
-13-ott,51,158.1,100,0,0,0,Abruzzo
-14-ott,56,146.6,100,0,0,0,Abruzzo
-15-ott,66,158.7,100,0,0,0,Abruzzo
-16-ott,72,142,100,0,0,0,Abruzzo
-17-ott,76,125.7,100,0,0,0,Abruzzo
-18-ott,87,136.9,100,0,0,0,Abruzzo
-19-ott,90,107,100,0,0,0,Abruzzo
-20-ott,93,82.3,100,0,0,0,Abruzzo
-21-ott,102,83.6,100,0,0,0,Abruzzo
-22-ott,110,67.1,100,0,0,0,Abruzzo
-23-ott,114,59.7,100,0,0,0,Abruzzo
-24-ott,132,73.9,100,0,0,0,Abruzzo
-25-ott,143,64.6,100,0,0,0,Abruzzo
-26-ott,157,75.5,100,0,0,0,Abruzzo
-27-ott,170,83.3,100,0,0,0,Abruzzo
-28-ott,184,79.6,100,0,0,0,Abruzzo
-29-ott,197,78.9,100,0,0,0,Abruzzo
-30-ott,212,85.1,100,0,0,0,Abruzzo
-31-ott,217,65.1,100,0,0,0,Abruzzo
-1-nov,227,58.9,100,0,0,0,Abruzzo
-2-nov,237,50.4,100,0,0,0,Abruzzo
-3-nov,256,51.1,100,0,0,0,Abruzzo
-4-nov,255,39.2,100,0,0,0,Abruzzo
-5-nov,262,33,100,0,0,0,Abruzzo
+1-ott,14,0,0,0,0,0,Abruzzo
+2-ott,14,0.6,0,0,0,0,Abruzzo
+3-ott,16,5.6,0,0,0,0,Abruzzo
+4-ott,15,-18.9,0,0,0,0,Abruzzo
+5-ott,17,28.2,0,0,0,0,Abruzzo
+6-ott,20,52.7,0,0,0,0,Abruzzo
+7-ott,23,74.1,0,0,0,0,Abruzzo
+8-ott,25,82.5,0,0,0,0,Abruzzo
+9-ott,30,114.4,0,0,0,0,Abruzzo
+10-ott,34,112.6,0,0,0,0,Abruzzo
+11-ott,37,143.7,0,0,0,0,Abruzzo
+12-ott,43,154.7,0,0,0,0,Abruzzo
+13-ott,51,158.1,0,0,0,0,Abruzzo
+14-ott,56,146.6,0,0,0,0,Abruzzo
+15-ott,66,158.7,0,0,0,0,Abruzzo
+16-ott,72,142,0,0,0,0,Abruzzo
+17-ott,76,125.7,0,0,0,0,Abruzzo
+18-ott,87,136.9,0,0,0,0,Abruzzo
+19-ott,90,107,0,0,0,0,Abruzzo
+20-ott,93,82.3,0,0,0,0,Abruzzo
+21-ott,102,83.6,0,0,0,0,Abruzzo
+22-ott,110,67.1,0,0,0,0,Abruzzo
+23-ott,114,59.7,0,0,0,0,Abruzzo
+24-ott,132,73.9,0,0,0,0,Abruzzo
+25-ott,143,64.6,0,0,0,0,Abruzzo
+26-ott,157,75.5,0,0,0,0,Abruzzo
+27-ott,170,83.3,0,0,0,0,Abruzzo
+28-ott,184,79.6,0,0,0,0,Abruzzo
+29-ott,197,78.9,0,0,0,0,Abruzzo
+30-ott,212,85.1,0,0,0,0,Abruzzo
+31-ott,217,65.1,0,0,0,0,Abruzzo
+1-nov,227,58.9,0,0,0,0,Abruzzo
+2-nov,237,50.4,0,0,0,0,Abruzzo
+3-nov,256,51.1,0,0,0,0,Abruzzo
+4-nov,255,39.2,0,0,0,0,Abruzzo
+5-nov,262,33,0,0,0,0,Abruzzo
 6-nov,259,22.5,0,100,0,0,Abruzzo
 7-nov,258,18.6,0,100,0,0,Abruzzo
 8-nov,265,16.9,0,100,0,0,Abruzzo
@@ -2561,42 +2561,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,9,-40.8,100,0,0,0,Molise
-2-ott,9,-45.1,100,0,0,0,Molise
-3-ott,8,-54.9,100,0,0,0,Molise
-4-ott,10,-45.6,100,0,0,0,Molise
-5-ott,9,-3.3,100,0,0,0,Molise
-6-ott,11,17.2,100,0,0,0,Molise
-7-ott,9,-9.4,100,0,0,0,Molise
-8-ott,11,17.2,100,0,0,0,Molise
-9-ott,13,46.4,100,0,0,0,Molise
-10-ott,17,121.7,100,0,0,0,Molise
-11-ott,21,106.5,100,0,0,0,Molise
-12-ott,23,137.9,100,0,0,0,Molise
-13-ott,37,229.4,100,0,0,0,Molise
-14-ott,42,344.8,100,0,0,0,Molise
-15-ott,50,350,100,0,0,0,Molise
-16-ott,53,297.6,100,0,0,0,Molise
-17-ott,71,327.5,100,0,0,0,Molise
-18-ott,71,239.1,100,0,0,0,Molise
-19-ott,81,259.4,100,0,0,0,Molise
-20-ott,74,100.9,100,0,0,0,Molise
-21-ott,75,77.5,100,0,0,0,Molise
-22-ott,74,48.4,100,0,0,0,Molise
-23-ott,86,60.7,100,0,0,0,Molise
-24-ott,86,20.6,100,0,0,0,Molise
-25-ott,86,20.7,100,0,0,0,Molise
-26-ott,106,31,100,0,0,0,Molise
-27-ott,119,62.2,100,0,0,0,Molise
-28-ott,118,58.1,100,0,0,0,Molise
-29-ott,140,88.5,100,0,0,0,Molise
-30-ott,159,85.5,100,0,0,0,Molise
-31-ott,165,91.3,100,0,0,0,Molise
-1-nov,189,120.6,100,0,0,0,Molise
-2-nov,189,77.8,100,0,0,0,Molise
-3-nov,198,65.8,100,0,0,0,Molise
-4-nov,200,69.1,100,0,0,0,Molise
-5-nov,205,46,100,0,0,0,Molise
+1-ott,9,-40.8,0,0,0,0,Molise
+2-ott,9,-45.1,0,0,0,0,Molise
+3-ott,8,-54.9,0,0,0,0,Molise
+4-ott,10,-45.6,0,0,0,0,Molise
+5-ott,9,-3.3,0,0,0,0,Molise
+6-ott,11,17.2,0,0,0,0,Molise
+7-ott,9,-9.4,0,0,0,0,Molise
+8-ott,11,17.2,0,0,0,0,Molise
+9-ott,13,46.4,0,0,0,0,Molise
+10-ott,17,121.7,0,0,0,0,Molise
+11-ott,21,106.5,0,0,0,0,Molise
+12-ott,23,137.9,0,0,0,0,Molise
+13-ott,37,229.4,0,0,0,0,Molise
+14-ott,42,344.8,0,0,0,0,Molise
+15-ott,50,350,0,0,0,0,Molise
+16-ott,53,297.6,0,0,0,0,Molise
+17-ott,71,327.5,0,0,0,0,Molise
+18-ott,71,239.1,0,0,0,0,Molise
+19-ott,81,259.4,0,0,0,0,Molise
+20-ott,74,100.9,0,0,0,0,Molise
+21-ott,75,77.5,0,0,0,0,Molise
+22-ott,74,48.4,0,0,0,0,Molise
+23-ott,86,60.7,0,0,0,0,Molise
+24-ott,86,20.6,0,0,0,0,Molise
+25-ott,86,20.7,0,0,0,0,Molise
+26-ott,106,31,0,0,0,0,Molise
+27-ott,119,62.2,0,0,0,0,Molise
+28-ott,118,58.1,0,0,0,0,Molise
+29-ott,140,88.5,0,0,0,0,Molise
+30-ott,159,85.5,0,0,0,0,Molise
+31-ott,165,91.3,0,0,0,0,Molise
+1-nov,189,120.6,0,0,0,0,Molise
+2-nov,189,77.8,0,0,0,0,Molise
+3-nov,198,65.8,0,0,0,0,Molise
+4-nov,200,69.1,0,0,0,0,Molise
+5-nov,205,46,0,0,0,0,Molise
 6-nov,192,20.8,0,100,0,0,Molise
 7-nov,215,30.4,0,100,0,0,Molise
 8-nov,211,11.8,0,100,0,0,Molise
@@ -2744,42 +2744,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,35,48.2,100,0,0,0,Campania
-2-ott,37,53.3,100,0,0,0,Campania
-3-ott,40,49.1,100,0,0,0,Campania
-4-ott,42,52.6,100,0,0,0,Campania
-5-ott,45,56,100,0,0,0,Campania
-6-ott,47,50.8,100,0,0,0,Campania
-7-ott,51,61.6,100,0,0,0,Campania
-8-ott,57,64.1,100,0,0,0,Campania
-9-ott,64,71,100,0,0,0,Campania
-10-ott,68,73,100,0,0,0,Campania
-11-ott,72,70.2,100,0,0,0,Campania
-12-ott,76,70.2,100,0,0,0,Campania
-13-ott,80,72.2,100,0,0,0,Campania
-14-ott,85,66.5,100,0,0,0,Campania
-15-ott,91,59.3,100,0,0,0,Campania
-16-ott,100,56.4,100,0,0,0,Campania
-17-ott,113,64.8,100,0,0,0,Campania
-18-ott,126,73.8,100,0,0,0,Campania
-19-ott,142,85.8,100,0,0,0,Campania
-20-ott,153,90.8,100,0,0,0,Campania
-21-ott,170,99.3,100,0,0,0,Campania
-22-ott,177,93.2,100,0,0,0,Campania
-23-ott,194,94.3,100,0,0,0,Campania
-24-ott,200,76.9,100,0,0,0,Campania
-25-ott,221,75.5,100,0,0,0,Campania
-26-ott,227,60.4,100,0,0,0,Campania
-27-ott,252,64.4,100,0,0,0,Campania
-28-ott,264,55.5,100,0,0,0,Campania
-29-ott,291,64.4,100,0,0,0,Campania
-30-ott,306,57.6,100,0,0,0,Campania
-31-ott,340,70.3,100,0,0,0,Campania
-1-nov,362,64,100,0,0,0,Campania
-2-nov,377,65.9,100,0,0,0,Campania
-3-nov,381,50.9,100,0,0,0,Campania
-4-nov,411,55.8,100,0,0,0,Campania
-5-nov,424,46,100,0,0,0,Campania
+1-ott,35,48.2,0,0,0,0,Campania
+2-ott,37,53.3,0,0,0,0,Campania
+3-ott,40,49.1,0,0,0,0,Campania
+4-ott,42,52.6,0,0,0,0,Campania
+5-ott,45,56,0,0,0,0,Campania
+6-ott,47,50.8,0,0,0,0,Campania
+7-ott,51,61.6,0,0,0,0,Campania
+8-ott,57,64.1,0,0,0,0,Campania
+9-ott,64,71,0,0,0,0,Campania
+10-ott,68,73,0,0,0,0,Campania
+11-ott,72,70.2,0,0,0,0,Campania
+12-ott,76,70.2,0,0,0,0,Campania
+13-ott,80,72.2,0,0,0,0,Campania
+14-ott,85,66.5,0,0,0,0,Campania
+15-ott,91,59.3,0,0,0,0,Campania
+16-ott,100,56.4,0,0,0,0,Campania
+17-ott,113,64.8,0,0,0,0,Campania
+18-ott,126,73.8,0,0,0,0,Campania
+19-ott,142,85.8,0,0,0,0,Campania
+20-ott,153,90.8,0,0,0,0,Campania
+21-ott,170,99.3,0,0,0,0,Campania
+22-ott,177,93.2,0,0,0,0,Campania
+23-ott,194,94.3,0,0,0,0,Campania
+24-ott,200,76.9,0,0,0,0,Campania
+25-ott,221,75.5,0,0,0,0,Campania
+26-ott,227,60.4,0,0,0,0,Campania
+27-ott,252,64.4,0,0,0,0,Campania
+28-ott,264,55.5,0,0,0,0,Campania
+29-ott,291,64.4,0,0,0,0,Campania
+30-ott,306,57.6,0,0,0,0,Campania
+31-ott,340,70.3,0,0,0,0,Campania
+1-nov,362,64,0,0,0,0,Campania
+2-nov,377,65.9,0,0,0,0,Campania
+3-nov,381,50.9,0,0,0,0,Campania
+4-nov,411,55.8,0,0,0,0,Campania
+5-nov,424,46,0,0,0,0,Campania
 6-nov,447,46,0,100,0,0,Campania
 7-nov,458,34.8,0,100,0,0,Campania
 8-nov,471,30.2,0,100,0,0,Campania
@@ -2927,42 +2927,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,15,8,100,0,0,0,Puglia
-2-ott,14,3.6,100,0,0,0,Puglia
-3-ott,16,27.3,100,0,0,0,Puglia
-4-ott,18,35.3,100,0,0,0,Puglia
-5-ott,18,31.7,100,0,0,0,Puglia
-6-ott,18,35,100,0,0,0,Puglia
-7-ott,21,50.1,100,0,0,0,Puglia
-8-ott,24,62.2,100,0,0,0,Puglia
-9-ott,28,97.9,100,0,0,0,Puglia
-10-ott,30,90.8,100,0,0,0,Puglia
-11-ott,32,79.2,100,0,0,0,Puglia
-12-ott,34,91.5,100,0,0,0,Puglia
-13-ott,35,93.8,100,0,0,0,Puglia
-14-ott,38,85.5,100,0,0,0,Puglia
-15-ott,39,60.7,100,0,0,0,Puglia
-16-ott,40,41.4,100,0,0,0,Puglia
-17-ott,44,46.6,100,0,0,0,Puglia
-18-ott,46,46.6,100,0,0,0,Puglia
-19-ott,51,50.7,100,0,0,0,Puglia
-20-ott,53,50.9,100,0,0,0,Puglia
-21-ott,54,39.9,100,0,0,0,Puglia
-22-ott,59,53.7,100,0,0,0,Puglia
-23-ott,66,64.8,100,0,0,0,Puglia
-24-ott,73,65.2,100,0,0,0,Puglia
-25-ott,78,68.8,100,0,0,0,Puglia
-26-ott,81,60.2,100,0,0,0,Puglia
-27-ott,89,66.4,100,0,0,0,Puglia
-28-ott,100,86.4,100,0,0,0,Puglia
-29-ott,106,78.3,100,0,0,0,Puglia
-30-ott,111,67.3,100,0,0,0,Puglia
-31-ott,114,55.8,100,0,0,0,Puglia
-1-nov,118,50.5,100,0,0,0,Puglia
-2-nov,123,51.9,100,0,0,0,Puglia
-3-nov,137,53.9,100,0,0,0,Puglia
-4-nov,142,42.3,100,0,0,0,Puglia
-5-nov,146,37.7,100,0,0,0,Puglia
+1-ott,15,8,0,0,0,0,Puglia
+2-ott,14,3.6,0,0,0,0,Puglia
+3-ott,16,27.3,0,0,0,0,Puglia
+4-ott,18,35.3,0,0,0,0,Puglia
+5-ott,18,31.7,0,0,0,0,Puglia
+6-ott,18,35,0,0,0,0,Puglia
+7-ott,21,50.1,0,0,0,0,Puglia
+8-ott,24,62.2,0,0,0,0,Puglia
+9-ott,28,97.9,0,0,0,0,Puglia
+10-ott,30,90.8,0,0,0,0,Puglia
+11-ott,32,79.2,0,0,0,0,Puglia
+12-ott,34,91.5,0,0,0,0,Puglia
+13-ott,35,93.8,0,0,0,0,Puglia
+14-ott,38,85.5,0,0,0,0,Puglia
+15-ott,39,60.7,0,0,0,0,Puglia
+16-ott,40,41.4,0,0,0,0,Puglia
+17-ott,44,46.6,0,0,0,0,Puglia
+18-ott,46,46.6,0,0,0,0,Puglia
+19-ott,51,50.7,0,0,0,0,Puglia
+20-ott,53,50.9,0,0,0,0,Puglia
+21-ott,54,39.9,0,0,0,0,Puglia
+22-ott,59,53.7,0,0,0,0,Puglia
+23-ott,66,64.8,0,0,0,0,Puglia
+24-ott,73,65.2,0,0,0,0,Puglia
+25-ott,78,68.8,0,0,0,0,Puglia
+26-ott,81,60.2,0,0,0,0,Puglia
+27-ott,89,66.4,0,0,0,0,Puglia
+28-ott,100,86.4,0,0,0,0,Puglia
+29-ott,106,78.3,0,0,0,0,Puglia
+30-ott,111,67.3,0,0,0,0,Puglia
+31-ott,114,55.8,0,0,0,0,Puglia
+1-nov,118,50.5,0,0,0,0,Puglia
+2-nov,123,51.9,0,0,0,0,Puglia
+3-nov,137,53.9,0,0,0,0,Puglia
+4-nov,142,42.3,0,0,0,0,Puglia
+5-nov,146,37.7,0,0,0,0,Puglia
 6-nov,149,35,0,0,100,0,Puglia
 7-nov,157,37.5,0,0,100,0,Puglia
 8-nov,159,34.5,0,0,100,0,Puglia
@@ -3110,42 +3110,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,29,226,100,0,0,0,Basilicata
-2-ott,29,163.5,100,0,0,0,Basilicata
-3-ott,34,123.5,100,0,0,0,Basilicata
-4-ott,28,24.6,100,0,0,0,Basilicata
-5-ott,29,24.2,100,0,0,0,Basilicata
-6-ott,29,30.6,100,0,0,0,Basilicata
-7-ott,26,4.3,100,0,0,0,Basilicata
-8-ott,24,-17.8,100,0,0,0,Basilicata
-9-ott,25,-15.7,100,0,0,0,Basilicata
-10-ott,23,-32.6,100,0,0,0,Basilicata
-11-ott,23,-19.1,100,0,0,0,Basilicata
-12-ott,22,-24.4,100,0,0,0,Basilicata
-13-ott,23,-21,100,0,0,0,Basilicata
-14-ott,22,-15.9,100,0,0,0,Basilicata
-15-ott,24,2.2,100,0,0,0,Basilicata
-16-ott,31,22.9,100,0,0,0,Basilicata
-17-ott,34,50,100,0,0,0,Basilicata
-18-ott,40,78.7,100,0,0,0,Basilicata
-19-ott,42,91.9,100,0,0,0,Basilicata
-20-ott,44,93,100,0,0,0,Basilicata
-21-ott,57,164.8,100,0,0,0,Basilicata
-22-ott,66,169.3,100,0,0,0,Basilicata
-23-ott,71,132.6,100,0,0,0,Basilicata
-24-ott,70,104.7,100,0,0,0,Basilicata
-25-ott,75,85.9,100,0,0,0,Basilicata
-26-ott,72,71.4,100,0,0,0,Basilicata
-27-ott,83,89.5,100,0,0,0,Basilicata
-28-ott,89,55.7,100,0,0,0,Basilicata
-29-ott,90,37.1,100,0,0,0,Basilicata
-30-ott,91,28.3,100,0,0,0,Basilicata
-31-ott,103,47.6,100,0,0,0,Basilicata
-1-nov,116,54.7,100,0,0,0,Basilicata
-2-nov,134,85.3,100,0,0,0,Basilicata
-3-nov,139,66.9,100,0,0,0,Basilicata
-4-nov,158,76.3,100,0,0,0,Basilicata
-5-nov,166,85,100,0,0,0,Basilicata
+1-ott,29,226,0,0,0,0,Basilicata
+2-ott,29,163.5,0,0,0,0,Basilicata
+3-ott,34,123.5,0,0,0,0,Basilicata
+4-ott,28,24.6,0,0,0,0,Basilicata
+5-ott,29,24.2,0,0,0,0,Basilicata
+6-ott,29,30.6,0,0,0,0,Basilicata
+7-ott,26,4.3,0,0,0,0,Basilicata
+8-ott,24,-17.8,0,0,0,0,Basilicata
+9-ott,25,-15.7,0,0,0,0,Basilicata
+10-ott,23,-32.6,0,0,0,0,Basilicata
+11-ott,23,-19.1,0,0,0,0,Basilicata
+12-ott,22,-24.4,0,0,0,0,Basilicata
+13-ott,23,-21,0,0,0,0,Basilicata
+14-ott,22,-15.9,0,0,0,0,Basilicata
+15-ott,24,2.2,0,0,0,0,Basilicata
+16-ott,31,22.9,0,0,0,0,Basilicata
+17-ott,34,50,0,0,0,0,Basilicata
+18-ott,40,78.7,0,0,0,0,Basilicata
+19-ott,42,91.9,0,0,0,0,Basilicata
+20-ott,44,93,0,0,0,0,Basilicata
+21-ott,57,164.8,0,0,0,0,Basilicata
+22-ott,66,169.3,0,0,0,0,Basilicata
+23-ott,71,132.6,0,0,0,0,Basilicata
+24-ott,70,104.7,0,0,0,0,Basilicata
+25-ott,75,85.9,0,0,0,0,Basilicata
+26-ott,72,71.4,0,0,0,0,Basilicata
+27-ott,83,89.5,0,0,0,0,Basilicata
+28-ott,89,55.7,0,0,0,0,Basilicata
+29-ott,90,37.1,0,0,0,0,Basilicata
+30-ott,91,28.3,0,0,0,0,Basilicata
+31-ott,103,47.6,0,0,0,0,Basilicata
+1-nov,116,54.7,0,0,0,0,Basilicata
+2-nov,134,85.3,0,0,0,0,Basilicata
+3-nov,139,66.9,0,0,0,0,Basilicata
+4-nov,158,76.3,0,0,0,0,Basilicata
+5-nov,166,85,0,0,0,0,Basilicata
 6-nov,194,112.5,0,100,0,0,Basilicata
 7-nov,192,85.9,0,100,0,0,Basilicata
 8-nov,209,79.8,0,100,0,0,Basilicata
@@ -3293,42 +3293,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,5,-23.7,100,0,0,0,Calabria
-2-ott,6,-5.8,100,0,0,0,Calabria
-3-ott,6,10.8,100,0,0,0,Calabria
-4-ott,6,-7.5,100,0,0,0,Calabria
-5-ott,7,14.2,100,0,0,0,Calabria
-6-ott,7,43.4,100,0,0,0,Calabria
-7-ott,7,42.9,100,0,0,0,Calabria
-8-ott,7,35.8,100,0,0,0,Calabria
-9-ott,9,47.4,100,0,0,0,Calabria
-10-ott,11,72.4,100,0,0,0,Calabria
-11-ott,12,105.4,100,0,0,0,Calabria
-12-ott,13,100,100,0,0,0,Calabria
-13-ott,14,96.5,100,0,0,0,Calabria
-14-ott,17,130.7,100,0,0,0,Calabria
-15-ott,18,136.8,100,0,0,0,Calabria
-16-ott,21,138.7,100,0,0,0,Calabria
-17-ott,22,101.4,100,0,0,0,Calabria
-18-ott,24,106.1,100,0,0,0,Calabria
-19-ott,27,103.5,100,0,0,0,Calabria
-20-ott,30,106.1,100,0,0,0,Calabria
-21-ott,33,101.5,100,0,0,0,Calabria
-22-ott,41,134.3,100,0,0,0,Calabria
-23-ott,44,113.5,100,0,0,0,Calabria
-24-ott,48,117.3,100,0,0,0,Calabria
-25-ott,53,118.9,100,0,0,0,Calabria
-26-ott,57,109.7,100,0,0,0,Calabria
-27-ott,64,115.8,100,0,0,0,Calabria
-28-ott,67,99.8,100,0,0,0,Calabria
-29-ott,69,67.5,100,0,0,0,Calabria
-30-ott,73,65.7,100,0,0,0,Calabria
-31-ott,75,56.7,100,0,0,0,Calabria
-1-nov,78,47.7,100,0,0,0,Calabria
-2-nov,82,44.8,100,0,0,0,Calabria
-3-nov,84,31,100,0,0,0,Calabria
-4-nov,87,30.1,100,0,0,0,Calabria
-5-nov,94,36.5,100,0,0,0,Calabria
+1-ott,5,-23.7,0,0,0,0,Calabria
+2-ott,6,-5.8,0,0,0,0,Calabria
+3-ott,6,10.8,0,0,0,0,Calabria
+4-ott,6,-7.5,0,0,0,0,Calabria
+5-ott,7,14.2,0,0,0,0,Calabria
+6-ott,7,43.4,0,0,0,0,Calabria
+7-ott,7,42.9,0,0,0,0,Calabria
+8-ott,7,35.8,0,0,0,0,Calabria
+9-ott,9,47.4,0,0,0,0,Calabria
+10-ott,11,72.4,0,0,0,0,Calabria
+11-ott,12,105.4,0,0,0,0,Calabria
+12-ott,13,100,0,0,0,0,Calabria
+13-ott,14,96.5,0,0,0,0,Calabria
+14-ott,17,130.7,0,0,0,0,Calabria
+15-ott,18,136.8,0,0,0,0,Calabria
+16-ott,21,138.7,0,0,0,0,Calabria
+17-ott,22,101.4,0,0,0,0,Calabria
+18-ott,24,106.1,0,0,0,0,Calabria
+19-ott,27,103.5,0,0,0,0,Calabria
+20-ott,30,106.1,0,0,0,0,Calabria
+21-ott,33,101.5,0,0,0,0,Calabria
+22-ott,41,134.3,0,0,0,0,Calabria
+23-ott,44,113.5,0,0,0,0,Calabria
+24-ott,48,117.3,0,0,0,0,Calabria
+25-ott,53,118.9,0,0,0,0,Calabria
+26-ott,57,109.7,0,0,0,0,Calabria
+27-ott,64,115.8,0,0,0,0,Calabria
+28-ott,67,99.8,0,0,0,0,Calabria
+29-ott,69,67.5,0,0,0,0,Calabria
+30-ott,73,65.7,0,0,0,0,Calabria
+31-ott,75,56.7,0,0,0,0,Calabria
+1-nov,78,47.7,0,0,0,0,Calabria
+2-nov,82,44.8,0,0,0,0,Calabria
+3-nov,84,31,0,0,0,0,Calabria
+4-nov,87,30.1,0,0,0,0,Calabria
+5-nov,94,36.5,0,0,0,0,Calabria
 6-nov,95,30.5,0,0,0,100,Calabria
 7-nov,105,40.4,0,0,0,100,Calabria
 8-nov,111,41.8,0,0,0,100,Calabria
@@ -3476,42 +3476,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,18,15.8,100,0,0,0,Sicilia
-2-ott,19,32,100,0,0,0,Sicilia
-3-ott,20,39.7,100,0,0,0,Sicilia
-4-ott,20,38.4,100,0,0,0,Sicilia
-5-ott,20,36.9,100,0,0,0,Sicilia
-6-ott,21,31.9,100,0,0,0,Sicilia
-7-ott,22,24.7,100,0,0,0,Sicilia
-8-ott,24,31.7,100,0,0,0,Sicilia
-9-ott,26,36.9,100,0,0,0,Sicilia
-10-ott,28,37.4,100,0,0,0,Sicilia
-11-ott,32,61.6,100,0,0,0,Sicilia
-12-ott,36,74.1,100,0,0,0,Sicilia
-13-ott,38,81.2,100,0,0,0,Sicilia
-14-ott,41,88,100,0,0,0,Sicilia
-15-ott,44,83.6,100,0,0,0,Sicilia
-16-ott,51,97,100,0,0,0,Sicilia
-17-ott,55,96.1,100,0,0,0,Sicilia
-18-ott,60,85.9,100,0,0,0,Sicilia
-19-ott,61,71.7,100,0,0,0,Sicilia
-20-ott,66,72.1,100,0,0,0,Sicilia
-21-ott,70,68.8,100,0,0,0,Sicilia
-22-ott,78,76.1,100,0,0,0,Sicilia
-23-ott,81,58.3,100,0,0,0,Sicilia
-24-ott,89,62.3,100,0,0,0,Sicilia
-25-ott,92,53.6,100,0,0,0,Sicilia
-26-ott,96,57.1,100,0,0,0,Sicilia
-27-ott,102,54.4,100,0,0,0,Sicilia
-28-ott,105,49.9,100,0,0,0,Sicilia
-29-ott,105,34.4,100,0,0,0,Sicilia
-30-ott,110,35.7,100,0,0,0,Sicilia
-31-ott,111,24.6,100,0,0,0,Sicilia
-1-nov,119,29.3,100,0,0,0,Sicilia
-2-nov,128,33.3,100,0,0,0,Sicilia
-3-nov,132,29.5,100,0,0,0,Sicilia
-4-nov,141,34.4,100,0,0,0,Sicilia
-5-nov,152,44.8,100,0,0,0,Sicilia
+1-ott,18,15.8,0,0,0,0,Sicilia
+2-ott,19,32,0,0,0,0,Sicilia
+3-ott,20,39.7,0,0,0,0,Sicilia
+4-ott,20,38.4,0,0,0,0,Sicilia
+5-ott,20,36.9,0,0,0,0,Sicilia
+6-ott,21,31.9,0,0,0,0,Sicilia
+7-ott,22,24.7,0,0,0,0,Sicilia
+8-ott,24,31.7,0,0,0,0,Sicilia
+9-ott,26,36.9,0,0,0,0,Sicilia
+10-ott,28,37.4,0,0,0,0,Sicilia
+11-ott,32,61.6,0,0,0,0,Sicilia
+12-ott,36,74.1,0,0,0,0,Sicilia
+13-ott,38,81.2,0,0,0,0,Sicilia
+14-ott,41,88,0,0,0,0,Sicilia
+15-ott,44,83.6,0,0,0,0,Sicilia
+16-ott,51,97,0,0,0,0,Sicilia
+17-ott,55,96.1,0,0,0,0,Sicilia
+18-ott,60,85.9,0,0,0,0,Sicilia
+19-ott,61,71.7,0,0,0,0,Sicilia
+20-ott,66,72.1,0,0,0,0,Sicilia
+21-ott,70,68.8,0,0,0,0,Sicilia
+22-ott,78,76.1,0,0,0,0,Sicilia
+23-ott,81,58.3,0,0,0,0,Sicilia
+24-ott,89,62.3,0,0,0,0,Sicilia
+25-ott,92,53.6,0,0,0,0,Sicilia
+26-ott,96,57.1,0,0,0,0,Sicilia
+27-ott,102,54.4,0,0,0,0,Sicilia
+28-ott,105,49.9,0,0,0,0,Sicilia
+29-ott,105,34.4,0,0,0,0,Sicilia
+30-ott,110,35.7,0,0,0,0,Sicilia
+31-ott,111,24.6,0,0,0,0,Sicilia
+1-nov,119,29.3,0,0,0,0,Sicilia
+2-nov,128,33.3,0,0,0,0,Sicilia
+3-nov,132,29.5,0,0,0,0,Sicilia
+4-nov,141,34.4,0,0,0,0,Sicilia
+5-nov,152,44.8,0,0,0,0,Sicilia
 6-nov,160,46.1,0,0,100,0,Sicilia
 7-nov,169,51.7,0,0,100,0,Sicilia
 8-nov,168,41.3,0,0,100,0,Sicilia
@@ -3659,42 +3659,42 @@
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
-1-ott,32,22.4,100,0,0,0,Sardegna
-2-ott,32,25.7,100,0,0,0,Sardegna
-3-ott,32,24.3,100,0,0,0,Sardegna
-4-ott,30,1.6,100,0,0,0,Sardegna
-5-ott,34,18.5,100,0,0,0,Sardegna
-6-ott,32,7.7,100,0,0,0,Sardegna
-7-ott,35,17.4,100,0,0,0,Sardegna
-8-ott,37,16.6,100,0,0,0,Sardegna
-9-ott,42,29.9,100,0,0,0,Sardegna
-10-ott,46,41.9,100,0,0,0,Sardegna
-11-ott,48,56.3,100,0,0,0,Sardegna
-12-ott,50,49.3,100,0,0,0,Sardegna
-13-ott,56,72.3,100,0,0,0,Sardegna
-14-ott,57,61.1,100,0,0,0,Sardegna
-15-ott,61,62.6,100,0,0,0,Sardegna
-16-ott,61,44.9,100,0,0,0,Sardegna
-17-ott,61,33.7,100,0,0,0,Sardegna
-18-ott,66,39.4,100,0,0,0,Sardegna
-19-ott,68,36.1,100,0,0,0,Sardegna
-20-ott,72,29.1,100,0,0,0,Sardegna
-21-ott,75,31,100,0,0,0,Sardegna
-22-ott,78,28.9,100,0,0,0,Sardegna
-23-ott,91,50.8,100,0,0,0,Sardegna
-24-ott,104,69.8,100,0,0,0,Sardegna
-25-ott,101,53,100,0,0,0,Sardegna
-26-ott,106,55.3,100,0,0,0,Sardegna
-27-ott,103,42.9,100,0,0,0,Sardegna
-28-ott,115,53.6,100,0,0,0,Sardegna
-29-ott,117,49.8,100,0,0,0,Sardegna
-30-ott,114,24.8,100,0,0,0,Sardegna
-31-ott,114,10,100,0,0,0,Sardegna
-1-nov,126,24.5,100,0,0,0,Sardegna
-2-nov,132,24.7,100,0,0,0,Sardegna
-3-nov,140,35.8,100,0,0,0,Sardegna
-4-nov,129,12.3,100,0,0,0,Sardegna
-5-nov,137,16.8,100,0,0,0,Sardegna
+1-ott,32,22.4,0,0,0,0,Sardegna
+2-ott,32,25.7,0,0,0,0,Sardegna
+3-ott,32,24.3,0,0,0,0,Sardegna
+4-ott,30,1.6,0,0,0,0,Sardegna
+5-ott,34,18.5,0,0,0,0,Sardegna
+6-ott,32,7.7,0,0,0,0,Sardegna
+7-ott,35,17.4,0,0,0,0,Sardegna
+8-ott,37,16.6,0,0,0,0,Sardegna
+9-ott,42,29.9,0,0,0,0,Sardegna
+10-ott,46,41.9,0,0,0,0,Sardegna
+11-ott,48,56.3,0,0,0,0,Sardegna
+12-ott,50,49.3,0,0,0,0,Sardegna
+13-ott,56,72.3,0,0,0,0,Sardegna
+14-ott,57,61.1,0,0,0,0,Sardegna
+15-ott,61,62.6,0,0,0,0,Sardegna
+16-ott,61,44.9,0,0,0,0,Sardegna
+17-ott,61,33.7,0,0,0,0,Sardegna
+18-ott,66,39.4,0,0,0,0,Sardegna
+19-ott,68,36.1,0,0,0,0,Sardegna
+20-ott,72,29.1,0,0,0,0,Sardegna
+21-ott,75,31,0,0,0,0,Sardegna
+22-ott,78,28.9,0,0,0,0,Sardegna
+23-ott,91,50.8,0,0,0,0,Sardegna
+24-ott,104,69.8,0,0,0,0,Sardegna
+25-ott,101,53,0,0,0,0,Sardegna
+26-ott,106,55.3,0,0,0,0,Sardegna
+27-ott,103,42.9,0,0,0,0,Sardegna
+28-ott,115,53.6,0,0,0,0,Sardegna
+29-ott,117,49.8,0,0,0,0,Sardegna
+30-ott,114,24.8,0,0,0,0,Sardegna
+31-ott,114,10,0,0,0,0,Sardegna
+1-nov,126,24.5,0,0,0,0,Sardegna
+2-nov,132,24.7,0,0,0,0,Sardegna
+3-nov,140,35.8,0,0,0,0,Sardegna
+4-nov,129,12.3,0,0,0,0,Sardegna
+5-nov,137,16.8,0,0,0,0,Sardegna
 6-nov,141,23.2,0,100,0,0,Sardegna
 7-nov,147,28.9,0,100,0,0,Sardegna
 8-nov,148,17.4,0,100,0,0,Sardegna
@@ -3808,7 +3808,7 @@
 24-feb,27,-28.4,0,100,0,0,Sardegna
 25-feb,26,-28.7,0,100,0,0,Sardegna
 26-feb,27,-18.3,0,100,0,0,Sardegna
-27-feb,28,-13.6,0,100,0,0,Sardegna
+27-feb,28,-13.6,100,0,0,0,Sardegna
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,
