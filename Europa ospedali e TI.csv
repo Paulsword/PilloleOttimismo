@@ -368,6 +368,13 @@ Austria,Ospedali,4/1/2021,2021-W13,1765,Country_Website,https://covid19-dashboar
 Austria,Ospedali,4/2/2021,2021-W13,1753,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
 Austria,Ospedali,4/3/2021,2021-W13,1655,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
 Austria,Ospedali,4/4/2021,2021-W13,1671,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Austria,Ospedali,4/5/2021,2021-W14,1771,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Austria,Ospedali,4/6/2021,2021-W14,1854,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Austria,Ospedali,4/7/2021,2021-W14,1877,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Austria,Ospedali,4/8/2021,2021-W14,1807,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Austria,Ospedali,4/9/2021,2021-W14,1802,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Austria,Ospedali,4/10/2021,2021-W14,1734,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Austria,Ospedali,4/11/2021,2021-W14,1705,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
 Austria,Terapie Intensive,4/1/2020,2020-W14,215,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
 Austria,Terapie Intensive,4/2/2020,2020-W14,219,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
 Austria,Terapie Intensive,4/3/2020,2020-W14,245,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
@@ -737,46 +744,53 @@ Austria,Terapie Intensive,4/1/2021,2021-W13,534,Country_Website,https://covid19-
 Austria,Terapie Intensive,4/2/2021,2021-W13,537,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
 Austria,Terapie Intensive,4/3/2021,2021-W13,533,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
 Austria,Terapie Intensive,4/4/2021,2021-W13,562,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
-Belgium,Ospedali,3/15/2020,2020-W11,266,Country_Website,https://epistat.wiv-isp.be/covid/
+Austria,Terapie Intensive,4/5/2021,2021-W14,570,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Austria,Terapie Intensive,4/6/2021,2021-W14,583,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Austria,Terapie Intensive,4/7/2021,2021-W14,583,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Austria,Terapie Intensive,4/8/2021,2021-W14,579,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Austria,Terapie Intensive,4/9/2021,2021-W14,582,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Austria,Terapie Intensive,4/10/2021,2021-W14,584,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Austria,Terapie Intensive,4/11/2021,2021-W14,599,Country_Website,https://covid19-dashboard.ages.at/dashboard_Hosp.html
+Belgium,Ospedali,3/15/2020,2020-W11,263,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,3/16/2020,2020-W12,370,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,3/17/2020,2020-W12,497,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,3/17/2020,2020-W12,493,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,3/18/2020,2020-W12,646,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,3/19/2020,2020-W12,844,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,3/20/2020,2020-W12,1101,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,3/19/2020,2020-W12,840,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,3/20/2020,2020-W12,1108,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,3/21/2020,2020-W12,1384,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,3/22/2020,2020-W12,1646,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,3/22/2020,2020-W12,1661,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,3/23/2020,2020-W13,1883,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,3/24/2020,2020-W13,2140,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,3/24/2020,2020-W13,2204,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,3/25/2020,2020-W13,2721,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,3/26/2020,2020-W13,3077,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,3/27/2020,2020-W13,3650,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,3/28/2020,2020-W13,4089,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,3/29/2020,2020-W13,4480,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,3/26/2020,2020-W13,3111,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,3/27/2020,2020-W13,3649,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,3/28/2020,2020-W13,4088,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,3/29/2020,2020-W13,4536,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,3/30/2020,2020-W14,4897,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,3/31/2020,2020-W14,4989,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/1/2020,2020-W14,5220,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/2/2020,2020-W14,5383,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/3/2020,2020-W14,5513,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,3/31/2020,2020-W14,4988,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/1/2020,2020-W14,5219,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/2/2020,2020-W14,5398,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/3/2020,2020-W14,5562,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/4/2020,2020-W14,5531,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/5/2020,2020-W14,5620,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/6/2020,2020-W15,5759,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/7/2020,2020-W15,5715,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/8/2020,2020-W15,5616,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/9/2020,2020-W15,5636,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/7/2020,2020-W15,5710,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/8/2020,2020-W15,5620,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/9/2020,2020-W15,5640,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/10/2020,2020-W15,5663,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/11/2020,2020-W15,5437,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/12/2020,2020-W15,5441,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/11/2020,2020-W15,5538,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/12/2020,2020-W15,5542,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/13/2020,2020-W16,5554,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/14/2020,2020-W16,5532,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/15/2020,2020-W16,5331,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/16/2020,2020-W16,5181,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/17/2020,2020-W16,5088,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/18/2020,2020-W16,4892,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/18/2020,2020-W16,4889,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/19/2020,2020-W16,4940,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/20/2020,2020-W17,4996,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/21/2020,2020-W17,4765,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/22/2020,2020-W17,4527,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/23/2020,2020-W17,4355,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/23/2020,2020-W17,4353,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/24/2020,2020-W17,4195,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/25/2020,2020-W17,3957,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,4/26/2020,2020-W17,3968,Country_Website,https://epistat.wiv-isp.be/covid/
@@ -787,7 +801,7 @@ Belgium,Ospedali,4/30/2020,2020-W18,3386,Country_Website,https://epistat.wiv-isp
 Belgium,Ospedali,5/1/2020,2020-W18,3109,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,5/2/2020,2020-W18,3080,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,5/3/2020,2020-W18,3044,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,5/4/2020,2020-W19,3082,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,5/4/2020,2020-W19,3080,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,5/5/2020,2020-W19,2868,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,5/6/2020,2020-W19,2699,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,5/7/2020,2020-W19,2555,Country_Website,https://epistat.wiv-isp.be/covid/
@@ -1116,42 +1130,49 @@ Belgium,Ospedali,3/25/2021,2021-W12,2493,Country_Website,https://epistat.wiv-isp
 Belgium,Ospedali,3/26/2021,2021-W12,2503,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,3/27/2021,2021-W12,2568,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Ospedali,3/28/2021,2021-W12,2693,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,3/29/2021,2021-W13,2819,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,3/30/2021,2021-W13,2867,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,3/31/2021,2021-W13,2937,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/1/2021,2021-W13,2958,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/2/2021,2021-W13,3025,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/3/2021,2021-W13,2910,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Ospedali,4/4/2021,2021-W13,2922,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Terapie Intensive,3/15/2020,2020-W11,54,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,3/29/2021,2021-W13,2820,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,3/30/2021,2021-W13,2868,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,3/31/2021,2021-W13,2938,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/1/2021,2021-W13,2959,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/2/2021,2021-W13,3026,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/3/2021,2021-W13,2911,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/4/2021,2021-W13,2923,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/5/2021,2021-W14,3055,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/6/2021,2021-W14,3167,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/7/2021,2021-W14,3163,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/8/2021,2021-W14,3129,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/9/2021,2021-W14,3117,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/10/2021,2021-W14,3022,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Ospedali,4/11/2021,2021-W14,3085,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,3/15/2020,2020-W11,53,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,3/16/2020,2020-W12,79,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,3/17/2020,2020-W12,100,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,3/18/2020,2020-W12,130,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Terapie Intensive,3/19/2020,2020-W12,165,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Terapie Intensive,3/20/2020,2020-W12,228,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,3/19/2020,2020-W12,164,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,3/20/2020,2020-W12,229,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,3/21/2020,2020-W12,290,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Terapie Intensive,3/22/2020,2020-W12,322,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,3/22/2020,2020-W12,326,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,3/23/2020,2020-W13,385,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Terapie Intensive,3/24/2020,2020-W13,474,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,3/24/2020,2020-W13,487,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,3/25/2020,2020-W13,612,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Terapie Intensive,3/26/2020,2020-W13,690,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,3/26/2020,2020-W13,699,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,3/27/2020,2020-W13,789,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,3/28/2020,2020-W13,867,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Terapie Intensive,3/29/2020,2020-W13,942,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,3/29/2020,2020-W13,961,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,3/30/2020,2020-W14,1021,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,3/31/2020,2020-W14,1088,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,4/1/2020,2020-W14,1144,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,4/2/2020,2020-W14,1205,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Terapie Intensive,4/3/2020,2020-W14,1245,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,4/3/2020,2020-W14,1256,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,4/4/2020,2020-W14,1261,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,4/5/2020,2020-W14,1267,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,4/6/2020,2020-W15,1260,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,4/7/2020,2020-W15,1276,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Terapie Intensive,4/8/2020,2020-W15,1285,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Terapie Intensive,4/9/2020,2020-W15,1278,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,4/8/2020,2020-W15,1286,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,4/9/2020,2020-W15,1279,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,4/10/2020,2020-W15,1262,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Terapie Intensive,4/11/2020,2020-W15,1232,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Terapie Intensive,4/12/2020,2020-W15,1234,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,4/11/2020,2020-W15,1251,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,4/12/2020,2020-W15,1253,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,4/13/2020,2020-W16,1226,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,4/14/2020,2020-W16,1204,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,4/15/2020,2020-W16,1182,Country_Website,https://epistat.wiv-isp.be/covid/
@@ -1508,7 +1529,14 @@ Belgium,Terapie Intensive,3/31/2021,2021-W13,755,Country_Website,https://epistat
 Belgium,Terapie Intensive,4/1/2021,2021-W13,790,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,4/2/2021,2021-W13,801,Country_Website,https://epistat.wiv-isp.be/covid/
 Belgium,Terapie Intensive,4/3/2021,2021-W13,821,Country_Website,https://epistat.wiv-isp.be/covid/
-Belgium,Terapie Intensive,4/4/2021,2021-W13,832,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,4/4/2021,2021-W13,831,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,4/5/2021,2021-W14,866,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,4/6/2021,2021-W14,892,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,4/7/2021,2021-W14,908,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,4/8/2021,2021-W14,911,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,4/9/2021,2021-W14,925,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,4/10/2021,2021-W14,905,Country_Website,https://epistat.wiv-isp.be/covid/
+Belgium,Terapie Intensive,4/11/2021,2021-W14,899,Country_Website,https://epistat.wiv-isp.be/covid/
 Bulgaria,Ospedali,4/6/2020,2020-W15,210,External_Github,https://github.com/COVID-19-Bulgaria/covid-database
 Bulgaria,Ospedali,4/7/2020,2020-W15,213,External_Github,https://github.com/COVID-19-Bulgaria/covid-database
 Bulgaria,Ospedali,4/8/2020,2020-W15,233,External_Github,https://github.com/COVID-19-Bulgaria/covid-database
@@ -1873,6 +1901,13 @@ Bulgaria,Ospedali,4/1/2021,2021-W13,10093,Country_Website,https://coronavirus.bg
 Bulgaria,Ospedali,4/2/2021,2021-W13,10152,Country_Website,https://coronavirus.bg/
 Bulgaria,Ospedali,4/3/2021,2021-W13,10382,Country_Website,https://coronavirus.bg/
 Bulgaria,Ospedali,4/4/2021,2021-W13,10521,Country_Website,https://coronavirus.bg/
+Bulgaria,Ospedali,4/5/2021,2021-W14,10649,Country_Website,https://coronavirus.bg/
+Bulgaria,Ospedali,4/6/2021,2021-W14,10402,Country_Website,https://coronavirus.bg/
+Bulgaria,Ospedali,4/7/2021,2021-W14,10355,Country_Website,https://coronavirus.bg/
+Bulgaria,Ospedali,4/8/2021,2021-W14,10429,Country_Website,https://coronavirus.bg/
+Bulgaria,Ospedali,4/9/2021,2021-W14,10404,Country_Website,https://coronavirus.bg/
+Bulgaria,Ospedali,4/10/2021,2021-W14,10271,Country_Website,https://coronavirus.bg/
+Bulgaria,Ospedali,4/11/2021,2021-W14,10365,Country_Website,https://coronavirus.bg/
 Bulgaria,Terapie Intensive,4/6/2020,2020-W15,26,External_Github,https://github.com/COVID-19-Bulgaria/covid-database
 Bulgaria,Terapie Intensive,4/7/2020,2020-W15,26,External_Github,https://github.com/COVID-19-Bulgaria/covid-database
 Bulgaria,Terapie Intensive,4/8/2020,2020-W15,27,External_Github,https://github.com/COVID-19-Bulgaria/covid-database
@@ -2237,6 +2272,13 @@ Bulgaria,Terapie Intensive,4/1/2021,2021-W13,772,Country_Website,https://coronav
 Bulgaria,Terapie Intensive,4/2/2021,2021-W13,747,Country_Website,https://coronavirus.bg/
 Bulgaria,Terapie Intensive,4/3/2021,2021-W13,753,Country_Website,https://coronavirus.bg/
 Bulgaria,Terapie Intensive,4/4/2021,2021-W13,758,Country_Website,https://coronavirus.bg/
+Bulgaria,Terapie Intensive,4/5/2021,2021-W14,747,Country_Website,https://coronavirus.bg/
+Bulgaria,Terapie Intensive,4/6/2021,2021-W14,734,Country_Website,https://coronavirus.bg/
+Bulgaria,Terapie Intensive,4/7/2021,2021-W14,755,Country_Website,https://coronavirus.bg/
+Bulgaria,Terapie Intensive,4/8/2021,2021-W14,777,Country_Website,https://coronavirus.bg/
+Bulgaria,Terapie Intensive,4/9/2021,2021-W14,813,Country_Website,https://coronavirus.bg/
+Bulgaria,Terapie Intensive,4/10/2021,2021-W14,812,Country_Website,https://coronavirus.bg/
+Bulgaria,Terapie Intensive,4/11/2021,2021-W14,801,Country_Website,https://coronavirus.bg/
 Croatia,Ospedali,4/15/2020,2020-W16,341,Country_Website,https://www.hzjz.hr/aktualnosti/covid-19-izvjesce-hzjz-a/
 Croatia,Ospedali,4/16/2020,2020-W16,372,Country_Website,https://www.hzjz.hr/aktualnosti/covid-19-izvjesce-hzjz-a/
 Croatia,Ospedali,4/17/2020,2020-W16,372,Country_Website,https://www.hzjz.hr/aktualnosti/covid-19-izvjesce-hzjz-a/
@@ -2592,6 +2634,13 @@ Croatia,Ospedali,4/1/2021,2021-W13,1390,Country_Website,https://www.hzjz.hr/aktu
 Croatia,Ospedali,4/2/2021,2021-W13,1464,Country_Website,https://www.hzjz.hr/aktualnosti/covid-19-izvjesce-hzjz-a/
 Croatia,Ospedali,4/3/2021,2021-W13,1469,Country_Website,https://www.hzjz.hr/aktualnosti/covid-19-izvjesce-hzjz-a/
 Croatia,Ospedali,4/4/2021,2021-W13,1511,Country_Website,https://www.hzjz.hr/aktualnosti/covid-19-izvjesce-hzjz-a/
+Croatia,Ospedali,4/5/2021,2021-W14,1616,Country_Website,https://www.hzjz.hr/aktualnosti/covid-19-izvjesce-hzjz-a/
+Croatia,Ospedali,4/6/2021,2021-W14,1713,Country_Website,https://www.hzjz.hr/aktualnosti/covid-19-izvjesce-hzjz-a/
+Croatia,Ospedali,4/7/2021,2021-W14,1750,Country_Website,https://www.hzjz.hr/aktualnosti/covid-19-izvjesce-hzjz-a/
+Croatia,Ospedali,4/8/2021,2021-W14,1756,Country_Website,https://www.hzjz.hr/aktualnosti/covid-19-izvjesce-hzjz-a/
+Croatia,Ospedali,4/9/2021,2021-W14,1768,Country_Website,https://www.hzjz.hr/aktualnosti/covid-19-izvjesce-hzjz-a/
+Croatia,Ospedali,4/10/2021,2021-W14,1796,Country_Website,https://www.hzjz.hr/aktualnosti/covid-19-izvjesce-hzjz-a/
+Croatia,Ospedali,4/11/2021,2021-W14,1870,Country_Website,https://www.hzjz.hr/aktualnosti/covid-19-izvjesce-hzjz-a/
 Cyprus,Ospedali,3/9/2020,2020-W11,0,Country_Website,https://www.data.gov.cy/search/type/dataset
 Cyprus,Ospedali,3/10/2020,2020-W11,0,Country_Website,https://www.data.gov.cy/search/type/dataset
 Cyprus,Ospedali,3/11/2020,2020-W11,0,Country_Website,https://www.data.gov.cy/search/type/dataset
@@ -2984,6 +3033,13 @@ Cyprus,Ospedali,4/1/2021,2021-W13,190,Country_Website,https://www.data.gov.cy/se
 Cyprus,Ospedali,4/2/2021,2021-W13,193,Country_Website,https://www.data.gov.cy/search/type/dataset
 Cyprus,Ospedali,4/3/2021,2021-W13,199,Country_Website,https://www.data.gov.cy/search/type/dataset
 Cyprus,Ospedali,4/4/2021,2021-W13,210,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Ospedali,4/5/2021,2021-W14,196,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Ospedali,4/6/2021,2021-W14,205,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Ospedali,4/7/2021,2021-W14,210,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Ospedali,4/8/2021,2021-W14,207,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Ospedali,4/9/2021,2021-W14,205,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Ospedali,4/10/2021,2021-W14,204,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Ospedali,4/11/2021,2021-W14,225,Country_Website,https://www.data.gov.cy/search/type/dataset
 Cyprus,Terapie Intensive,3/9/2020,2020-W11,0,Country_Website,https://www.data.gov.cy/search/type/dataset
 Cyprus,Terapie Intensive,3/10/2020,2020-W11,0,Country_Website,https://www.data.gov.cy/search/type/dataset
 Cyprus,Terapie Intensive,3/11/2020,2020-W11,0,Country_Website,https://www.data.gov.cy/search/type/dataset
@@ -3376,6 +3432,13 @@ Cyprus,Terapie Intensive,4/1/2021,2021-W13,27,Country_Website,https://www.data.g
 Cyprus,Terapie Intensive,4/2/2021,2021-W13,26,Country_Website,https://www.data.gov.cy/search/type/dataset
 Cyprus,Terapie Intensive,4/3/2021,2021-W13,26,Country_Website,https://www.data.gov.cy/search/type/dataset
 Cyprus,Terapie Intensive,4/4/2021,2021-W13,28,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Terapie Intensive,4/5/2021,2021-W14,28,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Terapie Intensive,4/6/2021,2021-W14,28,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Terapie Intensive,4/7/2021,2021-W14,26,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Terapie Intensive,4/8/2021,2021-W14,31,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Terapie Intensive,4/9/2021,2021-W14,31,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Terapie Intensive,4/10/2021,2021-W14,32,Country_Website,https://www.data.gov.cy/search/type/dataset
+Cyprus,Terapie Intensive,4/11/2021,2021-W14,33,Country_Website,https://www.data.gov.cy/search/type/dataset
 Czechia,Ospedali,3/1/2020,2020-W09,0,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,3/2/2020,2020-W10,0,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,3/3/2020,2020-W10,0,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
@@ -3411,11 +3474,11 @@ Czechia,Ospedali,4/1/2020,2020-W14,345,Country_Website,https://onemocneni-aktual
 Czechia,Ospedali,4/2/2020,2020-W14,351,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,4/3/2020,2020-W14,375,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,4/4/2020,2020-W14,365,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,4/5/2020,2020-W14,370,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,4/6/2020,2020-W15,394,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,4/7/2020,2020-W15,412,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,4/8/2020,2020-W15,422,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,4/9/2020,2020-W15,416,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/5/2020,2020-W14,371,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/6/2020,2020-W15,395,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/7/2020,2020-W15,413,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/8/2020,2020-W15,423,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/9/2020,2020-W15,417,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,4/10/2020,2020-W15,406,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,4/11/2020,2020-W15,406,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,4/12/2020,2020-W15,402,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
@@ -3423,7 +3486,7 @@ Czechia,Ospedali,4/13/2020,2020-W16,395,Country_Website,https://onemocneni-aktua
 Czechia,Ospedali,4/14/2020,2020-W16,385,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,4/15/2020,2020-W16,370,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,4/16/2020,2020-W16,362,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,4/17/2020,2020-W16,354,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/17/2020,2020-W16,355,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,4/18/2020,2020-W16,338,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,4/19/2020,2020-W16,345,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,4/20/2020,2020-W17,348,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
@@ -3658,22 +3721,22 @@ Czechia,Ospedali,12/4/2020,2020-W49,4458,Country_Website,https://onemocneni-aktu
 Czechia,Ospedali,12/5/2020,2020-W49,4096,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,12/6/2020,2020-W49,4143,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,12/7/2020,2020-W50,4485,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/8/2020,2020-W50,4393,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/9/2020,2020-W50,4450,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/10/2020,2020-W50,4539,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/11/2020,2020-W50,4520,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/12/2020,2020-W50,4291,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/13/2020,2020-W50,4401,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/14/2020,2020-W51,4759,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/15/2020,2020-W51,4736,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/16/2020,2020-W51,4703,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/17/2020,2020-W51,4758,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/18/2020,2020-W51,4777,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/19/2020,2020-W51,4479,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/20/2020,2020-W51,4575,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/21/2020,2020-W52,4957,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/22/2020,2020-W52,4931,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,12/23/2020,2020-W52,4956,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/8/2020,2020-W50,4392,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/9/2020,2020-W50,4449,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/10/2020,2020-W50,4538,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/11/2020,2020-W50,4519,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/12/2020,2020-W50,4290,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/13/2020,2020-W50,4400,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/14/2020,2020-W51,4758,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/15/2020,2020-W51,4735,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/16/2020,2020-W51,4702,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/17/2020,2020-W51,4757,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/18/2020,2020-W51,4776,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/19/2020,2020-W51,4478,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/20/2020,2020-W51,4574,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/21/2020,2020-W52,4955,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/22/2020,2020-W52,4930,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,12/23/2020,2020-W52,4955,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,12/24/2020,2020-W52,4303,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,12/25/2020,2020-W52,4378,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,12/26/2020,2020-W52,4640,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
@@ -3694,88 +3757,95 @@ Czechia,Ospedali,1/9/2021,2021-W01,6729,Country_Website,https://onemocneni-aktua
 Czechia,Ospedali,1/10/2021,2021-W01,6839,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,1/11/2021,2021-W02,7379,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,1/12/2021,2021-W02,7433,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/13/2021,2021-W02,7260,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/14/2021,2021-W02,7183,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/15/2021,2021-W02,7096,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/16/2021,2021-W02,6472,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/17/2021,2021-W02,6438,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/18/2021,2021-W03,6926,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/19/2021,2021-W03,6642,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/20/2021,2021-W03,6473,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/13/2021,2021-W02,7259,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/14/2021,2021-W02,7182,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/15/2021,2021-W02,7095,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/16/2021,2021-W02,6471,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/17/2021,2021-W02,6437,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/18/2021,2021-W03,6925,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/19/2021,2021-W03,6641,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/20/2021,2021-W03,6471,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,1/21/2021,2021-W03,6352,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/22/2021,2021-W03,6329,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/22/2021,2021-W03,6328,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,1/23/2021,2021-W03,5827,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/24/2021,2021-W03,5867,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/25/2021,2021-W04,6289,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/26/2021,2021-W04,6252,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/27/2021,2021-W04,6096,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/24/2021,2021-W03,5866,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/25/2021,2021-W04,6288,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/26/2021,2021-W04,6251,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/27/2021,2021-W04,6095,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,1/28/2021,2021-W04,5988,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/29/2021,2021-W04,5932,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/30/2021,2021-W04,5492,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,1/31/2021,2021-W04,5539,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/1/2021,2021-W05,6066,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/2/2021,2021-W05,5957,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/3/2021,2021-W05,5927,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/4/2021,2021-W05,5952,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/5/2021,2021-W05,5935,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/6/2021,2021-W05,5604,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/7/2021,2021-W05,5745,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/8/2021,2021-W06,6161,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/9/2021,2021-W06,6094,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/10/2021,2021-W06,6014,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/11/2021,2021-W06,5991,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/12/2021,2021-W06,5925,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/13/2021,2021-W06,5619,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/14/2021,2021-W06,5832,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/15/2021,2021-W07,6317,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/16/2021,2021-W07,6351,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/17/2021,2021-W07,6436,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/18/2021,2021-W07,6534,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/19/2021,2021-W07,6549,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/20/2021,2021-W07,6150,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/21/2021,2021-W07,6358,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/22/2021,2021-W08,7054,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/23/2021,2021-W08,7087,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/24/2021,2021-W08,7179,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/25/2021,2021-W08,7395,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/26/2021,2021-W08,7491,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/27/2021,2021-W08,7196,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,2/28/2021,2021-W08,7459,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/1/2021,2021-W09,8275,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/2/2021,2021-W09,8453,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/3/2021,2021-W09,8394,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/4/2021,2021-W09,8397,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/5/2021,2021-W09,8455,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/6/2021,2021-W09,8111,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/7/2021,2021-W09,8336,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/8/2021,2021-W10,9010,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/9/2021,2021-W10,8978,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/10/2021,2021-W10,8998,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/11/2021,2021-W10,8963,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/12/2021,2021-W10,8934,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/13/2021,2021-W10,8529,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/14/2021,2021-W10,8744,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/15/2021,2021-W11,9457,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/16/2021,2021-W11,9329,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/17/2021,2021-W11,9164,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/29/2021,2021-W04,5931,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/30/2021,2021-W04,5491,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,1/31/2021,2021-W04,5538,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/1/2021,2021-W05,6063,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/2/2021,2021-W05,5953,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/3/2021,2021-W05,5924,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/4/2021,2021-W05,5949,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/5/2021,2021-W05,5932,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/6/2021,2021-W05,5598,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/7/2021,2021-W05,5740,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/8/2021,2021-W06,6155,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/9/2021,2021-W06,6089,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/10/2021,2021-W06,6010,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/11/2021,2021-W06,5986,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/12/2021,2021-W06,5922,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/13/2021,2021-W06,5617,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/14/2021,2021-W06,5830,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/15/2021,2021-W07,6315,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/16/2021,2021-W07,6348,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/17/2021,2021-W07,6432,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/18/2021,2021-W07,6529,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/19/2021,2021-W07,6546,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/20/2021,2021-W07,6146,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/21/2021,2021-W07,6353,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/22/2021,2021-W08,7050,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/23/2021,2021-W08,7083,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/24/2021,2021-W08,7174,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/25/2021,2021-W08,7391,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/26/2021,2021-W08,7488,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/27/2021,2021-W08,7193,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,2/28/2021,2021-W08,7458,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/1/2021,2021-W09,8263,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/2/2021,2021-W09,8445,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/3/2021,2021-W09,8386,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/4/2021,2021-W09,8389,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/5/2021,2021-W09,8449,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/6/2021,2021-W09,8107,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/7/2021,2021-W09,8333,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/8/2021,2021-W10,9007,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/9/2021,2021-W10,8982,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/10/2021,2021-W10,9003,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/11/2021,2021-W10,8965,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/12/2021,2021-W10,8932,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/13/2021,2021-W10,8533,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/14/2021,2021-W10,8746,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/15/2021,2021-W11,9462,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/16/2021,2021-W11,9331,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/17/2021,2021-W11,9162,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,3/18/2021,2021-W11,8961,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/19/2021,2021-W11,8771,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/20/2021,2021-W11,8217,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/21/2021,2021-W11,8333,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/22/2021,2021-W12,8971,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/23/2021,2021-W12,8640,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/19/2021,2021-W11,8769,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/20/2021,2021-W11,8218,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/21/2021,2021-W11,8332,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/22/2021,2021-W12,8969,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/23/2021,2021-W12,8638,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Ospedali,3/24/2021,2021-W12,8321,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/25/2021,2021-W12,8170,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/26/2021,2021-W12,8045,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/27/2021,2021-W12,7529,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/28/2021,2021-W12,7579,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/29/2021,2021-W13,8126,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/30/2021,2021-W13,7843,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,3/31/2021,2021-W13,7522,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,4/1/2021,2021-W13,7201,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,4/2/2021,2021-W13,6338,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,4/3/2021,2021-W13,6141,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Ospedali,4/4/2021,2021-W13,6197,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/25/2021,2021-W12,8172,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/26/2021,2021-W12,8048,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/27/2021,2021-W12,7533,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/28/2021,2021-W12,7581,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/29/2021,2021-W13,8123,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/30/2021,2021-W13,7849,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,3/31/2021,2021-W13,7530,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/1/2021,2021-W13,7227,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/2/2021,2021-W13,6388,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/3/2021,2021-W13,6230,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/4/2021,2021-W13,6323,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/5/2021,2021-W14,6393,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/6/2021,2021-W14,7081,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/7/2021,2021-W14,6723,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/8/2021,2021-W14,6247,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/9/2021,2021-W14,5931,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/10/2021,2021-W14,5299,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Ospedali,4/11/2021,2021-W14,5248,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,3/1/2020,2020-W09,0,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,3/2/2020,2020-W10,0,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,3/3/2020,2020-W10,0,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
@@ -3811,9 +3881,9 @@ Czechia,Terapie Intensive,4/1/2020,2020-W14,74,Country_Website,https://onemocnen
 Czechia,Terapie Intensive,4/2/2020,2020-W14,76,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,4/3/2020,2020-W14,86,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,4/4/2020,2020-W14,84,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,4/5/2020,2020-W14,81,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,4/6/2020,2020-W15,86,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,4/7/2020,2020-W15,99,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/5/2020,2020-W14,82,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/6/2020,2020-W15,87,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/7/2020,2020-W15,100,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,4/8/2020,2020-W15,94,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,4/9/2020,2020-W15,96,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,4/10/2020,2020-W15,89,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
@@ -4029,10 +4099,10 @@ Czechia,Terapie Intensive,11/5/2020,2020-W45,1145,Country_Website,https://onemoc
 Czechia,Terapie Intensive,11/6/2020,2020-W45,1163,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,11/7/2020,2020-W45,1119,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,11/8/2020,2020-W45,1126,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,11/9/2020,2020-W46,1128,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,11/10/2020,2020-W46,1082,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,11/11/2020,2020-W46,1035,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,11/12/2020,2020-W46,1061,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,11/9/2020,2020-W46,1129,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,11/10/2020,2020-W46,1083,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,11/11/2020,2020-W46,1036,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,11/12/2020,2020-W46,1062,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,11/13/2020,2020-W46,1045,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,11/14/2020,2020-W46,1024,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,11/15/2020,2020-W46,1010,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
@@ -4043,21 +4113,21 @@ Czechia,Terapie Intensive,11/19/2020,2020-W47,884,Country_Website,https://onemoc
 Czechia,Terapie Intensive,11/20/2020,2020-W47,824,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,11/21/2020,2020-W47,819,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,11/22/2020,2020-W47,814,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,11/23/2020,2020-W48,821,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,11/24/2020,2020-W48,790,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,11/25/2020,2020-W48,746,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,11/26/2020,2020-W48,743,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,11/27/2020,2020-W48,704,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,11/28/2020,2020-W48,652,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,11/29/2020,2020-W48,638,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,11/30/2020,2020-W49,664,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,12/1/2020,2020-W49,588,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,12/2/2020,2020-W49,589,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,12/3/2020,2020-W49,581,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,12/4/2020,2020-W49,576,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,12/5/2020,2020-W49,561,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,12/6/2020,2020-W49,552,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,12/7/2020,2020-W50,562,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,11/23/2020,2020-W48,822,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,11/24/2020,2020-W48,791,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,11/25/2020,2020-W48,747,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,11/26/2020,2020-W48,744,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,11/27/2020,2020-W48,705,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,11/28/2020,2020-W48,653,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,11/29/2020,2020-W48,639,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,11/30/2020,2020-W49,666,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,12/1/2020,2020-W49,590,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,12/2/2020,2020-W49,591,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,12/3/2020,2020-W49,583,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,12/4/2020,2020-W49,578,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,12/5/2020,2020-W49,562,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,12/6/2020,2020-W49,553,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,12/7/2020,2020-W50,563,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,12/8/2020,2020-W50,555,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,12/9/2020,2020-W50,538,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,12/10/2020,2020-W50,561,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
@@ -4069,7 +4139,7 @@ Czechia,Terapie Intensive,12/15/2020,2020-W51,594,Country_Website,https://onemoc
 Czechia,Terapie Intensive,12/16/2020,2020-W51,601,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,12/17/2020,2020-W51,597,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,12/18/2020,2020-W51,598,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,12/19/2020,2020-W51,595,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,12/19/2020,2020-W51,596,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,12/20/2020,2020-W51,613,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,12/21/2020,2020-W52,626,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,12/22/2020,2020-W52,635,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
@@ -4125,57 +4195,64 @@ Czechia,Terapie Intensive,2/9/2021,2021-W06,1091,Country_Website,https://onemocn
 Czechia,Terapie Intensive,2/10/2021,2021-W06,1091,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,2/11/2021,2021-W06,1106,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,2/12/2021,2021-W06,1101,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,2/13/2021,2021-W06,1102,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,2/13/2021,2021-W06,1103,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,2/14/2021,2021-W06,1148,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,2/15/2021,2021-W07,1196,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,2/15/2021,2021-W07,1197,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,2/16/2021,2021-W07,1231,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,2/17/2021,2021-W07,1277,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,2/18/2021,2021-W07,1291,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,2/19/2021,2021-W07,1301,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,2/20/2021,2021-W07,1297,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,2/20/2021,2021-W07,1296,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,2/21/2021,2021-W07,1314,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,2/22/2021,2021-W08,1401,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,2/23/2021,2021-W08,1439,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,2/24/2021,2021-W08,1468,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,2/25/2021,2021-W08,1561,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,2/23/2021,2021-W08,1440,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,2/24/2021,2021-W08,1470,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,2/25/2021,2021-W08,1562,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,2/26/2021,2021-W08,1534,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,2/27/2021,2021-W08,1546,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,2/28/2021,2021-W08,1579,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/1/2021,2021-W09,1669,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/2/2021,2021-W09,1724,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/3/2021,2021-W09,1744,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/4/2021,2021-W09,1776,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/5/2021,2021-W09,1773,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/6/2021,2021-W09,1765,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/7/2021,2021-W09,1812,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/1/2021,2021-W09,1666,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/2/2021,2021-W09,1720,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/3/2021,2021-W09,1740,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/4/2021,2021-W09,1773,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/5/2021,2021-W09,1771,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/6/2021,2021-W09,1763,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/7/2021,2021-W09,1813,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,3/8/2021,2021-W10,1895,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/9/2021,2021-W10,1925,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/10/2021,2021-W10,1975,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/11/2021,2021-W10,1986,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/12/2021,2021-W10,1999,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/13/2021,2021-W10,1974,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/14/2021,2021-W10,2029,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/15/2021,2021-W11,2051,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/9/2021,2021-W10,1927,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/10/2021,2021-W10,1977,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/11/2021,2021-W10,1988,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/12/2021,2021-W10,1996,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/13/2021,2021-W10,1971,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/14/2021,2021-W10,2025,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/15/2021,2021-W11,2050,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,3/16/2021,2021-W11,2064,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/17/2021,2021-W11,2039,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/18/2021,2021-W11,2022,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/19/2021,2021-W11,2000,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/20/2021,2021-W11,1974,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/21/2021,2021-W11,1973,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/22/2021,2021-W12,1991,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/23/2021,2021-W12,1916,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/24/2021,2021-W12,1887,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/25/2021,2021-W12,1881,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/26/2021,2021-W12,1846,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/27/2021,2021-W12,1817,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/17/2021,2021-W11,2038,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/18/2021,2021-W11,2021,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/19/2021,2021-W11,1997,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/20/2021,2021-W11,1971,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/21/2021,2021-W11,1968,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/22/2021,2021-W12,1990,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/23/2021,2021-W12,1917,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/24/2021,2021-W12,1890,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/25/2021,2021-W12,1884,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/26/2021,2021-W12,1849,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/27/2021,2021-W12,1821,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Czechia,Terapie Intensive,3/28/2021,2021-W12,1774,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/29/2021,2021-W13,1786,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/30/2021,2021-W13,1737,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,3/31/2021,2021-W13,1625,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,4/1/2021,2021-W13,1552,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,4/2/2021,2021-W13,1427,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,4/3/2021,2021-W13,1400,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
-Czechia,Terapie Intensive,4/4/2021,2021-W13,1363,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/29/2021,2021-W13,1784,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/30/2021,2021-W13,1739,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,3/31/2021,2021-W13,1627,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/1/2021,2021-W13,1572,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/2/2021,2021-W13,1454,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/3/2021,2021-W13,1438,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/4/2021,2021-W13,1417,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/5/2021,2021-W14,1399,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/6/2021,2021-W14,1442,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/7/2021,2021-W14,1415,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/8/2021,2021-W14,1335,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/9/2021,2021-W14,1260,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/10/2021,2021-W14,1221,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
+Czechia,Terapie Intensive,4/11/2021,2021-W14,1182,Country_Website,https://onemocneni-aktualne.mzcr.cz/covid-19
 Denmark,Ospedali,5/14/2020,2020-W20,147,Country_Website,unknown
 Denmark,Ospedali,5/15/2020,2020-W20,137,Country_Website,unknown
 Denmark,Ospedali,5/16/2020,2020-W20,140,Country_Website,unknown
@@ -4498,6 +4575,13 @@ Denmark,Ospedali,4/1/2021,2021-W13,211,Country_Website,https://www.sst.dk/da/cor
 Denmark,Ospedali,4/2/2021,2021-W13,211,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
 Denmark,Ospedali,4/3/2021,2021-W13,215,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
 Denmark,Ospedali,4/4/2021,2021-W13,211,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Ospedali,4/5/2021,2021-W14,220,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Ospedali,4/6/2021,2021-W14,219,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Ospedali,4/7/2021,2021-W14,237,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Ospedali,4/8/2021,2021-W14,237,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Ospedali,4/9/2021,2021-W14,221,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Ospedali,4/10/2021,2021-W14,208,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Ospedali,4/11/2021,2021-W14,211,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
 Denmark,Terapie Intensive,5/14/2020,2020-W20,35,Country_Website,unknown
 Denmark,Terapie Intensive,5/15/2020,2020-W20,32,Country_Website,unknown
 Denmark,Terapie Intensive,5/16/2020,2020-W20,28,Country_Website,unknown
@@ -4819,6 +4903,13 @@ Denmark,Terapie Intensive,4/1/2021,2021-W13,39,Country_Website,https://www.sst.d
 Denmark,Terapie Intensive,4/2/2021,2021-W13,41,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
 Denmark,Terapie Intensive,4/3/2021,2021-W13,39,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
 Denmark,Terapie Intensive,4/4/2021,2021-W13,39,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Terapie Intensive,4/5/2021,2021-W14,40,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Terapie Intensive,4/6/2021,2021-W14,38,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Terapie Intensive,4/7/2021,2021-W14,34,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Terapie Intensive,4/8/2021,2021-W14,37,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Terapie Intensive,4/9/2021,2021-W14,37,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Terapie Intensive,4/10/2021,2021-W14,38,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
+Denmark,Terapie Intensive,4/11/2021,2021-W14,38,Country_Website,https://www.sst.dk/da/corona/tal-og-overvaagning
 Estonia,Ospedali,2/12/2020,2020-W07,1,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Ospedali,2/26/2020,2020-W09,1,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Ospedali,2/27/2020,2020-W09,1,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
@@ -5212,18 +5303,25 @@ Estonia,Ospedali,3/20/2021,2021-W11,689,Country_API,https://www.terviseamet.ee/e
 Estonia,Ospedali,3/21/2021,2021-W11,710,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Ospedali,3/22/2021,2021-W12,706,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Ospedali,3/23/2021,2021-W12,709,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Ospedali,3/24/2021,2021-W12,699,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Ospedali,3/25/2021,2021-W12,705,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,3/24/2021,2021-W12,700,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,3/25/2021,2021-W12,706,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Ospedali,3/26/2021,2021-W12,675,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Ospedali,3/27/2021,2021-W12,704,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Ospedali,3/28/2021,2021-W12,732,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Ospedali,3/29/2021,2021-W13,717,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Ospedali,3/30/2021,2021-W13,693,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Ospedali,3/31/2021,2021-W13,706,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Ospedali,4/1/2021,2021-W13,679,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Ospedali,4/2/2021,2021-W13,683,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Ospedali,4/3/2021,2021-W13,713,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Ospedali,4/4/2021,2021-W13,736,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,3/27/2021,2021-W12,705,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,3/28/2021,2021-W12,733,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,3/29/2021,2021-W13,718,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,3/30/2021,2021-W13,694,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,3/31/2021,2021-W13,707,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,4/1/2021,2021-W13,680,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,4/2/2021,2021-W13,684,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,4/3/2021,2021-W13,714,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,4/4/2021,2021-W13,737,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,4/5/2021,2021-W14,697,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,4/6/2021,2021-W14,658,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,4/7/2021,2021-W14,631,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,4/8/2021,2021-W14,622,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,4/9/2021,2021-W14,585,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,4/10/2021,2021-W14,594,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Ospedali,4/11/2021,2021-W14,601,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,2/26/2020,2020-W09,0,Surveillance,https://koroonakaart.ee/en
 Estonia,Terapie Intensive,2/27/2020,2020-W09,0,Surveillance,https://koroonakaart.ee/en
 Estonia,Terapie Intensive,2/28/2020,2020-W09,0,Surveillance,https://koroonakaart.ee/en
@@ -5546,7 +5644,7 @@ Estonia,Terapie Intensive,1/9/2021,2021-W01,42,Country_API,https://www.terviseam
 Estonia,Terapie Intensive,1/10/2021,2021-W01,43,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,1/11/2021,2021-W02,43,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,1/12/2021,2021-W02,44,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Terapie Intensive,1/13/2021,2021-W02,45,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Terapie Intensive,1/13/2021,2021-W02,44,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,1/14/2021,2021-W02,44,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,1/15/2021,2021-W02,44,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,1/16/2021,2021-W02,44,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
@@ -5587,7 +5685,7 @@ Estonia,Terapie Intensive,2/19/2021,2021-W07,38,Country_API,https://www.tervisea
 Estonia,Terapie Intensive,2/20/2021,2021-W07,36,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,2/21/2021,2021-W07,41,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,2/22/2021,2021-W08,44,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Terapie Intensive,2/23/2021,2021-W08,39,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Terapie Intensive,2/23/2021,2021-W08,40,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,2/24/2021,2021-W08,41,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,2/25/2021,2021-W08,43,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,2/26/2021,2021-W08,41,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
@@ -5606,7 +5704,7 @@ Estonia,Terapie Intensive,3/10/2021,2021-W10,60,Country_API,https://www.tervisea
 Estonia,Terapie Intensive,3/11/2021,2021-W10,62,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,3/12/2021,2021-W10,65,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,3/13/2021,2021-W10,67,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
-Estonia,Terapie Intensive,3/14/2021,2021-W10,69,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Terapie Intensive,3/14/2021,2021-W10,70,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,3/15/2021,2021-W11,67,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,3/16/2021,2021-W11,66,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,3/17/2021,2021-W11,70,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
@@ -5628,6 +5726,13 @@ Estonia,Terapie Intensive,4/1/2021,2021-W13,72,Country_API,https://www.terviseam
 Estonia,Terapie Intensive,4/2/2021,2021-W13,73,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,4/3/2021,2021-W13,73,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Estonia,Terapie Intensive,4/4/2021,2021-W13,71,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Terapie Intensive,4/5/2021,2021-W14,71,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Terapie Intensive,4/6/2021,2021-W14,72,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Terapie Intensive,4/7/2021,2021-W14,68,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Terapie Intensive,4/8/2021,2021-W14,72,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Terapie Intensive,4/9/2021,2021-W14,70,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Terapie Intensive,4/10/2021,2021-W14,73,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
+Estonia,Terapie Intensive,4/11/2021,2021-W14,70,Country_API,https://www.terviseamet.ee/et/koroonaviirus/avaandmed
 Finland,Ospedali,3/21/2020,2020-W12,0,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
 Finland,Ospedali,3/25/2020,2020-W13,82,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
 Finland,Ospedali,3/26/2020,2020-W13,96,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
@@ -5868,6 +5973,10 @@ Finland,Ospedali,3/29/2021,2021-W13,313,External_Github,https://github.com/HS-Da
 Finland,Ospedali,3/30/2021,2021-W13,304,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
 Finland,Ospedali,3/31/2021,2021-W13,295,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
 Finland,Ospedali,4/1/2021,2021-W13,264,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
+Finland,Ospedali,4/6/2021,2021-W14,249,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
+Finland,Ospedali,4/7/2021,2021-W14,250,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
+Finland,Ospedali,4/8/2021,2021-W14,235,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
+Finland,Ospedali,4/9/2021,2021-W14,224,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
 Finland,Terapie Intensive,3/21/2020,2020-W12,0,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
 Finland,Terapie Intensive,3/25/2020,2020-W13,22,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
 Finland,Terapie Intensive,3/26/2020,2020-W13,24,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
@@ -6108,6 +6217,10 @@ Finland,Terapie Intensive,3/29/2021,2021-W13,54,External_Github,https://github.c
 Finland,Terapie Intensive,3/30/2021,2021-W13,50,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
 Finland,Terapie Intensive,3/31/2021,2021-W13,50,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
 Finland,Terapie Intensive,4/1/2021,2021-W13,52,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
+Finland,Terapie Intensive,4/6/2021,2021-W14,45,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
+Finland,Terapie Intensive,4/7/2021,2021-W14,45,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
+Finland,Terapie Intensive,4/8/2021,2021-W14,42,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
+Finland,Terapie Intensive,4/9/2021,2021-W14,41,External_Github,https://github.com/HS-Datadesk/koronavirus-avoindata#direct-interface-to-hs-data
 France,Ospedali,2/2/2020,2020-W05,6,External_Github,https://github.com/opencovid19-fr/data
 France,Ospedali,2/3/2020,2020-W06,6,External_Github,https://github.com/opencovid19-fr/data
 France,Ospedali,2/4/2020,2020-W06,6,External_Github,https://github.com/opencovid19-fr/data
@@ -6515,6 +6628,13 @@ France,Ospedali,4/1/2021,2021-W13,28581,Country_Website,https://www.data.gouv.fr
 France,Ospedali,4/2/2021,2021-W13,28729,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
 France,Ospedali,4/3/2021,2021-W13,28886,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
 France,Ospedali,4/4/2021,2021-W13,29356,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Ospedali,4/5/2021,2021-W14,29907,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Ospedali,4/6/2021,2021-W14,30639,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Ospedali,4/7/2021,2021-W14,30904,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Ospedali,4/8/2021,2021-W14,30555,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Ospedali,4/9/2021,2021-W14,30326,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Ospedali,4/10/2021,2021-W14,30238,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Ospedali,4/11/2021,2021-W14,30671,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
 France,Terapie Intensive,2/2/2020,2020-W05,1,External_Github,https://github.com/opencovid19-fr/data
 France,Terapie Intensive,2/3/2020,2020-W06,1,External_Github,https://github.com/opencovid19-fr/data
 France,Terapie Intensive,2/4/2020,2020-W06,1,External_Github,https://github.com/opencovid19-fr/data
@@ -6921,6 +7041,13 @@ France,Terapie Intensive,4/1/2021,2021-W13,5109,Country_Website,https://www.data
 France,Terapie Intensive,4/2/2021,2021-W13,5254,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
 France,Terapie Intensive,4/3/2021,2021-W13,5273,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
 France,Terapie Intensive,4/4/2021,2021-W13,5341,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Terapie Intensive,4/5/2021,2021-W14,5433,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Terapie Intensive,4/6/2021,2021-W14,5626,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Terapie Intensive,4/7/2021,2021-W14,5729,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Terapie Intensive,4/8/2021,2021-W14,5705,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Terapie Intensive,4/9/2021,2021-W14,5757,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Terapie Intensive,4/10/2021,2021-W14,5769,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+France,Terapie Intensive,4/11/2021,2021-W14,5838,Country_Website,https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
 Germany,Terapie Intensive,3/20/2020,2020-W12,200,Country_Website,https://www.intensivregister.de/#/intensivregister
 Germany,Terapie Intensive,3/21/2020,2020-W12,308,Country_Website,https://www.intensivregister.de/#/intensivregister
 Germany,Terapie Intensive,3/22/2020,2020-W12,364,Country_Website,https://www.intensivregister.de/#/intensivregister
@@ -7302,6 +7429,13 @@ Germany,Terapie Intensive,4/1/2021,2021-W13,3719,Country_Website,https://www.int
 Germany,Terapie Intensive,4/2/2021,2021-W13,3839,Country_Website,https://www.intensivregister.de/#/intensivregister
 Germany,Terapie Intensive,4/3/2021,2021-W13,3905,Country_Website,https://www.intensivregister.de/#/intensivregister
 Germany,Terapie Intensive,4/4/2021,2021-W13,4047,Country_Website,https://www.intensivregister.de/#/intensivregister
+Germany,Terapie Intensive,4/5/2021,2021-W14,4152,Country_Website,https://www.intensivregister.de/#/intensivregister
+Germany,Terapie Intensive,4/6/2021,2021-W14,4342,Country_Website,https://www.intensivregister.de/#/intensivregister
+Germany,Terapie Intensive,4/7/2021,2021-W14,4428,Country_Website,https://www.intensivregister.de/#/intensivregister
+Germany,Terapie Intensive,4/8/2021,2021-W14,4461,Country_Website,https://www.intensivregister.de/#/intensivregister
+Germany,Terapie Intensive,4/9/2021,2021-W14,4501,Country_Website,https://www.intensivregister.de/#/intensivregister
+Germany,Terapie Intensive,4/10/2021,2021-W14,4517,Country_Website,https://www.intensivregister.de/#/intensivregister
+Germany,Terapie Intensive,4/11/2021,2021-W14,4566,Country_Website,https://www.intensivregister.de/#/intensivregister
 Hungary,Ospedali,4/16/2020,2020-W16,729,Other_Website,http://pandemia.hu/koronavirus-magyarorszag/
 Hungary,Ospedali,4/17/2020,2020-W16,847,Other_Website,http://pandemia.hu/koronavirus-magyarorszag/
 Hungary,Ospedali,4/18/2020,2020-W16,829,Other_Website,http://pandemia.hu/koronavirus-magyarorszag/
@@ -7654,6 +7788,13 @@ Hungary,Ospedali,4/1/2021,2021-W13,12062,Other_Website,http://pandemia.hu/korona
 Hungary,Ospedali,4/2/2021,2021-W13,11747,Other_Website,http://pandemia.hu/koronavirus-magyarorszag/
 Hungary,Ospedali,4/3/2021,2021-W13,11383,Other_Website,http://pandemia.hu/koronavirus-magyarorszag/
 Hungary,Ospedali,4/4/2021,2021-W13,11571,Other_Website,http://pandemia.hu/koronavirus-magyarorszag/
+Hungary,Ospedali,4/5/2021,2021-W14,11806,Other_Website,http://pandemia.hu/koronavirus-magyarorszag/
+Hungary,Ospedali,4/6/2021,2021-W14,12007,Other_Website,http://pandemia.hu/koronavirus-magyarorszag/
+Hungary,Ospedali,4/7/2021,2021-W14,12202,Other_Website,http://pandemia.hu/koronavirus-magyarorszag/
+Hungary,Ospedali,4/8/2021,2021-W14,11663,Other_Website,http://pandemia.hu/koronavirus-magyarorszag/
+Hungary,Ospedali,4/9/2021,2021-W14,11363,Other_Website,http://pandemia.hu/koronavirus-magyarorszag/
+Hungary,Ospedali,4/10/2021,2021-W14,10921,Other_Website,http://pandemia.hu/koronavirus-magyarorszag/
+Hungary,Ospedali,4/11/2021,2021-W14,10484,Other_Website,http://pandemia.hu/koronavirus-magyarorszag/
 Iceland,Ospedali,2/28/2020,2020-W09,1,Country_Website,https://www.covid.is/
 Iceland,Ospedali,2/29/2020,2020-W09,1,Country_Website,https://www.covid.is/
 Iceland,Ospedali,3/1/2020,2020-W09,1,Country_Website,https://www.covid.is/
@@ -7953,6 +8094,11 @@ Iceland,Ospedali,3/28/2021,2021-W12,1,Country_Website,https://www.covid.is/
 Iceland,Ospedali,3/29/2021,2021-W13,1,Country_Website,https://www.covid.is/
 Iceland,Ospedali,3/30/2021,2021-W13,1,Country_Website,https://www.covid.is/
 Iceland,Ospedali,4/2/2021,2021-W13,1,Country_Website,https://www.covid.is/
+Iceland,Ospedali,4/5/2021,2021-W14,0,Country_Website,https://www.covid.is/
+Iceland,Ospedali,4/6/2021,2021-W14,0,Country_Website,https://www.covid.is/
+Iceland,Ospedali,4/7/2021,2021-W14,0,Country_Website,https://www.covid.is/
+Iceland,Ospedali,4/8/2021,2021-W14,0,Country_Website,https://www.covid.is/
+Iceland,Ospedali,4/11/2021,2021-W14,0,Country_Website,https://www.covid.is/
 Iceland,Terapie Intensive,2/28/2020,2020-W09,0,Country_Website,https://www.covid.is/
 Iceland,Terapie Intensive,2/29/2020,2020-W09,0,Country_Website,https://www.covid.is/
 Iceland,Terapie Intensive,3/1/2020,2020-W09,0,Country_Website,https://www.covid.is/
@@ -8580,6 +8726,13 @@ Ireland,Ospedali,4/1/2021,2021-W13,274,Country_Website,https://data.gov.ie/datas
 Ireland,Ospedali,4/2/2021,2021-W13,264,Country_Website,https://data.gov.ie/dataset/covid19acutehospitalhistoricsummaryopendata
 Ireland,Ospedali,4/3/2021,2021-W13,242,Country_Website,https://data.gov.ie/dataset/covid19acutehospitalhistoricsummaryopendata
 Ireland,Ospedali,4/4/2021,2021-W13,242,Country_Website,https://data.gov.ie/dataset/covid19acutehospitalhistoricsummaryopendata
+Ireland,Ospedali,4/5/2021,2021-W14,260,Country_Website,https://data.gov.ie/dataset/covid19acutehospitalhistoricsummaryopendata
+Ireland,Ospedali,4/6/2021,2021-W14,261,Country_Website,https://data.gov.ie/dataset/covid19acutehospitalhistoricsummaryopendata
+Ireland,Ospedali,4/7/2021,2021-W14,232,Country_Website,https://data.gov.ie/dataset/covid19acutehospitalhistoricsummaryopendata
+Ireland,Ospedali,4/8/2021,2021-W14,226,Country_Website,https://data.gov.ie/dataset/covid19acutehospitalhistoricsummaryopendata
+Ireland,Ospedali,4/9/2021,2021-W14,212,Country_Website,https://data.gov.ie/dataset/covid19acutehospitalhistoricsummaryopendata
+Ireland,Ospedali,4/10/2021,2021-W14,208,Country_Website,https://data.gov.ie/dataset/covid19acutehospitalhistoricsummaryopendata
+Ireland,Ospedali,4/11/2021,2021-W14,213,Country_Website,https://data.gov.ie/dataset/covid19acutehospitalhistoricsummaryopendata
 Ireland,Terapie Intensive,3/27/2020,2020-W13,68,Country_Website,https://data.gov.ie/dataset/icubishistorictimelinepublicview
 Ireland,Terapie Intensive,3/28/2020,2020-W13,80,Country_Website,https://data.gov.ie/dataset/icubishistorictimelinepublicview
 Ireland,Terapie Intensive,3/29/2020,2020-W13,96,Country_Website,https://data.gov.ie/dataset/icubishistorictimelinepublicview
@@ -8953,6 +9106,13 @@ Ireland,Terapie Intensive,4/1/2021,2021-W13,63,Country_Website,https://data.gov.
 Ireland,Terapie Intensive,4/2/2021,2021-W13,62,Country_Website,https://data.gov.ie/dataset/icubishistorictimelinepublicview
 Ireland,Terapie Intensive,4/3/2021,2021-W13,65,Country_Website,https://data.gov.ie/dataset/icubishistorictimelinepublicview
 Ireland,Terapie Intensive,4/4/2021,2021-W13,58,Country_Website,https://data.gov.ie/dataset/icubishistorictimelinepublicview
+Ireland,Terapie Intensive,4/5/2021,2021-W14,58,Country_Website,https://data.gov.ie/dataset/icubishistorictimelinepublicview
+Ireland,Terapie Intensive,4/6/2021,2021-W14,60,Country_Website,https://data.gov.ie/dataset/icubishistorictimelinepublicview
+Ireland,Terapie Intensive,4/7/2021,2021-W14,56,Country_Website,https://data.gov.ie/dataset/icubishistorictimelinepublicview
+Ireland,Terapie Intensive,4/8/2021,2021-W14,55,Country_Website,https://data.gov.ie/dataset/icubishistorictimelinepublicview
+Ireland,Terapie Intensive,4/9/2021,2021-W14,53,Country_Website,https://data.gov.ie/dataset/icubishistorictimelinepublicview
+Ireland,Terapie Intensive,4/10/2021,2021-W14,52,Country_Website,https://data.gov.ie/dataset/icubishistorictimelinepublicview
+Ireland,Terapie Intensive,4/11/2021,2021-W14,53,Country_Website,https://data.gov.ie/dataset/icubishistorictimelinepublicview
 Italy,Ospedali,2/24/2020,2020-W09,127,Country_Github,https://github.com/pcm-dpc/COVID-19
 Italy,Ospedali,2/25/2020,2020-W09,149,Country_Github,https://github.com/pcm-dpc/COVID-19
 Italy,Ospedali,2/26/2020,2020-W09,164,Country_Github,https://github.com/pcm-dpc/COVID-19
@@ -9359,6 +9519,13 @@ Italy,Ospedali,4/1/2021,2021-W13,32630,Country_Github,https://github.com/pcm-dpc
 Italy,Ospedali,4/2/2021,2021-W13,32408,Country_Github,https://github.com/pcm-dpc/COVID-19
 Italy,Ospedali,4/3/2021,2021-W13,32203,Country_Github,https://github.com/pcm-dpc/COVID-19
 Italy,Ospedali,4/4/2021,2021-W13,32135,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Ospedali,4/5/2021,2021-W14,32522,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Ospedali,4/6/2021,2021-W14,33080,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Ospedali,4/7/2021,2021-W14,32999,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Ospedali,4/8/2021,2021-W14,32514,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Ospedali,4/9/2021,2021-W14,31749,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Ospedali,4/10/2021,2021-W14,31242,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Ospedali,4/11/2021,2021-W14,30836,Country_Github,https://github.com/pcm-dpc/COVID-19
 Italy,Terapie Intensive,2/24/2020,2020-W09,26,Country_Github,https://github.com/pcm-dpc/COVID-19
 Italy,Terapie Intensive,2/25/2020,2020-W09,35,Country_Github,https://github.com/pcm-dpc/COVID-19
 Italy,Terapie Intensive,2/26/2020,2020-W09,36,Country_Github,https://github.com/pcm-dpc/COVID-19
@@ -9765,6 +9932,13 @@ Italy,Terapie Intensive,4/1/2021,2021-W13,3681,Country_Github,https://github.com
 Italy,Terapie Intensive,4/2/2021,2021-W13,3704,Country_Github,https://github.com/pcm-dpc/COVID-19
 Italy,Terapie Intensive,4/3/2021,2021-W13,3714,Country_Github,https://github.com/pcm-dpc/COVID-19
 Italy,Terapie Intensive,4/4/2021,2021-W13,3703,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Terapie Intensive,4/5/2021,2021-W14,3737,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Terapie Intensive,4/6/2021,2021-W14,3743,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Terapie Intensive,4/7/2021,2021-W14,3683,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Terapie Intensive,4/8/2021,2021-W14,3663,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Terapie Intensive,4/9/2021,2021-W14,3603,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Terapie Intensive,4/10/2021,2021-W14,3588,Country_Github,https://github.com/pcm-dpc/COVID-19
+Italy,Terapie Intensive,4/11/2021,2021-W14,3585,Country_Github,https://github.com/pcm-dpc/COVID-19
 Latvia,Ospedali,3/30/2020,2020-W14,28,Surveillance,https://arkartassituacija.gov.lv/
 Latvia,Ospedali,3/31/2020,2020-W14,27,Surveillance,https://arkartassituacija.gov.lv/
 Latvia,Ospedali,4/1/2020,2020-W14,28,Surveillance,https://arkartassituacija.gov.lv/
@@ -9915,14 +10089,14 @@ Latvia,Ospedali,8/23/2020,2020-W34,4,Country_Website,https://infogram.com/covid-
 Latvia,Ospedali,8/24/2020,2020-W35,5,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
 Latvia,Ospedali,8/25/2020,2020-W35,4,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
 Latvia,Ospedali,8/26/2020,2020-W35,3,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,8/27/2020,2020-W35,5,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,8/28/2020,2020-W35,4,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,8/29/2020,2020-W35,4,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,8/30/2020,2020-W35,4,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,8/31/2020,2020-W36,5,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,9/1/2020,2020-W36,5,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,9/2/2020,2020-W36,5,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,9/3/2020,2020-W36,7,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,8/27/2020,2020-W35,3,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,8/28/2020,2020-W35,3,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,8/29/2020,2020-W35,3,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,8/30/2020,2020-W35,3,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,8/31/2020,2020-W36,4,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,9/1/2020,2020-W36,4,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,9/2/2020,2020-W36,4,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,9/3/2020,2020-W36,5,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
 Latvia,Ospedali,9/4/2020,2020-W36,6,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
 Latvia,Ospedali,9/5/2020,2020-W36,7,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
 Latvia,Ospedali,9/6/2020,2020-W36,7,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
@@ -9949,131 +10123,200 @@ Latvia,Ospedali,9/26/2020,2020-W39,5,Country_Website,https://infogram.com/covid-
 Latvia,Ospedali,9/27/2020,2020-W39,7,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
 Latvia,Ospedali,9/28/2020,2020-W40,11,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
 Latvia,Ospedali,9/29/2020,2020-W40,16,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,9/30/2020,2020-W40,19,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/1/2020,2020-W40,21,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/2/2020,2020-W40,22,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/3/2020,2020-W40,24,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/4/2020,2020-W40,26,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/5/2020,2020-W41,28,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/6/2020,2020-W41,32,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/7/2020,2020-W41,34,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/8/2020,2020-W41,42,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/9/2020,2020-W41,47,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/10/2020,2020-W41,52,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/11/2020,2020-W41,61,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/12/2020,2020-W42,65,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/13/2020,2020-W42,70,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/14/2020,2020-W42,75,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/15/2020,2020-W42,70,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/16/2020,2020-W42,63,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/17/2020,2020-W42,69,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/18/2020,2020-W42,72,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/19/2020,2020-W43,80,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/20/2020,2020-W43,83,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/21/2020,2020-W43,79,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/22/2020,2020-W43,105,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/23/2020,2020-W43,113,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/24/2020,2020-W43,127,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/25/2020,2020-W43,146,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/26/2020,2020-W44,158,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/27/2020,2020-W44,171,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/28/2020,2020-W44,182,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/29/2020,2020-W44,197,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/30/2020,2020-W44,195,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,10/31/2020,2020-W44,200,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/1/2020,2020-W44,223,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/2/2020,2020-W45,237,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/3/2020,2020-W45,249,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/4/2020,2020-W45,240,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/5/2020,2020-W45,244,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/6/2020,2020-W45,258,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/7/2020,2020-W45,242,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/8/2020,2020-W45,263,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/9/2020,2020-W46,313,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/10/2020,2020-W46,309,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/11/2020,2020-W46,299,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/12/2020,2020-W46,312,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/13/2020,2020-W46,318,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/14/2020,2020-W46,325,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/15/2020,2020-W46,344,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/16/2020,2020-W47,386,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/17/2020,2020-W47,379,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/18/2020,2020-W47,370,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/19/2020,2020-W47,395,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/20/2020,2020-W47,410,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/21/2020,2020-W47,399,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/22/2020,2020-W47,416,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/23/2020,2020-W48,437,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/24/2020,2020-W48,425,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/25/2020,2020-W48,434,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/26/2020,2020-W48,489,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/27/2020,2020-W48,496,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/28/2020,2020-W48,484,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/29/2020,2020-W48,510,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,11/30/2020,2020-W49,534,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/1/2020,2020-W49,519,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/2/2020,2020-W49,516,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/3/2020,2020-W49,552,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/4/2020,2020-W49,583,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/5/2020,2020-W49,556,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/6/2020,2020-W49,604,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/7/2020,2020-W50,655,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/8/2020,2020-W50,709,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/9/2020,2020-W50,722,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/10/2020,2020-W50,744,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/11/2020,2020-W50,743,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/12/2020,2020-W50,742,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/13/2020,2020-W50,760,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/14/2020,2020-W51,814,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/15/2020,2020-W51,841,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/16/2020,2020-W51,833,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/17/2020,2020-W51,833,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/18/2020,2020-W51,871,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/19/2020,2020-W51,848,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/20/2020,2020-W51,903,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/21/2020,2020-W52,983,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/22/2020,2020-W52,998,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/23/2020,2020-W52,948,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/24/2020,2020-W52,898,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/25/2020,2020-W52,936,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/26/2020,2020-W52,989,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/27/2020,2020-W52,1010,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/28/2020,2020-W53,1048,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/29/2020,2020-W53,1059,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/30/2020,2020-W53,1058,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,12/31/2020,2020-W53,999,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/1/2021,2020-W53,1066,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/2/2021,2020-W53,1133,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/3/2021,2020-W53,1180,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/4/2021,2021-W01,1213,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/5/2021,2021-W01,1180,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/6/2021,2021-W01,1134,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/7/2021,2021-W01,1174,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/8/2021,2021-W01,1166,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/9/2021,2021-W01,1125,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/10/2021,2021-W01,1147,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/11/2021,2021-W02,1200,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/12/2021,2021-W02,1187,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/13/2021,2021-W02,1224,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/14/2021,2021-W02,1183,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/15/2021,2021-W02,1151,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/16/2021,2021-W02,1087,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/17/2021,2021-W02,1136,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/18/2021,2021-W03,1172,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/19/2021,2021-W03,1157,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/20/2021,2021-W03,1115,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/21/2021,2021-W03,1105,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/22/2021,2021-W03,1115,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/23/2021,2021-W03,1047,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/24/2021,2021-W03,1109,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/25/2021,2021-W04,1153,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/26/2021,2021-W04,1077,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/27/2021,2021-W04,1025,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/28/2021,2021-W04,1047,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/29/2021,2021-W04,1058,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/30/2021,2021-W04,1032,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,1/31/2021,2021-W04,1061,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
-Latvia,Ospedali,2/1/2021,2021-W05,1097,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,9/30/2020,2020-W40,18,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/1/2020,2020-W40,19,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/2/2020,2020-W40,19,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/3/2020,2020-W40,21,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/4/2020,2020-W40,23,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/5/2020,2020-W41,24,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/6/2020,2020-W41,29,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/7/2020,2020-W41,29,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/8/2020,2020-W41,37,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/9/2020,2020-W41,42,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/10/2020,2020-W41,47,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/11/2020,2020-W41,56,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/12/2020,2020-W42,59,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/13/2020,2020-W42,61,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/14/2020,2020-W42,67,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/15/2020,2020-W42,61,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/16/2020,2020-W42,54,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/17/2020,2020-W42,63,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/18/2020,2020-W42,66,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/19/2020,2020-W43,74,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/20/2020,2020-W43,79,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/21/2020,2020-W43,75,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/22/2020,2020-W43,98,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/23/2020,2020-W43,103,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/24/2020,2020-W43,119,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/25/2020,2020-W43,138,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/26/2020,2020-W44,151,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/27/2020,2020-W44,162,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/28/2020,2020-W44,175,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/29/2020,2020-W44,189,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/30/2020,2020-W44,185,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,10/31/2020,2020-W44,187,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/1/2020,2020-W44,208,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/2/2020,2020-W45,222,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/3/2020,2020-W45,236,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/4/2020,2020-W45,228,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/5/2020,2020-W45,234,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/6/2020,2020-W45,247,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/7/2020,2020-W45,230,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/8/2020,2020-W45,251,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/9/2020,2020-W46,301,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/10/2020,2020-W46,294,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/11/2020,2020-W46,282,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/12/2020,2020-W46,295,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/13/2020,2020-W46,305,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/14/2020,2020-W46,311,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/15/2020,2020-W46,331,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/16/2020,2020-W47,369,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/17/2020,2020-W47,363,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/18/2020,2020-W47,354,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/19/2020,2020-W47,383,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/20/2020,2020-W47,387,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/21/2020,2020-W47,375,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/22/2020,2020-W47,389,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/23/2020,2020-W48,414,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/24/2020,2020-W48,402,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/25/2020,2020-W48,403,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/26/2020,2020-W48,458,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/27/2020,2020-W48,460,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/28/2020,2020-W48,452,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/29/2020,2020-W48,478,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,11/30/2020,2020-W49,477,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/1/2020,2020-W49,480,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/2/2020,2020-W49,470,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/3/2020,2020-W49,503,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/4/2020,2020-W49,537,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/5/2020,2020-W49,515,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/6/2020,2020-W49,562,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/7/2020,2020-W50,610,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/8/2020,2020-W50,667,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/9/2020,2020-W50,677,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/10/2020,2020-W50,704,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/11/2020,2020-W50,703,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/12/2020,2020-W50,708,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/13/2020,2020-W50,723,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/14/2020,2020-W51,775,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/15/2020,2020-W51,798,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/16/2020,2020-W51,792,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/17/2020,2020-W51,786,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/18/2020,2020-W51,825,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/19/2020,2020-W51,796,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/20/2020,2020-W51,850,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/21/2020,2020-W52,927,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/22/2020,2020-W52,948,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/23/2020,2020-W52,900,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/24/2020,2020-W52,857,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/25/2020,2020-W52,885,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/26/2020,2020-W52,937,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/27/2020,2020-W52,954,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/28/2020,2020-W53,987,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/29/2020,2020-W53,1000,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/30/2020,2020-W53,998,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,12/31/2020,2020-W53,939,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/1/2021,2020-W53,1004,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/2/2021,2020-W53,1067,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/3/2021,2020-W53,1114,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/4/2021,2021-W01,1141,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/5/2021,2021-W01,1112,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/6/2021,2021-W01,1068,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/7/2021,2021-W01,1110,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/8/2021,2021-W01,1092,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/9/2021,2021-W01,1051,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/10/2021,2021-W01,1079,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/11/2021,2021-W02,1127,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/12/2021,2021-W02,1115,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/13/2021,2021-W02,1155,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/14/2021,2021-W02,1101,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/15/2021,2021-W02,1070,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/16/2021,2021-W02,1005,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/17/2021,2021-W02,1049,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/18/2021,2021-W03,1073,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/19/2021,2021-W03,1062,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/20/2021,2021-W03,1016,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/21/2021,2021-W03,1010,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/22/2021,2021-W03,1015,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/23/2021,2021-W03,944,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/24/2021,2021-W03,1007,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/25/2021,2021-W04,1052,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/26/2021,2021-W04,972,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/27/2021,2021-W04,921,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/28/2021,2021-W04,944,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/29/2021,2021-W04,949,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/30/2021,2021-W04,918,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,1/31/2021,2021-W04,948,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/1/2021,2021-W05,988,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/2/2021,2021-W05,1070,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/3/2021,2021-W05,925,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/4/2021,2021-W05,898,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/5/2021,2021-W05,884,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/6/2021,2021-W05,829,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/7/2021,2021-W05,877,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/8/2021,2021-W06,905,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/9/2021,2021-W06,865,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/10/2021,2021-W06,824,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/11/2021,2021-W06,840,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/12/2021,2021-W06,844,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/13/2021,2021-W06,812,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/14/2021,2021-W06,831,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/15/2021,2021-W07,851,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/16/2021,2021-W07,837,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/17/2021,2021-W07,796,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/18/2021,2021-W07,767,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/19/2021,2021-W07,753,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/20/2021,2021-W07,715,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/21/2021,2021-W07,740,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/22/2021,2021-W08,771,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/23/2021,2021-W08,748,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/24/2021,2021-W08,728,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/25/2021,2021-W08,720,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/26/2021,2021-W08,700,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/27/2021,2021-W08,665,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,2/28/2021,2021-W08,682,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/1/2021,2021-W09,728,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/2/2021,2021-W09,710,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/3/2021,2021-W09,702,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/4/2021,2021-W09,696,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/5/2021,2021-W09,699,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/6/2021,2021-W09,649,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/7/2021,2021-W09,685,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/8/2021,2021-W10,730,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/9/2021,2021-W10,683,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/10/2021,2021-W10,635,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/11/2021,2021-W10,629,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/12/2021,2021-W10,622,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/13/2021,2021-W10,565,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/14/2021,2021-W10,582,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/15/2021,2021-W11,609,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/16/2021,2021-W11,620,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/17/2021,2021-W11,602,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/18/2021,2021-W11,585,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/19/2021,2021-W11,596,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/20/2021,2021-W11,559,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/21/2021,2021-W11,587,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/22/2021,2021-W12,612,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/23/2021,2021-W12,607,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/24/2021,2021-W12,619,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/25/2021,2021-W12,631,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/26/2021,2021-W12,630,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/27/2021,2021-W12,589,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/28/2021,2021-W12,606,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/29/2021,2021-W13,633,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/30/2021,2021-W13,625,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,3/31/2021,2021-W13,613,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,4/1/2021,2021-W13,576,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,4/2/2021,2021-W13,526,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,4/3/2021,2021-W13,573,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,4/4/2021,2021-W13,595,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,4/5/2021,2021-W14,628,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,4/6/2021,2021-W14,858,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,4/7/2021,2021-W14,638,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,4/8/2021,2021-W14,612,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,4/9/2021,2021-W14,609,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,4/10/2021,2021-W14,563,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
+Latvia,Ospedali,4/11/2021,2021-W14,591,Country_Website,https://infogram.com/covid-19-izplatiba-latvija-1hzj4ozwvnzo2pw
 Lithuania,Ospedali,10/6/2020,2020-W41,156,Country_Website,http://sam.lrv.lt/lt/naujienos/koronavirusas
 Lithuania,Ospedali,10/13/2020,2020-W42,149,Country_Website,http://sam.lrv.lt/lt/naujienos/koronavirusas
 Lithuania,Ospedali,10/14/2020,2020-W42,141,Country_Website,http://sam.lrv.lt/lt/naujienos/koronavirusas
@@ -10192,6 +10435,13 @@ Lithuania,Ospedali,4/1/2021,2021-W13,726,Country_Website,https://atlas.jifo.co/a
 Lithuania,Ospedali,4/2/2021,2021-W13,704,Country_Website,https://atlas.jifo.co/api/connectors/86105d38-f8c5-4578-8477-22ced61ff9bd
 Lithuania,Ospedali,4/3/2021,2021-W13,756,Country_Website,https://atlas.jifo.co/api/connectors/86105d38-f8c5-4578-8477-22ced61ff9bd
 Lithuania,Ospedali,4/4/2021,2021-W13,801,Country_Website,https://atlas.jifo.co/api/connectors/86105d38-f8c5-4578-8477-22ced61ff9bd
+Lithuania,Ospedali,4/5/2021,2021-W14,854,Country_Website,https://atlas.jifo.co/api/connectors/86105d38-f8c5-4578-8477-22ced61ff9bd
+Lithuania,Ospedali,4/6/2021,2021-W14,839,Country_Website,https://atlas.jifo.co/api/connectors/86105d38-f8c5-4578-8477-22ced61ff9bd
+Lithuania,Ospedali,4/7/2021,2021-W14,850,Country_Website,https://atlas.jifo.co/api/connectors/86105d38-f8c5-4578-8477-22ced61ff9bd
+Lithuania,Ospedali,4/8/2021,2021-W14,867,Country_Website,https://atlas.jifo.co/api/connectors/86105d38-f8c5-4578-8477-22ced61ff9bd
+Lithuania,Ospedali,4/9/2021,2021-W14,848,Country_Website,https://atlas.jifo.co/api/connectors/86105d38-f8c5-4578-8477-22ced61ff9bd
+Lithuania,Ospedali,4/10/2021,2021-W14,924,Country_Website,https://atlas.jifo.co/api/connectors/86105d38-f8c5-4578-8477-22ced61ff9bd
+Lithuania,Ospedali,4/11/2021,2021-W14,981,Country_Website,https://atlas.jifo.co/api/connectors/86105d38-f8c5-4578-8477-22ced61ff9bd
 Luxembourg,Ospedali,3/16/2020,2020-W12,0,Country_Website,https://covid19.public.lu/fr/graph.html
 Luxembourg,Ospedali,3/17/2020,2020-W12,0,Country_Website,https://covid19.public.lu/fr/graph.html
 Luxembourg,Ospedali,3/18/2020,2020-W12,0,Country_Website,https://covid19.public.lu/fr/graph.html
@@ -10577,6 +10827,13 @@ Luxembourg,Ospedali,4/1/2021,2021-W13,141,Country_Website,https://covid19.public
 Luxembourg,Ospedali,4/2/2021,2021-W13,142,Country_Website,https://covid19.public.lu/fr/graph.html
 Luxembourg,Ospedali,4/3/2021,2021-W13,135,Country_Website,https://covid19.public.lu/fr/graph.html
 Luxembourg,Ospedali,4/4/2021,2021-W13,134,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Ospedali,4/5/2021,2021-W14,137,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Ospedali,4/6/2021,2021-W14,139,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Ospedali,4/7/2021,2021-W14,140,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Ospedali,4/8/2021,2021-W14,132,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Ospedali,4/9/2021,2021-W14,133,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Ospedali,4/10/2021,2021-W14,130,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Ospedali,4/11/2021,2021-W14,129,Country_Website,https://covid19.public.lu/fr/graph.html
 Luxembourg,Terapie Intensive,2/24/2020,2020-W09,0,Country_Website,https://covid19.public.lu/fr/graph.html
 Luxembourg,Terapie Intensive,2/25/2020,2020-W09,0,Country_Website,https://covid19.public.lu/fr/graph.html
 Luxembourg,Terapie Intensive,2/26/2020,2020-W09,0,Country_Website,https://covid19.public.lu/fr/graph.html
@@ -10983,6 +11240,13 @@ Luxembourg,Terapie Intensive,4/1/2021,2021-W13,30,Country_Website,https://covid1
 Luxembourg,Terapie Intensive,4/2/2021,2021-W13,31,Country_Website,https://covid19.public.lu/fr/graph.html
 Luxembourg,Terapie Intensive,4/3/2021,2021-W13,30,Country_Website,https://covid19.public.lu/fr/graph.html
 Luxembourg,Terapie Intensive,4/4/2021,2021-W13,30,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Terapie Intensive,4/5/2021,2021-W14,32,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Terapie Intensive,4/6/2021,2021-W14,31,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Terapie Intensive,4/7/2021,2021-W14,32,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Terapie Intensive,4/8/2021,2021-W14,30,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Terapie Intensive,4/9/2021,2021-W14,27,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Terapie Intensive,4/10/2021,2021-W14,29,Country_Website,https://covid19.public.lu/fr/graph.html
+Luxembourg,Terapie Intensive,4/11/2021,2021-W14,30,Country_Website,https://covid19.public.lu/fr/graph.html
 Netherlands,Ospedali,2/27/2020,2020-W09,1,Country_Website,https://lcps.nu/datafeed/
 Netherlands,Ospedali,2/28/2020,2020-W09,9,Country_Website,https://lcps.nu/datafeed/
 Netherlands,Ospedali,2/29/2020,2020-W09,10,Country_Website,https://lcps.nu/datafeed/
@@ -11385,6 +11649,13 @@ Netherlands,Ospedali,4/1/2021,2021-W13,1639,Country_Website,https://lcps.nu/data
 Netherlands,Ospedali,4/2/2021,2021-W13,1625,Country_Website,https://lcps.nu/datafeed/
 Netherlands,Ospedali,4/3/2021,2021-W13,1614,Country_Website,https://lcps.nu/datafeed/
 Netherlands,Ospedali,4/4/2021,2021-W13,1587,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Ospedali,4/5/2021,2021-W14,1628,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Ospedali,4/6/2021,2021-W14,1748,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Ospedali,4/7/2021,2021-W14,1782,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Ospedali,4/8/2021,2021-W14,1727,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Ospedali,4/9/2021,2021-W14,1711,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Ospedali,4/10/2021,2021-W14,1704,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Ospedali,4/11/2021,2021-W14,1729,Country_Website,https://lcps.nu/datafeed/
 Netherlands,Terapie Intensive,2/27/2020,2020-W09,7,Country_Website,https://lcps.nu/datafeed/
 Netherlands,Terapie Intensive,2/28/2020,2020-W09,8,Country_Website,https://lcps.nu/datafeed/
 Netherlands,Terapie Intensive,2/29/2020,2020-W09,9,Country_Website,https://lcps.nu/datafeed/
@@ -11788,6 +12059,13 @@ Netherlands,Terapie Intensive,4/1/2021,2021-W13,688,Country_Website,https://lcps
 Netherlands,Terapie Intensive,4/2/2021,2021-W13,705,Country_Website,https://lcps.nu/datafeed/
 Netherlands,Terapie Intensive,4/3/2021,2021-W13,734,Country_Website,https://lcps.nu/datafeed/
 Netherlands,Terapie Intensive,4/4/2021,2021-W13,730,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Terapie Intensive,4/5/2021,2021-W14,746,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Terapie Intensive,4/6/2021,2021-W14,750,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Terapie Intensive,4/7/2021,2021-W14,776,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Terapie Intensive,4/8/2021,2021-W14,798,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Terapie Intensive,4/9/2021,2021-W14,784,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Terapie Intensive,4/10/2021,2021-W14,787,Country_Website,https://lcps.nu/datafeed/
+Netherlands,Terapie Intensive,4/11/2021,2021-W14,788,Country_Website,https://lcps.nu/datafeed/
 Norway,Ospedali,3/8/2020,2020-W10,0,Country_API,https://utvikler.helsedirektoratet.no/
 Norway,Ospedali,3/9/2020,2020-W11,2,Country_API,https://utvikler.helsedirektoratet.no/
 Norway,Ospedali,3/10/2020,2020-W11,8,Country_API,https://utvikler.helsedirektoratet.no/
@@ -12142,6 +12420,13 @@ Norway,Ospedali,4/1/2021,2021-W13,287,Country_API,https://utvikler.helsedirektor
 Norway,Ospedali,4/2/2021,2021-W13,289,Country_API,https://utvikler.helsedirektoratet.no/
 Norway,Ospedali,4/3/2021,2021-W13,306,Country_API,https://utvikler.helsedirektoratet.no/
 Norway,Ospedali,4/4/2021,2021-W13,299,Country_API,https://utvikler.helsedirektoratet.no/
+Norway,Ospedali,4/5/2021,2021-W14,295,Country_API,https://utvikler.helsedirektoratet.no/
+Norway,Ospedali,4/6/2021,2021-W14,296,Country_API,https://utvikler.helsedirektoratet.no/
+Norway,Ospedali,4/7/2021,2021-W14,307,Country_API,https://utvikler.helsedirektoratet.no/
+Norway,Ospedali,4/8/2021,2021-W14,298,Country_API,https://utvikler.helsedirektoratet.no/
+Norway,Ospedali,4/9/2021,2021-W14,281,Country_API,https://utvikler.helsedirektoratet.no/
+Norway,Ospedali,4/10/2021,2021-W14,280,Country_API,https://utvikler.helsedirektoratet.no/
+Norway,Ospedali,4/11/2021,2021-W14,276,Country_API,https://utvikler.helsedirektoratet.no/
 Poland,Ospedali,4/8/2020,2020-W15,2425,Surveillance,https://twitter.com/MZ_GOV_PL/status/1247796557581176832
 Poland,Ospedali,4/13/2020,2020-W16,2510,Surveillance,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Poland
 Poland,Ospedali,4/15/2020,2020-W16,2499,Surveillance,https://twitter.com/MZ_GOV_PL/status/1250318007248629762
@@ -12491,6 +12776,13 @@ Poland,Ospedali,4/1/2021,2021-W13,31811,Country_Website,https://t.co/4VfxBgoy6w
 Poland,Ospedali,4/2/2021,2021-W13,31955,Country_Website,https://t.co/CGfgLlMtAY
 Poland,Ospedali,4/3/2021,2021-W13,32260,Country_Website,https://t.co/aJIXtQFH0W
 Poland,Ospedali,4/4/2021,2021-W13,31927,Country_Website,https://t.co/Baq3ZlZQQA
+Poland,Ospedali,4/5/2021,2021-W14,32656,Country_Website,https://t.co/HBg5FtNobs
+Poland,Ospedali,4/6/2021,2021-W14,33544,Country_Website,https://t.co/gcUKmtxakv
+Poland,Ospedali,4/7/2021,2021-W14,34691,Country_Website,https://t.co/Igyd2dllrA
+Poland,Ospedali,4/8/2021,2021-W14,34864,Country_Website,https://t.co/BehI6TNlTB
+Poland,Ospedali,4/9/2021,2021-W14,34550,Country_Website,https://t.co/oPfFhTDPOO
+Poland,Ospedali,4/10/2021,2021-W14,34167,Country_Website,https://t.co/YNfoJkSEB5
+Poland,Ospedali,4/11/2021,2021-W14,33460,Country_Website,https://t.co/faNb48sdgc
 Portugal,Ospedali,3/3/2020,2020-W10,0,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
 Portugal,Ospedali,3/4/2020,2020-W10,0,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
 Portugal,Ospedali,3/5/2020,2020-W10,0,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
@@ -12889,6 +13181,13 @@ Portugal,Ospedali,4/1/2021,2021-W13,538,Country_Website,https://covid19.min-saud
 Portugal,Ospedali,4/2/2021,2021-W13,513,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
 Portugal,Ospedali,4/3/2021,2021-W13,512,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
 Portugal,Ospedali,4/4/2021,2021-W13,517,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Ospedali,4/5/2021,2021-W14,536,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Ospedali,4/6/2021,2021-W14,504,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Ospedali,4/7/2021,2021-W14,488,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Ospedali,4/8/2021,2021-W14,495,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Ospedali,4/9/2021,2021-W14,486,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Ospedali,4/10/2021,2021-W14,466,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Ospedali,4/11/2021,2021-W14,466,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
 Portugal,Terapie Intensive,3/3/2020,2020-W10,0,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
 Portugal,Terapie Intensive,3/4/2020,2020-W10,0,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
 Portugal,Terapie Intensive,3/5/2020,2020-W10,0,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
@@ -13287,6 +13586,13 @@ Portugal,Terapie Intensive,4/1/2021,2021-W13,129,Country_Website,https://covid19
 Portugal,Terapie Intensive,4/2/2021,2021-W13,131,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
 Portugal,Terapie Intensive,4/3/2021,2021-W13,126,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
 Portugal,Terapie Intensive,4/4/2021,2021-W13,117,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Terapie Intensive,4/5/2021,2021-W14,112,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Terapie Intensive,4/6/2021,2021-W14,113,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Terapie Intensive,4/7/2021,2021-W14,116,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Terapie Intensive,4/8/2021,2021-W14,122,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Terapie Intensive,4/9/2021,2021-W14,128,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Terapie Intensive,4/10/2021,2021-W14,119,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
+Portugal,Terapie Intensive,4/11/2021,2021-W14,113,Country_Website,https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/
 Romania,Terapie Intensive,3/19/2020,2020-W12,6,Country_Website,http://www.ms.ro/2020/03/19/buletin-informativ-19-03-2020/
 Romania,Terapie Intensive,3/20/2020,2020-W12,11,Country_Website,http://www.ms.ro/2020/03/20/buletin-informativ-20-03-2020/
 Romania,Terapie Intensive,3/21/2020,2020-W12,14,Country_Website,http://www.ms.ro/2020/03/21/buletin-informativ-21-03-2020/
@@ -13646,13 +13952,19 @@ Romania,Terapie Intensive,3/25/2021,2021-W12,1348,Country_Website,https://stirio
 Romania,Terapie Intensive,3/26/2021,2021-W12,1364,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-26-martie-2021-ora-13-00
 Romania,Terapie Intensive,3/27/2021,2021-W12,1373,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-27-martie-2021-ora-13-00
 Romania,Terapie Intensive,3/28/2021,2021-W12,1386,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-28-martie-2021-ora-13-00
-Romania,Terapie Intensive,3/29/2021,2021-W13,1398,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-29-martie-2021-ora-13-00
 Romania,Terapie Intensive,3/30/2021,2021-W13,1405,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-30-martie-2021-ora-13-00
 Romania,Terapie Intensive,3/31/2021,2021-W13,1412,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-31-martie-2021-ora-13-00
 Romania,Terapie Intensive,4/1/2021,2021-W13,1434,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-1-aprilie-2021-ora-13-00
 Romania,Terapie Intensive,4/2/2021,2021-W13,1454,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-2-aprilie-2021-ora-13-00
 Romania,Terapie Intensive,4/3/2021,2021-W13,1448,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-3-aprilie-2021-ora-13-00
 Romania,Terapie Intensive,4/4/2021,2021-W13,1456,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-4-aprilie-2021-ora-13-00
+Romania,Terapie Intensive,4/5/2021,2021-W14,1478,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-5-aprilie-2021-ora-13-00
+Romania,Terapie Intensive,4/6/2021,2021-W14,1466,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-6-aprilie-2021-ora-13-00
+Romania,Terapie Intensive,4/7/2021,2021-W14,1487,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-7-aprilie-2021-ora-13-00
+Romania,Terapie Intensive,4/8/2021,2021-W14,1495,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-8-aprilie-2021-ora-13-00
+Romania,Terapie Intensive,4/9/2021,2021-W14,1496,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-9-aprilie-2021-ora-13-00
+Romania,Terapie Intensive,4/10/2021,2021-W14,1492,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-10-aprilie-2021-ora-13-00
+Romania,Terapie Intensive,4/11/2021,2021-W14,1531,Country_Website,https://stirioficiale.ro/informatii/buletin-de-presa-11-aprilie-2021-ora-13-00
 Slovakia,Ospedali,4/30/2020,2020-W18,51,Country_Website,https://app.powerbi.com/view?r=eyJrIjoiZmVhNjM2ZmQtMDQ2NS00NDBjLWJkMjItYjNkZTZiNzY4NzQyIiwidCI6IjMxMGJhNTk1LTAxM2MtNDAyZC05ZWYyLWI1N2Q1ZjFkY2Q2MyIsImMiOjl9
 Slovakia,Ospedali,5/1/2020,2020-W18,43,Country_Website,https://app.powerbi.com/view?r=eyJrIjoiZmVhNjM2ZmQtMDQ2NS00NDBjLWJkMjItYjNkZTZiNzY4NzQyIiwidCI6IjMxMGJhNTk1LTAxM2MtNDAyZC05ZWYyLWI1N2Q1ZjFkY2Q2MyIsImMiOjl9
 Slovakia,Ospedali,5/2/2020,2020-W18,41,Country_Website,https://app.powerbi.com/view?r=eyJrIjoiZmVhNjM2ZmQtMDQ2NS00NDBjLWJkMjItYjNkZTZiNzY4NzQyIiwidCI6IjMxMGJhNTk1LTAxM2MtNDAyZC05ZWYyLWI1N2Q1ZjFkY2Q2MyIsImMiOjl9
@@ -13993,6 +14305,13 @@ Slovakia,Ospedali,4/1/2021,2021-W13,2683,Country_Website,https://app.powerbi.com
 Slovakia,Ospedali,4/2/2021,2021-W13,2590,Country_Website,https://app.powerbi.com/view?r=eyJrIjoiZmVhNjM2ZmQtMDQ2NS00NDBjLWJkMjItYjNkZTZiNzY4NzQyIiwidCI6IjMxMGJhNTk1LTAxM2MtNDAyZC05ZWYyLWI1N2Q1ZjFkY2Q2MyIsImMiOjl9
 Slovakia,Ospedali,4/3/2021,2021-W13,2627,Country_Website,https://app.powerbi.com/view?r=eyJrIjoiZmVhNjM2ZmQtMDQ2NS00NDBjLWJkMjItYjNkZTZiNzY4NzQyIiwidCI6IjMxMGJhNTk1LTAxM2MtNDAyZC05ZWYyLWI1N2Q1ZjFkY2Q2MyIsImMiOjl9
 Slovakia,Ospedali,4/4/2021,2021-W13,2661,Country_Website,https://app.powerbi.com/view?r=eyJrIjoiZmVhNjM2ZmQtMDQ2NS00NDBjLWJkMjItYjNkZTZiNzY4NzQyIiwidCI6IjMxMGJhNTk1LTAxM2MtNDAyZC05ZWYyLWI1N2Q1ZjFkY2Q2MyIsImMiOjl9
+Slovakia,Ospedali,4/5/2021,2021-W14,2699,Country_Website,https://app.powerbi.com/view?r=eyJrIjoiZmVhNjM2ZmQtMDQ2NS00NDBjLWJkMjItYjNkZTZiNzY4NzQyIiwidCI6IjMxMGJhNTk1LTAxM2MtNDAyZC05ZWYyLWI1N2Q1ZjFkY2Q2MyIsImMiOjl9
+Slovakia,Ospedali,4/6/2021,2021-W14,2639,Country_Website,https://app.powerbi.com/view?r=eyJrIjoiZmVhNjM2ZmQtMDQ2NS00NDBjLWJkMjItYjNkZTZiNzY4NzQyIiwidCI6IjMxMGJhNTk1LTAxM2MtNDAyZC05ZWYyLWI1N2Q1ZjFkY2Q2MyIsImMiOjl9
+Slovakia,Ospedali,4/7/2021,2021-W14,2596,Country_Website,https://app.powerbi.com/view?r=eyJrIjoiZmVhNjM2ZmQtMDQ2NS00NDBjLWJkMjItYjNkZTZiNzY4NzQyIiwidCI6IjMxMGJhNTk1LTAxM2MtNDAyZC05ZWYyLWI1N2Q1ZjFkY2Q2MyIsImMiOjl9
+Slovakia,Ospedali,4/8/2021,2021-W14,2453,Country_Website,https://app.powerbi.com/view?r=eyJrIjoiZmVhNjM2ZmQtMDQ2NS00NDBjLWJkMjItYjNkZTZiNzY4NzQyIiwidCI6IjMxMGJhNTk1LTAxM2MtNDAyZC05ZWYyLWI1N2Q1ZjFkY2Q2MyIsImMiOjl9
+Slovakia,Ospedali,4/9/2021,2021-W14,2314,Country_Website,https://app.powerbi.com/view?r=eyJrIjoiZmVhNjM2ZmQtMDQ2NS00NDBjLWJkMjItYjNkZTZiNzY4NzQyIiwidCI6IjMxMGJhNTk1LTAxM2MtNDAyZC05ZWYyLWI1N2Q1ZjFkY2Q2MyIsImMiOjl9
+Slovakia,Ospedali,4/10/2021,2021-W14,2243,Country_Website,https://app.powerbi.com/view?r=eyJrIjoiZmVhNjM2ZmQtMDQ2NS00NDBjLWJkMjItYjNkZTZiNzY4NzQyIiwidCI6IjMxMGJhNTk1LTAxM2MtNDAyZC05ZWYyLWI1N2Q1ZjFkY2Q2MyIsImMiOjl9
+Slovakia,Ospedali,4/11/2021,2021-W14,2292,Country_Website,https://app.powerbi.com/view?r=eyJrIjoiZmVhNjM2ZmQtMDQ2NS00NDBjLWJkMjItYjNkZTZiNzY4NzQyIiwidCI6IjMxMGJhNTk1LTAxM2MtNDAyZC05ZWYyLWI1N2Q1ZjFkY2Q2MyIsImMiOjl9
 Slovenia,Ospedali,3/10/2020,2020-W11,18,Country_Github,https://github.com/sledilnik/data
 Slovenia,Ospedali,3/11/2020,2020-W11,18,Country_Github,https://github.com/sledilnik/data
 Slovenia,Ospedali,3/12/2020,2020-W11,17,Country_Github,https://github.com/sledilnik/data
@@ -14384,6 +14703,13 @@ Slovenia,Ospedali,4/1/2021,2021-W13,518,Country_Github,https://github.com/sledil
 Slovenia,Ospedali,4/2/2021,2021-W13,515,Country_Github,https://github.com/sledilnik/data
 Slovenia,Ospedali,4/3/2021,2021-W13,531,Country_Github,https://github.com/sledilnik/data
 Slovenia,Ospedali,4/4/2021,2021-W13,534,Country_Github,https://github.com/sledilnik/data
+Slovenia,Ospedali,4/5/2021,2021-W14,556,Country_Github,https://github.com/sledilnik/data
+Slovenia,Ospedali,4/6/2021,2021-W14,573,Country_Github,https://github.com/sledilnik/data
+Slovenia,Ospedali,4/7/2021,2021-W14,581,Country_Github,https://github.com/sledilnik/data
+Slovenia,Ospedali,4/8/2021,2021-W14,599,Country_Github,https://github.com/sledilnik/data
+Slovenia,Ospedali,4/9/2021,2021-W14,618,Country_Github,https://github.com/sledilnik/data
+Slovenia,Ospedali,4/10/2021,2021-W14,605,Country_Github,https://github.com/sledilnik/data
+Slovenia,Ospedali,4/11/2021,2021-W14,615,Country_Github,https://github.com/sledilnik/data
 Slovenia,Terapie Intensive,3/10/2020,2020-W11,1,Country_Github,https://github.com/sledilnik/data
 Slovenia,Terapie Intensive,3/11/2020,2020-W11,1,Country_Github,https://github.com/sledilnik/data
 Slovenia,Terapie Intensive,3/12/2020,2020-W11,2,Country_Github,https://github.com/sledilnik/data
@@ -14775,6 +15101,13 @@ Slovenia,Terapie Intensive,4/1/2021,2021-W13,108,Country_Github,https://github.c
 Slovenia,Terapie Intensive,4/2/2021,2021-W13,118,Country_Github,https://github.com/sledilnik/data
 Slovenia,Terapie Intensive,4/3/2021,2021-W13,124,Country_Github,https://github.com/sledilnik/data
 Slovenia,Terapie Intensive,4/4/2021,2021-W13,124,Country_Github,https://github.com/sledilnik/data
+Slovenia,Terapie Intensive,4/5/2021,2021-W14,126,Country_Github,https://github.com/sledilnik/data
+Slovenia,Terapie Intensive,4/6/2021,2021-W14,133,Country_Github,https://github.com/sledilnik/data
+Slovenia,Terapie Intensive,4/7/2021,2021-W14,131,Country_Github,https://github.com/sledilnik/data
+Slovenia,Terapie Intensive,4/8/2021,2021-W14,129,Country_Github,https://github.com/sledilnik/data
+Slovenia,Terapie Intensive,4/9/2021,2021-W14,138,Country_Github,https://github.com/sledilnik/data
+Slovenia,Terapie Intensive,4/10/2021,2021-W14,140,Country_Github,https://github.com/sledilnik/data
+Slovenia,Terapie Intensive,4/11/2021,2021-W14,139,Country_Github,https://github.com/sledilnik/data
 Spain,Ospedali,8/20/2020,2020-W34,4636,Surveillance,HOSP & ICU DATA Source: mscbs.gob.es
 Spain,Ospedali,8/21/2020,2020-W34,4703,Surveillance,HOSP & ICU DATA Source: mscbs.gob.es
 Spain,Ospedali,8/24/2020,2020-W35,5484,Surveillance,HOSP & ICU DATA Source: mscbs.gob.es
@@ -15440,40 +15773,47 @@ Sweden,Ospedali,2/26/2021,2021-W08,1321,Country_Website,https://www.folkhalsomyn
 Sweden,Ospedali,2/27/2021,2021-W08,1318,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
 Sweden,Ospedali,2/28/2021,2021-W08,1331,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
 Sweden,Ospedali,3/1/2021,2021-W09,1453,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/2/2021,2021-W09,1443,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/3/2021,2021-W09,1431,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/4/2021,2021-W09,1411,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/5/2021,2021-W09,1406,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/6/2021,2021-W09,1406,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/7/2021,2021-W09,1434,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/8/2021,2021-W10,1497,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/9/2021,2021-W10,1486,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/10/2021,2021-W10,1470,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/11/2021,2021-W10,1455,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/12/2021,2021-W10,1494,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/13/2021,2021-W10,1495,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/14/2021,2021-W10,1537,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/15/2021,2021-W11,1640,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/16/2021,2021-W11,1613,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/17/2021,2021-W11,1582,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/18/2021,2021-W11,1599,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/19/2021,2021-W11,1603,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/20/2021,2021-W11,1603,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/21/2021,2021-W11,1616,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/22/2021,2021-W12,1725,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/23/2021,2021-W12,1722,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/24/2021,2021-W12,1686,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/25/2021,2021-W12,1692,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/26/2021,2021-W12,1692,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/27/2021,2021-W12,1692,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/28/2021,2021-W12,1707,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/29/2021,2021-W13,1726,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/30/2021,2021-W13,1868,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,3/31/2021,2021-W13,1857,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,4/1/2021,2021-W13,1856,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,4/2/2021,2021-W13,1856,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,4/3/2021,2021-W13,1856,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Ospedali,4/4/2021,2021-W13,1856,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/2/2021,2021-W09,1444,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/3/2021,2021-W09,1432,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/4/2021,2021-W09,1412,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/5/2021,2021-W09,1407,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/6/2021,2021-W09,1407,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/7/2021,2021-W09,1435,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/8/2021,2021-W10,1498,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/9/2021,2021-W10,1487,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/10/2021,2021-W10,1472,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/11/2021,2021-W10,1457,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/12/2021,2021-W10,1496,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/13/2021,2021-W10,1497,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/14/2021,2021-W10,1539,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/15/2021,2021-W11,1643,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/16/2021,2021-W11,1616,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/17/2021,2021-W11,1585,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/18/2021,2021-W11,1602,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/19/2021,2021-W11,1606,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/20/2021,2021-W11,1607,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/21/2021,2021-W11,1620,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/22/2021,2021-W12,1729,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/23/2021,2021-W12,1728,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/24/2021,2021-W12,1707,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/25/2021,2021-W12,1714,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/26/2021,2021-W12,1711,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/27/2021,2021-W12,1706,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/28/2021,2021-W12,1718,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/29/2021,2021-W13,1743,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/30/2021,2021-W13,1882,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,3/31/2021,2021-W13,1870,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,4/1/2021,2021-W13,1871,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,4/2/2021,2021-W13,1873,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,4/3/2021,2021-W13,1885,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,4/4/2021,2021-W13,1892,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,4/5/2021,2021-W14,1902,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,4/6/2021,2021-W14,2050,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,4/7/2021,2021-W14,2066,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,4/8/2021,2021-W14,2058,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,4/9/2021,2021-W14,2064,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,4/10/2021,2021-W14,2064,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Ospedali,4/11/2021,2021-W14,2069,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
 Sweden,Terapie Intensive,2/27/2020,2020-W09,0,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
 Sweden,Terapie Intensive,2/28/2020,2020-W09,0,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
 Sweden,Terapie Intensive,2/29/2020,2020-W09,0,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
@@ -15865,15 +16205,22 @@ Sweden,Terapie Intensive,3/20/2021,2021-W11,270,Country_Website,https://www.folk
 Sweden,Terapie Intensive,3/21/2021,2021-W11,273,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
 Sweden,Terapie Intensive,3/22/2021,2021-W12,289,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
 Sweden,Terapie Intensive,3/23/2021,2021-W12,276,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Terapie Intensive,3/24/2021,2021-W12,280,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Terapie Intensive,3/25/2021,2021-W12,303,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,3/24/2021,2021-W12,279,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,3/25/2021,2021-W12,304,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
 Sweden,Terapie Intensive,3/26/2021,2021-W12,295,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
 Sweden,Terapie Intensive,3/27/2021,2021-W12,295,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Terapie Intensive,3/28/2021,2021-W12,296,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Terapie Intensive,3/29/2021,2021-W13,302,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,3/28/2021,2021-W12,297,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,3/29/2021,2021-W13,300,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
 Sweden,Terapie Intensive,3/30/2021,2021-W13,302,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
 Sweden,Terapie Intensive,3/31/2021,2021-W13,322,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
 Sweden,Terapie Intensive,4/1/2021,2021-W13,332,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Terapie Intensive,4/2/2021,2021-W13,332,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Terapie Intensive,4/3/2021,2021-W13,332,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
-Sweden,Terapie Intensive,4/4/2021,2021-W13,332,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,4/2/2021,2021-W13,331,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,4/3/2021,2021-W13,331,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,4/4/2021,2021-W13,329,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,4/5/2021,2021-W14,346,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,4/6/2021,2021-W14,352,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,4/7/2021,2021-W14,358,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,4/8/2021,2021-W14,359,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,4/9/2021,2021-W14,366,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,4/10/2021,2021-W14,366,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
+Sweden,Terapie Intensive,4/11/2021,2021-W14,374,Country_Website,https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/analys-och-prognoser/
