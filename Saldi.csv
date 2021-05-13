@@ -1,11 +1,10 @@
 ﻿Data,NUO TI,NUO RIC,NUO DEC,Terapie Intensive,Ricoveri,Decessi,Regione
-12-nov,89,429,636,89,429,636,Italia
-13-nov,60,1041,550,75,735,593,Italia
-14-nov,76,484,544,75,651,577,Italia
-15-nov,116,649,546,85,651,569,Italia
-16-nov,70,489,504,82,618,556,Italia
-17-nov,120,538,731,89,605,585,Italia
-18-nov,58,430,753,84,580,609,Italia
+13-nov,60,1041,550,60,1041,550,Italia
+14-nov,76,484,544,68,763,547,Italia
+15-nov,116,649,546,84,725,547,Italia
+16-nov,70,489,504,81,666,536,Italia
+17-nov,120,538,731,88,640,575,Italia
+18-nov,58,430,753,83,605,605,Italia
 19-nov,42,106,653,77,534,612,Italia
 20-nov,36,347,699,74,435,633,Italia
 21-nov,10,106,692,65,381,654,Italia
@@ -181,14 +180,14 @@
 10-mag,-34,7,198,-47,-424,228,Italia
 11-mag,-102,-490,251,-52,-463,221,Italia
 12-mag,-64,-657,262,-54,-463,220,Italia
+13-mag,-99,-672,201,-59,-466,212,Italia
 ,,,,,,,
-12-nov,18,140,187,18,140,187,Lombardia
-13-nov,19,272,118,19,206,153,Lombardia
-14-nov,16,302,158,18,238,154,Lombardia
-15-nov,20,160,181,18,219,161,Lombardia
-16-nov,18,120,99,18,199,149,Lombardia
-17-nov,39,250,202,22,207,158,Lombardia
-18-nov,9,172,182,20,202,161,Lombardia
+13-nov,19,272,118,19,272,118,Lombardia
+14-nov,16,302,158,18,287,138,Lombardia
+15-nov,20,160,181,18,245,152,Lombardia
+16-nov,18,120,99,18,214,139,Lombardia
+17-nov,39,250,202,22,221,152,Lombardia
+18-nov,9,172,182,20,213,157,Lombardia
 19-nov,12,-32,165,19,178,158,Lombardia
 20-nov,15,13,175,18,141,166,Lombardia
 21-nov,6,10,169,17,99,168,Lombardia
@@ -364,14 +363,14 @@
 10-mag,-13,-58,23,-8,-78,33,Lombardia
 11-mag,-25,-112,30,-10,-101,32,Lombardia
 12-mag,-6,-115,36,-10,-107,32,Lombardia
+13-mag,-31,-90,13,-14,-103,29,Lombardia
 ,,,,,,,
-12-nov,6,22,49,6,22,49,Emilia-Romagna
-13-nov,-3,70,40,2,46,45,Emilia-Romagna
-14-nov,6,79,43,3,57,44,Emilia-Romagna
-15-nov,15,42,36,6,53,42,Emilia-Romagna
-16-nov,1,108,23,5,64,38,Emilia-Romagna
-17-nov,0,58,48,4,63,40,Emilia-Romagna
-18-nov,-3,-2,53,3,54,42,Emilia-Romagna
+13-nov,-3,70,40,-3,70,40,Emilia-Romagna
+14-nov,6,79,43,2,75,42,Emilia-Romagna
+15-nov,15,42,36,6,64,40,Emilia-Romagna
+16-nov,1,108,23,5,75,36,Emilia-Romagna
+17-nov,0,58,48,4,71,38,Emilia-Romagna
+18-nov,-3,-2,53,3,59,41,Emilia-Romagna
 19-nov,0,40,50,2,56,42,Emilia-Romagna
 20-nov,0,45,47,3,53,43,Emilia-Romagna
 21-nov,-3,60,47,1,50,43,Emilia-Romagna
@@ -547,14 +546,14 @@
 10-mag,0,22,9,-5,-47,15,Emilia-Romagna
 11-mag,-1,-63,12,-4,-47,13,Emilia-Romagna
 12-mag,-8,-55,7,-5,-44,12,Emilia-Romagna
+13-mag,-15,-40,18,-6,-38,11,Emilia-Romagna
 ,,,,,,,
-12-nov,5,94,38,5,94,38,Veneto
-13-nov,6,68,37,6,81,38,Veneto
-14-nov,9,38,52,7,67,42,Veneto
-15-nov,13,65,29,8,66,39,Veneto
-16-nov,11,51,22,9,63,36,Veneto
-17-nov,14,-5,100,10,52,46,Veneto
-18-nov,8,99,52,9,59,47,Veneto
+13-nov,6,68,37,6,68,37,Veneto
+14-nov,9,38,52,8,53,45,Veneto
+15-nov,13,65,29,9,57,39,Veneto
+16-nov,11,51,22,10,56,35,Veneto
+17-nov,14,-5,100,11,43,48,Veneto
+18-nov,8,99,52,10,53,49,Veneto
 19-nov,5,42,38,9,51,47,Veneto
 20-nov,-12,49,66,7,48,51,Veneto
 21-nov,8,30,67,7,47,53,Veneto
@@ -730,14 +729,14 @@
 10-mag,0,1,2,-4,-28,8,Veneto
 11-mag,-3,-7,17,-4,-26,8,Veneto
 12-mag,-13,-25,18,-5,-26,9,Veneto
+13-mag,-1,-30,9,-4,-20,9,Veneto
 ,,,,,,,
-12-nov,8,43,77,8,43,77,Piemonte
-13-nov,5,57,61,7,50,69,Piemonte
-14-nov,7,12,37,7,37,58,Piemonte
-15-nov,12,19,45,8,33,55,Piemonte
-16-nov,6,153,71,8,57,58,Piemonte
-17-nov,6,76,73,7,60,61,Piemonte
-18-nov,4,58,63,7,60,61,Piemonte
+13-nov,5,57,61,5,57,61,Piemonte
+14-nov,7,12,37,6,35,49,Piemonte
+15-nov,12,19,45,8,29,48,Piemonte
+16-nov,6,153,71,8,60,54,Piemonte
+17-nov,6,76,73,7,63,57,Piemonte
+18-nov,4,58,63,7,63,58,Piemonte
 19-nov,2,-61,78,6,45,61,Piemonte
 20-nov,3,78,88,6,48,65,Piemonte
 21-nov,-3,-75,77,4,35,71,Piemonte
@@ -913,14 +912,14 @@
 10-mag,2,0,17,-5,-52,17,Piemonte
 11-mag,-13,-22,12,-6,-46,15,Piemonte
 12-mag,-3,-59,18,-4,-42,14,Piemonte
+13-mag,-2,-102,14,-3,-46,14,Piemonte
 ,,,,,,,
-12-nov,1,0,9,1,0,9,Friuli VG
-13-nov,0,20,8,1,10,9,Friuli VG
-14-nov,-2,12,10,0,11,9,Friuli VG
-15-nov,-2,23,12,-1,14,10,Friuli VG
-16-nov,4,6,18,0,12,11,Friuli VG
-17-nov,-3,47,10,0,18,11,Friuli VG
-18-nov,5,16,11,0,18,11,Friuli VG
+13-nov,0,20,8,0,20,8,Friuli VG
+14-nov,-2,12,10,-1,16,9,Friuli VG
+15-nov,-2,23,12,-1,18,10,Friuli VG
+16-nov,4,6,18,0,15,12,Friuli VG
+17-nov,-3,47,10,-1,22,12,Friuli VG
+18-nov,5,16,11,0,21,12,Friuli VG
 19-nov,-1,15,13,0,20,12,Friuli VG
 20-nov,6,20,28,1,20,15,Friuli VG
 21-nov,1,4,25,1,19,17,Friuli VG
@@ -1096,11 +1095,11 @@
 10-mag,1,-5,3,-1,-9,4,Friuli VG
 11-mag,-2,-11,2,-2,-11,4,Friuli VG
 12-mag,-2,-16,6,-2,-10,4,Friuli VG
+13-mag,0,-22,8,-2,-12,5,Friuli VG
 ,,,,,,,
-12-nov,-1,-1,6,-1,-1,6,Valle d'Aosta
-13-nov,-1,-10,3,-1,-6,5,Valle d'Aosta
-14-nov,-2,-3,6,-1,-5,5,Valle d'Aosta
-15-nov,-1,2,8,-1,-3,6,Valle d'Aosta
+13-nov,-1,-10,3,-1,-10,3,Valle d'Aosta
+14-nov,-2,-3,6,-2,-7,5,Valle d'Aosta
+15-nov,-1,2,8,-1,-4,6,Valle d'Aosta
 16-nov,4,3,5,0,-2,6,Valle d'Aosta
 17-nov,1,1,4,0,-1,5,Valle d'Aosta
 18-nov,0,-6,2,0,-2,5,Valle d'Aosta
@@ -1279,14 +1278,14 @@
 10-mag,0,-4,1,0,-2,1,Valle d'Aosta
 11-mag,0,-5,1,0,-3,1,Valle d'Aosta
 12-mag,-2,-3,2,0,-3,1,Valle d'Aosta
+13-mag,-1,2,0,0,-1,1,Valle d'Aosta
 ,,,,,,,
-12-nov,11,48,31,11,48,31,Liguria
-13-nov,1,9,18,6,29,25,Liguria
-14-nov,-2,30,30,3,29,26,Liguria
-15-nov,7,-9,21,4,20,25,Liguria
-16-nov,-4,-12,15,3,13,23,Liguria
-17-nov,6,12,20,3,13,23,Liguria
-18-nov,1,-22,19,3,8,22,Liguria
+13-nov,1,9,18,1,9,18,Liguria
+14-nov,-2,30,30,-1,20,24,Liguria
+15-nov,7,-9,21,2,10,23,Liguria
+16-nov,-4,-12,15,1,5,21,Liguria
+17-nov,6,12,20,2,6,21,Liguria
+18-nov,1,-22,19,2,1,21,Liguria
 19-nov,1,-52,15,1,-6,20,Liguria
 20-nov,1,-29,29,1,-12,21,Liguria
 21-nov,-1,-49,20,2,-23,20,Liguria
@@ -1462,14 +1461,14 @@
 10-mag,0,3,2,-1,-13,6,Liguria
 11-mag,-5,-13,7,-2,-16,6,Liguria
 12-mag,2,-24,7,-2,-16,6,Liguria
+13-mag,-2,-24,8,-1,-16,6,Liguria
 ,,,,,,,
-12-nov,-1,31,8,-1,31,8,Trento
-13-nov,0,15,12,-1,23,10,Trento
-14-nov,1,2,11,0,16,10,Trento
-15-nov,2,15,8,1,16,10,Trento
-16-nov,-1,16,15,0,16,11,Trento
-17-nov,3,2,3,1,14,10,Trento
-18-nov,3,10,7,1,13,9,Trento
+13-nov,0,15,12,0,15,12,Trento
+14-nov,1,2,11,1,9,12,Trento
+15-nov,2,15,8,1,11,10,Trento
+16-nov,-1,16,15,1,12,12,Trento
+17-nov,3,2,3,1,10,10,Trento
+18-nov,3,10,7,1,10,9,Trento
 19-nov,1,9,7,1,10,9,Trento
 20-nov,-1,10,7,1,9,8,Trento
 21-nov,2,-4,14,1,8,9,Trento
@@ -1645,14 +1644,14 @@
 10-mag,2,1,1,0,-1,0,Trento
 11-mag,-1,-6,2,0,-2,0,Trento
 12-mag,1,-6,0,0,-2,0,Trento
+13-mag,-2,2,0,0,-2,0,Trento
 ,,,,,,,
-12-nov,5,21,6,5,21,6,Bolzano
-13-nov,-1,5,9,2,13,8,Bolzano
-14-nov,3,3,5,2,10,7,Bolzano
-15-nov,-1,23,19,2,13,10,Bolzano
-16-nov,0,8,7,1,12,9,Bolzano
-17-nov,1,-5,9,1,9,9,Bolzano
-18-nov,-5,-1,11,0,8,9,Bolzano
+13-nov,-1,5,9,-1,5,9,Bolzano
+14-nov,3,3,5,1,4,7,Bolzano
+15-nov,-1,23,19,0,10,11,Bolzano
+16-nov,0,8,7,0,10,10,Bolzano
+17-nov,1,-5,9,0,7,10,Bolzano
+18-nov,-5,-1,11,-1,6,10,Bolzano
 19-nov,0,-12,13,0,3,10,Bolzano
 20-nov,-1,-1,8,0,2,10,Bolzano
 21-nov,1,-18,16,-1,-1,12,Bolzano
@@ -1828,14 +1827,14 @@
 10-mag,0,2,0,0,-5,1,Bolzano
 11-mag,0,-5,1,0,-4,1,Bolzano
 12-mag,0,-1,0,0,-3,0,Bolzano
+13-mag,1,-1,0,0,-3,0,Bolzano
 ,,,,,,,
-12-nov,0,0,6,0,0,6,Marche
-13-nov,0,23,11,0,12,9,Marche
-14-nov,0,-75,8,0,-17,8,Marche
-15-nov,3,-1,9,1,-13,9,Marche
-16-nov,1,16,8,1,-7,8,Marche
+13-nov,0,23,11,0,23,11,Marche
+14-nov,0,-75,8,0,-26,10,Marche
+15-nov,3,-1,9,1,-18,9,Marche
+16-nov,1,16,8,1,-9,9,Marche
 17-nov,0,26,11,1,-2,9,Marche
-18-nov,1,2,9,1,-1,9,Marche
+18-nov,1,2,9,1,-2,9,Marche
 19-nov,-1,-1,11,1,-1,10,Marche
 20-nov,3,16,11,1,-2,10,Marche
 21-nov,5,2,7,2,9,9,Marche
@@ -2011,14 +2010,14 @@
 10-mag,-1,3,2,-2,-11,4,Marche
 11-mag,-5,-18,3,-2,-13,3,Marche
 12-mag,-2,-15,4,-2,-13,3,Marche
+13-mag,-1,-15,4,-2,-12,3,Marche
 ,,,,,,,
-12-nov,10,25,37,10,25,37,Toscana
-13-nov,9,3,55,10,14,46,Toscana
-14-nov,1,23,42,7,17,45,Toscana
-15-nov,8,55,44,7,27,45,Toscana
-16-nov,10,43,36,8,30,43,Toscana
-17-nov,-7,15,52,5,27,44,Toscana
-18-nov,5,13,55,5,25,46,Toscana
+13-nov,9,3,55,9,3,55,Toscana
+14-nov,1,23,42,5,13,49,Toscana
+15-nov,8,55,44,6,27,47,Toscana
+16-nov,10,43,36,7,31,44,Toscana
+17-nov,-7,15,52,4,28,46,Toscana
+18-nov,5,13,55,4,25,47,Toscana
 19-nov,5,9,51,4,23,48,Toscana
 20-nov,8,-22,48,4,19,47,Toscana
 21-nov,1,6,44,4,17,47,Toscana
@@ -2194,14 +2193,14 @@
 10-mag,-7,22,20,-6,-29,22,Toscana
 11-mag,-10,-38,21,-6,-28,21,Toscana
 12-mag,-7,-54,38,-6,-29,22,Toscana
+13-mag,-1,-36,21,-5,-30,20,Toscana
 ,,,,,,,
-12-nov,4,40,49,4,40,49,Lazio
-13-nov,1,65,34,3,53,42,Lazio
-14-nov,13,58,39,6,54,41,Lazio
-15-nov,1,83,21,5,62,36,Lazio
-16-nov,4,-60,34,5,37,35,Lazio
-17-nov,30,-33,59,9,26,39,Lazio
-18-nov,10,-10,80,9,20,45,Lazio
+13-nov,1,65,34,1,65,34,Lazio
+14-nov,13,58,39,7,62,37,Lazio
+15-nov,1,83,21,5,69,31,Lazio
+16-nov,4,-60,34,5,37,32,Lazio
+17-nov,30,-33,59,10,23,37,Lazio
+18-nov,10,-10,80,10,17,45,Lazio
 19-nov,11,47,61,10,21,47,Lazio
 20-nov,8,99,41,11,26,48,Lazio
 21-nov,0,55,37,9,26,48,Lazio
@@ -2377,14 +2376,14 @@
 10-mag,4,31,17,-1,-46,25,Lazio
 11-mag,-15,-45,40,-2,-52,25,Lazio
 12-mag,-11,-86,22,-3,-46,23,Lazio
+13-mag,-11,-143,21,-5,-60,20,Lazio
 ,,,,,,,
-12-nov,1,-5,8,1,-5,8,Umbria
-13-nov,-1,5,8,0,0,8,Umbria
-14-nov,0,2,8,0,1,8,Umbria
-15-nov,3,5,11,1,2,9,Umbria
-16-nov,1,9,9,1,3,9,Umbria
-17-nov,-2,-7,13,0,2,10,Umbria
-18-nov,4,0,11,1,1,10,Umbria
+13-nov,-1,5,8,-1,5,8,Umbria
+14-nov,0,2,8,-1,4,8,Umbria
+15-nov,3,5,11,1,4,9,Umbria
+16-nov,1,9,9,1,5,9,Umbria
+17-nov,-2,-7,13,0,3,10,Umbria
+18-nov,4,0,11,1,2,10,Umbria
 19-nov,1,1,7,1,2,10,Umbria
 20-nov,-4,-6,21,0,1,11,Umbria
 21-nov,4,7,9,1,1,12,Umbria
@@ -2560,14 +2559,14 @@
 10-mag,-1,8,0,-1,-4,1,Umbria
 11-mag,0,-3,0,-1,-4,1,Umbria
 12-mag,2,-7,1,0,-2,1,Umbria
+13-mag,-1,-8,1,0,-2,1,Umbria
 ,,,,,,,
-12-nov,1,1,2,1,1,2,Abruzzo
-13-nov,5,20,15,3,11,9,Abruzzo
-14-nov,2,-22,10,3,0,9,Abruzzo
-15-nov,0,20,8,2,5,9,Abruzzo
-16-nov,0,6,11,2,5,9,Abruzzo
-17-nov,7,19,13,3,7,10,Abruzzo
-18-nov,-1,31,9,2,11,10,Abruzzo
+13-nov,5,20,15,5,20,15,Abruzzo
+14-nov,2,-22,10,4,-1,13,Abruzzo
+15-nov,0,20,8,2,6,11,Abruzzo
+16-nov,0,6,11,2,6,11,Abruzzo
+17-nov,7,19,13,3,9,11,Abruzzo
+18-nov,-1,31,9,2,12,11,Abruzzo
 19-nov,9,37,9,3,16,11,Abruzzo
 20-nov,1,3,18,3,13,11,Abruzzo
 21-nov,-2,15,35,2,19,15,Abruzzo
@@ -2743,13 +2742,13 @@
 10-mag,1,7,1,-1,-12,3,Abruzzo
 11-mag,-4,-24,9,0,-14,4,Abruzzo
 12-mag,-1,-8,0,-1,-13,4,Abruzzo
+13-mag,-4,-11,3,-1,-12,4,Abruzzo
 ,,,,,,,
-12-nov,-1,7,4,-1,7,4,Molise
-13-nov,0,0,1,-1,4,3,Molise
-14-nov,-1,0,4,-1,2,3,Molise
-15-nov,1,5,1,0,3,3,Molise
-16-nov,0,-4,4,0,2,3,Molise
-17-nov,2,4,1,0,2,3,Molise
+13-nov,0,0,1,0,0,1,Molise
+14-nov,-1,0,4,-1,0,3,Molise
+15-nov,1,5,1,0,2,2,Molise
+16-nov,0,-4,4,0,0,3,Molise
+17-nov,2,4,1,0,1,2,Molise
 18-nov,-2,-2,8,0,1,3,Molise
 19-nov,1,8,4,0,2,3,Molise
 20-nov,0,-14,2,0,0,3,Molise
@@ -2926,14 +2925,14 @@
 10-mag,1,0,0,-1,-1,1,Molise
 11-mag,0,1,0,-1,0,1,Molise
 12-mag,-1,-2,2,-1,-1,1,Molise
+13-mag,0,-4,0,0,-1,1,Molise
 ,,,,,,,
-12-nov,11,-133,31,11,-133,31,Campania
-13-nov,-9,209,40,1,38,36,Campania
-14-nov,1,-73,27,1,1,33,Campania
-15-nov,10,144,35,3,37,33,Campania
-16-nov,-2,-34,37,2,23,34,Campania
-17-nov,9,46,19,3,27,32,Campania
-18-nov,-1,23,75,3,26,38,Campania
+13-nov,-9,209,40,-9,209,40,Campania
+14-nov,1,-73,27,-4,68,34,Campania
+15-nov,10,144,35,1,93,34,Campania
+16-nov,-2,-34,37,0,62,35,Campania
+17-nov,9,46,19,2,58,32,Campania
+18-nov,-1,23,75,1,53,39,Campania
 19-nov,-6,28,32,0,49,38,Campania
 20-nov,7,-43,25,3,13,36,Campania
 21-nov,-3,16,32,2,26,36,Campania
@@ -3109,14 +3108,14 @@
 10-mag,-6,17,54,-4,-17,35,Campania
 11-mag,-2,-12,29,-2,-18,34,Campania
 12-mag,5,-46,30,-1,-22,32,Campania
+13-mag,-11,-22,24,-3,-21,32,Campania
 ,,,,,,,
-12-nov,3,62,39,3,62,39,Puglia
-13-nov,13,56,22,8,59,31,Puglia
-14-nov,20,40,16,12,53,26,Puglia
-15-nov,2,-28,12,10,33,22,Puglia
-16-nov,2,34,36,8,33,25,Puglia
-17-nov,-1,21,36,7,31,27,Puglia
-18-nov,17,4,28,8,27,27,Puglia
+13-nov,13,56,22,13,56,22,Puglia
+14-nov,20,40,16,17,48,19,Puglia
+15-nov,2,-28,12,12,23,17,Puglia
+16-nov,2,34,36,9,26,22,Puglia
+17-nov,-1,21,36,7,25,24,Puglia
+18-nov,17,4,28,9,21,25,Puglia
 19-nov,2,4,28,8,19,25,Puglia
 20-nov,2,84,16,6,23,25,Puglia
 21-nov,-5,24,19,3,20,25,Puglia
@@ -3292,14 +3291,14 @@
 10-mag,-9,-50,25,-4,-26,23,Puglia
 11-mag,-15,-50,24,-4,-30,22,Puglia
 12-mag,-7,-59,36,-5,-33,25,Puglia
+13-mag,-17,-76,31,-8,-39,26,Puglia
 ,,,,,,,
-12-nov,0,1,3,0,1,3,Basilicata
-13-nov,4,7,1,2,4,2,Basilicata
-14-nov,-2,3,5,1,4,3,Basilicata
-15-nov,5,11,1,2,6,3,Basilicata
-16-nov,1,-15,6,2,1,3,Basilicata
+13-nov,4,7,1,4,7,1,Basilicata
+14-nov,-2,3,5,1,5,3,Basilicata
+15-nov,5,11,1,2,7,2,Basilicata
+16-nov,1,-15,6,2,2,3,Basilicata
 17-nov,3,10,0,2,3,3,Basilicata
-18-nov,-2,-6,14,1,2,4,Basilicata
+18-nov,-2,-6,14,2,2,5,Basilicata
 19-nov,0,3,2,1,2,4,Basilicata
 20-nov,-1,7,3,1,2,4,Basilicata
 21-nov,-3,3,6,0,2,5,Basilicata
@@ -3475,14 +3474,14 @@
 10-mag,-1,-4,4,0,-5,2,Basilicata
 11-mag,0,-5,3,0,-5,2,Basilicata
 12-mag,0,-4,4,0,-5,2,Basilicata
+13-mag,0,-1,2,0,-5,2,Basilicata
 ,,,,,,,
-12-nov,3,12,1,3,12,1,Calabria
-13-nov,6,40,7,5,26,4,Calabria
-14-nov,-1,7,5,3,20,4,Calabria
-15-nov,15,-3,5,6,14,5,Calabria
-16-nov,4,16,6,5,14,5,Calabria
-17-nov,8,-5,7,6,11,5,Calabria
-18-nov,-7,35,10,4,15,6,Calabria
+13-nov,6,40,7,6,40,7,Calabria
+14-nov,-1,7,5,3,24,6,Calabria
+15-nov,15,-3,5,7,15,6,Calabria
+16-nov,4,16,6,6,15,6,Calabria
+17-nov,8,-5,7,6,11,6,Calabria
+18-nov,-7,35,10,4,15,7,Calabria
 19-nov,1,7,5,4,14,6,Calabria
 20-nov,-1,20,11,3,11,7,Calabria
 21-nov,-1,11,4,3,12,7,Calabria
@@ -3658,14 +3657,14 @@
 10-mag,-3,4,9,-1,-2,7,Calabria
 11-mag,-2,-9,8,-2,-4,7,Calabria
 12-mag,-1,-12,4,-2,-4,7,Calabria
+13-mag,0,-2,4,-1,-4,6,Calabria
 ,,,,,,,
-12-nov,3,15,40,3,15,40,Sicilia
-13-nov,5,59,35,4,37,38,Sicilia
-14-nov,5,12,23,4,29,33,Sicilia
-15-nov,2,14,36,4,25,34,Sicilia
-16-nov,7,25,36,4,25,34,Sicilia
-17-nov,3,4,39,4,22,35,Sicilia
-18-nov,13,23,44,5,22,36,Sicilia
+13-nov,5,59,35,5,59,35,Sicilia
+14-nov,5,12,23,5,36,29,Sicilia
+15-nov,2,14,36,4,28,31,Sicilia
+16-nov,7,25,36,5,28,33,Sicilia
+17-nov,3,4,39,4,23,34,Sicilia
+18-nov,13,23,44,6,23,36,Sicilia
 19-nov,0,4,40,5,20,36,Sicilia
 20-nov,2,5,43,5,12,37,Sicilia
 21-nov,0,31,43,4,15,40,Sicilia
@@ -3841,14 +3840,14 @@
 10-mag,-5,14,6,-4,-27,18,Sicilia
 11-mag,2,-29,26,-4,-28,18,Sicilia
 12-mag,-8,-40,22,-4,-29,17,Sicilia
+13-mag,-1,-36,19,-4,-26,17,Sicilia
 ,,,,,,,
-12-nov,2,6,5,2,6,5,Sardegna
-13-nov,1,48,15,2,27,10,Sardegna
-14-nov,2,34,5,2,29,8,Sardegna
-15-nov,1,4,4,2,23,7,Sardegna
-16-nov,3,0,6,2,18,7,Sardegna
-17-nov,1,2,12,2,16,8,Sardegna
-18-nov,-1,-7,10,1,12,8,Sardegna
+13-nov,1,48,15,1,48,15,Sardegna
+14-nov,2,34,5,2,41,10,Sardegna
+15-nov,1,4,4,1,29,8,Sardegna
+16-nov,3,0,6,2,22,8,Sardegna
+17-nov,1,2,12,2,18,8,Sardegna
+18-nov,-1,-7,10,1,14,9,Sardegna
 19-nov,4,12,12,2,13,9,Sardegna
 20-nov,2,9,5,2,8,8,Sardegna
 21-nov,1,-22,12,2,0,9,Sardegna
@@ -4024,3 +4023,4 @@
 10-mag,1,-7,2,-1,-10,4,Sardegna
 11-mag,-1,-14,4,-1,-11,3,Sardegna
 12-mag,-2,-20,5,-1,-12,3,Sardegna
+13-mag,1,-13,1,0,-11,3,Sardegna
