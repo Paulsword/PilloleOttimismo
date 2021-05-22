@@ -1,750 +1,750 @@
 ﻿Data,,,Regione,,Abitanti,Incidenza,PLLANC,PLLAC,Soglia,TIPO_UTS,Provincia,AGENAS,MINISTERO,PopRegione
-15-mag,1,0,Lombardia,Bergamo,1099621,65,73,103,176,Provincia,BERGAMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-16-mag,2,0,Lombardia,Bergamo,1099621,58,74,104,178,Provincia,BERGAMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-17-mag,3,0,Lombardia,Bergamo,1099621,59,75,105,180,Provincia,BERGAMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-18-mag,4,0,Lombardia,Bergamo,1099621,58,74,107,181,Provincia,BERGAMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-19-mag,5,0,Lombardia,Bergamo,1099621,55,74,108,182,Provincia,BERGAMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-20-mag,6,0,Lombardia,Bergamo,1099621,50,75,110,185,Provincia,BERGAMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-21-mag,7,0,Lombardia,Bergamo,1099621,45,76,111,187,Provincia,BERGAMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-15-mag,1,1,Lombardia,Brescia,1247583,77,73,103,176,Provincia,BRESCIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-16-mag,2,1,Lombardia,Brescia,1247583,68,74,104,178,Provincia,BRESCIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-17-mag,3,1,Lombardia,Brescia,1247583,65,75,105,180,Provincia,BRESCIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-18-mag,4,1,Lombardia,Brescia,1247583,60,74,107,181,Provincia,BRESCIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-19-mag,5,1,Lombardia,Brescia,1247583,58,74,108,182,Provincia,BRESCIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-20-mag,6,1,Lombardia,Brescia,1247583,55,75,110,185,Provincia,BRESCIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-21-mag,7,1,Lombardia,Brescia,1247583,50,76,111,187,Provincia,BRESCIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-15-mag,1,2,Lombardia,Como,594671,102,73,103,176,Provincia,COMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-16-mag,2,2,Lombardia,Como,594671,97,74,104,178,Provincia,COMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-17-mag,3,2,Lombardia,Como,594671,105,75,105,180,Provincia,COMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-18-mag,4,2,Lombardia,Como,594671,107,74,107,181,Provincia,COMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-19-mag,5,2,Lombardia,Como,594671,102,74,108,182,Provincia,COMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-20-mag,6,2,Lombardia,Como,594671,97,75,110,185,Provincia,COMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-21-mag,7,2,Lombardia,Como,594671,88,76,111,187,Provincia,COMO,19/05/2021 ore 18:02,21/05/21,Lombardia
-15-mag,1,3,Lombardia,Cremona,351698,78,73,103,176,Provincia,CREMONA,19/05/2021 ore 18:02,21/05/21,Lombardia
-16-mag,2,3,Lombardia,Cremona,351698,74,74,104,178,Provincia,CREMONA,19/05/2021 ore 18:02,21/05/21,Lombardia
-17-mag,3,3,Lombardia,Cremona,351698,73,75,105,180,Provincia,CREMONA,19/05/2021 ore 18:02,21/05/21,Lombardia
-18-mag,4,3,Lombardia,Cremona,351698,69,74,107,181,Provincia,CREMONA,19/05/2021 ore 18:02,21/05/21,Lombardia
-19-mag,5,3,Lombardia,Cremona,351698,73,74,108,182,Provincia,CREMONA,19/05/2021 ore 18:02,21/05/21,Lombardia
-20-mag,6,3,Lombardia,Cremona,351698,68,75,110,185,Provincia,CREMONA,19/05/2021 ore 18:02,21/05/21,Lombardia
-21-mag,7,3,Lombardia,Cremona,351698,66,76,111,187,Provincia,CREMONA,19/05/2021 ore 18:02,21/05/21,Lombardia
-15-mag,1,4,Lombardia,Lecco,332593,72,73,103,176,Provincia,LECCO,19/05/2021 ore 18:02,21/05/21,Lombardia
-16-mag,2,4,Lombardia,Lecco,332593,70,74,104,178,Provincia,LECCO,19/05/2021 ore 18:02,21/05/21,Lombardia
-17-mag,3,4,Lombardia,Lecco,332593,69,75,105,180,Provincia,LECCO,19/05/2021 ore 18:02,21/05/21,Lombardia
-18-mag,4,4,Lombardia,Lecco,332593,66,74,107,181,Provincia,LECCO,19/05/2021 ore 18:02,21/05/21,Lombardia
-19-mag,5,4,Lombardia,Lecco,332593,67,74,108,182,Provincia,LECCO,19/05/2021 ore 18:02,21/05/21,Lombardia
-20-mag,6,4,Lombardia,Lecco,332593,63,75,110,185,Provincia,LECCO,19/05/2021 ore 18:02,21/05/21,Lombardia
-21-mag,7,4,Lombardia,Lecco,332593,59,76,111,187,Provincia,LECCO,19/05/2021 ore 18:02,21/05/21,Lombardia
-15-mag,1,5,Lombardia,Lodi,225885,34,73,103,176,Provincia,LODI,19/05/2021 ore 18:02,21/05/21,Lombardia
-16-mag,2,5,Lombardia,Lodi,225885,30,74,104,178,Provincia,LODI,19/05/2021 ore 18:02,21/05/21,Lombardia
-17-mag,3,5,Lombardia,Lodi,225885,29,75,105,180,Provincia,LODI,19/05/2021 ore 18:02,21/05/21,Lombardia
-18-mag,4,5,Lombardia,Lodi,225885,26,74,107,181,Provincia,LODI,19/05/2021 ore 18:02,21/05/21,Lombardia
-19-mag,5,5,Lombardia,Lodi,225885,32,74,108,182,Provincia,LODI,19/05/2021 ore 18:02,21/05/21,Lombardia
-20-mag,6,5,Lombardia,Lodi,225885,28,75,110,185,Provincia,LODI,19/05/2021 ore 18:02,21/05/21,Lombardia
-21-mag,7,5,Lombardia,Lodi,225885,30,76,111,187,Provincia,LODI,19/05/2021 ore 18:02,21/05/21,Lombardia
-15-mag,1,6,Lombardia,Monza B.,867421,70,73,103,176,Provincia,MONZA E DELLA BRIANZA,19/05/2021 ore 18:02,21/05/21,Lombardia
-16-mag,2,6,Lombardia,Monza B.,867421,68,74,104,178,Provincia,MONZA E DELLA BRIANZA,19/05/2021 ore 18:02,21/05/21,Lombardia
-17-mag,3,6,Lombardia,Monza B.,867421,67,75,105,180,Provincia,MONZA E DELLA BRIANZA,19/05/2021 ore 18:02,21/05/21,Lombardia
-18-mag,4,6,Lombardia,Monza B.,867421,71,74,107,181,Provincia,MONZA E DELLA BRIANZA,19/05/2021 ore 18:02,21/05/21,Lombardia
-19-mag,5,6,Lombardia,Monza B.,867421,67,74,108,182,Provincia,MONZA E DELLA BRIANZA,19/05/2021 ore 18:02,21/05/21,Lombardia
-20-mag,6,6,Lombardia,Monza B.,867421,60,75,110,185,Provincia,MONZA E DELLA BRIANZA,19/05/2021 ore 18:02,21/05/21,Lombardia
-21-mag,7,6,Lombardia,Monza B.,867421,62,76,111,187,Provincia,MONZA E DELLA BRIANZA,19/05/2021 ore 18:02,21/05/21,Lombardia
-15-mag,1,7,Lombardia,Milano,3249821,69,73,103,176,Città metropolitana,MILANO,19/05/2021 ore 18:02,21/05/21,Lombardia
-16-mag,2,7,Lombardia,Milano,3249821,65,74,104,178,Città metropolitana,MILANO,19/05/2021 ore 18:02,21/05/21,Lombardia
-17-mag,3,7,Lombardia,Milano,3249821,64,75,105,180,Città metropolitana,MILANO,19/05/2021 ore 18:02,21/05/21,Lombardia
-18-mag,4,7,Lombardia,Milano,3249821,62,74,107,181,Città metropolitana,MILANO,19/05/2021 ore 18:02,21/05/21,Lombardia
-19-mag,5,7,Lombardia,Milano,3249821,58,74,108,182,Città metropolitana,MILANO,19/05/2021 ore 18:02,21/05/21,Lombardia
-20-mag,6,7,Lombardia,Milano,3249821,53,75,110,185,Città metropolitana,MILANO,19/05/2021 ore 18:02,21/05/21,Lombardia
-21-mag,7,7,Lombardia,Milano,3249821,51,76,111,187,Città metropolitana,MILANO,19/05/2021 ore 18:02,21/05/21,Lombardia
-15-mag,1,8,Lombardia,Mantova,403585,97,73,103,176,Provincia,MANTOVA,19/05/2021 ore 18:02,21/05/21,Lombardia
-16-mag,2,8,Lombardia,Mantova,403585,86,74,104,178,Provincia,MANTOVA,19/05/2021 ore 18:02,21/05/21,Lombardia
-17-mag,3,8,Lombardia,Mantova,403585,82,75,105,180,Provincia,MANTOVA,19/05/2021 ore 18:02,21/05/21,Lombardia
-18-mag,4,8,Lombardia,Mantova,403585,76,74,107,181,Provincia,MANTOVA,19/05/2021 ore 18:02,21/05/21,Lombardia
-19-mag,5,8,Lombardia,Mantova,403585,75,74,108,182,Provincia,MANTOVA,19/05/2021 ore 18:02,21/05/21,Lombardia
-20-mag,6,8,Lombardia,Mantova,403585,77,75,110,185,Provincia,MANTOVA,19/05/2021 ore 18:02,21/05/21,Lombardia
-21-mag,7,8,Lombardia,Mantova,403585,73,76,111,187,Provincia,MANTOVA,19/05/2021 ore 18:02,21/05/21,Lombardia
-15-mag,1,9,Lombardia,Pavia,534951,68,73,103,176,Provincia,PAVIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-16-mag,2,9,Lombardia,Pavia,534951,64,74,104,178,Provincia,PAVIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-17-mag,3,9,Lombardia,Pavia,534951,62,75,105,180,Provincia,PAVIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-18-mag,4,9,Lombardia,Pavia,534951,52,74,107,181,Provincia,PAVIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-19-mag,5,9,Lombardia,Pavia,534951,48,74,108,182,Provincia,PAVIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-20-mag,6,9,Lombardia,Pavia,534951,42,75,110,185,Provincia,PAVIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-21-mag,7,9,Lombardia,Pavia,534951,39,76,111,187,Provincia,PAVIA,19/05/2021 ore 18:02,21/05/21,Lombardia
-15-mag,1,10,Lombardia,Sondrio,179234,121,73,103,176,Provincia,SONDRIO,19/05/2021 ore 18:02,21/05/21,Lombardia
-16-mag,2,10,Lombardia,Sondrio,179234,109,74,104,178,Provincia,SONDRIO,19/05/2021 ore 18:02,21/05/21,Lombardia
-17-mag,3,10,Lombardia,Sondrio,179234,106,75,105,180,Provincia,SONDRIO,19/05/2021 ore 18:02,21/05/21,Lombardia
-18-mag,4,10,Lombardia,Sondrio,179234,105,74,107,181,Provincia,SONDRIO,19/05/2021 ore 18:02,21/05/21,Lombardia
-19-mag,5,10,Lombardia,Sondrio,179234,104,74,108,182,Provincia,SONDRIO,19/05/2021 ore 18:02,21/05/21,Lombardia
-20-mag,6,10,Lombardia,Sondrio,179234,102,75,110,185,Provincia,SONDRIO,19/05/2021 ore 18:02,21/05/21,Lombardia
-21-mag,7,10,Lombardia,Sondrio,179234,82,76,111,187,Provincia,SONDRIO,19/05/2021 ore 18:02,21/05/21,Lombardia
-15-mag,1,11,Lombardia,Varese,879929,78,73,103,176,Provincia,VARESE,19/05/2021 ore 18:02,21/05/21,Lombardia
-16-mag,2,11,Lombardia,Varese,879929,74,74,104,178,Provincia,VARESE,19/05/2021 ore 18:02,21/05/21,Lombardia
-17-mag,3,11,Lombardia,Varese,879929,94,75,105,180,Provincia,VARESE,19/05/2021 ore 18:02,21/05/21,Lombardia
-18-mag,4,11,Lombardia,Varese,879929,96,74,107,181,Provincia,VARESE,19/05/2021 ore 18:02,21/05/21,Lombardia
-19-mag,5,11,Lombardia,Varese,879929,95,74,108,182,Provincia,VARESE,19/05/2021 ore 18:02,21/05/21,Lombardia
-20-mag,6,11,Lombardia,Varese,879929,96,75,110,185,Provincia,VARESE,19/05/2021 ore 18:02,21/05/21,Lombardia
-21-mag,7,11,Lombardia,Varese,879929,95,76,111,187,Provincia,VARESE,19/05/2021 ore 18:02,21/05/21,Lombardia
-15-mag,1,14,Emilia Romagna,Piacenza,284075,41,123,135,258,Provincia,PIACENZA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-16-mag,2,14,Emilia Romagna,Piacenza,284075,40,124,136,260,Provincia,PIACENZA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-17-mag,3,14,Emilia Romagna,Piacenza,284075,43,123,136,259,Provincia,PIACENZA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-18-mag,4,14,Emilia Romagna,Piacenza,284075,42,124,137,261,Provincia,PIACENZA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-19-mag,5,14,Emilia Romagna,Piacenza,284075,44,126,138,264,Provincia,PIACENZA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-20-mag,6,14,Emilia Romagna,Piacenza,284075,42,127,140,267,Provincia,PIACENZA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-21-mag,7,14,Emilia Romagna,Piacenza,284075,43,128,142,270,Provincia,PIACENZA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-15-mag,1,15,Emilia Romagna,Parma,453604,118,123,135,258,Provincia,PARMA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-16-mag,2,15,Emilia Romagna,Parma,453604,114,124,136,260,Provincia,PARMA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-17-mag,3,15,Emilia Romagna,Parma,453604,111,123,136,259,Provincia,PARMA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-18-mag,4,15,Emilia Romagna,Parma,453604,118,124,137,261,Provincia,PARMA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-19-mag,5,15,Emilia Romagna,Parma,453604,103,126,138,264,Provincia,PARMA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-20-mag,6,15,Emilia Romagna,Parma,453604,99,127,140,267,Provincia,PARMA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-21-mag,7,15,Emilia Romagna,Parma,453604,96,128,142,270,Provincia,PARMA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-15-mag,1,16,Emilia Romagna,Reggio E.,526349,104,123,135,258,Provincia,REGGIO NELL' EMILIA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-16-mag,2,16,Emilia Romagna,Reggio E.,526349,93,124,136,260,Provincia,REGGIO NELL' EMILIA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-17-mag,3,16,Emilia Romagna,Reggio E.,526349,93,123,136,259,Provincia,REGGIO NELL' EMILIA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-18-mag,4,16,Emilia Romagna,Reggio E.,526349,92,124,137,261,Provincia,REGGIO NELL' EMILIA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-19-mag,5,16,Emilia Romagna,Reggio E.,526349,80,126,138,264,Provincia,REGGIO NELL' EMILIA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-20-mag,6,16,Emilia Romagna,Reggio E.,526349,74,127,140,267,Provincia,REGGIO NELL' EMILIA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-21-mag,7,16,Emilia Romagna,Reggio E.,526349,64,128,142,270,Provincia,REGGIO NELL' EMILIA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-15-mag,1,17,Emilia Romagna,Modena,704672,83,123,135,258,Provincia,MODENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-16-mag,2,17,Emilia Romagna,Modena,704672,82,124,136,260,Provincia,MODENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-17-mag,3,17,Emilia Romagna,Modena,704672,81,123,136,259,Provincia,MODENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-18-mag,4,17,Emilia Romagna,Modena,704672,79,124,137,261,Provincia,MODENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-19-mag,5,17,Emilia Romagna,Modena,704672,78,126,138,264,Provincia,MODENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-20-mag,6,17,Emilia Romagna,Modena,704672,76,127,140,267,Provincia,MODENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-21-mag,7,17,Emilia Romagna,Modena,704672,71,128,142,270,Provincia,MODENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-15-mag,1,18,Emilia Romagna,Bologna,1019539,83,123,135,258,Città metropolitana,BOLOGNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-16-mag,2,18,Emilia Romagna,Bologna,1019539,78,124,136,260,Città metropolitana,BOLOGNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-17-mag,3,18,Emilia Romagna,Bologna,1019539,77,123,136,259,Città metropolitana,BOLOGNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-18-mag,4,18,Emilia Romagna,Bologna,1019539,68,124,137,261,Città metropolitana,BOLOGNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-19-mag,5,18,Emilia Romagna,Bologna,1019539,69,126,138,264,Città metropolitana,BOLOGNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-20-mag,6,18,Emilia Romagna,Bologna,1019539,65,127,140,267,Città metropolitana,BOLOGNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-21-mag,7,18,Emilia Romagna,Bologna,1019539,63,128,142,270,Città metropolitana,BOLOGNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-15-mag,1,19,Emilia Romagna,Ferrara,341967,29,123,135,258,Provincia,FERRARA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-16-mag,2,19,Emilia Romagna,Ferrara,341967,25,124,136,260,Provincia,FERRARA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-17-mag,3,19,Emilia Romagna,Ferrara,341967,28,123,136,259,Provincia,FERRARA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-18-mag,4,19,Emilia Romagna,Ferrara,341967,26,124,137,261,Provincia,FERRARA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-19-mag,5,19,Emilia Romagna,Ferrara,341967,25,126,138,264,Provincia,FERRARA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-20-mag,6,19,Emilia Romagna,Ferrara,341967,24,127,140,267,Provincia,FERRARA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-21-mag,7,19,Emilia Romagna,Ferrara,341967,26,128,142,270,Provincia,FERRARA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-15-mag,1,20,Emilia Romagna,Ravenna,386309,70,123,135,258,Provincia,RAVENNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-16-mag,2,20,Emilia Romagna,Ravenna,386309,64,124,136,260,Provincia,RAVENNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-17-mag,3,20,Emilia Romagna,Ravenna,386309,57,123,136,259,Provincia,RAVENNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-18-mag,4,20,Emilia Romagna,Ravenna,386309,53,124,137,261,Provincia,RAVENNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-19-mag,5,20,Emilia Romagna,Ravenna,386309,52,126,138,264,Provincia,RAVENNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-20-mag,6,20,Emilia Romagna,Ravenna,386309,47,127,140,267,Provincia,RAVENNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-21-mag,7,20,Emilia Romagna,Ravenna,386309,45,128,142,270,Provincia,RAVENNA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-15-mag,1,21,Emilia Romagna,Forlì CE,393556,106,123,135,258,Provincia,FORLI'-CESENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-16-mag,2,21,Emilia Romagna,Forlì CE,393556,96,124,136,260,Provincia,FORLI'-CESENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-17-mag,3,21,Emilia Romagna,Forlì CE,393556,84,123,136,259,Provincia,FORLI'-CESENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-18-mag,4,21,Emilia Romagna,Forlì CE,393556,80,124,137,261,Provincia,FORLI'-CESENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-19-mag,5,21,Emilia Romagna,Forlì CE,393556,74,126,138,264,Provincia,FORLI'-CESENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-20-mag,6,21,Emilia Romagna,Forlì CE,393556,66,127,140,267,Provincia,FORLI'-CESENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-21-mag,7,21,Emilia Romagna,Forlì CE,393556,67,128,142,270,Provincia,FORLI'-CESENA,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-15-mag,1,22,Emilia Romagna,Rimini,335478,86,123,135,258,Provincia,RIMINI,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-16-mag,2,22,Emilia Romagna,Rimini,335478,90,124,136,260,Provincia,RIMINI,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-17-mag,3,22,Emilia Romagna,Rimini,335478,84,123,136,259,Provincia,RIMINI,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-18-mag,4,22,Emilia Romagna,Rimini,335478,83,124,137,261,Provincia,RIMINI,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-19-mag,5,22,Emilia Romagna,Rimini,335478,77,126,138,264,Provincia,RIMINI,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-20-mag,6,22,Emilia Romagna,Rimini,335478,80,127,140,267,Provincia,RIMINI,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-21-mag,7,22,Emilia Romagna,Rimini,335478,74,128,142,270,Provincia,RIMINI,19/05/2021 ore 18:02,21/05/21,Emilia Romagna
-15-mag,1,25,Veneto,Padova,929520,56,112,186,298,Provincia,PADOVA,19/05/2021 ore 18:02,21/05/21,Veneto
-16-mag,2,25,Veneto,Padova,929520,50,112,186,298,Provincia,PADOVA,19/05/2021 ore 18:02,21/05/21,Veneto
-17-mag,3,25,Veneto,Padova,929520,47,112,186,298,Provincia,PADOVA,19/05/2021 ore 18:02,21/05/21,Veneto
-18-mag,4,25,Veneto,Padova,929520,46,113,188,301,Provincia,PADOVA,19/05/2021 ore 18:02,21/05/21,Veneto
-19-mag,5,25,Veneto,Padova,929520,44,113,189,302,Provincia,PADOVA,19/05/2021 ore 18:02,21/05/21,Veneto
-20-mag,6,25,Veneto,Padova,929520,39,114,191,305,Provincia,PADOVA,19/05/2021 ore 18:02,21/05/21,Veneto
-21-mag,7,25,Veneto,Padova,929520,33,115,191,306,Provincia,PADOVA,19/05/2021 ore 18:02,21/05/21,Veneto
-15-mag,1,26,Veneto,Venezia,842942,64,112,186,298,Città metropolitana,VENEZIA,19/05/2021 ore 18:02,21/05/21,Veneto
-16-mag,2,26,Veneto,Venezia,842942,61,112,186,298,Città metropolitana,VENEZIA,19/05/2021 ore 18:02,21/05/21,Veneto
-17-mag,3,26,Veneto,Venezia,842942,57,112,186,298,Città metropolitana,VENEZIA,19/05/2021 ore 18:02,21/05/21,Veneto
-18-mag,4,26,Veneto,Venezia,842942,52,113,188,301,Città metropolitana,VENEZIA,19/05/2021 ore 18:02,21/05/21,Veneto
-19-mag,5,26,Veneto,Venezia,842942,50,113,189,302,Città metropolitana,VENEZIA,19/05/2021 ore 18:02,21/05/21,Veneto
-20-mag,6,26,Veneto,Venezia,842942,47,114,191,305,Città metropolitana,VENEZIA,19/05/2021 ore 18:02,21/05/21,Veneto
-21-mag,7,26,Veneto,Venezia,842942,44,115,191,306,Città metropolitana,VENEZIA,19/05/2021 ore 18:02,21/05/21,Veneto
-15-mag,1,27,Veneto,Rovigo,229652,42,112,186,298,Provincia,ROVIGO,19/05/2021 ore 18:02,21/05/21,Veneto
-16-mag,2,27,Veneto,Rovigo,229652,37,112,186,298,Provincia,ROVIGO,19/05/2021 ore 18:02,21/05/21,Veneto
-17-mag,3,27,Veneto,Rovigo,229652,38,112,186,298,Provincia,ROVIGO,19/05/2021 ore 18:02,21/05/21,Veneto
-18-mag,4,27,Veneto,Rovigo,229652,39,113,188,301,Provincia,ROVIGO,19/05/2021 ore 18:02,21/05/21,Veneto
-19-mag,5,27,Veneto,Rovigo,229652,33,113,189,302,Provincia,ROVIGO,19/05/2021 ore 18:02,21/05/21,Veneto
-20-mag,6,27,Veneto,Rovigo,229652,29,114,191,305,Provincia,ROVIGO,19/05/2021 ore 18:02,21/05/21,Veneto
-21-mag,7,27,Veneto,Rovigo,229652,24,115,191,306,Provincia,ROVIGO,19/05/2021 ore 18:02,21/05/21,Veneto
-15-mag,1,28,Veneto,Vicenza,850379,63,112,186,298,Provincia,VICENZA,19/05/2021 ore 18:02,21/05/21,Veneto
-16-mag,2,28,Veneto,Vicenza,850379,60,112,186,298,Provincia,VICENZA,19/05/2021 ore 18:02,21/05/21,Veneto
-17-mag,3,28,Veneto,Vicenza,850379,58,112,186,298,Provincia,VICENZA,19/05/2021 ore 18:02,21/05/21,Veneto
-18-mag,4,28,Veneto,Vicenza,850379,58,113,188,301,Provincia,VICENZA,19/05/2021 ore 18:02,21/05/21,Veneto
-19-mag,5,28,Veneto,Vicenza,850379,54,113,189,302,Provincia,VICENZA,19/05/2021 ore 18:02,21/05/21,Veneto
-20-mag,6,28,Veneto,Vicenza,850379,49,114,191,305,Provincia,VICENZA,19/05/2021 ore 18:02,21/05/21,Veneto
-21-mag,7,28,Veneto,Vicenza,850379,44,115,191,306,Provincia,VICENZA,19/05/2021 ore 18:02,21/05/21,Veneto
-15-mag,1,29,Veneto,Verona,922291,74,112,186,298,Provincia,VERONA,19/05/2021 ore 18:02,21/05/21,Veneto
-16-mag,2,29,Veneto,Verona,922291,68,112,186,298,Provincia,VERONA,19/05/2021 ore 18:02,21/05/21,Veneto
-17-mag,3,29,Veneto,Verona,922291,68,112,186,298,Provincia,VERONA,19/05/2021 ore 18:02,21/05/21,Veneto
-18-mag,4,29,Veneto,Verona,922291,63,113,188,301,Provincia,VERONA,19/05/2021 ore 18:02,21/05/21,Veneto
-19-mag,5,29,Veneto,Verona,922291,57,113,189,302,Provincia,VERONA,19/05/2021 ore 18:02,21/05/21,Veneto
-20-mag,6,29,Veneto,Verona,922291,55,114,191,305,Provincia,VERONA,19/05/2021 ore 18:02,21/05/21,Veneto
-21-mag,7,29,Veneto,Verona,922291,52,115,191,306,Provincia,VERONA,19/05/2021 ore 18:02,21/05/21,Veneto
-15-mag,1,30,Veneto,Belluno,199599,42,112,186,298,Provincia,BELLUNO,19/05/2021 ore 18:02,21/05/21,Veneto
-16-mag,2,30,Veneto,Belluno,199599,35,112,186,298,Provincia,BELLUNO,19/05/2021 ore 18:02,21/05/21,Veneto
-17-mag,3,30,Veneto,Belluno,199599,33,112,186,298,Provincia,BELLUNO,19/05/2021 ore 18:02,21/05/21,Veneto
-18-mag,4,30,Veneto,Belluno,199599,28,113,188,301,Provincia,BELLUNO,19/05/2021 ore 18:02,21/05/21,Veneto
-19-mag,5,30,Veneto,Belluno,199599,26,113,189,302,Provincia,BELLUNO,19/05/2021 ore 18:02,21/05/21,Veneto
-20-mag,6,30,Veneto,Belluno,199599,34,114,191,305,Provincia,BELLUNO,19/05/2021 ore 18:02,21/05/21,Veneto
-21-mag,7,30,Veneto,Belluno,199599,27,115,191,306,Provincia,BELLUNO,19/05/2021 ore 18:02,21/05/21,Veneto
-15-mag,1,31,Veneto,Treviso,878070,46,112,186,298,Provincia,TREVISO,19/05/2021 ore 18:02,21/05/21,Veneto
-16-mag,2,31,Veneto,Treviso,878070,43,112,186,298,Provincia,TREVISO,19/05/2021 ore 18:02,21/05/21,Veneto
-17-mag,3,31,Veneto,Treviso,878070,45,112,186,298,Provincia,TREVISO,19/05/2021 ore 18:02,21/05/21,Veneto
-18-mag,4,31,Veneto,Treviso,878070,46,113,188,301,Provincia,TREVISO,19/05/2021 ore 18:02,21/05/21,Veneto
-19-mag,5,31,Veneto,Treviso,878070,44,113,189,302,Provincia,TREVISO,19/05/2021 ore 18:02,21/05/21,Veneto
-20-mag,6,31,Veneto,Treviso,878070,39,114,191,305,Provincia,TREVISO,19/05/2021 ore 18:02,21/05/21,Veneto
-21-mag,7,31,Veneto,Treviso,878070,39,115,191,306,Provincia,TREVISO,19/05/2021 ore 18:02,21/05/21,Veneto
-15-mag,1,41,Piemonte,Alessandria,411922,85,106,114,220,Provincia,ALESSANDRIA,19/05/2021 ore 18:02,21/05/21,Piemonte
-16-mag,2,41,Piemonte,Alessandria,411922,75,107,115,222,Provincia,ALESSANDRIA,19/05/2021 ore 18:02,21/05/21,Piemonte
-17-mag,3,41,Piemonte,Alessandria,411922,71,108,114,222,Provincia,ALESSANDRIA,19/05/2021 ore 18:02,21/05/21,Piemonte
-18-mag,4,41,Piemonte,Alessandria,411922,72,110,114,224,Provincia,ALESSANDRIA,19/05/2021 ore 18:02,21/05/21,Piemonte
-19-mag,5,41,Piemonte,Alessandria,411922,69,111,116,227,Provincia,ALESSANDRIA,19/05/2021 ore 18:02,21/05/21,Piemonte
-20-mag,6,41,Piemonte,Alessandria,411922,66,113,119,232,Provincia,ALESSANDRIA,19/05/2021 ore 18:02,21/05/21,Piemonte
-21-mag,7,41,Piemonte,Alessandria,411922,57,114,122,236,Provincia,ALESSANDRIA,19/05/2021 ore 18:02,21/05/21,Piemonte
-15-mag,1,42,Piemonte,Asti,209648,76,106,114,220,Provincia,ASTI,19/05/2021 ore 18:02,21/05/21,Piemonte
-16-mag,2,42,Piemonte,Asti,209648,83,107,115,222,Provincia,ASTI,19/05/2021 ore 18:02,21/05/21,Piemonte
-17-mag,3,42,Piemonte,Asti,209648,73,108,114,222,Provincia,ASTI,19/05/2021 ore 18:02,21/05/21,Piemonte
-18-mag,4,42,Piemonte,Asti,209648,65,110,114,224,Provincia,ASTI,19/05/2021 ore 18:02,21/05/21,Piemonte
-19-mag,5,42,Piemonte,Asti,209648,58,111,116,227,Provincia,ASTI,19/05/2021 ore 18:02,21/05/21,Piemonte
-20-mag,6,42,Piemonte,Asti,209648,54,113,119,232,Provincia,ASTI,19/05/2021 ore 18:02,21/05/21,Piemonte
-21-mag,7,42,Piemonte,Asti,209648,52,114,122,236,Provincia,ASTI,19/05/2021 ore 18:02,21/05/21,Piemonte
-15-mag,1,43,Piemonte,Biella,171838,101,106,114,220,Provincia,BIELLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-16-mag,2,43,Piemonte,Biella,171838,97,107,115,222,Provincia,BIELLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-17-mag,3,43,Piemonte,Biella,171838,96,108,114,222,Provincia,BIELLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-18-mag,4,43,Piemonte,Biella,171838,91,110,114,224,Provincia,BIELLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-19-mag,5,43,Piemonte,Biella,171838,88,111,116,227,Provincia,BIELLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-20-mag,6,43,Piemonte,Biella,171838,84,113,119,232,Provincia,BIELLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-21-mag,7,43,Piemonte,Biella,171838,84,114,122,236,Provincia,BIELLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-15-mag,1,44,Piemonte,Cuneo,582353,111,106,114,220,Provincia,CUNEO,19/05/2021 ore 18:02,21/05/21,Piemonte
-16-mag,2,44,Piemonte,Cuneo,582353,107,107,115,222,Provincia,CUNEO,19/05/2021 ore 18:02,21/05/21,Piemonte
-17-mag,3,44,Piemonte,Cuneo,582353,104,108,114,222,Provincia,CUNEO,19/05/2021 ore 18:02,21/05/21,Piemonte
-18-mag,4,44,Piemonte,Cuneo,582353,94,110,114,224,Provincia,CUNEO,19/05/2021 ore 18:02,21/05/21,Piemonte
-19-mag,5,44,Piemonte,Cuneo,582353,87,111,116,227,Provincia,CUNEO,19/05/2021 ore 18:02,21/05/21,Piemonte
-20-mag,6,44,Piemonte,Cuneo,582353,76,113,119,232,Provincia,CUNEO,19/05/2021 ore 18:02,21/05/21,Piemonte
-21-mag,7,44,Piemonte,Cuneo,582353,68,114,122,236,Provincia,CUNEO,19/05/2021 ore 18:02,21/05/21,Piemonte
-15-mag,1,45,Piemonte,Novara,362199,76,106,114,220,Provincia,NOVARA,19/05/2021 ore 18:02,21/05/21,Piemonte
-16-mag,2,45,Piemonte,Novara,362199,72,107,115,222,Provincia,NOVARA,19/05/2021 ore 18:02,21/05/21,Piemonte
-17-mag,3,45,Piemonte,Novara,362199,69,108,114,222,Provincia,NOVARA,19/05/2021 ore 18:02,21/05/21,Piemonte
-18-mag,4,45,Piemonte,Novara,362199,69,110,114,224,Provincia,NOVARA,19/05/2021 ore 18:02,21/05/21,Piemonte
-19-mag,5,45,Piemonte,Novara,362199,65,111,116,227,Provincia,NOVARA,19/05/2021 ore 18:02,21/05/21,Piemonte
-20-mag,6,45,Piemonte,Novara,362199,61,113,119,232,Provincia,NOVARA,19/05/2021 ore 18:02,21/05/21,Piemonte
-21-mag,7,45,Piemonte,Novara,362199,60,114,122,236,Provincia,NOVARA,19/05/2021 ore 18:02,21/05/21,Piemonte
-15-mag,1,46,Piemonte,Torino,2212996,94,106,114,220,Città metropolitana,TORINO,19/05/2021 ore 18:02,21/05/21,Piemonte
-16-mag,2,46,Piemonte,Torino,2212996,89,107,115,222,Città metropolitana,TORINO,19/05/2021 ore 18:02,21/05/21,Piemonte
-17-mag,3,46,Piemonte,Torino,2212996,87,108,114,222,Città metropolitana,TORINO,19/05/2021 ore 18:02,21/05/21,Piemonte
-18-mag,4,46,Piemonte,Torino,2212996,87,110,114,224,Città metropolitana,TORINO,19/05/2021 ore 18:02,21/05/21,Piemonte
-19-mag,5,46,Piemonte,Torino,2212996,80,111,116,227,Città metropolitana,TORINO,19/05/2021 ore 18:02,21/05/21,Piemonte
-20-mag,6,46,Piemonte,Torino,2212996,72,113,119,232,Città metropolitana,TORINO,19/05/2021 ore 18:02,21/05/21,Piemonte
-21-mag,7,46,Piemonte,Torino,2212996,67,114,122,236,Città metropolitana,TORINO,19/05/2021 ore 18:02,21/05/21,Piemonte
-15-mag,1,47,Piemonte,Vercelli,167189,111,106,114,220,Provincia,VERCELLI,19/05/2021 ore 18:02,21/05/21,Piemonte
-16-mag,2,47,Piemonte,Vercelli,167189,111,107,115,222,Provincia,VERCELLI,19/05/2021 ore 18:02,21/05/21,Piemonte
-17-mag,3,47,Piemonte,Vercelli,167189,101,108,114,222,Provincia,VERCELLI,19/05/2021 ore 18:02,21/05/21,Piemonte
-18-mag,4,47,Piemonte,Vercelli,167189,92,110,114,224,Provincia,VERCELLI,19/05/2021 ore 18:02,21/05/21,Piemonte
-19-mag,5,47,Piemonte,Vercelli,167189,81,111,116,227,Provincia,VERCELLI,19/05/2021 ore 18:02,21/05/21,Piemonte
-20-mag,6,47,Piemonte,Vercelli,167189,78,113,119,232,Provincia,VERCELLI,19/05/2021 ore 18:02,21/05/21,Piemonte
-21-mag,7,47,Piemonte,Vercelli,167189,76,114,122,236,Provincia,VERCELLI,19/05/2021 ore 18:02,21/05/21,Piemonte
-15-mag,1,48,Piemonte,VCO,155065,83,106,114,220,Provincia,VERBANO-CUSIO-OSSOLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-16-mag,2,48,Piemonte,VCO,155065,74,107,115,222,Provincia,VERBANO-CUSIO-OSSOLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-17-mag,3,48,Piemonte,VCO,155065,68,108,114,222,Provincia,VERBANO-CUSIO-OSSOLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-18-mag,4,48,Piemonte,VCO,155065,77,110,114,224,Provincia,VERBANO-CUSIO-OSSOLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-19-mag,5,48,Piemonte,VCO,155065,77,111,116,227,Provincia,VERBANO-CUSIO-OSSOLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-20-mag,6,48,Piemonte,VCO,155065,83,113,119,232,Provincia,VERBANO-CUSIO-OSSOLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-21-mag,7,48,Piemonte,VCO,155065,94,114,122,236,Provincia,VERBANO-CUSIO-OSSOLA,19/05/2021 ore 18:02,21/05/21,Piemonte
-15-mag,1,82,Friuli VG,Trieste,229470,65,101,133,234,Provincia,TRIESTE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-16-mag,2,82,Friuli VG,Trieste,229470,61,101,133,234,Provincia,TRIESTE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-17-mag,3,82,Friuli VG,Trieste,229470,59,101,133,234,Provincia,TRIESTE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-18-mag,4,82,Friuli VG,Trieste,229470,58,102,133,235,Provincia,TRIESTE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-19-mag,5,82,Friuli VG,Trieste,229470,54,102,135,237,Provincia,TRIESTE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-20-mag,6,82,Friuli VG,Trieste,229470,44,102,137,239,Provincia,TRIESTE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-21-mag,7,82,Friuli VG,Trieste,229470,39,102,136,238,Provincia,TRIESTE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-15-mag,1,83,Friuli VG,Gorizia,136809,50,101,133,234,Provincia,GORIZIA,19/05/2021 ore 18:02,21/05/21,Friuli VG
-16-mag,2,83,Friuli VG,Gorizia,136809,45,101,133,234,Provincia,GORIZIA,19/05/2021 ore 18:02,21/05/21,Friuli VG
-17-mag,3,83,Friuli VG,Gorizia,136809,34,101,133,234,Provincia,GORIZIA,19/05/2021 ore 18:02,21/05/21,Friuli VG
-18-mag,4,83,Friuli VG,Gorizia,136809,39,102,133,235,Provincia,GORIZIA,19/05/2021 ore 18:02,21/05/21,Friuli VG
-19-mag,5,83,Friuli VG,Gorizia,136809,42,102,135,237,Provincia,GORIZIA,19/05/2021 ore 18:02,21/05/21,Friuli VG
-20-mag,6,83,Friuli VG,Gorizia,136809,32,102,137,239,Provincia,GORIZIA,19/05/2021 ore 18:02,21/05/21,Friuli VG
-21-mag,7,83,Friuli VG,Gorizia,136809,34,102,136,238,Provincia,GORIZIA,19/05/2021 ore 18:02,21/05/21,Friuli VG
-15-mag,1,84,Friuli VG,Udine,523416,23,101,133,234,Provincia,UDINE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-16-mag,2,84,Friuli VG,Udine,523416,21,101,133,234,Provincia,UDINE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-17-mag,3,84,Friuli VG,Udine,523416,20,101,133,234,Provincia,UDINE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-18-mag,4,84,Friuli VG,Udine,523416,16,102,133,235,Provincia,UDINE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-19-mag,5,84,Friuli VG,Udine,523416,15,102,135,237,Provincia,UDINE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-20-mag,6,84,Friuli VG,Udine,523416,12,102,137,239,Provincia,UDINE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-21-mag,7,84,Friuli VG,Udine,523416,12,102,136,238,Provincia,UDINE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-15-mag,1,85,Friuli VG,Pordenone,309058,36,101,133,234,Provincia,PORDENONE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-16-mag,2,85,Friuli VG,Pordenone,309058,35,101,133,234,Provincia,PORDENONE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-17-mag,3,85,Friuli VG,Pordenone,309058,35,101,133,234,Provincia,PORDENONE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-18-mag,4,85,Friuli VG,Pordenone,309058,30,102,133,235,Provincia,PORDENONE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-19-mag,5,85,Friuli VG,Pordenone,309058,29,102,135,237,Provincia,PORDENONE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-20-mag,6,85,Friuli VG,Pordenone,309058,28,102,137,239,Provincia,PORDENONE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-21-mag,7,85,Friuli VG,Pordenone,309058,29,102,136,238,Provincia,PORDENONE,19/05/2021 ore 18:02,21/05/21,Friuli VG
-15-mag,1,131,Valle d'Aosta,Aosta,123895,122,164,202,366,Provincia,AOSTA,19/05/2021 ore 18:02,21/05/21,Valle d'Aosta
-16-mag,2,131,Valle d'Aosta,Aosta,123895,129,165,210,375,Provincia,AOSTA,19/05/2021 ore 18:02,21/05/21,Valle d'Aosta
-17-mag,3,131,Valle d'Aosta,Aosta,123895,125,165,218,383,Provincia,AOSTA,19/05/2021 ore 18:02,21/05/21,Valle d'Aosta
-18-mag,4,131,Valle d'Aosta,Aosta,123895,112,162,218,380,Provincia,AOSTA,19/05/2021 ore 18:02,21/05/21,Valle d'Aosta
-19-mag,5,131,Valle d'Aosta,Aosta,123895,111,164,242,406,Provincia,AOSTA,19/05/2021 ore 18:02,21/05/21,Valle d'Aosta
-20-mag,6,131,Valle d'Aosta,Aosta,123895,103,164,242,406,Provincia,AOSTA,19/05/2021 ore 18:02,21/05/21,Valle d'Aosta
-21-mag,7,131,Valle d'Aosta,Aosta,123895,79,165,242,407,Provincia,AOSTA,19/05/2021 ore 18:02,21/05/21,Valle d'Aosta
-15-mag,1,76,Liguria,Savona,268766,49,101,115,216,Provincia,SAVONA,19/05/2021 ore 18:02,21/05/21,Liguria
-16-mag,2,76,Liguria,Savona,268766,41,101,116,217,Provincia,SAVONA,19/05/2021 ore 18:02,21/05/21,Liguria
-17-mag,3,76,Liguria,Savona,268766,41,99,115,214,Provincia,SAVONA,19/05/2021 ore 18:02,21/05/21,Liguria
-18-mag,4,76,Liguria,Savona,268766,39,100,117,217,Provincia,SAVONA,19/05/2021 ore 18:02,21/05/21,Liguria
-19-mag,5,76,Liguria,Savona,268766,36,104,119,223,Provincia,SAVONA,19/05/2021 ore 18:02,21/05/21,Liguria
-20-mag,6,76,Liguria,Savona,268766,35,104,121,225,Provincia,SAVONA,19/05/2021 ore 18:02,21/05/21,Liguria
-21-mag,7,76,Liguria,Savona,268766,32,106,120,226,Provincia,SAVONA,19/05/2021 ore 18:02,21/05/21,Liguria
-15-mag,1,77,Liguria,La Spezia,215538,87,101,115,216,Provincia,LA SPEZIA,19/05/2021 ore 18:02,21/05/21,Liguria
-16-mag,2,77,Liguria,La Spezia,215538,72,101,116,217,Provincia,LA SPEZIA,19/05/2021 ore 18:02,21/05/21,Liguria
-17-mag,3,77,Liguria,La Spezia,215538,71,99,115,214,Provincia,LA SPEZIA,19/05/2021 ore 18:02,21/05/21,Liguria
-18-mag,4,77,Liguria,La Spezia,215538,69,100,117,217,Provincia,LA SPEZIA,19/05/2021 ore 18:02,21/05/21,Liguria
-19-mag,5,77,Liguria,La Spezia,215538,58,104,119,223,Provincia,LA SPEZIA,19/05/2021 ore 18:02,21/05/21,Liguria
-20-mag,6,77,Liguria,La Spezia,215538,58,104,121,225,Provincia,LA SPEZIA,19/05/2021 ore 18:02,21/05/21,Liguria
-21-mag,7,77,Liguria,La Spezia,215538,52,106,120,226,Provincia,LA SPEZIA,19/05/2021 ore 18:02,21/05/21,Liguria
-15-mag,1,78,Liguria,Imperia,208585,56,101,115,216,Provincia,IMPERIA,19/05/2021 ore 18:02,21/05/21,Liguria
-16-mag,2,78,Liguria,Imperia,208585,51,101,116,217,Provincia,IMPERIA,19/05/2021 ore 18:02,21/05/21,Liguria
-17-mag,3,78,Liguria,Imperia,208585,49,99,115,214,Provincia,IMPERIA,19/05/2021 ore 18:02,21/05/21,Liguria
-18-mag,4,78,Liguria,Imperia,208585,44,100,117,217,Provincia,IMPERIA,19/05/2021 ore 18:02,21/05/21,Liguria
-19-mag,5,78,Liguria,Imperia,208585,45,104,119,223,Provincia,IMPERIA,19/05/2021 ore 18:02,21/05/21,Liguria
-20-mag,6,78,Liguria,Imperia,208585,47,104,121,225,Provincia,IMPERIA,19/05/2021 ore 18:02,21/05/21,Liguria
-21-mag,7,78,Liguria,Imperia,208585,41,106,120,226,Provincia,IMPERIA,19/05/2021 ore 18:02,21/05/21,Liguria
-15-mag,1,79,Liguria,Genova,816916,44,101,115,216,Città metropolitana,GENOVA,19/05/2021 ore 18:02,21/05/21,Liguria
-16-mag,2,79,Liguria,Genova,816916,44,101,116,217,Città metropolitana,GENOVA,19/05/2021 ore 18:02,21/05/21,Liguria
-17-mag,3,79,Liguria,Genova,816916,44,99,115,214,Città metropolitana,GENOVA,19/05/2021 ore 18:02,21/05/21,Liguria
-18-mag,4,79,Liguria,Genova,816916,40,100,117,217,Città metropolitana,GENOVA,19/05/2021 ore 18:02,21/05/21,Liguria
-19-mag,5,79,Liguria,Genova,816916,36,104,119,223,Città metropolitana,GENOVA,19/05/2021 ore 18:02,21/05/21,Liguria
-20-mag,6,79,Liguria,Genova,816916,35,104,121,225,Città metropolitana,GENOVA,19/05/2021 ore 18:02,21/05/21,Liguria
-21-mag,7,79,Liguria,Genova,816916,31,106,120,226,Città metropolitana,GENOVA,19/05/2021 ore 18:02,21/05/21,Liguria
-15-mag,1,120,Trento,Trento,544745,61,86,132,218,Provincia autonoma,TRENTO,19/05/2021 ore 18:02,21/05/21,Trento
-16-mag,2,120,Trento,Trento,544745,66,86,134,220,Provincia autonoma,TRENTO,19/05/2021 ore 18:02,21/05/21,Trento
-17-mag,3,120,Trento,Trento,544745,66,86,138,224,Provincia autonoma,TRENTO,19/05/2021 ore 18:02,21/05/21,Trento
-18-mag,4,120,Trento,Trento,544745,65,87,139,226,Provincia autonoma,TRENTO,19/05/2021 ore 18:02,21/05/21,Trento
-19-mag,5,120,Trento,Trento,544745,62,87,141,228,Provincia autonoma,TRENTO,19/05/2021 ore 18:02,21/05/21,Trento
-20-mag,6,120,Trento,Trento,544745,61,88,139,227,Provincia autonoma,TRENTO,19/05/2021 ore 18:02,21/05/21,Trento
-21-mag,7,120,Trento,Trento,544745,58,89,139,228,Provincia autonoma,TRENTO,19/05/2021 ore 18:02,21/05/21,Trento
-15-mag,1,119,Bolzano,Bolzano,533715,83,72,174,246,Provincia autonoma,BOLZANO,19/05/2021 ore 18:02,21/05/21,Bolzano
-16-mag,2,119,Bolzano,Bolzano,533715,79,72,176,248,Provincia autonoma,BOLZANO,19/05/2021 ore 18:02,21/05/21,Bolzano
-17-mag,3,119,Bolzano,Bolzano,533715,79,72,185,257,Provincia autonoma,BOLZANO,19/05/2021 ore 18:02,21/05/21,Bolzano
-18-mag,4,119,Bolzano,Bolzano,533715,85,71,176,247,Provincia autonoma,BOLZANO,19/05/2021 ore 18:02,21/05/21,Bolzano
-19-mag,5,119,Bolzano,Bolzano,533715,78,75,176,251,Provincia autonoma,BOLZANO,19/05/2021 ore 18:02,21/05/21,Bolzano
-20-mag,6,119,Bolzano,Bolzano,533715,76,75,176,251,Provincia autonoma,BOLZANO,19/05/2021 ore 18:02,21/05/21,Bolzano
-21-mag,7,119,Bolzano,Bolzano,533715,73,76,176,252,Provincia autonoma,BOLZANO,19/05/2021 ore 18:02,21/05/21,Bolzano
-15-mag,1,34,Marche,Ancona,465023,41,64,109,173,Provincia,ANCONA,19/05/2021 ore 18:02,21/05/21,Marche
-16-mag,2,34,Marche,Ancona,465023,42,65,109,174,Provincia,ANCONA,19/05/2021 ore 18:02,21/05/21,Marche
-17-mag,3,34,Marche,Ancona,465023,37,65,108,173,Provincia,ANCONA,19/05/2021 ore 18:02,21/05/21,Marche
-18-mag,4,34,Marche,Ancona,465023,37,66,109,175,Provincia,ANCONA,19/05/2021 ore 18:02,21/05/21,Marche
-19-mag,5,34,Marche,Ancona,465023,34,66,111,177,Provincia,ANCONA,19/05/2021 ore 18:02,21/05/21,Marche
-20-mag,6,34,Marche,Ancona,465023,40,67,113,180,Provincia,ANCONA,19/05/2021 ore 18:02,21/05/21,Marche
-21-mag,7,34,Marche,Ancona,465023,37,67,113,180,Provincia,ANCONA,19/05/2021 ore 18:02,21/05/21,Marche
-15-mag,1,35,Marche,Pesaro,354139,122,64,109,173,Provincia,PESARO E URBINO,19/05/2021 ore 18:02,21/05/21,Marche
-16-mag,2,35,Marche,Pesaro,354139,125,65,109,174,Provincia,PESARO E URBINO,19/05/2021 ore 18:02,21/05/21,Marche
-17-mag,3,35,Marche,Pesaro,354139,126,65,108,173,Provincia,PESARO E URBINO,19/05/2021 ore 18:02,21/05/21,Marche
-18-mag,4,35,Marche,Pesaro,354139,121,66,109,175,Provincia,PESARO E URBINO,19/05/2021 ore 18:02,21/05/21,Marche
-19-mag,5,35,Marche,Pesaro,354139,112,66,111,177,Provincia,PESARO E URBINO,19/05/2021 ore 18:02,21/05/21,Marche
-20-mag,6,35,Marche,Pesaro,354139,104,67,113,180,Provincia,PESARO E URBINO,19/05/2021 ore 18:02,21/05/21,Marche
-21-mag,7,35,Marche,Pesaro,354139,110,67,113,180,Provincia,PESARO E URBINO,19/05/2021 ore 18:02,21/05/21,Marche
-15-mag,1,36,Marche,Macerata,307421,83,64,109,173,Provincia,MACERATA,19/05/2021 ore 18:02,21/05/21,Marche
-16-mag,2,36,Marche,Macerata,307421,79,65,109,174,Provincia,MACERATA,19/05/2021 ore 18:02,21/05/21,Marche
-17-mag,3,36,Marche,Macerata,307421,80,65,108,173,Provincia,MACERATA,19/05/2021 ore 18:02,21/05/21,Marche
-18-mag,4,36,Marche,Macerata,307421,74,66,109,175,Provincia,MACERATA,19/05/2021 ore 18:02,21/05/21,Marche
-19-mag,5,36,Marche,Macerata,307421,67,66,111,177,Provincia,MACERATA,19/05/2021 ore 18:02,21/05/21,Marche
-20-mag,6,36,Marche,Macerata,307421,63,67,113,180,Provincia,MACERATA,19/05/2021 ore 18:02,21/05/21,Marche
-21-mag,7,36,Marche,Macerata,307421,57,67,113,180,Provincia,MACERATA,19/05/2021 ore 18:02,21/05/21,Marche
-15-mag,1,37,Marche,Fermo,170248,73,64,109,173,Provincia,FERMO,19/05/2021 ore 18:02,21/05/21,Marche
-16-mag,2,37,Marche,Fermo,170248,58,65,109,174,Provincia,FERMO,19/05/2021 ore 18:02,21/05/21,Marche
-17-mag,3,37,Marche,Fermo,170248,61,65,108,173,Provincia,FERMO,19/05/2021 ore 18:02,21/05/21,Marche
-18-mag,4,37,Marche,Fermo,170248,68,66,109,175,Provincia,FERMO,19/05/2021 ore 18:02,21/05/21,Marche
-19-mag,5,37,Marche,Fermo,170248,64,66,111,177,Provincia,FERMO,19/05/2021 ore 18:02,21/05/21,Marche
-20-mag,6,37,Marche,Fermo,170248,56,67,113,180,Provincia,FERMO,19/05/2021 ore 18:02,21/05/21,Marche
-21-mag,7,37,Marche,Fermo,170248,42,67,113,180,Provincia,FERMO,19/05/2021 ore 18:02,21/05/21,Marche
-15-mag,1,38,Marche,Ascoli P.,204575,123,64,109,173,Provincia,ASCOLI PICENO,19/05/2021 ore 18:02,21/05/21,Marche
-16-mag,2,38,Marche,Ascoli P.,204575,117,65,109,174,Provincia,ASCOLI PICENO,19/05/2021 ore 18:02,21/05/21,Marche
-17-mag,3,38,Marche,Ascoli P.,204575,120,65,108,173,Provincia,ASCOLI PICENO,19/05/2021 ore 18:02,21/05/21,Marche
-18-mag,4,38,Marche,Ascoli P.,204575,116,66,109,175,Provincia,ASCOLI PICENO,19/05/2021 ore 18:02,21/05/21,Marche
-19-mag,5,38,Marche,Ascoli P.,204575,106,66,111,177,Provincia,ASCOLI PICENO,19/05/2021 ore 18:02,21/05/21,Marche
-20-mag,6,38,Marche,Ascoli P.,204575,105,67,113,180,Provincia,ASCOLI PICENO,19/05/2021 ore 18:02,21/05/21,Marche
-21-mag,7,38,Marche,Ascoli P.,204575,89,67,113,180,Provincia,ASCOLI PICENO,19/05/2021 ore 18:02,21/05/21,Marche
-15-mag,1,51,Toscana,Firenze,986001,109,113,110,223,Città metropolitana,FIRENZE,19/05/2021 ore 18:02,21/05/21,Toscana
-16-mag,2,51,Toscana,Firenze,986001,104,114,111,225,Città metropolitana,FIRENZE,19/05/2021 ore 18:02,21/05/21,Toscana
-17-mag,3,51,Toscana,Firenze,986001,102,114,109,223,Città metropolitana,FIRENZE,19/05/2021 ore 18:02,21/05/21,Toscana
-18-mag,4,51,Toscana,Firenze,986001,103,115,111,226,Città metropolitana,FIRENZE,19/05/2021 ore 18:02,21/05/21,Toscana
-19-mag,5,51,Toscana,Firenze,986001,100,116,112,228,Città metropolitana,FIRENZE,19/05/2021 ore 18:02,21/05/21,Toscana
-20-mag,6,51,Toscana,Firenze,986001,101,117,115,232,Città metropolitana,FIRENZE,19/05/2021 ore 18:02,21/05/21,Toscana
-21-mag,7,51,Toscana,Firenze,986001,98,118,118,236,Città metropolitana,FIRENZE,19/05/2021 ore 18:02,21/05/21,Toscana
-15-mag,1,52,Toscana,Pistoia,290819,119,113,110,223,Provincia,PISTOIA,19/05/2021 ore 18:02,21/05/21,Toscana
-16-mag,2,52,Toscana,Pistoia,290819,112,114,111,225,Provincia,PISTOIA,19/05/2021 ore 18:02,21/05/21,Toscana
-17-mag,3,52,Toscana,Pistoia,290819,119,114,109,223,Provincia,PISTOIA,19/05/2021 ore 18:02,21/05/21,Toscana
-18-mag,4,52,Toscana,Pistoia,290819,115,115,111,226,Provincia,PISTOIA,19/05/2021 ore 18:02,21/05/21,Toscana
-19-mag,5,52,Toscana,Pistoia,290819,111,116,112,228,Provincia,PISTOIA,19/05/2021 ore 18:02,21/05/21,Toscana
-20-mag,6,52,Toscana,Pistoia,290819,111,117,115,232,Provincia,PISTOIA,19/05/2021 ore 18:02,21/05/21,Toscana
-21-mag,7,52,Toscana,Pistoia,290819,108,118,118,236,Provincia,PISTOIA,19/05/2021 ore 18:02,21/05/21,Toscana
-15-mag,1,53,Toscana,Lucca,380676,57,113,110,223,Provincia,LUCCA,19/05/2021 ore 18:02,21/05/21,Toscana
-16-mag,2,53,Toscana,Lucca,380676,51,114,111,225,Provincia,LUCCA,19/05/2021 ore 18:02,21/05/21,Toscana
-17-mag,3,53,Toscana,Lucca,380676,53,114,109,223,Provincia,LUCCA,19/05/2021 ore 18:02,21/05/21,Toscana
-18-mag,4,53,Toscana,Lucca,380676,53,115,111,226,Provincia,LUCCA,19/05/2021 ore 18:02,21/05/21,Toscana
-19-mag,5,53,Toscana,Lucca,380676,52,116,112,228,Provincia,LUCCA,19/05/2021 ore 18:02,21/05/21,Toscana
-20-mag,6,53,Toscana,Lucca,380676,47,117,115,232,Provincia,LUCCA,19/05/2021 ore 18:02,21/05/21,Toscana
-21-mag,7,53,Toscana,Lucca,380676,48,118,118,236,Provincia,LUCCA,19/05/2021 ore 18:02,21/05/21,Toscana
-15-mag,1,54,Toscana,Siena,263526,73,113,110,223,Provincia,SIENA,19/05/2021 ore 18:02,21/05/21,Toscana
-16-mag,2,54,Toscana,Siena,263526,77,114,111,225,Provincia,SIENA,19/05/2021 ore 18:02,21/05/21,Toscana
-17-mag,3,54,Toscana,Siena,263526,74,114,109,223,Provincia,SIENA,19/05/2021 ore 18:02,21/05/21,Toscana
-18-mag,4,54,Toscana,Siena,263526,75,115,111,226,Provincia,SIENA,19/05/2021 ore 18:02,21/05/21,Toscana
-19-mag,5,54,Toscana,Siena,263526,72,116,112,228,Provincia,SIENA,19/05/2021 ore 18:02,21/05/21,Toscana
-20-mag,6,54,Toscana,Siena,263526,68,117,115,232,Provincia,SIENA,19/05/2021 ore 18:02,21/05/21,Toscana
-21-mag,7,54,Toscana,Siena,263526,68,118,118,236,Provincia,SIENA,19/05/2021 ore 18:02,21/05/21,Toscana
-15-mag,1,55,Toscana,Massa C.,189841,104,113,110,223,Provincia,MASSA-CARRARA,19/05/2021 ore 18:02,21/05/21,Toscana
-16-mag,2,55,Toscana,Massa C.,189841,97,114,111,225,Provincia,MASSA-CARRARA,19/05/2021 ore 18:02,21/05/21,Toscana
-17-mag,3,55,Toscana,Massa C.,189841,86,114,109,223,Provincia,MASSA-CARRARA,19/05/2021 ore 18:02,21/05/21,Toscana
-18-mag,4,55,Toscana,Massa C.,189841,81,115,111,226,Provincia,MASSA-CARRARA,19/05/2021 ore 18:02,21/05/21,Toscana
-19-mag,5,55,Toscana,Massa C.,189841,75,116,112,228,Provincia,MASSA-CARRARA,19/05/2021 ore 18:02,21/05/21,Toscana
-20-mag,6,55,Toscana,Massa C.,189841,66,117,115,232,Provincia,MASSA-CARRARA,19/05/2021 ore 18:02,21/05/21,Toscana
-21-mag,7,55,Toscana,Massa C.,189841,59,118,118,236,Provincia,MASSA-CARRARA,19/05/2021 ore 18:02,21/05/21,Toscana
-15-mag,1,56,Toscana,Arezzo,336870,155,113,110,223,Provincia,AREZZO,19/05/2021 ore 18:02,21/05/21,Toscana
-16-mag,2,56,Toscana,Arezzo,336870,149,114,111,225,Provincia,AREZZO,19/05/2021 ore 18:02,21/05/21,Toscana
-17-mag,3,56,Toscana,Arezzo,336870,146,114,109,223,Provincia,AREZZO,19/05/2021 ore 18:02,21/05/21,Toscana
-18-mag,4,56,Toscana,Arezzo,336870,142,115,111,226,Provincia,AREZZO,19/05/2021 ore 18:02,21/05/21,Toscana
-19-mag,5,56,Toscana,Arezzo,336870,134,116,112,228,Provincia,AREZZO,19/05/2021 ore 18:02,21/05/21,Toscana
-20-mag,6,56,Toscana,Arezzo,336870,131,117,115,232,Provincia,AREZZO,19/05/2021 ore 18:02,21/05/21,Toscana
-21-mag,7,56,Toscana,Arezzo,336870,112,118,118,236,Provincia,AREZZO,19/05/2021 ore 18:02,21/05/21,Toscana
-15-mag,1,57,Toscana,Pisa,416425,72,113,110,223,Provincia,PISA,19/05/2021 ore 18:02,21/05/21,Toscana
-16-mag,2,57,Toscana,Pisa,416425,66,114,111,225,Provincia,PISA,19/05/2021 ore 18:02,21/05/21,Toscana
-17-mag,3,57,Toscana,Pisa,416425,58,114,109,223,Provincia,PISA,19/05/2021 ore 18:02,21/05/21,Toscana
-18-mag,4,57,Toscana,Pisa,416425,56,115,111,226,Provincia,PISA,19/05/2021 ore 18:02,21/05/21,Toscana
-19-mag,5,57,Toscana,Pisa,416425,51,116,112,228,Provincia,PISA,19/05/2021 ore 18:02,21/05/21,Toscana
-20-mag,6,57,Toscana,Pisa,416425,45,117,115,232,Provincia,PISA,19/05/2021 ore 18:02,21/05/21,Toscana
-21-mag,7,57,Toscana,Pisa,416425,44,118,118,236,Provincia,PISA,19/05/2021 ore 18:02,21/05/21,Toscana
-15-mag,1,58,Toscana,Livorno,329590,70,113,110,223,Provincia,LIVORNO,19/05/2021 ore 18:02,21/05/21,Toscana
-16-mag,2,58,Toscana,Livorno,329590,56,114,111,225,Provincia,LIVORNO,19/05/2021 ore 18:02,21/05/21,Toscana
-17-mag,3,58,Toscana,Livorno,329590,49,114,109,223,Provincia,LIVORNO,19/05/2021 ore 18:02,21/05/21,Toscana
-18-mag,4,58,Toscana,Livorno,329590,46,115,111,226,Provincia,LIVORNO,19/05/2021 ore 18:02,21/05/21,Toscana
-19-mag,5,58,Toscana,Livorno,329590,44,116,112,228,Provincia,LIVORNO,19/05/2021 ore 18:02,21/05/21,Toscana
-20-mag,6,58,Toscana,Livorno,329590,40,117,115,232,Provincia,LIVORNO,19/05/2021 ore 18:02,21/05/21,Toscana
-21-mag,7,58,Toscana,Livorno,329590,38,118,118,236,Provincia,LIVORNO,19/05/2021 ore 18:02,21/05/21,Toscana
-15-mag,1,59,Toscana,Grosseto,218538,81,113,110,223,Provincia,GROSSETO,19/05/2021 ore 18:02,21/05/21,Toscana
-16-mag,2,59,Toscana,Grosseto,218538,83,114,111,225,Provincia,GROSSETO,19/05/2021 ore 18:02,21/05/21,Toscana
-17-mag,3,59,Toscana,Grosseto,218538,81,114,109,223,Provincia,GROSSETO,19/05/2021 ore 18:02,21/05/21,Toscana
-18-mag,4,59,Toscana,Grosseto,218538,81,115,111,226,Provincia,GROSSETO,19/05/2021 ore 18:02,21/05/21,Toscana
-19-mag,5,59,Toscana,Grosseto,218538,72,116,112,228,Provincia,GROSSETO,19/05/2021 ore 18:02,21/05/21,Toscana
-20-mag,6,59,Toscana,Grosseto,218538,84,117,115,232,Provincia,GROSSETO,19/05/2021 ore 18:02,21/05/21,Toscana
-21-mag,7,59,Toscana,Grosseto,218538,81,118,118,236,Provincia,GROSSETO,19/05/2021 ore 18:02,21/05/21,Toscana
-15-mag,1,60,Toscana,Prato,256047,182,113,110,223,Provincia,PRATO,19/05/2021 ore 18:02,21/05/21,Toscana
-16-mag,2,60,Toscana,Prato,256047,175,114,111,225,Provincia,PRATO,19/05/2021 ore 18:02,21/05/21,Toscana
-17-mag,3,60,Toscana,Prato,256047,172,114,109,223,Provincia,PRATO,19/05/2021 ore 18:02,21/05/21,Toscana
-18-mag,4,60,Toscana,Prato,256047,157,115,111,226,Provincia,PRATO,19/05/2021 ore 18:02,21/05/21,Toscana
-19-mag,5,60,Toscana,Prato,256047,150,116,112,228,Provincia,PRATO,19/05/2021 ore 18:02,21/05/21,Toscana
-20-mag,6,60,Toscana,Prato,256047,138,117,115,232,Provincia,PRATO,19/05/2021 ore 18:02,21/05/21,Toscana
-21-mag,7,60,Toscana,Prato,256047,135,118,118,236,Provincia,PRATO,19/05/2021 ore 18:02,21/05/21,Toscana
-15-mag,1,69,Lazio,Roma,4227588,74,84,124,208,Città metropolitana,ROMA,19/05/2021 ore 18:02,21/05/21,Lazio
-16-mag,2,69,Lazio,Roma,4227588,70,85,124,209,Città metropolitana,ROMA,19/05/2021 ore 18:02,21/05/21,Lazio
-17-mag,3,69,Lazio,Roma,4227588,65,85,124,209,Città metropolitana,ROMA,19/05/2021 ore 18:02,21/05/21,Lazio
-18-mag,4,69,Lazio,Roma,4227588,69,86,127,213,Città metropolitana,ROMA,19/05/2021 ore 18:02,21/05/21,Lazio
-19-mag,5,69,Lazio,Roma,4227588,64,87,127,214,Città metropolitana,ROMA,19/05/2021 ore 18:02,21/05/21,Lazio
-20-mag,6,69,Lazio,Roma,4227588,62,88,128,216,Città metropolitana,ROMA,19/05/2021 ore 18:02,21/05/21,Lazio
-21-mag,7,69,Lazio,Roma,4227588,61,89,129,218,Città metropolitana,ROMA,19/05/2021 ore 18:02,21/05/21,Lazio
-15-mag,1,70,Lazio,Frosinone,473467,79,84,124,208,Provincia,FROSINONE,19/05/2021 ore 18:02,21/05/21,Lazio
-16-mag,2,70,Lazio,Frosinone,473467,71,85,124,209,Provincia,FROSINONE,19/05/2021 ore 18:02,21/05/21,Lazio
-17-mag,3,70,Lazio,Frosinone,473467,69,85,124,209,Provincia,FROSINONE,19/05/2021 ore 18:02,21/05/21,Lazio
-18-mag,4,70,Lazio,Frosinone,473467,57,86,127,213,Provincia,FROSINONE,19/05/2021 ore 18:02,21/05/21,Lazio
-19-mag,5,70,Lazio,Frosinone,473467,51,87,127,214,Provincia,FROSINONE,19/05/2021 ore 18:02,21/05/21,Lazio
-20-mag,6,70,Lazio,Frosinone,473467,51,88,128,216,Provincia,FROSINONE,19/05/2021 ore 18:02,21/05/21,Lazio
-21-mag,7,70,Lazio,Frosinone,473467,45,89,129,218,Provincia,FROSINONE,19/05/2021 ore 18:02,21/05/21,Lazio
-15-mag,1,71,Lazio,Rieti,151668,57,84,124,208,Provincia,RIETI,19/05/2021 ore 18:02,21/05/21,Lazio
-16-mag,2,71,Lazio,Rieti,151668,57,85,124,209,Provincia,RIETI,19/05/2021 ore 18:02,21/05/21,Lazio
-17-mag,3,71,Lazio,Rieti,151668,45,85,124,209,Provincia,RIETI,19/05/2021 ore 18:02,21/05/21,Lazio
-18-mag,4,71,Lazio,Rieti,151668,31,86,127,213,Provincia,RIETI,19/05/2021 ore 18:02,21/05/21,Lazio
-19-mag,5,71,Lazio,Rieti,151668,35,87,127,214,Provincia,RIETI,19/05/2021 ore 18:02,21/05/21,Lazio
-20-mag,6,71,Lazio,Rieti,151668,35,88,128,216,Provincia,RIETI,19/05/2021 ore 18:02,21/05/21,Lazio
-21-mag,7,71,Lazio,Rieti,151668,30,89,129,218,Provincia,RIETI,19/05/2021 ore 18:02,21/05/21,Lazio
-15-mag,1,72,Lazio,Viterbo,306934,88,84,124,208,Provincia,VITERBO,19/05/2021 ore 18:02,21/05/21,Lazio
-16-mag,2,72,Lazio,Viterbo,306934,87,85,124,209,Provincia,VITERBO,19/05/2021 ore 18:02,21/05/21,Lazio
-17-mag,3,72,Lazio,Viterbo,306934,83,85,124,209,Provincia,VITERBO,19/05/2021 ore 18:02,21/05/21,Lazio
-18-mag,4,72,Lazio,Viterbo,306934,46,86,127,213,Provincia,VITERBO,19/05/2021 ore 18:02,21/05/21,Lazio
-19-mag,5,72,Lazio,Viterbo,306934,62,87,127,214,Provincia,VITERBO,19/05/2021 ore 18:02,21/05/21,Lazio
-20-mag,6,72,Lazio,Viterbo,306934,59,88,128,216,Provincia,VITERBO,19/05/2021 ore 18:02,21/05/21,Lazio
-21-mag,7,72,Lazio,Viterbo,306934,45,89,129,218,Provincia,VITERBO,19/05/2021 ore 18:02,21/05/21,Lazio
-15-mag,1,73,Lazio,Latina,561139,142,84,124,208,Provincia,LATINA,19/05/2021 ore 18:02,21/05/21,Lazio
-16-mag,2,73,Lazio,Latina,561139,142,85,124,209,Provincia,LATINA,19/05/2021 ore 18:02,21/05/21,Lazio
-17-mag,3,73,Lazio,Latina,561139,135,85,124,209,Provincia,LATINA,19/05/2021 ore 18:02,21/05/21,Lazio
-18-mag,4,73,Lazio,Latina,561139,87,86,127,213,Provincia,LATINA,19/05/2021 ore 18:02,21/05/21,Lazio
-19-mag,5,73,Lazio,Latina,561139,92,87,127,214,Provincia,LATINA,19/05/2021 ore 18:02,21/05/21,Lazio
-20-mag,6,73,Lazio,Latina,561139,92,88,128,216,Provincia,LATINA,19/05/2021 ore 18:02,21/05/21,Lazio
-21-mag,7,73,Lazio,Latina,561139,68,89,129,218,Provincia,LATINA,19/05/2021 ore 18:02,21/05/21,Lazio
-15-mag,1,106,Umbria,Terni,221702,79,63,116,179,Provincia,TERNI,19/05/2021 ore 18:02,21/05/21,Umbria
-16-mag,2,106,Umbria,Terni,221702,65,63,116,179,Provincia,TERNI,19/05/2021 ore 18:02,21/05/21,Umbria
-17-mag,3,106,Umbria,Terni,221702,61,64,114,178,Provincia,TERNI,19/05/2021 ore 18:02,21/05/21,Umbria
-18-mag,4,106,Umbria,Terni,221702,50,64,114,178,Provincia,TERNI,19/05/2021 ore 18:02,21/05/21,Umbria
-19-mag,5,106,Umbria,Terni,221702,49,68,116,184,Provincia,TERNI,19/05/2021 ore 18:02,21/05/21,Umbria
-20-mag,6,106,Umbria,Terni,221702,28,69,117,186,Provincia,TERNI,19/05/2021 ore 18:02,21/05/21,Umbria
-21-mag,7,106,Umbria,Terni,221702,25,70,120,190,Provincia,TERNI,19/05/2021 ore 18:02,21/05/21,Umbria
-15-mag,1,107,Umbria,Perugia,643311,58,63,116,179,Provincia,PERUGIA,19/05/2021 ore 18:02,21/05/21,Umbria
-16-mag,2,107,Umbria,Perugia,643311,55,63,116,179,Provincia,PERUGIA,19/05/2021 ore 18:02,21/05/21,Umbria
-17-mag,3,107,Umbria,Perugia,643311,57,64,114,178,Provincia,PERUGIA,19/05/2021 ore 18:02,21/05/21,Umbria
-18-mag,4,107,Umbria,Perugia,643311,55,64,114,178,Provincia,PERUGIA,19/05/2021 ore 18:02,21/05/21,Umbria
-19-mag,5,107,Umbria,Perugia,643311,51,68,116,184,Provincia,PERUGIA,19/05/2021 ore 18:02,21/05/21,Umbria
-20-mag,6,107,Umbria,Perugia,643311,44,69,117,186,Provincia,PERUGIA,19/05/2021 ore 18:02,21/05/21,Umbria
-21-mag,7,107,Umbria,Perugia,643311,40,70,120,190,Provincia,PERUGIA,19/05/2021 ore 18:02,21/05/21,Umbria
-15-mag,1,110,Abruzzo,L'Aquila,292356,84,91,129,220,Provincia,L'AQUILA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-16-mag,2,110,Abruzzo,L'Aquila,292356,76,91,127,218,Provincia,L'AQUILA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-17-mag,3,110,Abruzzo,L'Aquila,292356,74,91,128,219,Provincia,L'AQUILA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-18-mag,4,110,Abruzzo,L'Aquila,292356,65,91,130,221,Provincia,L'AQUILA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-19-mag,5,110,Abruzzo,L'Aquila,292356,50,91,130,221,Provincia,L'AQUILA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-20-mag,6,110,Abruzzo,L'Aquila,292356,43,93,132,225,Provincia,L'AQUILA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-21-mag,7,110,Abruzzo,L'Aquila,292356,40,93,132,225,Provincia,L'AQUILA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-15-mag,1,111,Abruzzo,Chieti,376397,70,91,129,220,Provincia,CHIETI,19/05/2021 ore 18:02,21/05/21,Abruzzo
-16-mag,2,111,Abruzzo,Chieti,376397,72,91,127,218,Provincia,CHIETI,19/05/2021 ore 18:02,21/05/21,Abruzzo
-17-mag,3,111,Abruzzo,Chieti,376397,65,91,128,219,Provincia,CHIETI,19/05/2021 ore 18:02,21/05/21,Abruzzo
-18-mag,4,111,Abruzzo,Chieti,376397,66,91,130,221,Provincia,CHIETI,19/05/2021 ore 18:02,21/05/21,Abruzzo
-19-mag,5,111,Abruzzo,Chieti,376397,55,91,130,221,Provincia,CHIETI,19/05/2021 ore 18:02,21/05/21,Abruzzo
-20-mag,6,111,Abruzzo,Chieti,376397,55,93,132,225,Provincia,CHIETI,19/05/2021 ore 18:02,21/05/21,Abruzzo
-21-mag,7,111,Abruzzo,Chieti,376397,45,93,132,225,Provincia,CHIETI,19/05/2021 ore 18:02,21/05/21,Abruzzo
-15-mag,1,112,Abruzzo,Pescara,314689,29,91,129,220,Provincia,PESCARA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-16-mag,2,112,Abruzzo,Pescara,314689,31,91,127,218,Provincia,PESCARA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-17-mag,3,112,Abruzzo,Pescara,314689,31,91,128,219,Provincia,PESCARA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-18-mag,4,112,Abruzzo,Pescara,314689,25,91,130,221,Provincia,PESCARA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-19-mag,5,112,Abruzzo,Pescara,314689,26,91,130,221,Provincia,PESCARA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-20-mag,6,112,Abruzzo,Pescara,314689,21,93,132,225,Provincia,PESCARA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-21-mag,7,112,Abruzzo,Pescara,314689,16,93,132,225,Provincia,PESCARA,19/05/2021 ore 18:02,21/05/21,Abruzzo
-15-mag,1,113,Abruzzo,Teramo,301814,54,91,129,220,Provincia,TERAMO,19/05/2021 ore 18:02,21/05/21,Abruzzo
-16-mag,2,113,Abruzzo,Teramo,301814,44,91,127,218,Provincia,TERAMO,19/05/2021 ore 18:02,21/05/21,Abruzzo
-17-mag,3,113,Abruzzo,Teramo,301814,43,91,128,219,Provincia,TERAMO,19/05/2021 ore 18:02,21/05/21,Abruzzo
-18-mag,4,113,Abruzzo,Teramo,301814,41,91,130,221,Provincia,TERAMO,19/05/2021 ore 18:02,21/05/21,Abruzzo
-19-mag,5,113,Abruzzo,Teramo,301814,41,91,130,221,Provincia,TERAMO,19/05/2021 ore 18:02,21/05/21,Abruzzo
-20-mag,6,113,Abruzzo,Teramo,301814,44,93,132,225,Provincia,TERAMO,19/05/2021 ore 18:02,21/05/21,Abruzzo
-21-mag,7,113,Abruzzo,Teramo,301814,39,93,132,225,Provincia,TERAMO,19/05/2021 ore 18:02,21/05/21,Abruzzo
-15-mag,1,115,Molise,Campob.,214629,29,69,118,187,Provincia,CAMPOBASSO,19/05/2021 ore 18:02,21/05/21,Molise
-16-mag,2,115,Molise,Campob.,214629,23,69,118,187,Provincia,CAMPOBASSO,19/05/2021 ore 18:02,21/05/21,Molise
-17-mag,3,115,Molise,Campob.,214629,23,69,118,187,Provincia,CAMPOBASSO,19/05/2021 ore 18:02,21/05/21,Molise
-18-mag,4,115,Molise,Campob.,214629,22,69,118,187,Provincia,CAMPOBASSO,19/05/2021 ore 18:02,21/05/21,Molise
-19-mag,5,115,Molise,Campob.,214629,18,69,118,187,Provincia,CAMPOBASSO,19/05/2021 ore 18:02,21/05/21,Molise
-20-mag,6,115,Molise,Campob.,214629,14,70,115,185,Provincia,CAMPOBASSO,19/05/2021 ore 18:02,21/05/21,Molise
-21-mag,7,115,Molise,Campob.,214629,10,70,115,185,Provincia,CAMPOBASSO,19/05/2021 ore 18:02,21/05/21,Molise
-15-mag,1,116,Molise,Isernia,81918,29,69,118,187,Provincia,ISERNIA,19/05/2021 ore 18:02,21/05/21,Molise
-16-mag,2,116,Molise,Isernia,81918,40,69,118,187,Provincia,ISERNIA,19/05/2021 ore 18:02,21/05/21,Molise
-17-mag,3,116,Molise,Isernia,81918,39,69,118,187,Provincia,ISERNIA,19/05/2021 ore 18:02,21/05/21,Molise
-18-mag,4,116,Molise,Isernia,81918,39,69,118,187,Provincia,ISERNIA,19/05/2021 ore 18:02,21/05/21,Molise
-19-mag,5,116,Molise,Isernia,81918,31,69,118,187,Provincia,ISERNIA,19/05/2021 ore 18:02,21/05/21,Molise
-20-mag,6,116,Molise,Isernia,81918,33,70,115,185,Provincia,ISERNIA,19/05/2021 ore 18:02,21/05/21,Molise
-21-mag,7,116,Molise,Isernia,81918,37,70,115,185,Provincia,ISERNIA,19/05/2021 ore 18:02,21/05/21,Molise
-15-mag,1,62,Campania,Napoli,3017658,151,55,91,146,Città metropolitana,NAPOLI,19/05/2021 ore 18:02,21/05/21,Campania
-16-mag,2,62,Campania,Napoli,3017658,144,55,92,147,Città metropolitana,NAPOLI,19/05/2021 ore 18:02,21/05/21,Campania
-17-mag,3,62,Campania,Napoli,3017658,136,55,92,147,Città metropolitana,NAPOLI,19/05/2021 ore 18:02,21/05/21,Campania
-18-mag,4,62,Campania,Napoli,3017658,126,55,92,147,Città metropolitana,NAPOLI,19/05/2021 ore 18:02,21/05/21,Campania
-19-mag,5,62,Campania,Napoli,3017658,116,56,93,149,Città metropolitana,NAPOLI,19/05/2021 ore 18:02,21/05/21,Campania
-20-mag,6,62,Campania,Napoli,3017658,108,56,93,149,Città metropolitana,NAPOLI,19/05/2021 ore 18:02,21/05/21,Campania
-21-mag,7,62,Campania,Napoli,3017658,98,57,94,151,Città metropolitana,NAPOLI,19/05/2021 ore 18:02,21/05/21,Campania
-15-mag,1,63,Campania,Salerno,1075299,104,55,91,146,Provincia,SALERNO,19/05/2021 ore 18:02,21/05/21,Campania
-16-mag,2,63,Campania,Salerno,1075299,97,55,92,147,Provincia,SALERNO,19/05/2021 ore 18:02,21/05/21,Campania
-17-mag,3,63,Campania,Salerno,1075299,92,55,92,147,Provincia,SALERNO,19/05/2021 ore 18:02,21/05/21,Campania
-18-mag,4,63,Campania,Salerno,1075299,87,55,92,147,Provincia,SALERNO,19/05/2021 ore 18:02,21/05/21,Campania
-19-mag,5,63,Campania,Salerno,1075299,84,56,93,149,Provincia,SALERNO,19/05/2021 ore 18:02,21/05/21,Campania
-20-mag,6,63,Campania,Salerno,1075299,79,56,93,149,Provincia,SALERNO,19/05/2021 ore 18:02,21/05/21,Campania
-21-mag,7,63,Campania,Salerno,1075299,75,57,94,151,Provincia,SALERNO,19/05/2021 ore 18:02,21/05/21,Campania
-15-mag,1,64,Campania,Caserta,911606,126,55,91,146,Provincia,CASERTA,19/05/2021 ore 18:02,21/05/21,Campania
-16-mag,2,64,Campania,Caserta,911606,126,55,92,147,Provincia,CASERTA,19/05/2021 ore 18:02,21/05/21,Campania
-17-mag,3,64,Campania,Caserta,911606,116,55,92,147,Provincia,CASERTA,19/05/2021 ore 18:02,21/05/21,Campania
-18-mag,4,64,Campania,Caserta,911606,109,55,92,147,Provincia,CASERTA,19/05/2021 ore 18:02,21/05/21,Campania
-19-mag,5,64,Campania,Caserta,911606,97,56,93,149,Provincia,CASERTA,19/05/2021 ore 18:02,21/05/21,Campania
-20-mag,6,64,Campania,Caserta,911606,82,56,93,149,Provincia,CASERTA,19/05/2021 ore 18:02,21/05/21,Campania
-21-mag,7,64,Campania,Caserta,911606,82,57,94,151,Provincia,CASERTA,19/05/2021 ore 18:02,21/05/21,Campania
-15-mag,1,65,Campania,Avellino,405963,133,55,91,146,Provincia,AVELLINO,19/05/2021 ore 18:02,21/05/21,Campania
-16-mag,2,65,Campania,Avellino,405963,126,55,92,147,Provincia,AVELLINO,19/05/2021 ore 18:02,21/05/21,Campania
-17-mag,3,65,Campania,Avellino,405963,125,55,92,147,Provincia,AVELLINO,19/05/2021 ore 18:02,21/05/21,Campania
-18-mag,4,65,Campania,Avellino,405963,103,55,92,147,Provincia,AVELLINO,19/05/2021 ore 18:02,21/05/21,Campania
-19-mag,5,65,Campania,Avellino,405963,98,56,93,149,Provincia,AVELLINO,19/05/2021 ore 18:02,21/05/21,Campania
-20-mag,6,65,Campania,Avellino,405963,94,56,93,149,Provincia,AVELLINO,19/05/2021 ore 18:02,21/05/21,Campania
-21-mag,7,65,Campania,Avellino,405963,75,57,94,151,Provincia,AVELLINO,19/05/2021 ore 18:02,21/05/21,Campania
-15-mag,1,66,Campania,Benev.,269233,76,55,91,146,Provincia,BENEVENTO,19/05/2021 ore 18:02,21/05/21,Campania
-16-mag,2,66,Campania,Benev.,269233,71,55,92,147,Provincia,BENEVENTO,19/05/2021 ore 18:02,21/05/21,Campania
-17-mag,3,66,Campania,Benev.,269233,71,55,92,147,Provincia,BENEVENTO,19/05/2021 ore 18:02,21/05/21,Campania
-18-mag,4,66,Campania,Benev.,269233,74,55,92,147,Provincia,BENEVENTO,19/05/2021 ore 18:02,21/05/21,Campania
-19-mag,5,66,Campania,Benev.,269233,67,56,93,149,Provincia,BENEVENTO,19/05/2021 ore 18:02,21/05/21,Campania
-20-mag,6,66,Campania,Benev.,269233,66,56,93,149,Provincia,BENEVENTO,19/05/2021 ore 18:02,21/05/21,Campania
-21-mag,7,66,Campania,Benev.,269233,60,57,94,151,Provincia,BENEVENTO,19/05/2021 ore 18:02,21/05/21,Campania
-15-mag,1,98,Puglia,Bari,1222818,88,67,115,182,Città metropolitana,BARI,19/05/2021 ore 18:02,21/05/21,Puglia
-16-mag,2,98,Puglia,Bari,1222818,77,67,117,184,Città metropolitana,BARI,19/05/2021 ore 18:02,21/05/21,Puglia
-17-mag,3,98,Puglia,Bari,1222818,76,68,117,185,Città metropolitana,BARI,19/05/2021 ore 18:02,21/05/21,Puglia
-18-mag,4,98,Puglia,Bari,1222818,69,70,117,187,Città metropolitana,BARI,19/05/2021 ore 18:02,21/05/21,Puglia
-19-mag,5,98,Puglia,Bari,1222818,65,71,117,188,Città metropolitana,BARI,19/05/2021 ore 18:02,21/05/21,Puglia
-20-mag,6,98,Puglia,Bari,1222818,60,73,121,194,Città metropolitana,BARI,19/05/2021 ore 18:02,21/05/21,Puglia
-21-mag,7,98,Puglia,Bari,1222818,57,73,123,196,Città metropolitana,BARI,19/05/2021 ore 18:02,21/05/21,Puglia
-15-mag,1,99,Puglia,BAT,382685,134,67,115,182,Provincia,BARLETTA-ANDRIA-TRANI,19/05/2021 ore 18:02,21/05/21,Puglia
-16-mag,2,99,Puglia,BAT,382685,116,67,117,184,Provincia,BARLETTA-ANDRIA-TRANI,19/05/2021 ore 18:02,21/05/21,Puglia
-17-mag,3,99,Puglia,BAT,382685,116,68,117,185,Provincia,BARLETTA-ANDRIA-TRANI,19/05/2021 ore 18:02,21/05/21,Puglia
-18-mag,4,99,Puglia,BAT,382685,118,70,117,187,Provincia,BARLETTA-ANDRIA-TRANI,19/05/2021 ore 18:02,21/05/21,Puglia
-19-mag,5,99,Puglia,BAT,382685,118,71,117,188,Provincia,BARLETTA-ANDRIA-TRANI,19/05/2021 ore 18:02,21/05/21,Puglia
-20-mag,6,99,Puglia,BAT,382685,114,73,121,194,Provincia,BARLETTA-ANDRIA-TRANI,19/05/2021 ore 18:02,21/05/21,Puglia
-21-mag,7,99,Puglia,BAT,382685,96,73,123,196,Provincia,BARLETTA-ANDRIA-TRANI,19/05/2021 ore 18:02,21/05/21,Puglia
-15-mag,1,100,Puglia,Brindisi,382454,94,67,115,182,Provincia,BRINDISI,19/05/2021 ore 18:02,21/05/21,Puglia
-16-mag,2,100,Puglia,Brindisi,382454,96,67,117,184,Provincia,BRINDISI,19/05/2021 ore 18:02,21/05/21,Puglia
-17-mag,3,100,Puglia,Brindisi,382454,98,68,117,185,Provincia,BRINDISI,19/05/2021 ore 18:02,21/05/21,Puglia
-18-mag,4,100,Puglia,Brindisi,382454,93,70,117,187,Provincia,BRINDISI,19/05/2021 ore 18:02,21/05/21,Puglia
-19-mag,5,100,Puglia,Brindisi,382454,93,71,117,188,Provincia,BRINDISI,19/05/2021 ore 18:02,21/05/21,Puglia
-20-mag,6,100,Puglia,Brindisi,382454,92,73,121,194,Provincia,BRINDISI,19/05/2021 ore 18:02,21/05/21,Puglia
-21-mag,7,100,Puglia,Brindisi,382454,89,73,123,196,Provincia,BRINDISI,19/05/2021 ore 18:02,21/05/21,Puglia
-15-mag,1,101,Puglia,Foggia,601419,99,67,115,182,Provincia,FOGGIA,19/05/2021 ore 18:02,21/05/21,Puglia
-16-mag,2,101,Puglia,Foggia,601419,90,67,117,184,Provincia,FOGGIA,19/05/2021 ore 18:02,21/05/21,Puglia
-17-mag,3,101,Puglia,Foggia,601419,87,68,117,185,Provincia,FOGGIA,19/05/2021 ore 18:02,21/05/21,Puglia
-18-mag,4,101,Puglia,Foggia,601419,75,70,117,187,Provincia,FOGGIA,19/05/2021 ore 18:02,21/05/21,Puglia
-19-mag,5,101,Puglia,Foggia,601419,71,71,117,188,Provincia,FOGGIA,19/05/2021 ore 18:02,21/05/21,Puglia
-20-mag,6,101,Puglia,Foggia,601419,69,73,121,194,Provincia,FOGGIA,19/05/2021 ore 18:02,21/05/21,Puglia
-21-mag,7,101,Puglia,Foggia,601419,70,73,123,196,Provincia,FOGGIA,19/05/2021 ore 18:02,21/05/21,Puglia
-15-mag,1,102,Puglia,Lecce,777507,103,67,115,182,Provincia,LECCE,19/05/2021 ore 18:02,21/05/21,Puglia
-16-mag,2,102,Puglia,Lecce,777507,110,67,117,184,Provincia,LECCE,19/05/2021 ore 18:02,21/05/21,Puglia
-17-mag,3,102,Puglia,Lecce,777507,99,68,117,185,Provincia,LECCE,19/05/2021 ore 18:02,21/05/21,Puglia
-18-mag,4,102,Puglia,Lecce,777507,92,70,117,187,Provincia,LECCE,19/05/2021 ore 18:02,21/05/21,Puglia
-19-mag,5,102,Puglia,Lecce,777507,88,71,117,188,Provincia,LECCE,19/05/2021 ore 18:02,21/05/21,Puglia
-20-mag,6,102,Puglia,Lecce,777507,85,73,121,194,Provincia,LECCE,19/05/2021 ore 18:02,21/05/21,Puglia
-21-mag,7,102,Puglia,Lecce,777507,77,73,123,196,Provincia,LECCE,19/05/2021 ore 18:02,21/05/21,Puglia
-15-mag,1,103,Puglia,Taranto,560048,97,67,115,182,Provincia,TARANTO,19/05/2021 ore 18:02,21/05/21,Puglia
-16-mag,2,103,Puglia,Taranto,560048,89,67,117,184,Provincia,TARANTO,19/05/2021 ore 18:02,21/05/21,Puglia
-17-mag,3,103,Puglia,Taranto,560048,90,68,117,185,Provincia,TARANTO,19/05/2021 ore 18:02,21/05/21,Puglia
-18-mag,4,103,Puglia,Taranto,560048,81,70,117,187,Provincia,TARANTO,19/05/2021 ore 18:02,21/05/21,Puglia
-19-mag,5,103,Puglia,Taranto,560048,69,71,117,188,Provincia,TARANTO,19/05/2021 ore 18:02,21/05/21,Puglia
-20-mag,6,103,Puglia,Taranto,560048,58,73,121,194,Provincia,TARANTO,19/05/2021 ore 18:02,21/05/21,Puglia
-21-mag,7,103,Puglia,Taranto,560048,50,73,123,196,Provincia,TARANTO,19/05/2021 ore 18:02,21/05/21,Puglia
-15-mag,1,128,Basilicata,Potenza,354122,140,62,145,207,Provincia,POTENZA,19/05/2021 ore 18:02,21/05/21,Basilicata
-16-mag,2,128,Basilicata,Potenza,354122,138,62,145,207,Provincia,POTENZA,19/05/2021 ore 18:02,21/05/21,Basilicata
-17-mag,3,128,Basilicata,Potenza,354122,138,62,146,208,Provincia,POTENZA,19/05/2021 ore 18:02,21/05/21,Basilicata
-18-mag,4,128,Basilicata,Potenza,354122,138,63,145,208,Provincia,POTENZA,19/05/2021 ore 18:02,21/05/21,Basilicata
-19-mag,5,128,Basilicata,Potenza,354122,121,65,150,215,Provincia,POTENZA,19/05/2021 ore 18:02,21/05/21,Basilicata
-20-mag,6,128,Basilicata,Potenza,354122,113,65,152,217,Provincia,POTENZA,19/05/2021 ore 18:02,21/05/21,Basilicata
-21-mag,7,128,Basilicata,Potenza,354122,104,66,152,218,Provincia,POTENZA,19/05/2021 ore 18:02,21/05/21,Basilicata
-15-mag,1,129,Basilicata,Matera,193457,78,62,145,207,Provincia,MATERA,19/05/2021 ore 18:02,21/05/21,Basilicata
-16-mag,2,129,Basilicata,Matera,193457,74,62,145,207,Provincia,MATERA,19/05/2021 ore 18:02,21/05/21,Basilicata
-17-mag,3,129,Basilicata,Matera,193457,72,62,146,208,Provincia,MATERA,19/05/2021 ore 18:02,21/05/21,Basilicata
-18-mag,4,129,Basilicata,Matera,193457,73,63,145,208,Provincia,MATERA,19/05/2021 ore 18:02,21/05/21,Basilicata
-19-mag,5,129,Basilicata,Matera,193457,75,65,150,215,Provincia,MATERA,19/05/2021 ore 18:02,21/05/21,Basilicata
-20-mag,6,129,Basilicata,Matera,193457,70,65,152,217,Provincia,MATERA,19/05/2021 ore 18:02,21/05/21,Basilicata
-21-mag,7,129,Basilicata,Matera,193457,59,66,152,218,Provincia,MATERA,19/05/2021 ore 18:02,21/05/21,Basilicata
-15-mag,1,133,Calabria,Cosenza,684786,94,33,70,103,Provincia,COSENZA,19/05/2021 ore 18:02,21/05/21,Calabria
-16-mag,2,133,Calabria,Cosenza,684786,81,34,72,106,Provincia,COSENZA,19/05/2021 ore 18:02,21/05/21,Calabria
-17-mag,3,133,Calabria,Cosenza,684786,76,33,69,102,Provincia,COSENZA,19/05/2021 ore 18:02,21/05/21,Calabria
-18-mag,4,133,Calabria,Cosenza,684786,74,33,67,100,Provincia,COSENZA,19/05/2021 ore 18:02,21/05/21,Calabria
-19-mag,5,133,Calabria,Cosenza,684786,70,33,67,100,Provincia,COSENZA,19/05/2021 ore 18:02,21/05/21,Calabria
-20-mag,6,133,Calabria,Cosenza,684786,60,34,67,101,Provincia,COSENZA,19/05/2021 ore 18:02,21/05/21,Calabria
-21-mag,7,133,Calabria,Cosenza,684786,52,34,67,101,Provincia,COSENZA,19/05/2021 ore 18:02,21/05/21,Calabria
-15-mag,1,134,Calabria,Reggio C.,526586,102,33,70,103,Città metropolitana,REGGIO CALABRIA,19/05/2021 ore 18:02,21/05/21,Calabria
-16-mag,2,134,Calabria,Reggio C.,526586,104,34,72,106,Città metropolitana,REGGIO CALABRIA,19/05/2021 ore 18:02,21/05/21,Calabria
-17-mag,3,134,Calabria,Reggio C.,526586,94,33,69,102,Città metropolitana,REGGIO CALABRIA,19/05/2021 ore 18:02,21/05/21,Calabria
-18-mag,4,134,Calabria,Reggio C.,526586,86,33,67,100,Città metropolitana,REGGIO CALABRIA,19/05/2021 ore 18:02,21/05/21,Calabria
-19-mag,5,134,Calabria,Reggio C.,526586,84,33,67,100,Città metropolitana,REGGIO CALABRIA,19/05/2021 ore 18:02,21/05/21,Calabria
-20-mag,6,134,Calabria,Reggio C.,526586,77,34,67,101,Città metropolitana,REGGIO CALABRIA,19/05/2021 ore 18:02,21/05/21,Calabria
-21-mag,7,134,Calabria,Reggio C.,526586,78,34,67,101,Città metropolitana,REGGIO CALABRIA,19/05/2021 ore 18:02,21/05/21,Calabria
-15-mag,1,135,Calabria,Catanzaro,346514,66,33,70,103,Provincia,CATANZARO,19/05/2021 ore 18:02,21/05/21,Calabria
-16-mag,2,135,Calabria,Catanzaro,346514,63,34,72,106,Provincia,CATANZARO,19/05/2021 ore 18:02,21/05/21,Calabria
-17-mag,3,135,Calabria,Catanzaro,346514,64,33,69,102,Provincia,CATANZARO,19/05/2021 ore 18:02,21/05/21,Calabria
-18-mag,4,135,Calabria,Catanzaro,346514,62,33,67,100,Provincia,CATANZARO,19/05/2021 ore 18:02,21/05/21,Calabria
-19-mag,5,135,Calabria,Catanzaro,346514,66,33,67,100,Provincia,CATANZARO,19/05/2021 ore 18:02,21/05/21,Calabria
-20-mag,6,135,Calabria,Catanzaro,346514,63,34,67,101,Provincia,CATANZARO,19/05/2021 ore 18:02,21/05/21,Calabria
-21-mag,7,135,Calabria,Catanzaro,346514,74,34,67,101,Provincia,CATANZARO,19/05/2021 ore 18:02,21/05/21,Calabria
-15-mag,1,136,Calabria,Vibo V.,153225,63,33,70,103,Provincia,VIBO VALENTIA,19/05/2021 ore 18:02,21/05/21,Calabria
-16-mag,2,136,Calabria,Vibo V.,153225,62,34,72,106,Provincia,VIBO VALENTIA,19/05/2021 ore 18:02,21/05/21,Calabria
-17-mag,3,136,Calabria,Vibo V.,153225,59,33,69,102,Provincia,VIBO VALENTIA,19/05/2021 ore 18:02,21/05/21,Calabria
-18-mag,4,136,Calabria,Vibo V.,153225,51,33,67,100,Provincia,VIBO VALENTIA,19/05/2021 ore 18:02,21/05/21,Calabria
-19-mag,5,136,Calabria,Vibo V.,153225,52,33,67,100,Provincia,VIBO VALENTIA,19/05/2021 ore 18:02,21/05/21,Calabria
-20-mag,6,136,Calabria,Vibo V.,153225,53,34,67,101,Provincia,VIBO VALENTIA,19/05/2021 ore 18:02,21/05/21,Calabria
-21-mag,7,136,Calabria,Vibo V.,153225,59,34,67,101,Provincia,VIBO VALENTIA,19/05/2021 ore 18:02,21/05/21,Calabria
-15-mag,1,137,Calabria,Crotone,166617,157,33,70,103,Provincia,CROTONE,19/05/2021 ore 18:02,21/05/21,Calabria
-16-mag,2,137,Calabria,Crotone,166617,157,34,72,106,Provincia,CROTONE,19/05/2021 ore 18:02,21/05/21,Calabria
-17-mag,3,137,Calabria,Crotone,166617,153,33,69,102,Provincia,CROTONE,19/05/2021 ore 18:02,21/05/21,Calabria
-18-mag,4,137,Calabria,Crotone,166617,121,33,67,100,Provincia,CROTONE,19/05/2021 ore 18:02,21/05/21,Calabria
-19-mag,5,137,Calabria,Crotone,166617,105,33,67,100,Provincia,CROTONE,19/05/2021 ore 18:02,21/05/21,Calabria
-20-mag,6,137,Calabria,Crotone,166617,134,34,67,101,Provincia,CROTONE,19/05/2021 ore 18:02,21/05/21,Calabria
-21-mag,7,137,Calabria,Crotone,166617,134,34,67,101,Provincia,CROTONE,19/05/2021 ore 18:02,21/05/21,Calabria
-15-mag,1,88,Sicilia,Agrigento,419847,69,63,150,213,Libero consorzio di comuni,AGRIGENTO,19/05/2021 ore 18:02,21/05/21,Sicilia
-16-mag,2,88,Sicilia,Agrigento,419847,67,62,150,212,Libero consorzio di comuni,AGRIGENTO,19/05/2021 ore 18:02,21/05/21,Sicilia
-17-mag,3,88,Sicilia,Agrigento,419847,71,62,149,211,Libero consorzio di comuni,AGRIGENTO,19/05/2021 ore 18:02,21/05/21,Sicilia
-18-mag,4,88,Sicilia,Agrigento,419847,58,63,150,213,Libero consorzio di comuni,AGRIGENTO,19/05/2021 ore 18:02,21/05/21,Sicilia
-19-mag,5,88,Sicilia,Agrigento,419847,62,65,150,215,Libero consorzio di comuni,AGRIGENTO,19/05/2021 ore 18:02,21/05/21,Sicilia
-20-mag,6,88,Sicilia,Agrigento,419847,53,65,151,216,Libero consorzio di comuni,AGRIGENTO,19/05/2021 ore 18:02,21/05/21,Sicilia
-21-mag,7,88,Sicilia,Agrigento,419847,54,66,152,218,Libero consorzio di comuni,AGRIGENTO,19/05/2021 ore 18:02,21/05/21,Sicilia
-15-mag,1,89,Sicilia,Caltaniss.,252803,101,63,150,213,Libero consorzio di comuni,CALTANISSETTA,19/05/2021 ore 18:02,21/05/21,Sicilia
-16-mag,2,89,Sicilia,Caltaniss.,252803,84,62,150,212,Libero consorzio di comuni,CALTANISSETTA,19/05/2021 ore 18:02,21/05/21,Sicilia
-17-mag,3,89,Sicilia,Caltaniss.,252803,77,62,149,211,Libero consorzio di comuni,CALTANISSETTA,19/05/2021 ore 18:02,21/05/21,Sicilia
-18-mag,4,89,Sicilia,Caltaniss.,252803,61,63,150,213,Libero consorzio di comuni,CALTANISSETTA,19/05/2021 ore 18:02,21/05/21,Sicilia
-19-mag,5,89,Sicilia,Caltaniss.,252803,50,65,150,215,Libero consorzio di comuni,CALTANISSETTA,19/05/2021 ore 18:02,21/05/21,Sicilia
-20-mag,6,89,Sicilia,Caltaniss.,252803,47,65,151,216,Libero consorzio di comuni,CALTANISSETTA,19/05/2021 ore 18:02,21/05/21,Sicilia
-21-mag,7,89,Sicilia,Caltaniss.,252803,35,66,152,218,Libero consorzio di comuni,CALTANISSETTA,19/05/2021 ore 18:02,21/05/21,Sicilia
-15-mag,1,90,Sicilia,Catania,1066765,122,63,150,213,Città metropolitana,CATANIA,19/05/2021 ore 18:02,21/05/21,Sicilia
-16-mag,2,90,Sicilia,Catania,1066765,121,62,150,212,Città metropolitana,CATANIA,19/05/2021 ore 18:02,21/05/21,Sicilia
-17-mag,3,90,Sicilia,Catania,1066765,117,62,149,211,Città metropolitana,CATANIA,19/05/2021 ore 18:02,21/05/21,Sicilia
-18-mag,4,90,Sicilia,Catania,1066765,95,63,150,213,Città metropolitana,CATANIA,19/05/2021 ore 18:02,21/05/21,Sicilia
-19-mag,5,90,Sicilia,Catania,1066765,97,65,150,215,Città metropolitana,CATANIA,19/05/2021 ore 18:02,21/05/21,Sicilia
-20-mag,6,90,Sicilia,Catania,1066765,91,65,151,216,Città metropolitana,CATANIA,19/05/2021 ore 18:02,21/05/21,Sicilia
-21-mag,7,90,Sicilia,Catania,1066765,88,66,152,218,Città metropolitana,CATANIA,19/05/2021 ore 18:02,21/05/21,Sicilia
-15-mag,1,91,Sicilia,Enna,158183,39,63,150,213,Libero consorzio di comuni,ENNA,19/05/2021 ore 18:02,21/05/21,Sicilia
-16-mag,2,91,Sicilia,Enna,158183,59,62,150,212,Libero consorzio di comuni,ENNA,19/05/2021 ore 18:02,21/05/21,Sicilia
-17-mag,3,91,Sicilia,Enna,158183,63,62,149,211,Libero consorzio di comuni,ENNA,19/05/2021 ore 18:02,21/05/21,Sicilia
-18-mag,4,91,Sicilia,Enna,158183,54,63,150,213,Libero consorzio di comuni,ENNA,19/05/2021 ore 18:02,21/05/21,Sicilia
-19-mag,5,91,Sicilia,Enna,158183,46,65,150,215,Libero consorzio di comuni,ENNA,19/05/2021 ore 18:02,21/05/21,Sicilia
-20-mag,6,91,Sicilia,Enna,158183,65,65,151,216,Libero consorzio di comuni,ENNA,19/05/2021 ore 18:02,21/05/21,Sicilia
-21-mag,7,91,Sicilia,Enna,158183,64,66,152,218,Libero consorzio di comuni,ENNA,19/05/2021 ore 18:02,21/05/21,Sicilia
-15-mag,1,92,Sicilia,Messina,609223,76,63,150,213,Città metropolitana,MESSINA,19/05/2021 ore 18:02,21/05/21,Sicilia
-16-mag,2,92,Sicilia,Messina,609223,77,62,150,212,Città metropolitana,MESSINA,19/05/2021 ore 18:02,21/05/21,Sicilia
-17-mag,3,92,Sicilia,Messina,609223,76,62,149,211,Città metropolitana,MESSINA,19/05/2021 ore 18:02,21/05/21,Sicilia
-18-mag,4,92,Sicilia,Messina,609223,70,63,150,213,Città metropolitana,MESSINA,19/05/2021 ore 18:02,21/05/21,Sicilia
-19-mag,5,92,Sicilia,Messina,609223,66,65,150,215,Città metropolitana,MESSINA,19/05/2021 ore 18:02,21/05/21,Sicilia
-20-mag,6,92,Sicilia,Messina,609223,63,65,151,216,Città metropolitana,MESSINA,19/05/2021 ore 18:02,21/05/21,Sicilia
-21-mag,7,92,Sicilia,Messina,609223,68,66,152,218,Città metropolitana,MESSINA,19/05/2021 ore 18:02,21/05/21,Sicilia
-15-mag,1,93,Sicilia,Palermo,1214291,89,63,150,213,Città metropolitana,PALERMO,19/05/2021 ore 18:02,21/05/21,Sicilia
-16-mag,2,93,Sicilia,Palermo,1214291,87,62,150,212,Città metropolitana,PALERMO,19/05/2021 ore 18:02,21/05/21,Sicilia
-17-mag,3,93,Sicilia,Palermo,1214291,71,62,149,211,Città metropolitana,PALERMO,19/05/2021 ore 18:02,21/05/21,Sicilia
-18-mag,4,93,Sicilia,Palermo,1214291,67,63,150,213,Città metropolitana,PALERMO,19/05/2021 ore 18:02,21/05/21,Sicilia
-19-mag,5,93,Sicilia,Palermo,1214291,67,65,150,215,Città metropolitana,PALERMO,19/05/2021 ore 18:02,21/05/21,Sicilia
-20-mag,6,93,Sicilia,Palermo,1214291,63,65,151,216,Città metropolitana,PALERMO,19/05/2021 ore 18:02,21/05/21,Sicilia
-21-mag,7,93,Sicilia,Palermo,1214291,59,66,152,218,Città metropolitana,PALERMO,19/05/2021 ore 18:02,21/05/21,Sicilia
-15-mag,1,94,Sicilia,Ragusa,314950,108,63,150,213,Libero consorzio di comuni,RAGUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-16-mag,2,94,Sicilia,Ragusa,314950,96,62,150,212,Libero consorzio di comuni,RAGUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-17-mag,3,94,Sicilia,Ragusa,314950,99,62,149,211,Libero consorzio di comuni,RAGUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-18-mag,4,94,Sicilia,Ragusa,314950,86,63,150,213,Libero consorzio di comuni,RAGUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-19-mag,5,94,Sicilia,Ragusa,314950,94,65,150,215,Libero consorzio di comuni,RAGUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-20-mag,6,94,Sicilia,Ragusa,314950,103,65,151,216,Libero consorzio di comuni,RAGUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-21-mag,7,94,Sicilia,Ragusa,314950,103,66,152,218,Libero consorzio di comuni,RAGUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-15-mag,1,95,Sicilia,Siracusa,386451,82,63,150,213,Libero consorzio di comuni,SIRACUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-16-mag,2,95,Sicilia,Siracusa,386451,79,62,150,212,Libero consorzio di comuni,SIRACUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-17-mag,3,95,Sicilia,Siracusa,386451,67,62,149,211,Libero consorzio di comuni,SIRACUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-18-mag,4,95,Sicilia,Siracusa,386451,64,63,150,213,Libero consorzio di comuni,SIRACUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-19-mag,5,95,Sicilia,Siracusa,386451,62,65,150,215,Libero consorzio di comuni,SIRACUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-20-mag,6,95,Sicilia,Siracusa,386451,57,65,151,216,Libero consorzio di comuni,SIRACUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-21-mag,7,95,Sicilia,Siracusa,386451,50,66,152,218,Libero consorzio di comuni,SIRACUSA,19/05/2021 ore 18:02,21/05/21,Sicilia
-15-mag,1,96,Sicilia,Trapani,418363,49,63,150,213,Libero consorzio di comuni,TRAPANI,19/05/2021 ore 18:02,21/05/21,Sicilia
-16-mag,2,96,Sicilia,Trapani,418363,49,62,150,212,Libero consorzio di comuni,TRAPANI,19/05/2021 ore 18:02,21/05/21,Sicilia
-17-mag,3,96,Sicilia,Trapani,418363,47,62,149,211,Libero consorzio di comuni,TRAPANI,19/05/2021 ore 18:02,21/05/21,Sicilia
-18-mag,4,96,Sicilia,Trapani,418363,46,63,150,213,Libero consorzio di comuni,TRAPANI,19/05/2021 ore 18:02,21/05/21,Sicilia
-19-mag,5,96,Sicilia,Trapani,418363,48,65,150,215,Libero consorzio di comuni,TRAPANI,19/05/2021 ore 18:02,21/05/21,Sicilia
-20-mag,6,96,Sicilia,Trapani,418363,45,65,151,216,Libero consorzio di comuni,TRAPANI,19/05/2021 ore 18:02,21/05/21,Sicilia
-21-mag,7,96,Sicilia,Trapani,418363,50,66,152,218,Libero consorzio di comuni,TRAPANI,19/05/2021 ore 18:02,21/05/21,Sicilia
-15-mag,1,122,Sardegna,Cagliari,420117,27,86,111,197,Città metropolitana,CAGLIARI,19/05/2021 ore 18:02,21/05/21,Sardegna
-16-mag,2,122,Sardegna,Cagliari,420117,25,87,111,198,Città metropolitana,CAGLIARI,19/05/2021 ore 18:02,21/05/21,Sardegna
-17-mag,3,122,Sardegna,Cagliari,420117,22,87,111,198,Città metropolitana,CAGLIARI,19/05/2021 ore 18:02,21/05/21,Sardegna
-18-mag,4,122,Sardegna,Cagliari,420117,23,87,110,197,Città metropolitana,CAGLIARI,19/05/2021 ore 18:02,21/05/21,Sardegna
-19-mag,5,122,Sardegna,Cagliari,420117,21,88,111,199,Città metropolitana,CAGLIARI,19/05/2021 ore 18:02,21/05/21,Sardegna
-20-mag,6,122,Sardegna,Cagliari,420117,21,88,112,200,Città metropolitana,CAGLIARI,19/05/2021 ore 18:02,21/05/21,Sardegna
-21-mag,7,122,Sardegna,Cagliari,420117,21,88,113,201,Città metropolitana,CAGLIARI,19/05/2021 ore 18:02,21/05/21,Sardegna
-15-mag,1,123,Sardegna,Sud Sard.,340879,32,86,111,197,Provincia,SUD SARDEGNA,19/05/2021 ore 18:02,21/05/21,Sardegna
-16-mag,2,123,Sardegna,Sud Sard.,340879,31,87,111,198,Provincia,SUD SARDEGNA,19/05/2021 ore 18:02,21/05/21,Sardegna
-17-mag,3,123,Sardegna,Sud Sard.,340879,31,87,111,198,Provincia,SUD SARDEGNA,19/05/2021 ore 18:02,21/05/21,Sardegna
-18-mag,4,123,Sardegna,Sud Sard.,340879,33,87,110,197,Provincia,SUD SARDEGNA,19/05/2021 ore 18:02,21/05/21,Sardegna
-19-mag,5,123,Sardegna,Sud Sard.,340879,32,88,111,199,Provincia,SUD SARDEGNA,19/05/2021 ore 18:02,21/05/21,Sardegna
-20-mag,6,123,Sardegna,Sud Sard.,340879,27,88,112,200,Provincia,SUD SARDEGNA,19/05/2021 ore 18:02,21/05/21,Sardegna
-21-mag,7,123,Sardegna,Sud Sard.,340879,27,88,113,201,Provincia,SUD SARDEGNA,19/05/2021 ore 18:02,21/05/21,Sardegna
-15-mag,1,124,Sardegna,Oristano,153226,52,86,111,197,Provincia,ORISTANO,19/05/2021 ore 18:02,21/05/21,Sardegna
-16-mag,2,124,Sardegna,Oristano,153226,54,87,111,198,Provincia,ORISTANO,19/05/2021 ore 18:02,21/05/21,Sardegna
-17-mag,3,124,Sardegna,Oristano,153226,50,87,111,198,Provincia,ORISTANO,19/05/2021 ore 18:02,21/05/21,Sardegna
-18-mag,4,124,Sardegna,Oristano,153226,44,87,110,197,Provincia,ORISTANO,19/05/2021 ore 18:02,21/05/21,Sardegna
-19-mag,5,124,Sardegna,Oristano,153226,46,88,111,199,Provincia,ORISTANO,19/05/2021 ore 18:02,21/05/21,Sardegna
-20-mag,6,124,Sardegna,Oristano,153226,55,88,112,200,Provincia,ORISTANO,19/05/2021 ore 18:02,21/05/21,Sardegna
-21-mag,7,124,Sardegna,Oristano,153226,47,88,113,201,Provincia,ORISTANO,19/05/2021 ore 18:02,21/05/21,Sardegna
-15-mag,1,125,Sardegna,Nuoro,202951,25,86,111,197,Provincia,NUORO,19/05/2021 ore 18:02,21/05/21,Sardegna
-16-mag,2,125,Sardegna,Nuoro,202951,25,87,111,198,Provincia,NUORO,19/05/2021 ore 18:02,21/05/21,Sardegna
-17-mag,3,125,Sardegna,Nuoro,202951,27,87,111,198,Provincia,NUORO,19/05/2021 ore 18:02,21/05/21,Sardegna
-18-mag,4,125,Sardegna,Nuoro,202951,27,87,110,197,Provincia,NUORO,19/05/2021 ore 18:02,21/05/21,Sardegna
-19-mag,5,125,Sardegna,Nuoro,202951,26,88,111,199,Provincia,NUORO,19/05/2021 ore 18:02,21/05/21,Sardegna
-20-mag,6,125,Sardegna,Nuoro,202951,18,88,112,200,Provincia,NUORO,19/05/2021 ore 18:02,21/05/21,Sardegna
-21-mag,7,125,Sardegna,Nuoro,202951,13,88,113,201,Provincia,NUORO,19/05/2021 ore 18:02,21/05/21,Sardegna
-15-mag,1,126,Sardegna,Sassari,481052,27,86,111,197,Provincia,SASSARI,19/05/2021 ore 18:02,21/05/21,Sardegna
-16-mag,2,126,Sardegna,Sassari,481052,25,87,111,198,Provincia,SASSARI,19/05/2021 ore 18:02,21/05/21,Sardegna
-17-mag,3,126,Sardegna,Sassari,481052,26,87,111,198,Provincia,SASSARI,19/05/2021 ore 18:02,21/05/21,Sardegna
-18-mag,4,126,Sardegna,Sassari,481052,22,87,110,197,Provincia,SASSARI,19/05/2021 ore 18:02,21/05/21,Sardegna
-19-mag,5,126,Sardegna,Sassari,481052,19,88,111,199,Provincia,SASSARI,19/05/2021 ore 18:02,21/05/21,Sardegna
-20-mag,6,126,Sardegna,Sassari,481052,18,88,112,200,Provincia,SASSARI,19/05/2021 ore 18:02,21/05/21,Sardegna
-21-mag,7,126,Sardegna,Sassari,481052,14,88,113,201,Provincia,SASSARI,19/05/2021 ore 18:02,21/05/21,Sardegna
+15-mag,1,0,Lombardia,Bergamo,1099621,65,73,103,176,Provincia,BERGAMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+16-mag,2,0,Lombardia,Bergamo,1099621,58,74,104,178,Provincia,BERGAMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+17-mag,3,0,Lombardia,Bergamo,1099621,59,75,105,180,Provincia,BERGAMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+18-mag,4,0,Lombardia,Bergamo,1099621,58,74,107,181,Provincia,BERGAMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+19-mag,5,0,Lombardia,Bergamo,1099621,55,74,108,182,Provincia,BERGAMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+20-mag,6,0,Lombardia,Bergamo,1099621,50,75,110,185,Provincia,BERGAMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+21-mag,7,0,Lombardia,Bergamo,1099621,45,72,111,183,Provincia,BERGAMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+15-mag,1,1,Lombardia,Brescia,1247583,77,73,103,176,Provincia,BRESCIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+16-mag,2,1,Lombardia,Brescia,1247583,68,74,104,178,Provincia,BRESCIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+17-mag,3,1,Lombardia,Brescia,1247583,65,75,105,180,Provincia,BRESCIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+18-mag,4,1,Lombardia,Brescia,1247583,60,74,107,181,Provincia,BRESCIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+19-mag,5,1,Lombardia,Brescia,1247583,58,74,108,182,Provincia,BRESCIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+20-mag,6,1,Lombardia,Brescia,1247583,55,75,110,185,Provincia,BRESCIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+21-mag,7,1,Lombardia,Brescia,1247583,50,72,111,183,Provincia,BRESCIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+15-mag,1,2,Lombardia,Como,594671,102,73,103,176,Provincia,COMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+16-mag,2,2,Lombardia,Como,594671,97,74,104,178,Provincia,COMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+17-mag,3,2,Lombardia,Como,594671,105,75,105,180,Provincia,COMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+18-mag,4,2,Lombardia,Como,594671,107,74,107,181,Provincia,COMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+19-mag,5,2,Lombardia,Como,594671,102,74,108,182,Provincia,COMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+20-mag,6,2,Lombardia,Como,594671,97,75,110,185,Provincia,COMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+21-mag,7,2,Lombardia,Como,594671,88,72,111,183,Provincia,COMO,21/05/2021 ore 17:51,21/05/21,Lombardia
+15-mag,1,3,Lombardia,Cremona,351698,78,73,103,176,Provincia,CREMONA,21/05/2021 ore 17:51,21/05/21,Lombardia
+16-mag,2,3,Lombardia,Cremona,351698,74,74,104,178,Provincia,CREMONA,21/05/2021 ore 17:51,21/05/21,Lombardia
+17-mag,3,3,Lombardia,Cremona,351698,73,75,105,180,Provincia,CREMONA,21/05/2021 ore 17:51,21/05/21,Lombardia
+18-mag,4,3,Lombardia,Cremona,351698,69,74,107,181,Provincia,CREMONA,21/05/2021 ore 17:51,21/05/21,Lombardia
+19-mag,5,3,Lombardia,Cremona,351698,73,74,108,182,Provincia,CREMONA,21/05/2021 ore 17:51,21/05/21,Lombardia
+20-mag,6,3,Lombardia,Cremona,351698,68,75,110,185,Provincia,CREMONA,21/05/2021 ore 17:51,21/05/21,Lombardia
+21-mag,7,3,Lombardia,Cremona,351698,66,72,111,183,Provincia,CREMONA,21/05/2021 ore 17:51,21/05/21,Lombardia
+15-mag,1,4,Lombardia,Lecco,332593,72,73,103,176,Provincia,LECCO,21/05/2021 ore 17:51,21/05/21,Lombardia
+16-mag,2,4,Lombardia,Lecco,332593,70,74,104,178,Provincia,LECCO,21/05/2021 ore 17:51,21/05/21,Lombardia
+17-mag,3,4,Lombardia,Lecco,332593,69,75,105,180,Provincia,LECCO,21/05/2021 ore 17:51,21/05/21,Lombardia
+18-mag,4,4,Lombardia,Lecco,332593,66,74,107,181,Provincia,LECCO,21/05/2021 ore 17:51,21/05/21,Lombardia
+19-mag,5,4,Lombardia,Lecco,332593,67,74,108,182,Provincia,LECCO,21/05/2021 ore 17:51,21/05/21,Lombardia
+20-mag,6,4,Lombardia,Lecco,332593,63,75,110,185,Provincia,LECCO,21/05/2021 ore 17:51,21/05/21,Lombardia
+21-mag,7,4,Lombardia,Lecco,332593,59,72,111,183,Provincia,LECCO,21/05/2021 ore 17:51,21/05/21,Lombardia
+15-mag,1,5,Lombardia,Lodi,225885,34,73,103,176,Provincia,LODI,21/05/2021 ore 17:51,21/05/21,Lombardia
+16-mag,2,5,Lombardia,Lodi,225885,30,74,104,178,Provincia,LODI,21/05/2021 ore 17:51,21/05/21,Lombardia
+17-mag,3,5,Lombardia,Lodi,225885,29,75,105,180,Provincia,LODI,21/05/2021 ore 17:51,21/05/21,Lombardia
+18-mag,4,5,Lombardia,Lodi,225885,26,74,107,181,Provincia,LODI,21/05/2021 ore 17:51,21/05/21,Lombardia
+19-mag,5,5,Lombardia,Lodi,225885,32,74,108,182,Provincia,LODI,21/05/2021 ore 17:51,21/05/21,Lombardia
+20-mag,6,5,Lombardia,Lodi,225885,28,75,110,185,Provincia,LODI,21/05/2021 ore 17:51,21/05/21,Lombardia
+21-mag,7,5,Lombardia,Lodi,225885,30,72,111,183,Provincia,LODI,21/05/2021 ore 17:51,21/05/21,Lombardia
+15-mag,1,6,Lombardia,Monza B.,867421,70,73,103,176,Provincia,MONZA E DELLA BRIANZA,21/05/2021 ore 17:51,21/05/21,Lombardia
+16-mag,2,6,Lombardia,Monza B.,867421,68,74,104,178,Provincia,MONZA E DELLA BRIANZA,21/05/2021 ore 17:51,21/05/21,Lombardia
+17-mag,3,6,Lombardia,Monza B.,867421,67,75,105,180,Provincia,MONZA E DELLA BRIANZA,21/05/2021 ore 17:51,21/05/21,Lombardia
+18-mag,4,6,Lombardia,Monza B.,867421,71,74,107,181,Provincia,MONZA E DELLA BRIANZA,21/05/2021 ore 17:51,21/05/21,Lombardia
+19-mag,5,6,Lombardia,Monza B.,867421,67,74,108,182,Provincia,MONZA E DELLA BRIANZA,21/05/2021 ore 17:51,21/05/21,Lombardia
+20-mag,6,6,Lombardia,Monza B.,867421,60,75,110,185,Provincia,MONZA E DELLA BRIANZA,21/05/2021 ore 17:51,21/05/21,Lombardia
+21-mag,7,6,Lombardia,Monza B.,867421,62,72,111,183,Provincia,MONZA E DELLA BRIANZA,21/05/2021 ore 17:51,21/05/21,Lombardia
+15-mag,1,7,Lombardia,Milano,3249821,69,73,103,176,Città metropolitana,MILANO,21/05/2021 ore 17:51,21/05/21,Lombardia
+16-mag,2,7,Lombardia,Milano,3249821,65,74,104,178,Città metropolitana,MILANO,21/05/2021 ore 17:51,21/05/21,Lombardia
+17-mag,3,7,Lombardia,Milano,3249821,64,75,105,180,Città metropolitana,MILANO,21/05/2021 ore 17:51,21/05/21,Lombardia
+18-mag,4,7,Lombardia,Milano,3249821,62,74,107,181,Città metropolitana,MILANO,21/05/2021 ore 17:51,21/05/21,Lombardia
+19-mag,5,7,Lombardia,Milano,3249821,58,74,108,182,Città metropolitana,MILANO,21/05/2021 ore 17:51,21/05/21,Lombardia
+20-mag,6,7,Lombardia,Milano,3249821,53,75,110,185,Città metropolitana,MILANO,21/05/2021 ore 17:51,21/05/21,Lombardia
+21-mag,7,7,Lombardia,Milano,3249821,51,72,111,183,Città metropolitana,MILANO,21/05/2021 ore 17:51,21/05/21,Lombardia
+15-mag,1,8,Lombardia,Mantova,403585,97,73,103,176,Provincia,MANTOVA,21/05/2021 ore 17:51,21/05/21,Lombardia
+16-mag,2,8,Lombardia,Mantova,403585,86,74,104,178,Provincia,MANTOVA,21/05/2021 ore 17:51,21/05/21,Lombardia
+17-mag,3,8,Lombardia,Mantova,403585,82,75,105,180,Provincia,MANTOVA,21/05/2021 ore 17:51,21/05/21,Lombardia
+18-mag,4,8,Lombardia,Mantova,403585,76,74,107,181,Provincia,MANTOVA,21/05/2021 ore 17:51,21/05/21,Lombardia
+19-mag,5,8,Lombardia,Mantova,403585,75,74,108,182,Provincia,MANTOVA,21/05/2021 ore 17:51,21/05/21,Lombardia
+20-mag,6,8,Lombardia,Mantova,403585,77,75,110,185,Provincia,MANTOVA,21/05/2021 ore 17:51,21/05/21,Lombardia
+21-mag,7,8,Lombardia,Mantova,403585,73,72,111,183,Provincia,MANTOVA,21/05/2021 ore 17:51,21/05/21,Lombardia
+15-mag,1,9,Lombardia,Pavia,534951,68,73,103,176,Provincia,PAVIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+16-mag,2,9,Lombardia,Pavia,534951,64,74,104,178,Provincia,PAVIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+17-mag,3,9,Lombardia,Pavia,534951,62,75,105,180,Provincia,PAVIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+18-mag,4,9,Lombardia,Pavia,534951,52,74,107,181,Provincia,PAVIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+19-mag,5,9,Lombardia,Pavia,534951,48,74,108,182,Provincia,PAVIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+20-mag,6,9,Lombardia,Pavia,534951,42,75,110,185,Provincia,PAVIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+21-mag,7,9,Lombardia,Pavia,534951,39,72,111,183,Provincia,PAVIA,21/05/2021 ore 17:51,21/05/21,Lombardia
+15-mag,1,10,Lombardia,Sondrio,179234,121,73,103,176,Provincia,SONDRIO,21/05/2021 ore 17:51,21/05/21,Lombardia
+16-mag,2,10,Lombardia,Sondrio,179234,109,74,104,178,Provincia,SONDRIO,21/05/2021 ore 17:51,21/05/21,Lombardia
+17-mag,3,10,Lombardia,Sondrio,179234,106,75,105,180,Provincia,SONDRIO,21/05/2021 ore 17:51,21/05/21,Lombardia
+18-mag,4,10,Lombardia,Sondrio,179234,105,74,107,181,Provincia,SONDRIO,21/05/2021 ore 17:51,21/05/21,Lombardia
+19-mag,5,10,Lombardia,Sondrio,179234,104,74,108,182,Provincia,SONDRIO,21/05/2021 ore 17:51,21/05/21,Lombardia
+20-mag,6,10,Lombardia,Sondrio,179234,102,75,110,185,Provincia,SONDRIO,21/05/2021 ore 17:51,21/05/21,Lombardia
+21-mag,7,10,Lombardia,Sondrio,179234,82,72,111,183,Provincia,SONDRIO,21/05/2021 ore 17:51,21/05/21,Lombardia
+15-mag,1,11,Lombardia,Varese,879929,78,73,103,176,Provincia,VARESE,21/05/2021 ore 17:51,21/05/21,Lombardia
+16-mag,2,11,Lombardia,Varese,879929,74,74,104,178,Provincia,VARESE,21/05/2021 ore 17:51,21/05/21,Lombardia
+17-mag,3,11,Lombardia,Varese,879929,94,75,105,180,Provincia,VARESE,21/05/2021 ore 17:51,21/05/21,Lombardia
+18-mag,4,11,Lombardia,Varese,879929,96,74,107,181,Provincia,VARESE,21/05/2021 ore 17:51,21/05/21,Lombardia
+19-mag,5,11,Lombardia,Varese,879929,95,74,108,182,Provincia,VARESE,21/05/2021 ore 17:51,21/05/21,Lombardia
+20-mag,6,11,Lombardia,Varese,879929,96,75,110,185,Provincia,VARESE,21/05/2021 ore 17:51,21/05/21,Lombardia
+21-mag,7,11,Lombardia,Varese,879929,95,72,111,183,Provincia,VARESE,21/05/2021 ore 17:51,21/05/21,Lombardia
+15-mag,1,14,Emilia Romagna,Piacenza,284075,41,123,135,258,Provincia,PIACENZA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+16-mag,2,14,Emilia Romagna,Piacenza,284075,40,124,136,260,Provincia,PIACENZA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+17-mag,3,14,Emilia Romagna,Piacenza,284075,43,123,136,259,Provincia,PIACENZA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+18-mag,4,14,Emilia Romagna,Piacenza,284075,42,124,137,261,Provincia,PIACENZA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+19-mag,5,14,Emilia Romagna,Piacenza,284075,44,126,138,264,Provincia,PIACENZA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+20-mag,6,14,Emilia Romagna,Piacenza,284075,42,127,140,267,Provincia,PIACENZA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+21-mag,7,14,Emilia Romagna,Piacenza,284075,43,128,142,270,Provincia,PIACENZA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+15-mag,1,15,Emilia Romagna,Parma,453604,118,123,135,258,Provincia,PARMA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+16-mag,2,15,Emilia Romagna,Parma,453604,114,124,136,260,Provincia,PARMA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+17-mag,3,15,Emilia Romagna,Parma,453604,111,123,136,259,Provincia,PARMA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+18-mag,4,15,Emilia Romagna,Parma,453604,118,124,137,261,Provincia,PARMA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+19-mag,5,15,Emilia Romagna,Parma,453604,103,126,138,264,Provincia,PARMA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+20-mag,6,15,Emilia Romagna,Parma,453604,99,127,140,267,Provincia,PARMA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+21-mag,7,15,Emilia Romagna,Parma,453604,96,128,142,270,Provincia,PARMA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+15-mag,1,16,Emilia Romagna,Reggio E.,526349,104,123,135,258,Provincia,REGGIO NELL' EMILIA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+16-mag,2,16,Emilia Romagna,Reggio E.,526349,93,124,136,260,Provincia,REGGIO NELL' EMILIA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+17-mag,3,16,Emilia Romagna,Reggio E.,526349,93,123,136,259,Provincia,REGGIO NELL' EMILIA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+18-mag,4,16,Emilia Romagna,Reggio E.,526349,92,124,137,261,Provincia,REGGIO NELL' EMILIA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+19-mag,5,16,Emilia Romagna,Reggio E.,526349,80,126,138,264,Provincia,REGGIO NELL' EMILIA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+20-mag,6,16,Emilia Romagna,Reggio E.,526349,74,127,140,267,Provincia,REGGIO NELL' EMILIA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+21-mag,7,16,Emilia Romagna,Reggio E.,526349,64,128,142,270,Provincia,REGGIO NELL' EMILIA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+15-mag,1,17,Emilia Romagna,Modena,704672,83,123,135,258,Provincia,MODENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+16-mag,2,17,Emilia Romagna,Modena,704672,82,124,136,260,Provincia,MODENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+17-mag,3,17,Emilia Romagna,Modena,704672,81,123,136,259,Provincia,MODENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+18-mag,4,17,Emilia Romagna,Modena,704672,79,124,137,261,Provincia,MODENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+19-mag,5,17,Emilia Romagna,Modena,704672,78,126,138,264,Provincia,MODENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+20-mag,6,17,Emilia Romagna,Modena,704672,76,127,140,267,Provincia,MODENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+21-mag,7,17,Emilia Romagna,Modena,704672,71,128,142,270,Provincia,MODENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+15-mag,1,18,Emilia Romagna,Bologna,1019539,83,123,135,258,Città metropolitana,BOLOGNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+16-mag,2,18,Emilia Romagna,Bologna,1019539,78,124,136,260,Città metropolitana,BOLOGNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+17-mag,3,18,Emilia Romagna,Bologna,1019539,77,123,136,259,Città metropolitana,BOLOGNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+18-mag,4,18,Emilia Romagna,Bologna,1019539,68,124,137,261,Città metropolitana,BOLOGNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+19-mag,5,18,Emilia Romagna,Bologna,1019539,69,126,138,264,Città metropolitana,BOLOGNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+20-mag,6,18,Emilia Romagna,Bologna,1019539,65,127,140,267,Città metropolitana,BOLOGNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+21-mag,7,18,Emilia Romagna,Bologna,1019539,63,128,142,270,Città metropolitana,BOLOGNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+15-mag,1,19,Emilia Romagna,Ferrara,341967,29,123,135,258,Provincia,FERRARA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+16-mag,2,19,Emilia Romagna,Ferrara,341967,25,124,136,260,Provincia,FERRARA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+17-mag,3,19,Emilia Romagna,Ferrara,341967,28,123,136,259,Provincia,FERRARA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+18-mag,4,19,Emilia Romagna,Ferrara,341967,26,124,137,261,Provincia,FERRARA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+19-mag,5,19,Emilia Romagna,Ferrara,341967,25,126,138,264,Provincia,FERRARA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+20-mag,6,19,Emilia Romagna,Ferrara,341967,24,127,140,267,Provincia,FERRARA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+21-mag,7,19,Emilia Romagna,Ferrara,341967,26,128,142,270,Provincia,FERRARA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+15-mag,1,20,Emilia Romagna,Ravenna,386309,70,123,135,258,Provincia,RAVENNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+16-mag,2,20,Emilia Romagna,Ravenna,386309,64,124,136,260,Provincia,RAVENNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+17-mag,3,20,Emilia Romagna,Ravenna,386309,57,123,136,259,Provincia,RAVENNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+18-mag,4,20,Emilia Romagna,Ravenna,386309,53,124,137,261,Provincia,RAVENNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+19-mag,5,20,Emilia Romagna,Ravenna,386309,52,126,138,264,Provincia,RAVENNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+20-mag,6,20,Emilia Romagna,Ravenna,386309,47,127,140,267,Provincia,RAVENNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+21-mag,7,20,Emilia Romagna,Ravenna,386309,45,128,142,270,Provincia,RAVENNA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+15-mag,1,21,Emilia Romagna,Forlì CE,393556,106,123,135,258,Provincia,FORLI'-CESENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+16-mag,2,21,Emilia Romagna,Forlì CE,393556,96,124,136,260,Provincia,FORLI'-CESENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+17-mag,3,21,Emilia Romagna,Forlì CE,393556,84,123,136,259,Provincia,FORLI'-CESENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+18-mag,4,21,Emilia Romagna,Forlì CE,393556,80,124,137,261,Provincia,FORLI'-CESENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+19-mag,5,21,Emilia Romagna,Forlì CE,393556,74,126,138,264,Provincia,FORLI'-CESENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+20-mag,6,21,Emilia Romagna,Forlì CE,393556,66,127,140,267,Provincia,FORLI'-CESENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+21-mag,7,21,Emilia Romagna,Forlì CE,393556,67,128,142,270,Provincia,FORLI'-CESENA,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+15-mag,1,22,Emilia Romagna,Rimini,335478,86,123,135,258,Provincia,RIMINI,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+16-mag,2,22,Emilia Romagna,Rimini,335478,90,124,136,260,Provincia,RIMINI,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+17-mag,3,22,Emilia Romagna,Rimini,335478,84,123,136,259,Provincia,RIMINI,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+18-mag,4,22,Emilia Romagna,Rimini,335478,83,124,137,261,Provincia,RIMINI,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+19-mag,5,22,Emilia Romagna,Rimini,335478,77,126,138,264,Provincia,RIMINI,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+20-mag,6,22,Emilia Romagna,Rimini,335478,80,127,140,267,Provincia,RIMINI,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+21-mag,7,22,Emilia Romagna,Rimini,335478,74,128,142,270,Provincia,RIMINI,21/05/2021 ore 17:51,21/05/21,Emilia Romagna
+15-mag,1,25,Veneto,Padova,929520,56,112,186,298,Provincia,PADOVA,21/05/2021 ore 17:51,21/05/21,Veneto
+16-mag,2,25,Veneto,Padova,929520,50,112,186,298,Provincia,PADOVA,21/05/2021 ore 17:51,21/05/21,Veneto
+17-mag,3,25,Veneto,Padova,929520,47,112,186,298,Provincia,PADOVA,21/05/2021 ore 17:51,21/05/21,Veneto
+18-mag,4,25,Veneto,Padova,929520,46,113,188,301,Provincia,PADOVA,21/05/2021 ore 17:51,21/05/21,Veneto
+19-mag,5,25,Veneto,Padova,929520,44,113,189,302,Provincia,PADOVA,21/05/2021 ore 17:51,21/05/21,Veneto
+20-mag,6,25,Veneto,Padova,929520,39,114,191,305,Provincia,PADOVA,21/05/2021 ore 17:51,21/05/21,Veneto
+21-mag,7,25,Veneto,Padova,929520,33,115,191,306,Provincia,PADOVA,21/05/2021 ore 17:51,21/05/21,Veneto
+15-mag,1,26,Veneto,Venezia,842942,64,112,186,298,Città metropolitana,VENEZIA,21/05/2021 ore 17:51,21/05/21,Veneto
+16-mag,2,26,Veneto,Venezia,842942,61,112,186,298,Città metropolitana,VENEZIA,21/05/2021 ore 17:51,21/05/21,Veneto
+17-mag,3,26,Veneto,Venezia,842942,57,112,186,298,Città metropolitana,VENEZIA,21/05/2021 ore 17:51,21/05/21,Veneto
+18-mag,4,26,Veneto,Venezia,842942,52,113,188,301,Città metropolitana,VENEZIA,21/05/2021 ore 17:51,21/05/21,Veneto
+19-mag,5,26,Veneto,Venezia,842942,50,113,189,302,Città metropolitana,VENEZIA,21/05/2021 ore 17:51,21/05/21,Veneto
+20-mag,6,26,Veneto,Venezia,842942,47,114,191,305,Città metropolitana,VENEZIA,21/05/2021 ore 17:51,21/05/21,Veneto
+21-mag,7,26,Veneto,Venezia,842942,44,115,191,306,Città metropolitana,VENEZIA,21/05/2021 ore 17:51,21/05/21,Veneto
+15-mag,1,27,Veneto,Rovigo,229652,42,112,186,298,Provincia,ROVIGO,21/05/2021 ore 17:51,21/05/21,Veneto
+16-mag,2,27,Veneto,Rovigo,229652,37,112,186,298,Provincia,ROVIGO,21/05/2021 ore 17:51,21/05/21,Veneto
+17-mag,3,27,Veneto,Rovigo,229652,38,112,186,298,Provincia,ROVIGO,21/05/2021 ore 17:51,21/05/21,Veneto
+18-mag,4,27,Veneto,Rovigo,229652,39,113,188,301,Provincia,ROVIGO,21/05/2021 ore 17:51,21/05/21,Veneto
+19-mag,5,27,Veneto,Rovigo,229652,33,113,189,302,Provincia,ROVIGO,21/05/2021 ore 17:51,21/05/21,Veneto
+20-mag,6,27,Veneto,Rovigo,229652,29,114,191,305,Provincia,ROVIGO,21/05/2021 ore 17:51,21/05/21,Veneto
+21-mag,7,27,Veneto,Rovigo,229652,24,115,191,306,Provincia,ROVIGO,21/05/2021 ore 17:51,21/05/21,Veneto
+15-mag,1,28,Veneto,Vicenza,850379,63,112,186,298,Provincia,VICENZA,21/05/2021 ore 17:51,21/05/21,Veneto
+16-mag,2,28,Veneto,Vicenza,850379,60,112,186,298,Provincia,VICENZA,21/05/2021 ore 17:51,21/05/21,Veneto
+17-mag,3,28,Veneto,Vicenza,850379,58,112,186,298,Provincia,VICENZA,21/05/2021 ore 17:51,21/05/21,Veneto
+18-mag,4,28,Veneto,Vicenza,850379,58,113,188,301,Provincia,VICENZA,21/05/2021 ore 17:51,21/05/21,Veneto
+19-mag,5,28,Veneto,Vicenza,850379,54,113,189,302,Provincia,VICENZA,21/05/2021 ore 17:51,21/05/21,Veneto
+20-mag,6,28,Veneto,Vicenza,850379,49,114,191,305,Provincia,VICENZA,21/05/2021 ore 17:51,21/05/21,Veneto
+21-mag,7,28,Veneto,Vicenza,850379,44,115,191,306,Provincia,VICENZA,21/05/2021 ore 17:51,21/05/21,Veneto
+15-mag,1,29,Veneto,Verona,922291,74,112,186,298,Provincia,VERONA,21/05/2021 ore 17:51,21/05/21,Veneto
+16-mag,2,29,Veneto,Verona,922291,68,112,186,298,Provincia,VERONA,21/05/2021 ore 17:51,21/05/21,Veneto
+17-mag,3,29,Veneto,Verona,922291,68,112,186,298,Provincia,VERONA,21/05/2021 ore 17:51,21/05/21,Veneto
+18-mag,4,29,Veneto,Verona,922291,63,113,188,301,Provincia,VERONA,21/05/2021 ore 17:51,21/05/21,Veneto
+19-mag,5,29,Veneto,Verona,922291,57,113,189,302,Provincia,VERONA,21/05/2021 ore 17:51,21/05/21,Veneto
+20-mag,6,29,Veneto,Verona,922291,55,114,191,305,Provincia,VERONA,21/05/2021 ore 17:51,21/05/21,Veneto
+21-mag,7,29,Veneto,Verona,922291,52,115,191,306,Provincia,VERONA,21/05/2021 ore 17:51,21/05/21,Veneto
+15-mag,1,30,Veneto,Belluno,199599,42,112,186,298,Provincia,BELLUNO,21/05/2021 ore 17:51,21/05/21,Veneto
+16-mag,2,30,Veneto,Belluno,199599,35,112,186,298,Provincia,BELLUNO,21/05/2021 ore 17:51,21/05/21,Veneto
+17-mag,3,30,Veneto,Belluno,199599,33,112,186,298,Provincia,BELLUNO,21/05/2021 ore 17:51,21/05/21,Veneto
+18-mag,4,30,Veneto,Belluno,199599,28,113,188,301,Provincia,BELLUNO,21/05/2021 ore 17:51,21/05/21,Veneto
+19-mag,5,30,Veneto,Belluno,199599,26,113,189,302,Provincia,BELLUNO,21/05/2021 ore 17:51,21/05/21,Veneto
+20-mag,6,30,Veneto,Belluno,199599,34,114,191,305,Provincia,BELLUNO,21/05/2021 ore 17:51,21/05/21,Veneto
+21-mag,7,30,Veneto,Belluno,199599,27,115,191,306,Provincia,BELLUNO,21/05/2021 ore 17:51,21/05/21,Veneto
+15-mag,1,31,Veneto,Treviso,878070,46,112,186,298,Provincia,TREVISO,21/05/2021 ore 17:51,21/05/21,Veneto
+16-mag,2,31,Veneto,Treviso,878070,43,112,186,298,Provincia,TREVISO,21/05/2021 ore 17:51,21/05/21,Veneto
+17-mag,3,31,Veneto,Treviso,878070,45,112,186,298,Provincia,TREVISO,21/05/2021 ore 17:51,21/05/21,Veneto
+18-mag,4,31,Veneto,Treviso,878070,46,113,188,301,Provincia,TREVISO,21/05/2021 ore 17:51,21/05/21,Veneto
+19-mag,5,31,Veneto,Treviso,878070,44,113,189,302,Provincia,TREVISO,21/05/2021 ore 17:51,21/05/21,Veneto
+20-mag,6,31,Veneto,Treviso,878070,39,114,191,305,Provincia,TREVISO,21/05/2021 ore 17:51,21/05/21,Veneto
+21-mag,7,31,Veneto,Treviso,878070,39,115,191,306,Provincia,TREVISO,21/05/2021 ore 17:51,21/05/21,Veneto
+15-mag,1,41,Piemonte,Alessandria,411922,85,106,114,220,Provincia,ALESSANDRIA,21/05/2021 ore 17:51,21/05/21,Piemonte
+16-mag,2,41,Piemonte,Alessandria,411922,75,107,115,222,Provincia,ALESSANDRIA,21/05/2021 ore 17:51,21/05/21,Piemonte
+17-mag,3,41,Piemonte,Alessandria,411922,71,108,114,222,Provincia,ALESSANDRIA,21/05/2021 ore 17:51,21/05/21,Piemonte
+18-mag,4,41,Piemonte,Alessandria,411922,72,110,114,224,Provincia,ALESSANDRIA,21/05/2021 ore 17:51,21/05/21,Piemonte
+19-mag,5,41,Piemonte,Alessandria,411922,69,111,116,227,Provincia,ALESSANDRIA,21/05/2021 ore 17:51,21/05/21,Piemonte
+20-mag,6,41,Piemonte,Alessandria,411922,66,113,119,232,Provincia,ALESSANDRIA,21/05/2021 ore 17:51,21/05/21,Piemonte
+21-mag,7,41,Piemonte,Alessandria,411922,57,114,122,236,Provincia,ALESSANDRIA,21/05/2021 ore 17:51,21/05/21,Piemonte
+15-mag,1,42,Piemonte,Asti,209648,76,106,114,220,Provincia,ASTI,21/05/2021 ore 17:51,21/05/21,Piemonte
+16-mag,2,42,Piemonte,Asti,209648,83,107,115,222,Provincia,ASTI,21/05/2021 ore 17:51,21/05/21,Piemonte
+17-mag,3,42,Piemonte,Asti,209648,73,108,114,222,Provincia,ASTI,21/05/2021 ore 17:51,21/05/21,Piemonte
+18-mag,4,42,Piemonte,Asti,209648,65,110,114,224,Provincia,ASTI,21/05/2021 ore 17:51,21/05/21,Piemonte
+19-mag,5,42,Piemonte,Asti,209648,58,111,116,227,Provincia,ASTI,21/05/2021 ore 17:51,21/05/21,Piemonte
+20-mag,6,42,Piemonte,Asti,209648,54,113,119,232,Provincia,ASTI,21/05/2021 ore 17:51,21/05/21,Piemonte
+21-mag,7,42,Piemonte,Asti,209648,52,114,122,236,Provincia,ASTI,21/05/2021 ore 17:51,21/05/21,Piemonte
+15-mag,1,43,Piemonte,Biella,171838,101,106,114,220,Provincia,BIELLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+16-mag,2,43,Piemonte,Biella,171838,97,107,115,222,Provincia,BIELLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+17-mag,3,43,Piemonte,Biella,171838,96,108,114,222,Provincia,BIELLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+18-mag,4,43,Piemonte,Biella,171838,91,110,114,224,Provincia,BIELLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+19-mag,5,43,Piemonte,Biella,171838,88,111,116,227,Provincia,BIELLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+20-mag,6,43,Piemonte,Biella,171838,84,113,119,232,Provincia,BIELLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+21-mag,7,43,Piemonte,Biella,171838,84,114,122,236,Provincia,BIELLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+15-mag,1,44,Piemonte,Cuneo,582353,111,106,114,220,Provincia,CUNEO,21/05/2021 ore 17:51,21/05/21,Piemonte
+16-mag,2,44,Piemonte,Cuneo,582353,107,107,115,222,Provincia,CUNEO,21/05/2021 ore 17:51,21/05/21,Piemonte
+17-mag,3,44,Piemonte,Cuneo,582353,104,108,114,222,Provincia,CUNEO,21/05/2021 ore 17:51,21/05/21,Piemonte
+18-mag,4,44,Piemonte,Cuneo,582353,94,110,114,224,Provincia,CUNEO,21/05/2021 ore 17:51,21/05/21,Piemonte
+19-mag,5,44,Piemonte,Cuneo,582353,87,111,116,227,Provincia,CUNEO,21/05/2021 ore 17:51,21/05/21,Piemonte
+20-mag,6,44,Piemonte,Cuneo,582353,76,113,119,232,Provincia,CUNEO,21/05/2021 ore 17:51,21/05/21,Piemonte
+21-mag,7,44,Piemonte,Cuneo,582353,68,114,122,236,Provincia,CUNEO,21/05/2021 ore 17:51,21/05/21,Piemonte
+15-mag,1,45,Piemonte,Novara,362199,76,106,114,220,Provincia,NOVARA,21/05/2021 ore 17:51,21/05/21,Piemonte
+16-mag,2,45,Piemonte,Novara,362199,72,107,115,222,Provincia,NOVARA,21/05/2021 ore 17:51,21/05/21,Piemonte
+17-mag,3,45,Piemonte,Novara,362199,69,108,114,222,Provincia,NOVARA,21/05/2021 ore 17:51,21/05/21,Piemonte
+18-mag,4,45,Piemonte,Novara,362199,69,110,114,224,Provincia,NOVARA,21/05/2021 ore 17:51,21/05/21,Piemonte
+19-mag,5,45,Piemonte,Novara,362199,65,111,116,227,Provincia,NOVARA,21/05/2021 ore 17:51,21/05/21,Piemonte
+20-mag,6,45,Piemonte,Novara,362199,61,113,119,232,Provincia,NOVARA,21/05/2021 ore 17:51,21/05/21,Piemonte
+21-mag,7,45,Piemonte,Novara,362199,60,114,122,236,Provincia,NOVARA,21/05/2021 ore 17:51,21/05/21,Piemonte
+15-mag,1,46,Piemonte,Torino,2212996,94,106,114,220,Città metropolitana,TORINO,21/05/2021 ore 17:51,21/05/21,Piemonte
+16-mag,2,46,Piemonte,Torino,2212996,89,107,115,222,Città metropolitana,TORINO,21/05/2021 ore 17:51,21/05/21,Piemonte
+17-mag,3,46,Piemonte,Torino,2212996,87,108,114,222,Città metropolitana,TORINO,21/05/2021 ore 17:51,21/05/21,Piemonte
+18-mag,4,46,Piemonte,Torino,2212996,87,110,114,224,Città metropolitana,TORINO,21/05/2021 ore 17:51,21/05/21,Piemonte
+19-mag,5,46,Piemonte,Torino,2212996,80,111,116,227,Città metropolitana,TORINO,21/05/2021 ore 17:51,21/05/21,Piemonte
+20-mag,6,46,Piemonte,Torino,2212996,72,113,119,232,Città metropolitana,TORINO,21/05/2021 ore 17:51,21/05/21,Piemonte
+21-mag,7,46,Piemonte,Torino,2212996,67,114,122,236,Città metropolitana,TORINO,21/05/2021 ore 17:51,21/05/21,Piemonte
+15-mag,1,47,Piemonte,Vercelli,167189,111,106,114,220,Provincia,VERCELLI,21/05/2021 ore 17:51,21/05/21,Piemonte
+16-mag,2,47,Piemonte,Vercelli,167189,111,107,115,222,Provincia,VERCELLI,21/05/2021 ore 17:51,21/05/21,Piemonte
+17-mag,3,47,Piemonte,Vercelli,167189,101,108,114,222,Provincia,VERCELLI,21/05/2021 ore 17:51,21/05/21,Piemonte
+18-mag,4,47,Piemonte,Vercelli,167189,92,110,114,224,Provincia,VERCELLI,21/05/2021 ore 17:51,21/05/21,Piemonte
+19-mag,5,47,Piemonte,Vercelli,167189,81,111,116,227,Provincia,VERCELLI,21/05/2021 ore 17:51,21/05/21,Piemonte
+20-mag,6,47,Piemonte,Vercelli,167189,78,113,119,232,Provincia,VERCELLI,21/05/2021 ore 17:51,21/05/21,Piemonte
+21-mag,7,47,Piemonte,Vercelli,167189,76,114,122,236,Provincia,VERCELLI,21/05/2021 ore 17:51,21/05/21,Piemonte
+15-mag,1,48,Piemonte,VCO,155065,83,106,114,220,Provincia,VERBANO-CUSIO-OSSOLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+16-mag,2,48,Piemonte,VCO,155065,74,107,115,222,Provincia,VERBANO-CUSIO-OSSOLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+17-mag,3,48,Piemonte,VCO,155065,68,108,114,222,Provincia,VERBANO-CUSIO-OSSOLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+18-mag,4,48,Piemonte,VCO,155065,77,110,114,224,Provincia,VERBANO-CUSIO-OSSOLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+19-mag,5,48,Piemonte,VCO,155065,77,111,116,227,Provincia,VERBANO-CUSIO-OSSOLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+20-mag,6,48,Piemonte,VCO,155065,83,113,119,232,Provincia,VERBANO-CUSIO-OSSOLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+21-mag,7,48,Piemonte,VCO,155065,94,114,122,236,Provincia,VERBANO-CUSIO-OSSOLA,21/05/2021 ore 17:51,21/05/21,Piemonte
+15-mag,1,82,Friuli VG,Trieste,229470,65,101,133,234,Provincia,TRIESTE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+16-mag,2,82,Friuli VG,Trieste,229470,61,101,133,234,Provincia,TRIESTE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+17-mag,3,82,Friuli VG,Trieste,229470,59,101,133,234,Provincia,TRIESTE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+18-mag,4,82,Friuli VG,Trieste,229470,58,102,133,235,Provincia,TRIESTE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+19-mag,5,82,Friuli VG,Trieste,229470,54,102,135,237,Provincia,TRIESTE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+20-mag,6,82,Friuli VG,Trieste,229470,44,102,137,239,Provincia,TRIESTE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+21-mag,7,82,Friuli VG,Trieste,229470,39,102,136,238,Provincia,TRIESTE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+15-mag,1,83,Friuli VG,Gorizia,136809,50,101,133,234,Provincia,GORIZIA,21/05/2021 ore 17:51,21/05/21,Friuli VG
+16-mag,2,83,Friuli VG,Gorizia,136809,45,101,133,234,Provincia,GORIZIA,21/05/2021 ore 17:51,21/05/21,Friuli VG
+17-mag,3,83,Friuli VG,Gorizia,136809,34,101,133,234,Provincia,GORIZIA,21/05/2021 ore 17:51,21/05/21,Friuli VG
+18-mag,4,83,Friuli VG,Gorizia,136809,39,102,133,235,Provincia,GORIZIA,21/05/2021 ore 17:51,21/05/21,Friuli VG
+19-mag,5,83,Friuli VG,Gorizia,136809,42,102,135,237,Provincia,GORIZIA,21/05/2021 ore 17:51,21/05/21,Friuli VG
+20-mag,6,83,Friuli VG,Gorizia,136809,32,102,137,239,Provincia,GORIZIA,21/05/2021 ore 17:51,21/05/21,Friuli VG
+21-mag,7,83,Friuli VG,Gorizia,136809,34,102,136,238,Provincia,GORIZIA,21/05/2021 ore 17:51,21/05/21,Friuli VG
+15-mag,1,84,Friuli VG,Udine,523416,23,101,133,234,Provincia,UDINE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+16-mag,2,84,Friuli VG,Udine,523416,21,101,133,234,Provincia,UDINE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+17-mag,3,84,Friuli VG,Udine,523416,20,101,133,234,Provincia,UDINE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+18-mag,4,84,Friuli VG,Udine,523416,16,102,133,235,Provincia,UDINE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+19-mag,5,84,Friuli VG,Udine,523416,15,102,135,237,Provincia,UDINE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+20-mag,6,84,Friuli VG,Udine,523416,12,102,137,239,Provincia,UDINE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+21-mag,7,84,Friuli VG,Udine,523416,12,102,136,238,Provincia,UDINE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+15-mag,1,85,Friuli VG,Pordenone,309058,36,101,133,234,Provincia,PORDENONE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+16-mag,2,85,Friuli VG,Pordenone,309058,35,101,133,234,Provincia,PORDENONE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+17-mag,3,85,Friuli VG,Pordenone,309058,35,101,133,234,Provincia,PORDENONE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+18-mag,4,85,Friuli VG,Pordenone,309058,30,102,133,235,Provincia,PORDENONE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+19-mag,5,85,Friuli VG,Pordenone,309058,29,102,135,237,Provincia,PORDENONE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+20-mag,6,85,Friuli VG,Pordenone,309058,28,102,137,239,Provincia,PORDENONE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+21-mag,7,85,Friuli VG,Pordenone,309058,29,102,136,238,Provincia,PORDENONE,21/05/2021 ore 17:51,21/05/21,Friuli VG
+15-mag,1,131,Valle d'Aosta,Aosta,123895,122,164,202,366,Provincia,AOSTA,21/05/2021 ore 17:51,21/05/21,Valle d'Aosta
+16-mag,2,131,Valle d'Aosta,Aosta,123895,129,165,210,375,Provincia,AOSTA,21/05/2021 ore 17:51,21/05/21,Valle d'Aosta
+17-mag,3,131,Valle d'Aosta,Aosta,123895,125,165,218,383,Provincia,AOSTA,21/05/2021 ore 17:51,21/05/21,Valle d'Aosta
+18-mag,4,131,Valle d'Aosta,Aosta,123895,112,162,218,380,Provincia,AOSTA,21/05/2021 ore 17:51,21/05/21,Valle d'Aosta
+19-mag,5,131,Valle d'Aosta,Aosta,123895,111,164,242,406,Provincia,AOSTA,21/05/2021 ore 17:51,21/05/21,Valle d'Aosta
+20-mag,6,131,Valle d'Aosta,Aosta,123895,103,164,242,406,Provincia,AOSTA,21/05/2021 ore 17:51,21/05/21,Valle d'Aosta
+21-mag,7,131,Valle d'Aosta,Aosta,123895,79,165,242,407,Provincia,AOSTA,21/05/2021 ore 17:51,21/05/21,Valle d'Aosta
+15-mag,1,76,Liguria,Savona,268766,49,101,115,216,Provincia,SAVONA,21/05/2021 ore 17:51,21/05/21,Liguria
+16-mag,2,76,Liguria,Savona,268766,41,101,116,217,Provincia,SAVONA,21/05/2021 ore 17:51,21/05/21,Liguria
+17-mag,3,76,Liguria,Savona,268766,41,99,115,214,Provincia,SAVONA,21/05/2021 ore 17:51,21/05/21,Liguria
+18-mag,4,76,Liguria,Savona,268766,39,100,117,217,Provincia,SAVONA,21/05/2021 ore 17:51,21/05/21,Liguria
+19-mag,5,76,Liguria,Savona,268766,36,104,119,223,Provincia,SAVONA,21/05/2021 ore 17:51,21/05/21,Liguria
+20-mag,6,76,Liguria,Savona,268766,35,104,121,225,Provincia,SAVONA,21/05/2021 ore 17:51,21/05/21,Liguria
+21-mag,7,76,Liguria,Savona,268766,32,107,120,227,Provincia,SAVONA,21/05/2021 ore 17:51,21/05/21,Liguria
+15-mag,1,77,Liguria,La Spezia,215538,87,101,115,216,Provincia,LA SPEZIA,21/05/2021 ore 17:51,21/05/21,Liguria
+16-mag,2,77,Liguria,La Spezia,215538,72,101,116,217,Provincia,LA SPEZIA,21/05/2021 ore 17:51,21/05/21,Liguria
+17-mag,3,77,Liguria,La Spezia,215538,71,99,115,214,Provincia,LA SPEZIA,21/05/2021 ore 17:51,21/05/21,Liguria
+18-mag,4,77,Liguria,La Spezia,215538,69,100,117,217,Provincia,LA SPEZIA,21/05/2021 ore 17:51,21/05/21,Liguria
+19-mag,5,77,Liguria,La Spezia,215538,58,104,119,223,Provincia,LA SPEZIA,21/05/2021 ore 17:51,21/05/21,Liguria
+20-mag,6,77,Liguria,La Spezia,215538,58,104,121,225,Provincia,LA SPEZIA,21/05/2021 ore 17:51,21/05/21,Liguria
+21-mag,7,77,Liguria,La Spezia,215538,52,107,120,227,Provincia,LA SPEZIA,21/05/2021 ore 17:51,21/05/21,Liguria
+15-mag,1,78,Liguria,Imperia,208585,56,101,115,216,Provincia,IMPERIA,21/05/2021 ore 17:51,21/05/21,Liguria
+16-mag,2,78,Liguria,Imperia,208585,51,101,116,217,Provincia,IMPERIA,21/05/2021 ore 17:51,21/05/21,Liguria
+17-mag,3,78,Liguria,Imperia,208585,49,99,115,214,Provincia,IMPERIA,21/05/2021 ore 17:51,21/05/21,Liguria
+18-mag,4,78,Liguria,Imperia,208585,44,100,117,217,Provincia,IMPERIA,21/05/2021 ore 17:51,21/05/21,Liguria
+19-mag,5,78,Liguria,Imperia,208585,45,104,119,223,Provincia,IMPERIA,21/05/2021 ore 17:51,21/05/21,Liguria
+20-mag,6,78,Liguria,Imperia,208585,47,104,121,225,Provincia,IMPERIA,21/05/2021 ore 17:51,21/05/21,Liguria
+21-mag,7,78,Liguria,Imperia,208585,41,107,120,227,Provincia,IMPERIA,21/05/2021 ore 17:51,21/05/21,Liguria
+15-mag,1,79,Liguria,Genova,816916,44,101,115,216,Città metropolitana,GENOVA,21/05/2021 ore 17:51,21/05/21,Liguria
+16-mag,2,79,Liguria,Genova,816916,44,101,116,217,Città metropolitana,GENOVA,21/05/2021 ore 17:51,21/05/21,Liguria
+17-mag,3,79,Liguria,Genova,816916,44,99,115,214,Città metropolitana,GENOVA,21/05/2021 ore 17:51,21/05/21,Liguria
+18-mag,4,79,Liguria,Genova,816916,40,100,117,217,Città metropolitana,GENOVA,21/05/2021 ore 17:51,21/05/21,Liguria
+19-mag,5,79,Liguria,Genova,816916,36,104,119,223,Città metropolitana,GENOVA,21/05/2021 ore 17:51,21/05/21,Liguria
+20-mag,6,79,Liguria,Genova,816916,35,104,121,225,Città metropolitana,GENOVA,21/05/2021 ore 17:51,21/05/21,Liguria
+21-mag,7,79,Liguria,Genova,816916,31,107,120,227,Città metropolitana,GENOVA,21/05/2021 ore 17:51,21/05/21,Liguria
+15-mag,1,120,Trento,Trento,544745,61,86,132,218,Provincia autonoma,TRENTO,21/05/2021 ore 17:51,21/05/21,Trento
+16-mag,2,120,Trento,Trento,544745,66,86,134,220,Provincia autonoma,TRENTO,21/05/2021 ore 17:51,21/05/21,Trento
+17-mag,3,120,Trento,Trento,544745,66,86,138,224,Provincia autonoma,TRENTO,21/05/2021 ore 17:51,21/05/21,Trento
+18-mag,4,120,Trento,Trento,544745,65,87,139,226,Provincia autonoma,TRENTO,21/05/2021 ore 17:51,21/05/21,Trento
+19-mag,5,120,Trento,Trento,544745,62,87,141,228,Provincia autonoma,TRENTO,21/05/2021 ore 17:51,21/05/21,Trento
+20-mag,6,120,Trento,Trento,544745,61,88,139,227,Provincia autonoma,TRENTO,21/05/2021 ore 17:51,21/05/21,Trento
+21-mag,7,120,Trento,Trento,544745,58,89,139,228,Provincia autonoma,TRENTO,21/05/2021 ore 17:51,21/05/21,Trento
+15-mag,1,119,Bolzano,Bolzano,533715,83,72,174,246,Provincia autonoma,BOLZANO,21/05/2021 ore 17:51,21/05/21,Bolzano
+16-mag,2,119,Bolzano,Bolzano,533715,79,72,176,248,Provincia autonoma,BOLZANO,21/05/2021 ore 17:51,21/05/21,Bolzano
+17-mag,3,119,Bolzano,Bolzano,533715,79,72,185,257,Provincia autonoma,BOLZANO,21/05/2021 ore 17:51,21/05/21,Bolzano
+18-mag,4,119,Bolzano,Bolzano,533715,85,71,176,247,Provincia autonoma,BOLZANO,21/05/2021 ore 17:51,21/05/21,Bolzano
+19-mag,5,119,Bolzano,Bolzano,533715,78,75,176,251,Provincia autonoma,BOLZANO,21/05/2021 ore 17:51,21/05/21,Bolzano
+20-mag,6,119,Bolzano,Bolzano,533715,76,75,176,251,Provincia autonoma,BOLZANO,21/05/2021 ore 17:51,21/05/21,Bolzano
+21-mag,7,119,Bolzano,Bolzano,533715,73,76,176,252,Provincia autonoma,BOLZANO,21/05/2021 ore 17:51,21/05/21,Bolzano
+15-mag,1,34,Marche,Ancona,465023,41,64,109,173,Provincia,ANCONA,21/05/2021 ore 17:51,21/05/21,Marche
+16-mag,2,34,Marche,Ancona,465023,42,65,109,174,Provincia,ANCONA,21/05/2021 ore 17:51,21/05/21,Marche
+17-mag,3,34,Marche,Ancona,465023,37,65,108,173,Provincia,ANCONA,21/05/2021 ore 17:51,21/05/21,Marche
+18-mag,4,34,Marche,Ancona,465023,37,66,109,175,Provincia,ANCONA,21/05/2021 ore 17:51,21/05/21,Marche
+19-mag,5,34,Marche,Ancona,465023,34,66,111,177,Provincia,ANCONA,21/05/2021 ore 17:51,21/05/21,Marche
+20-mag,6,34,Marche,Ancona,465023,40,67,113,180,Provincia,ANCONA,21/05/2021 ore 17:51,21/05/21,Marche
+21-mag,7,34,Marche,Ancona,465023,37,66,113,179,Provincia,ANCONA,21/05/2021 ore 17:51,21/05/21,Marche
+15-mag,1,35,Marche,Pesaro,354139,122,64,109,173,Provincia,PESARO E URBINO,21/05/2021 ore 17:51,21/05/21,Marche
+16-mag,2,35,Marche,Pesaro,354139,125,65,109,174,Provincia,PESARO E URBINO,21/05/2021 ore 17:51,21/05/21,Marche
+17-mag,3,35,Marche,Pesaro,354139,126,65,108,173,Provincia,PESARO E URBINO,21/05/2021 ore 17:51,21/05/21,Marche
+18-mag,4,35,Marche,Pesaro,354139,121,66,109,175,Provincia,PESARO E URBINO,21/05/2021 ore 17:51,21/05/21,Marche
+19-mag,5,35,Marche,Pesaro,354139,112,66,111,177,Provincia,PESARO E URBINO,21/05/2021 ore 17:51,21/05/21,Marche
+20-mag,6,35,Marche,Pesaro,354139,104,67,113,180,Provincia,PESARO E URBINO,21/05/2021 ore 17:51,21/05/21,Marche
+21-mag,7,35,Marche,Pesaro,354139,110,66,113,179,Provincia,PESARO E URBINO,21/05/2021 ore 17:51,21/05/21,Marche
+15-mag,1,36,Marche,Macerata,307421,83,64,109,173,Provincia,MACERATA,21/05/2021 ore 17:51,21/05/21,Marche
+16-mag,2,36,Marche,Macerata,307421,79,65,109,174,Provincia,MACERATA,21/05/2021 ore 17:51,21/05/21,Marche
+17-mag,3,36,Marche,Macerata,307421,80,65,108,173,Provincia,MACERATA,21/05/2021 ore 17:51,21/05/21,Marche
+18-mag,4,36,Marche,Macerata,307421,74,66,109,175,Provincia,MACERATA,21/05/2021 ore 17:51,21/05/21,Marche
+19-mag,5,36,Marche,Macerata,307421,67,66,111,177,Provincia,MACERATA,21/05/2021 ore 17:51,21/05/21,Marche
+20-mag,6,36,Marche,Macerata,307421,63,67,113,180,Provincia,MACERATA,21/05/2021 ore 17:51,21/05/21,Marche
+21-mag,7,36,Marche,Macerata,307421,57,66,113,179,Provincia,MACERATA,21/05/2021 ore 17:51,21/05/21,Marche
+15-mag,1,37,Marche,Fermo,170248,73,64,109,173,Provincia,FERMO,21/05/2021 ore 17:51,21/05/21,Marche
+16-mag,2,37,Marche,Fermo,170248,58,65,109,174,Provincia,FERMO,21/05/2021 ore 17:51,21/05/21,Marche
+17-mag,3,37,Marche,Fermo,170248,61,65,108,173,Provincia,FERMO,21/05/2021 ore 17:51,21/05/21,Marche
+18-mag,4,37,Marche,Fermo,170248,68,66,109,175,Provincia,FERMO,21/05/2021 ore 17:51,21/05/21,Marche
+19-mag,5,37,Marche,Fermo,170248,64,66,111,177,Provincia,FERMO,21/05/2021 ore 17:51,21/05/21,Marche
+20-mag,6,37,Marche,Fermo,170248,56,67,113,180,Provincia,FERMO,21/05/2021 ore 17:51,21/05/21,Marche
+21-mag,7,37,Marche,Fermo,170248,42,66,113,179,Provincia,FERMO,21/05/2021 ore 17:51,21/05/21,Marche
+15-mag,1,38,Marche,Ascoli P.,204575,123,64,109,173,Provincia,ASCOLI PICENO,21/05/2021 ore 17:51,21/05/21,Marche
+16-mag,2,38,Marche,Ascoli P.,204575,117,65,109,174,Provincia,ASCOLI PICENO,21/05/2021 ore 17:51,21/05/21,Marche
+17-mag,3,38,Marche,Ascoli P.,204575,120,65,108,173,Provincia,ASCOLI PICENO,21/05/2021 ore 17:51,21/05/21,Marche
+18-mag,4,38,Marche,Ascoli P.,204575,116,66,109,175,Provincia,ASCOLI PICENO,21/05/2021 ore 17:51,21/05/21,Marche
+19-mag,5,38,Marche,Ascoli P.,204575,106,66,111,177,Provincia,ASCOLI PICENO,21/05/2021 ore 17:51,21/05/21,Marche
+20-mag,6,38,Marche,Ascoli P.,204575,105,67,113,180,Provincia,ASCOLI PICENO,21/05/2021 ore 17:51,21/05/21,Marche
+21-mag,7,38,Marche,Ascoli P.,204575,89,66,113,179,Provincia,ASCOLI PICENO,21/05/2021 ore 17:51,21/05/21,Marche
+15-mag,1,51,Toscana,Firenze,986001,109,113,110,223,Città metropolitana,FIRENZE,21/05/2021 ore 17:51,21/05/21,Toscana
+16-mag,2,51,Toscana,Firenze,986001,104,114,111,225,Città metropolitana,FIRENZE,21/05/2021 ore 17:51,21/05/21,Toscana
+17-mag,3,51,Toscana,Firenze,986001,102,114,109,223,Città metropolitana,FIRENZE,21/05/2021 ore 17:51,21/05/21,Toscana
+18-mag,4,51,Toscana,Firenze,986001,103,115,111,226,Città metropolitana,FIRENZE,21/05/2021 ore 17:51,21/05/21,Toscana
+19-mag,5,51,Toscana,Firenze,986001,100,116,112,228,Città metropolitana,FIRENZE,21/05/2021 ore 17:51,21/05/21,Toscana
+20-mag,6,51,Toscana,Firenze,986001,101,117,115,232,Città metropolitana,FIRENZE,21/05/2021 ore 17:51,21/05/21,Toscana
+21-mag,7,51,Toscana,Firenze,986001,98,118,113,231,Città metropolitana,FIRENZE,21/05/2021 ore 17:51,21/05/21,Toscana
+15-mag,1,52,Toscana,Pistoia,290819,119,113,110,223,Provincia,PISTOIA,21/05/2021 ore 17:51,21/05/21,Toscana
+16-mag,2,52,Toscana,Pistoia,290819,112,114,111,225,Provincia,PISTOIA,21/05/2021 ore 17:51,21/05/21,Toscana
+17-mag,3,52,Toscana,Pistoia,290819,119,114,109,223,Provincia,PISTOIA,21/05/2021 ore 17:51,21/05/21,Toscana
+18-mag,4,52,Toscana,Pistoia,290819,115,115,111,226,Provincia,PISTOIA,21/05/2021 ore 17:51,21/05/21,Toscana
+19-mag,5,52,Toscana,Pistoia,290819,111,116,112,228,Provincia,PISTOIA,21/05/2021 ore 17:51,21/05/21,Toscana
+20-mag,6,52,Toscana,Pistoia,290819,111,117,115,232,Provincia,PISTOIA,21/05/2021 ore 17:51,21/05/21,Toscana
+21-mag,7,52,Toscana,Pistoia,290819,108,118,113,231,Provincia,PISTOIA,21/05/2021 ore 17:51,21/05/21,Toscana
+15-mag,1,53,Toscana,Lucca,380676,57,113,110,223,Provincia,LUCCA,21/05/2021 ore 17:51,21/05/21,Toscana
+16-mag,2,53,Toscana,Lucca,380676,51,114,111,225,Provincia,LUCCA,21/05/2021 ore 17:51,21/05/21,Toscana
+17-mag,3,53,Toscana,Lucca,380676,53,114,109,223,Provincia,LUCCA,21/05/2021 ore 17:51,21/05/21,Toscana
+18-mag,4,53,Toscana,Lucca,380676,53,115,111,226,Provincia,LUCCA,21/05/2021 ore 17:51,21/05/21,Toscana
+19-mag,5,53,Toscana,Lucca,380676,52,116,112,228,Provincia,LUCCA,21/05/2021 ore 17:51,21/05/21,Toscana
+20-mag,6,53,Toscana,Lucca,380676,47,117,115,232,Provincia,LUCCA,21/05/2021 ore 17:51,21/05/21,Toscana
+21-mag,7,53,Toscana,Lucca,380676,48,118,113,231,Provincia,LUCCA,21/05/2021 ore 17:51,21/05/21,Toscana
+15-mag,1,54,Toscana,Siena,263526,73,113,110,223,Provincia,SIENA,21/05/2021 ore 17:51,21/05/21,Toscana
+16-mag,2,54,Toscana,Siena,263526,77,114,111,225,Provincia,SIENA,21/05/2021 ore 17:51,21/05/21,Toscana
+17-mag,3,54,Toscana,Siena,263526,74,114,109,223,Provincia,SIENA,21/05/2021 ore 17:51,21/05/21,Toscana
+18-mag,4,54,Toscana,Siena,263526,75,115,111,226,Provincia,SIENA,21/05/2021 ore 17:51,21/05/21,Toscana
+19-mag,5,54,Toscana,Siena,263526,72,116,112,228,Provincia,SIENA,21/05/2021 ore 17:51,21/05/21,Toscana
+20-mag,6,54,Toscana,Siena,263526,68,117,115,232,Provincia,SIENA,21/05/2021 ore 17:51,21/05/21,Toscana
+21-mag,7,54,Toscana,Siena,263526,68,118,113,231,Provincia,SIENA,21/05/2021 ore 17:51,21/05/21,Toscana
+15-mag,1,55,Toscana,Massa C.,189841,104,113,110,223,Provincia,MASSA-CARRARA,21/05/2021 ore 17:51,21/05/21,Toscana
+16-mag,2,55,Toscana,Massa C.,189841,97,114,111,225,Provincia,MASSA-CARRARA,21/05/2021 ore 17:51,21/05/21,Toscana
+17-mag,3,55,Toscana,Massa C.,189841,86,114,109,223,Provincia,MASSA-CARRARA,21/05/2021 ore 17:51,21/05/21,Toscana
+18-mag,4,55,Toscana,Massa C.,189841,81,115,111,226,Provincia,MASSA-CARRARA,21/05/2021 ore 17:51,21/05/21,Toscana
+19-mag,5,55,Toscana,Massa C.,189841,75,116,112,228,Provincia,MASSA-CARRARA,21/05/2021 ore 17:51,21/05/21,Toscana
+20-mag,6,55,Toscana,Massa C.,189841,66,117,115,232,Provincia,MASSA-CARRARA,21/05/2021 ore 17:51,21/05/21,Toscana
+21-mag,7,55,Toscana,Massa C.,189841,59,118,113,231,Provincia,MASSA-CARRARA,21/05/2021 ore 17:51,21/05/21,Toscana
+15-mag,1,56,Toscana,Arezzo,336870,155,113,110,223,Provincia,AREZZO,21/05/2021 ore 17:51,21/05/21,Toscana
+16-mag,2,56,Toscana,Arezzo,336870,149,114,111,225,Provincia,AREZZO,21/05/2021 ore 17:51,21/05/21,Toscana
+17-mag,3,56,Toscana,Arezzo,336870,146,114,109,223,Provincia,AREZZO,21/05/2021 ore 17:51,21/05/21,Toscana
+18-mag,4,56,Toscana,Arezzo,336870,142,115,111,226,Provincia,AREZZO,21/05/2021 ore 17:51,21/05/21,Toscana
+19-mag,5,56,Toscana,Arezzo,336870,134,116,112,228,Provincia,AREZZO,21/05/2021 ore 17:51,21/05/21,Toscana
+20-mag,6,56,Toscana,Arezzo,336870,131,117,115,232,Provincia,AREZZO,21/05/2021 ore 17:51,21/05/21,Toscana
+21-mag,7,56,Toscana,Arezzo,336870,112,118,113,231,Provincia,AREZZO,21/05/2021 ore 17:51,21/05/21,Toscana
+15-mag,1,57,Toscana,Pisa,416425,72,113,110,223,Provincia,PISA,21/05/2021 ore 17:51,21/05/21,Toscana
+16-mag,2,57,Toscana,Pisa,416425,66,114,111,225,Provincia,PISA,21/05/2021 ore 17:51,21/05/21,Toscana
+17-mag,3,57,Toscana,Pisa,416425,58,114,109,223,Provincia,PISA,21/05/2021 ore 17:51,21/05/21,Toscana
+18-mag,4,57,Toscana,Pisa,416425,56,115,111,226,Provincia,PISA,21/05/2021 ore 17:51,21/05/21,Toscana
+19-mag,5,57,Toscana,Pisa,416425,51,116,112,228,Provincia,PISA,21/05/2021 ore 17:51,21/05/21,Toscana
+20-mag,6,57,Toscana,Pisa,416425,45,117,115,232,Provincia,PISA,21/05/2021 ore 17:51,21/05/21,Toscana
+21-mag,7,57,Toscana,Pisa,416425,44,118,113,231,Provincia,PISA,21/05/2021 ore 17:51,21/05/21,Toscana
+15-mag,1,58,Toscana,Livorno,329590,70,113,110,223,Provincia,LIVORNO,21/05/2021 ore 17:51,21/05/21,Toscana
+16-mag,2,58,Toscana,Livorno,329590,56,114,111,225,Provincia,LIVORNO,21/05/2021 ore 17:51,21/05/21,Toscana
+17-mag,3,58,Toscana,Livorno,329590,49,114,109,223,Provincia,LIVORNO,21/05/2021 ore 17:51,21/05/21,Toscana
+18-mag,4,58,Toscana,Livorno,329590,46,115,111,226,Provincia,LIVORNO,21/05/2021 ore 17:51,21/05/21,Toscana
+19-mag,5,58,Toscana,Livorno,329590,44,116,112,228,Provincia,LIVORNO,21/05/2021 ore 17:51,21/05/21,Toscana
+20-mag,6,58,Toscana,Livorno,329590,40,117,115,232,Provincia,LIVORNO,21/05/2021 ore 17:51,21/05/21,Toscana
+21-mag,7,58,Toscana,Livorno,329590,38,118,113,231,Provincia,LIVORNO,21/05/2021 ore 17:51,21/05/21,Toscana
+15-mag,1,59,Toscana,Grosseto,218538,81,113,110,223,Provincia,GROSSETO,21/05/2021 ore 17:51,21/05/21,Toscana
+16-mag,2,59,Toscana,Grosseto,218538,83,114,111,225,Provincia,GROSSETO,21/05/2021 ore 17:51,21/05/21,Toscana
+17-mag,3,59,Toscana,Grosseto,218538,81,114,109,223,Provincia,GROSSETO,21/05/2021 ore 17:51,21/05/21,Toscana
+18-mag,4,59,Toscana,Grosseto,218538,81,115,111,226,Provincia,GROSSETO,21/05/2021 ore 17:51,21/05/21,Toscana
+19-mag,5,59,Toscana,Grosseto,218538,72,116,112,228,Provincia,GROSSETO,21/05/2021 ore 17:51,21/05/21,Toscana
+20-mag,6,59,Toscana,Grosseto,218538,84,117,115,232,Provincia,GROSSETO,21/05/2021 ore 17:51,21/05/21,Toscana
+21-mag,7,59,Toscana,Grosseto,218538,81,118,113,231,Provincia,GROSSETO,21/05/2021 ore 17:51,21/05/21,Toscana
+15-mag,1,60,Toscana,Prato,256047,182,113,110,223,Provincia,PRATO,21/05/2021 ore 17:51,21/05/21,Toscana
+16-mag,2,60,Toscana,Prato,256047,175,114,111,225,Provincia,PRATO,21/05/2021 ore 17:51,21/05/21,Toscana
+17-mag,3,60,Toscana,Prato,256047,172,114,109,223,Provincia,PRATO,21/05/2021 ore 17:51,21/05/21,Toscana
+18-mag,4,60,Toscana,Prato,256047,157,115,111,226,Provincia,PRATO,21/05/2021 ore 17:51,21/05/21,Toscana
+19-mag,5,60,Toscana,Prato,256047,150,116,112,228,Provincia,PRATO,21/05/2021 ore 17:51,21/05/21,Toscana
+20-mag,6,60,Toscana,Prato,256047,138,117,115,232,Provincia,PRATO,21/05/2021 ore 17:51,21/05/21,Toscana
+21-mag,7,60,Toscana,Prato,256047,135,118,113,231,Provincia,PRATO,21/05/2021 ore 17:51,21/05/21,Toscana
+15-mag,1,69,Lazio,Roma,4227588,74,84,124,208,Città metropolitana,ROMA,21/05/2021 ore 17:51,21/05/21,Lazio
+16-mag,2,69,Lazio,Roma,4227588,70,85,124,209,Città metropolitana,ROMA,21/05/2021 ore 17:51,21/05/21,Lazio
+17-mag,3,69,Lazio,Roma,4227588,65,85,124,209,Città metropolitana,ROMA,21/05/2021 ore 17:51,21/05/21,Lazio
+18-mag,4,69,Lazio,Roma,4227588,69,86,127,213,Città metropolitana,ROMA,21/05/2021 ore 17:51,21/05/21,Lazio
+19-mag,5,69,Lazio,Roma,4227588,64,87,127,214,Città metropolitana,ROMA,21/05/2021 ore 17:51,21/05/21,Lazio
+20-mag,6,69,Lazio,Roma,4227588,62,88,128,216,Città metropolitana,ROMA,21/05/2021 ore 17:51,21/05/21,Lazio
+21-mag,7,69,Lazio,Roma,4227588,61,89,129,218,Città metropolitana,ROMA,21/05/2021 ore 17:51,21/05/21,Lazio
+15-mag,1,70,Lazio,Frosinone,473467,79,84,124,208,Provincia,FROSINONE,21/05/2021 ore 17:51,21/05/21,Lazio
+16-mag,2,70,Lazio,Frosinone,473467,71,85,124,209,Provincia,FROSINONE,21/05/2021 ore 17:51,21/05/21,Lazio
+17-mag,3,70,Lazio,Frosinone,473467,69,85,124,209,Provincia,FROSINONE,21/05/2021 ore 17:51,21/05/21,Lazio
+18-mag,4,70,Lazio,Frosinone,473467,57,86,127,213,Provincia,FROSINONE,21/05/2021 ore 17:51,21/05/21,Lazio
+19-mag,5,70,Lazio,Frosinone,473467,51,87,127,214,Provincia,FROSINONE,21/05/2021 ore 17:51,21/05/21,Lazio
+20-mag,6,70,Lazio,Frosinone,473467,51,88,128,216,Provincia,FROSINONE,21/05/2021 ore 17:51,21/05/21,Lazio
+21-mag,7,70,Lazio,Frosinone,473467,45,89,129,218,Provincia,FROSINONE,21/05/2021 ore 17:51,21/05/21,Lazio
+15-mag,1,71,Lazio,Rieti,151668,57,84,124,208,Provincia,RIETI,21/05/2021 ore 17:51,21/05/21,Lazio
+16-mag,2,71,Lazio,Rieti,151668,57,85,124,209,Provincia,RIETI,21/05/2021 ore 17:51,21/05/21,Lazio
+17-mag,3,71,Lazio,Rieti,151668,45,85,124,209,Provincia,RIETI,21/05/2021 ore 17:51,21/05/21,Lazio
+18-mag,4,71,Lazio,Rieti,151668,31,86,127,213,Provincia,RIETI,21/05/2021 ore 17:51,21/05/21,Lazio
+19-mag,5,71,Lazio,Rieti,151668,35,87,127,214,Provincia,RIETI,21/05/2021 ore 17:51,21/05/21,Lazio
+20-mag,6,71,Lazio,Rieti,151668,35,88,128,216,Provincia,RIETI,21/05/2021 ore 17:51,21/05/21,Lazio
+21-mag,7,71,Lazio,Rieti,151668,30,89,129,218,Provincia,RIETI,21/05/2021 ore 17:51,21/05/21,Lazio
+15-mag,1,72,Lazio,Viterbo,306934,88,84,124,208,Provincia,VITERBO,21/05/2021 ore 17:51,21/05/21,Lazio
+16-mag,2,72,Lazio,Viterbo,306934,87,85,124,209,Provincia,VITERBO,21/05/2021 ore 17:51,21/05/21,Lazio
+17-mag,3,72,Lazio,Viterbo,306934,83,85,124,209,Provincia,VITERBO,21/05/2021 ore 17:51,21/05/21,Lazio
+18-mag,4,72,Lazio,Viterbo,306934,46,86,127,213,Provincia,VITERBO,21/05/2021 ore 17:51,21/05/21,Lazio
+19-mag,5,72,Lazio,Viterbo,306934,62,87,127,214,Provincia,VITERBO,21/05/2021 ore 17:51,21/05/21,Lazio
+20-mag,6,72,Lazio,Viterbo,306934,59,88,128,216,Provincia,VITERBO,21/05/2021 ore 17:51,21/05/21,Lazio
+21-mag,7,72,Lazio,Viterbo,306934,45,89,129,218,Provincia,VITERBO,21/05/2021 ore 17:51,21/05/21,Lazio
+15-mag,1,73,Lazio,Latina,561139,142,84,124,208,Provincia,LATINA,21/05/2021 ore 17:51,21/05/21,Lazio
+16-mag,2,73,Lazio,Latina,561139,142,85,124,209,Provincia,LATINA,21/05/2021 ore 17:51,21/05/21,Lazio
+17-mag,3,73,Lazio,Latina,561139,135,85,124,209,Provincia,LATINA,21/05/2021 ore 17:51,21/05/21,Lazio
+18-mag,4,73,Lazio,Latina,561139,87,86,127,213,Provincia,LATINA,21/05/2021 ore 17:51,21/05/21,Lazio
+19-mag,5,73,Lazio,Latina,561139,92,87,127,214,Provincia,LATINA,21/05/2021 ore 17:51,21/05/21,Lazio
+20-mag,6,73,Lazio,Latina,561139,92,88,128,216,Provincia,LATINA,21/05/2021 ore 17:51,21/05/21,Lazio
+21-mag,7,73,Lazio,Latina,561139,68,89,129,218,Provincia,LATINA,21/05/2021 ore 17:51,21/05/21,Lazio
+15-mag,1,106,Umbria,Terni,221702,79,63,116,179,Provincia,TERNI,21/05/2021 ore 17:51,21/05/21,Umbria
+16-mag,2,106,Umbria,Terni,221702,65,63,116,179,Provincia,TERNI,21/05/2021 ore 17:51,21/05/21,Umbria
+17-mag,3,106,Umbria,Terni,221702,61,64,114,178,Provincia,TERNI,21/05/2021 ore 17:51,21/05/21,Umbria
+18-mag,4,106,Umbria,Terni,221702,50,64,114,178,Provincia,TERNI,21/05/2021 ore 17:51,21/05/21,Umbria
+19-mag,5,106,Umbria,Terni,221702,49,68,116,184,Provincia,TERNI,21/05/2021 ore 17:51,21/05/21,Umbria
+20-mag,6,106,Umbria,Terni,221702,28,69,117,186,Provincia,TERNI,21/05/2021 ore 17:51,21/05/21,Umbria
+21-mag,7,106,Umbria,Terni,221702,25,70,120,190,Provincia,TERNI,21/05/2021 ore 17:51,21/05/21,Umbria
+15-mag,1,107,Umbria,Perugia,643311,58,63,116,179,Provincia,PERUGIA,21/05/2021 ore 17:51,21/05/21,Umbria
+16-mag,2,107,Umbria,Perugia,643311,55,63,116,179,Provincia,PERUGIA,21/05/2021 ore 17:51,21/05/21,Umbria
+17-mag,3,107,Umbria,Perugia,643311,57,64,114,178,Provincia,PERUGIA,21/05/2021 ore 17:51,21/05/21,Umbria
+18-mag,4,107,Umbria,Perugia,643311,55,64,114,178,Provincia,PERUGIA,21/05/2021 ore 17:51,21/05/21,Umbria
+19-mag,5,107,Umbria,Perugia,643311,51,68,116,184,Provincia,PERUGIA,21/05/2021 ore 17:51,21/05/21,Umbria
+20-mag,6,107,Umbria,Perugia,643311,44,69,117,186,Provincia,PERUGIA,21/05/2021 ore 17:51,21/05/21,Umbria
+21-mag,7,107,Umbria,Perugia,643311,40,70,120,190,Provincia,PERUGIA,21/05/2021 ore 17:51,21/05/21,Umbria
+15-mag,1,110,Abruzzo,L'Aquila,292356,84,91,129,220,Provincia,L'AQUILA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+16-mag,2,110,Abruzzo,L'Aquila,292356,76,91,127,218,Provincia,L'AQUILA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+17-mag,3,110,Abruzzo,L'Aquila,292356,74,91,128,219,Provincia,L'AQUILA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+18-mag,4,110,Abruzzo,L'Aquila,292356,65,91,130,221,Provincia,L'AQUILA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+19-mag,5,110,Abruzzo,L'Aquila,292356,50,91,130,221,Provincia,L'AQUILA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+20-mag,6,110,Abruzzo,L'Aquila,292356,43,93,132,225,Provincia,L'AQUILA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+21-mag,7,110,Abruzzo,L'Aquila,292356,40,93,132,225,Provincia,L'AQUILA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+15-mag,1,111,Abruzzo,Chieti,376397,70,91,129,220,Provincia,CHIETI,21/05/2021 ore 17:51,21/05/21,Abruzzo
+16-mag,2,111,Abruzzo,Chieti,376397,72,91,127,218,Provincia,CHIETI,21/05/2021 ore 17:51,21/05/21,Abruzzo
+17-mag,3,111,Abruzzo,Chieti,376397,65,91,128,219,Provincia,CHIETI,21/05/2021 ore 17:51,21/05/21,Abruzzo
+18-mag,4,111,Abruzzo,Chieti,376397,66,91,130,221,Provincia,CHIETI,21/05/2021 ore 17:51,21/05/21,Abruzzo
+19-mag,5,111,Abruzzo,Chieti,376397,55,91,130,221,Provincia,CHIETI,21/05/2021 ore 17:51,21/05/21,Abruzzo
+20-mag,6,111,Abruzzo,Chieti,376397,55,93,132,225,Provincia,CHIETI,21/05/2021 ore 17:51,21/05/21,Abruzzo
+21-mag,7,111,Abruzzo,Chieti,376397,45,93,132,225,Provincia,CHIETI,21/05/2021 ore 17:51,21/05/21,Abruzzo
+15-mag,1,112,Abruzzo,Pescara,314689,29,91,129,220,Provincia,PESCARA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+16-mag,2,112,Abruzzo,Pescara,314689,31,91,127,218,Provincia,PESCARA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+17-mag,3,112,Abruzzo,Pescara,314689,31,91,128,219,Provincia,PESCARA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+18-mag,4,112,Abruzzo,Pescara,314689,25,91,130,221,Provincia,PESCARA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+19-mag,5,112,Abruzzo,Pescara,314689,26,91,130,221,Provincia,PESCARA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+20-mag,6,112,Abruzzo,Pescara,314689,21,93,132,225,Provincia,PESCARA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+21-mag,7,112,Abruzzo,Pescara,314689,16,93,132,225,Provincia,PESCARA,21/05/2021 ore 17:51,21/05/21,Abruzzo
+15-mag,1,113,Abruzzo,Teramo,301814,54,91,129,220,Provincia,TERAMO,21/05/2021 ore 17:51,21/05/21,Abruzzo
+16-mag,2,113,Abruzzo,Teramo,301814,44,91,127,218,Provincia,TERAMO,21/05/2021 ore 17:51,21/05/21,Abruzzo
+17-mag,3,113,Abruzzo,Teramo,301814,43,91,128,219,Provincia,TERAMO,21/05/2021 ore 17:51,21/05/21,Abruzzo
+18-mag,4,113,Abruzzo,Teramo,301814,41,91,130,221,Provincia,TERAMO,21/05/2021 ore 17:51,21/05/21,Abruzzo
+19-mag,5,113,Abruzzo,Teramo,301814,41,91,130,221,Provincia,TERAMO,21/05/2021 ore 17:51,21/05/21,Abruzzo
+20-mag,6,113,Abruzzo,Teramo,301814,44,93,132,225,Provincia,TERAMO,21/05/2021 ore 17:51,21/05/21,Abruzzo
+21-mag,7,113,Abruzzo,Teramo,301814,39,93,132,225,Provincia,TERAMO,21/05/2021 ore 17:51,21/05/21,Abruzzo
+15-mag,1,115,Molise,Campob.,214629,29,69,118,187,Provincia,CAMPOBASSO,21/05/2021 ore 17:51,21/05/21,Molise
+16-mag,2,115,Molise,Campob.,214629,23,69,118,187,Provincia,CAMPOBASSO,21/05/2021 ore 17:51,21/05/21,Molise
+17-mag,3,115,Molise,Campob.,214629,23,69,118,187,Provincia,CAMPOBASSO,21/05/2021 ore 17:51,21/05/21,Molise
+18-mag,4,115,Molise,Campob.,214629,22,69,118,187,Provincia,CAMPOBASSO,21/05/2021 ore 17:51,21/05/21,Molise
+19-mag,5,115,Molise,Campob.,214629,18,69,118,187,Provincia,CAMPOBASSO,21/05/2021 ore 17:51,21/05/21,Molise
+20-mag,6,115,Molise,Campob.,214629,14,70,115,185,Provincia,CAMPOBASSO,21/05/2021 ore 17:51,21/05/21,Molise
+21-mag,7,115,Molise,Campob.,214629,10,70,115,185,Provincia,CAMPOBASSO,21/05/2021 ore 17:51,21/05/21,Molise
+15-mag,1,116,Molise,Isernia,81918,29,69,118,187,Provincia,ISERNIA,21/05/2021 ore 17:51,21/05/21,Molise
+16-mag,2,116,Molise,Isernia,81918,40,69,118,187,Provincia,ISERNIA,21/05/2021 ore 17:51,21/05/21,Molise
+17-mag,3,116,Molise,Isernia,81918,39,69,118,187,Provincia,ISERNIA,21/05/2021 ore 17:51,21/05/21,Molise
+18-mag,4,116,Molise,Isernia,81918,39,69,118,187,Provincia,ISERNIA,21/05/2021 ore 17:51,21/05/21,Molise
+19-mag,5,116,Molise,Isernia,81918,31,69,118,187,Provincia,ISERNIA,21/05/2021 ore 17:51,21/05/21,Molise
+20-mag,6,116,Molise,Isernia,81918,33,70,115,185,Provincia,ISERNIA,21/05/2021 ore 17:51,21/05/21,Molise
+21-mag,7,116,Molise,Isernia,81918,37,70,115,185,Provincia,ISERNIA,21/05/2021 ore 17:51,21/05/21,Molise
+15-mag,1,62,Campania,Napoli,3017658,151,55,91,146,Città metropolitana,NAPOLI,21/05/2021 ore 17:51,21/05/21,Campania
+16-mag,2,62,Campania,Napoli,3017658,144,55,92,147,Città metropolitana,NAPOLI,21/05/2021 ore 17:51,21/05/21,Campania
+17-mag,3,62,Campania,Napoli,3017658,136,55,92,147,Città metropolitana,NAPOLI,21/05/2021 ore 17:51,21/05/21,Campania
+18-mag,4,62,Campania,Napoli,3017658,126,55,92,147,Città metropolitana,NAPOLI,21/05/2021 ore 17:51,21/05/21,Campania
+19-mag,5,62,Campania,Napoli,3017658,116,56,93,149,Città metropolitana,NAPOLI,21/05/2021 ore 17:51,21/05/21,Campania
+20-mag,6,62,Campania,Napoli,3017658,108,56,93,149,Città metropolitana,NAPOLI,21/05/2021 ore 17:51,21/05/21,Campania
+21-mag,7,62,Campania,Napoli,3017658,98,57,94,151,Città metropolitana,NAPOLI,21/05/2021 ore 17:51,21/05/21,Campania
+15-mag,1,63,Campania,Salerno,1075299,104,55,91,146,Provincia,SALERNO,21/05/2021 ore 17:51,21/05/21,Campania
+16-mag,2,63,Campania,Salerno,1075299,97,55,92,147,Provincia,SALERNO,21/05/2021 ore 17:51,21/05/21,Campania
+17-mag,3,63,Campania,Salerno,1075299,92,55,92,147,Provincia,SALERNO,21/05/2021 ore 17:51,21/05/21,Campania
+18-mag,4,63,Campania,Salerno,1075299,87,55,92,147,Provincia,SALERNO,21/05/2021 ore 17:51,21/05/21,Campania
+19-mag,5,63,Campania,Salerno,1075299,84,56,93,149,Provincia,SALERNO,21/05/2021 ore 17:51,21/05/21,Campania
+20-mag,6,63,Campania,Salerno,1075299,79,56,93,149,Provincia,SALERNO,21/05/2021 ore 17:51,21/05/21,Campania
+21-mag,7,63,Campania,Salerno,1075299,75,57,94,151,Provincia,SALERNO,21/05/2021 ore 17:51,21/05/21,Campania
+15-mag,1,64,Campania,Caserta,911606,126,55,91,146,Provincia,CASERTA,21/05/2021 ore 17:51,21/05/21,Campania
+16-mag,2,64,Campania,Caserta,911606,126,55,92,147,Provincia,CASERTA,21/05/2021 ore 17:51,21/05/21,Campania
+17-mag,3,64,Campania,Caserta,911606,116,55,92,147,Provincia,CASERTA,21/05/2021 ore 17:51,21/05/21,Campania
+18-mag,4,64,Campania,Caserta,911606,109,55,92,147,Provincia,CASERTA,21/05/2021 ore 17:51,21/05/21,Campania
+19-mag,5,64,Campania,Caserta,911606,97,56,93,149,Provincia,CASERTA,21/05/2021 ore 17:51,21/05/21,Campania
+20-mag,6,64,Campania,Caserta,911606,82,56,93,149,Provincia,CASERTA,21/05/2021 ore 17:51,21/05/21,Campania
+21-mag,7,64,Campania,Caserta,911606,82,57,94,151,Provincia,CASERTA,21/05/2021 ore 17:51,21/05/21,Campania
+15-mag,1,65,Campania,Avellino,405963,133,55,91,146,Provincia,AVELLINO,21/05/2021 ore 17:51,21/05/21,Campania
+16-mag,2,65,Campania,Avellino,405963,126,55,92,147,Provincia,AVELLINO,21/05/2021 ore 17:51,21/05/21,Campania
+17-mag,3,65,Campania,Avellino,405963,125,55,92,147,Provincia,AVELLINO,21/05/2021 ore 17:51,21/05/21,Campania
+18-mag,4,65,Campania,Avellino,405963,103,55,92,147,Provincia,AVELLINO,21/05/2021 ore 17:51,21/05/21,Campania
+19-mag,5,65,Campania,Avellino,405963,98,56,93,149,Provincia,AVELLINO,21/05/2021 ore 17:51,21/05/21,Campania
+20-mag,6,65,Campania,Avellino,405963,94,56,93,149,Provincia,AVELLINO,21/05/2021 ore 17:51,21/05/21,Campania
+21-mag,7,65,Campania,Avellino,405963,75,57,94,151,Provincia,AVELLINO,21/05/2021 ore 17:51,21/05/21,Campania
+15-mag,1,66,Campania,Benev.,269233,76,55,91,146,Provincia,BENEVENTO,21/05/2021 ore 17:51,21/05/21,Campania
+16-mag,2,66,Campania,Benev.,269233,71,55,92,147,Provincia,BENEVENTO,21/05/2021 ore 17:51,21/05/21,Campania
+17-mag,3,66,Campania,Benev.,269233,71,55,92,147,Provincia,BENEVENTO,21/05/2021 ore 17:51,21/05/21,Campania
+18-mag,4,66,Campania,Benev.,269233,74,55,92,147,Provincia,BENEVENTO,21/05/2021 ore 17:51,21/05/21,Campania
+19-mag,5,66,Campania,Benev.,269233,67,56,93,149,Provincia,BENEVENTO,21/05/2021 ore 17:51,21/05/21,Campania
+20-mag,6,66,Campania,Benev.,269233,66,56,93,149,Provincia,BENEVENTO,21/05/2021 ore 17:51,21/05/21,Campania
+21-mag,7,66,Campania,Benev.,269233,60,57,94,151,Provincia,BENEVENTO,21/05/2021 ore 17:51,21/05/21,Campania
+15-mag,1,98,Puglia,Bari,1222818,88,67,115,182,Città metropolitana,BARI,21/05/2021 ore 17:51,21/05/21,Puglia
+16-mag,2,98,Puglia,Bari,1222818,77,67,117,184,Città metropolitana,BARI,21/05/2021 ore 17:51,21/05/21,Puglia
+17-mag,3,98,Puglia,Bari,1222818,76,68,117,185,Città metropolitana,BARI,21/05/2021 ore 17:51,21/05/21,Puglia
+18-mag,4,98,Puglia,Bari,1222818,69,70,117,187,Città metropolitana,BARI,21/05/2021 ore 17:51,21/05/21,Puglia
+19-mag,5,98,Puglia,Bari,1222818,65,71,117,188,Città metropolitana,BARI,21/05/2021 ore 17:51,21/05/21,Puglia
+20-mag,6,98,Puglia,Bari,1222818,60,73,121,194,Città metropolitana,BARI,21/05/2021 ore 17:51,21/05/21,Puglia
+21-mag,7,98,Puglia,Bari,1222818,57,73,123,196,Città metropolitana,BARI,21/05/2021 ore 17:51,21/05/21,Puglia
+15-mag,1,99,Puglia,BAT,382685,134,67,115,182,Provincia,BARLETTA-ANDRIA-TRANI,21/05/2021 ore 17:51,21/05/21,Puglia
+16-mag,2,99,Puglia,BAT,382685,116,67,117,184,Provincia,BARLETTA-ANDRIA-TRANI,21/05/2021 ore 17:51,21/05/21,Puglia
+17-mag,3,99,Puglia,BAT,382685,116,68,117,185,Provincia,BARLETTA-ANDRIA-TRANI,21/05/2021 ore 17:51,21/05/21,Puglia
+18-mag,4,99,Puglia,BAT,382685,118,70,117,187,Provincia,BARLETTA-ANDRIA-TRANI,21/05/2021 ore 17:51,21/05/21,Puglia
+19-mag,5,99,Puglia,BAT,382685,118,71,117,188,Provincia,BARLETTA-ANDRIA-TRANI,21/05/2021 ore 17:51,21/05/21,Puglia
+20-mag,6,99,Puglia,BAT,382685,114,73,121,194,Provincia,BARLETTA-ANDRIA-TRANI,21/05/2021 ore 17:51,21/05/21,Puglia
+21-mag,7,99,Puglia,BAT,382685,96,73,123,196,Provincia,BARLETTA-ANDRIA-TRANI,21/05/2021 ore 17:51,21/05/21,Puglia
+15-mag,1,100,Puglia,Brindisi,382454,94,67,115,182,Provincia,BRINDISI,21/05/2021 ore 17:51,21/05/21,Puglia
+16-mag,2,100,Puglia,Brindisi,382454,96,67,117,184,Provincia,BRINDISI,21/05/2021 ore 17:51,21/05/21,Puglia
+17-mag,3,100,Puglia,Brindisi,382454,98,68,117,185,Provincia,BRINDISI,21/05/2021 ore 17:51,21/05/21,Puglia
+18-mag,4,100,Puglia,Brindisi,382454,93,70,117,187,Provincia,BRINDISI,21/05/2021 ore 17:51,21/05/21,Puglia
+19-mag,5,100,Puglia,Brindisi,382454,93,71,117,188,Provincia,BRINDISI,21/05/2021 ore 17:51,21/05/21,Puglia
+20-mag,6,100,Puglia,Brindisi,382454,92,73,121,194,Provincia,BRINDISI,21/05/2021 ore 17:51,21/05/21,Puglia
+21-mag,7,100,Puglia,Brindisi,382454,89,73,123,196,Provincia,BRINDISI,21/05/2021 ore 17:51,21/05/21,Puglia
+15-mag,1,101,Puglia,Foggia,601419,99,67,115,182,Provincia,FOGGIA,21/05/2021 ore 17:51,21/05/21,Puglia
+16-mag,2,101,Puglia,Foggia,601419,90,67,117,184,Provincia,FOGGIA,21/05/2021 ore 17:51,21/05/21,Puglia
+17-mag,3,101,Puglia,Foggia,601419,87,68,117,185,Provincia,FOGGIA,21/05/2021 ore 17:51,21/05/21,Puglia
+18-mag,4,101,Puglia,Foggia,601419,75,70,117,187,Provincia,FOGGIA,21/05/2021 ore 17:51,21/05/21,Puglia
+19-mag,5,101,Puglia,Foggia,601419,71,71,117,188,Provincia,FOGGIA,21/05/2021 ore 17:51,21/05/21,Puglia
+20-mag,6,101,Puglia,Foggia,601419,69,73,121,194,Provincia,FOGGIA,21/05/2021 ore 17:51,21/05/21,Puglia
+21-mag,7,101,Puglia,Foggia,601419,70,73,123,196,Provincia,FOGGIA,21/05/2021 ore 17:51,21/05/21,Puglia
+15-mag,1,102,Puglia,Lecce,777507,103,67,115,182,Provincia,LECCE,21/05/2021 ore 17:51,21/05/21,Puglia
+16-mag,2,102,Puglia,Lecce,777507,110,67,117,184,Provincia,LECCE,21/05/2021 ore 17:51,21/05/21,Puglia
+17-mag,3,102,Puglia,Lecce,777507,99,68,117,185,Provincia,LECCE,21/05/2021 ore 17:51,21/05/21,Puglia
+18-mag,4,102,Puglia,Lecce,777507,92,70,117,187,Provincia,LECCE,21/05/2021 ore 17:51,21/05/21,Puglia
+19-mag,5,102,Puglia,Lecce,777507,88,71,117,188,Provincia,LECCE,21/05/2021 ore 17:51,21/05/21,Puglia
+20-mag,6,102,Puglia,Lecce,777507,85,73,121,194,Provincia,LECCE,21/05/2021 ore 17:51,21/05/21,Puglia
+21-mag,7,102,Puglia,Lecce,777507,77,73,123,196,Provincia,LECCE,21/05/2021 ore 17:51,21/05/21,Puglia
+15-mag,1,103,Puglia,Taranto,560048,97,67,115,182,Provincia,TARANTO,21/05/2021 ore 17:51,21/05/21,Puglia
+16-mag,2,103,Puglia,Taranto,560048,89,67,117,184,Provincia,TARANTO,21/05/2021 ore 17:51,21/05/21,Puglia
+17-mag,3,103,Puglia,Taranto,560048,90,68,117,185,Provincia,TARANTO,21/05/2021 ore 17:51,21/05/21,Puglia
+18-mag,4,103,Puglia,Taranto,560048,81,70,117,187,Provincia,TARANTO,21/05/2021 ore 17:51,21/05/21,Puglia
+19-mag,5,103,Puglia,Taranto,560048,69,71,117,188,Provincia,TARANTO,21/05/2021 ore 17:51,21/05/21,Puglia
+20-mag,6,103,Puglia,Taranto,560048,58,73,121,194,Provincia,TARANTO,21/05/2021 ore 17:51,21/05/21,Puglia
+21-mag,7,103,Puglia,Taranto,560048,50,73,123,196,Provincia,TARANTO,21/05/2021 ore 17:51,21/05/21,Puglia
+15-mag,1,128,Basilicata,Potenza,354122,140,62,145,207,Provincia,POTENZA,21/05/2021 ore 17:51,21/05/21,Basilicata
+16-mag,2,128,Basilicata,Potenza,354122,138,62,145,207,Provincia,POTENZA,21/05/2021 ore 17:51,21/05/21,Basilicata
+17-mag,3,128,Basilicata,Potenza,354122,138,62,146,208,Provincia,POTENZA,21/05/2021 ore 17:51,21/05/21,Basilicata
+18-mag,4,128,Basilicata,Potenza,354122,138,63,145,208,Provincia,POTENZA,21/05/2021 ore 17:51,21/05/21,Basilicata
+19-mag,5,128,Basilicata,Potenza,354122,121,65,150,215,Provincia,POTENZA,21/05/2021 ore 17:51,21/05/21,Basilicata
+20-mag,6,128,Basilicata,Potenza,354122,113,65,152,217,Provincia,POTENZA,21/05/2021 ore 17:51,21/05/21,Basilicata
+21-mag,7,128,Basilicata,Potenza,354122,104,66,152,218,Provincia,POTENZA,21/05/2021 ore 17:51,21/05/21,Basilicata
+15-mag,1,129,Basilicata,Matera,193457,78,62,145,207,Provincia,MATERA,21/05/2021 ore 17:51,21/05/21,Basilicata
+16-mag,2,129,Basilicata,Matera,193457,74,62,145,207,Provincia,MATERA,21/05/2021 ore 17:51,21/05/21,Basilicata
+17-mag,3,129,Basilicata,Matera,193457,72,62,146,208,Provincia,MATERA,21/05/2021 ore 17:51,21/05/21,Basilicata
+18-mag,4,129,Basilicata,Matera,193457,73,63,145,208,Provincia,MATERA,21/05/2021 ore 17:51,21/05/21,Basilicata
+19-mag,5,129,Basilicata,Matera,193457,75,65,150,215,Provincia,MATERA,21/05/2021 ore 17:51,21/05/21,Basilicata
+20-mag,6,129,Basilicata,Matera,193457,70,65,152,217,Provincia,MATERA,21/05/2021 ore 17:51,21/05/21,Basilicata
+21-mag,7,129,Basilicata,Matera,193457,59,66,152,218,Provincia,MATERA,21/05/2021 ore 17:51,21/05/21,Basilicata
+15-mag,1,133,Calabria,Cosenza,684786,94,33,70,103,Provincia,COSENZA,21/05/2021 ore 17:51,21/05/21,Calabria
+16-mag,2,133,Calabria,Cosenza,684786,81,34,72,106,Provincia,COSENZA,21/05/2021 ore 17:51,21/05/21,Calabria
+17-mag,3,133,Calabria,Cosenza,684786,76,33,69,102,Provincia,COSENZA,21/05/2021 ore 17:51,21/05/21,Calabria
+18-mag,4,133,Calabria,Cosenza,684786,74,33,67,100,Provincia,COSENZA,21/05/2021 ore 17:51,21/05/21,Calabria
+19-mag,5,133,Calabria,Cosenza,684786,70,33,67,100,Provincia,COSENZA,21/05/2021 ore 17:51,21/05/21,Calabria
+20-mag,6,133,Calabria,Cosenza,684786,60,34,67,101,Provincia,COSENZA,21/05/2021 ore 17:51,21/05/21,Calabria
+21-mag,7,133,Calabria,Cosenza,684786,52,34,67,101,Provincia,COSENZA,21/05/2021 ore 17:51,21/05/21,Calabria
+15-mag,1,134,Calabria,Reggio C.,526586,102,33,70,103,Città metropolitana,REGGIO CALABRIA,21/05/2021 ore 17:51,21/05/21,Calabria
+16-mag,2,134,Calabria,Reggio C.,526586,104,34,72,106,Città metropolitana,REGGIO CALABRIA,21/05/2021 ore 17:51,21/05/21,Calabria
+17-mag,3,134,Calabria,Reggio C.,526586,94,33,69,102,Città metropolitana,REGGIO CALABRIA,21/05/2021 ore 17:51,21/05/21,Calabria
+18-mag,4,134,Calabria,Reggio C.,526586,86,33,67,100,Città metropolitana,REGGIO CALABRIA,21/05/2021 ore 17:51,21/05/21,Calabria
+19-mag,5,134,Calabria,Reggio C.,526586,84,33,67,100,Città metropolitana,REGGIO CALABRIA,21/05/2021 ore 17:51,21/05/21,Calabria
+20-mag,6,134,Calabria,Reggio C.,526586,77,34,67,101,Città metropolitana,REGGIO CALABRIA,21/05/2021 ore 17:51,21/05/21,Calabria
+21-mag,7,134,Calabria,Reggio C.,526586,78,34,67,101,Città metropolitana,REGGIO CALABRIA,21/05/2021 ore 17:51,21/05/21,Calabria
+15-mag,1,135,Calabria,Catanzaro,346514,66,33,70,103,Provincia,CATANZARO,21/05/2021 ore 17:51,21/05/21,Calabria
+16-mag,2,135,Calabria,Catanzaro,346514,63,34,72,106,Provincia,CATANZARO,21/05/2021 ore 17:51,21/05/21,Calabria
+17-mag,3,135,Calabria,Catanzaro,346514,64,33,69,102,Provincia,CATANZARO,21/05/2021 ore 17:51,21/05/21,Calabria
+18-mag,4,135,Calabria,Catanzaro,346514,62,33,67,100,Provincia,CATANZARO,21/05/2021 ore 17:51,21/05/21,Calabria
+19-mag,5,135,Calabria,Catanzaro,346514,66,33,67,100,Provincia,CATANZARO,21/05/2021 ore 17:51,21/05/21,Calabria
+20-mag,6,135,Calabria,Catanzaro,346514,63,34,67,101,Provincia,CATANZARO,21/05/2021 ore 17:51,21/05/21,Calabria
+21-mag,7,135,Calabria,Catanzaro,346514,74,34,67,101,Provincia,CATANZARO,21/05/2021 ore 17:51,21/05/21,Calabria
+15-mag,1,136,Calabria,Vibo V.,153225,63,33,70,103,Provincia,VIBO VALENTIA,21/05/2021 ore 17:51,21/05/21,Calabria
+16-mag,2,136,Calabria,Vibo V.,153225,62,34,72,106,Provincia,VIBO VALENTIA,21/05/2021 ore 17:51,21/05/21,Calabria
+17-mag,3,136,Calabria,Vibo V.,153225,59,33,69,102,Provincia,VIBO VALENTIA,21/05/2021 ore 17:51,21/05/21,Calabria
+18-mag,4,136,Calabria,Vibo V.,153225,51,33,67,100,Provincia,VIBO VALENTIA,21/05/2021 ore 17:51,21/05/21,Calabria
+19-mag,5,136,Calabria,Vibo V.,153225,52,33,67,100,Provincia,VIBO VALENTIA,21/05/2021 ore 17:51,21/05/21,Calabria
+20-mag,6,136,Calabria,Vibo V.,153225,53,34,67,101,Provincia,VIBO VALENTIA,21/05/2021 ore 17:51,21/05/21,Calabria
+21-mag,7,136,Calabria,Vibo V.,153225,59,34,67,101,Provincia,VIBO VALENTIA,21/05/2021 ore 17:51,21/05/21,Calabria
+15-mag,1,137,Calabria,Crotone,166617,157,33,70,103,Provincia,CROTONE,21/05/2021 ore 17:51,21/05/21,Calabria
+16-mag,2,137,Calabria,Crotone,166617,157,34,72,106,Provincia,CROTONE,21/05/2021 ore 17:51,21/05/21,Calabria
+17-mag,3,137,Calabria,Crotone,166617,153,33,69,102,Provincia,CROTONE,21/05/2021 ore 17:51,21/05/21,Calabria
+18-mag,4,137,Calabria,Crotone,166617,121,33,67,100,Provincia,CROTONE,21/05/2021 ore 17:51,21/05/21,Calabria
+19-mag,5,137,Calabria,Crotone,166617,105,33,67,100,Provincia,CROTONE,21/05/2021 ore 17:51,21/05/21,Calabria
+20-mag,6,137,Calabria,Crotone,166617,134,34,67,101,Provincia,CROTONE,21/05/2021 ore 17:51,21/05/21,Calabria
+21-mag,7,137,Calabria,Crotone,166617,134,34,67,101,Provincia,CROTONE,21/05/2021 ore 17:51,21/05/21,Calabria
+15-mag,1,88,Sicilia,Agrigento,419847,69,63,150,213,Libero consorzio di comuni,AGRIGENTO,21/05/2021 ore 17:51,21/05/21,Sicilia
+16-mag,2,88,Sicilia,Agrigento,419847,67,62,150,212,Libero consorzio di comuni,AGRIGENTO,21/05/2021 ore 17:51,21/05/21,Sicilia
+17-mag,3,88,Sicilia,Agrigento,419847,71,62,149,211,Libero consorzio di comuni,AGRIGENTO,21/05/2021 ore 17:51,21/05/21,Sicilia
+18-mag,4,88,Sicilia,Agrigento,419847,58,63,150,213,Libero consorzio di comuni,AGRIGENTO,21/05/2021 ore 17:51,21/05/21,Sicilia
+19-mag,5,88,Sicilia,Agrigento,419847,62,65,150,215,Libero consorzio di comuni,AGRIGENTO,21/05/2021 ore 17:51,21/05/21,Sicilia
+20-mag,6,88,Sicilia,Agrigento,419847,53,65,151,216,Libero consorzio di comuni,AGRIGENTO,21/05/2021 ore 17:51,21/05/21,Sicilia
+21-mag,7,88,Sicilia,Agrigento,419847,54,66,152,218,Libero consorzio di comuni,AGRIGENTO,21/05/2021 ore 17:51,21/05/21,Sicilia
+15-mag,1,89,Sicilia,Caltaniss.,252803,101,63,150,213,Libero consorzio di comuni,CALTANISSETTA,21/05/2021 ore 17:51,21/05/21,Sicilia
+16-mag,2,89,Sicilia,Caltaniss.,252803,84,62,150,212,Libero consorzio di comuni,CALTANISSETTA,21/05/2021 ore 17:51,21/05/21,Sicilia
+17-mag,3,89,Sicilia,Caltaniss.,252803,77,62,149,211,Libero consorzio di comuni,CALTANISSETTA,21/05/2021 ore 17:51,21/05/21,Sicilia
+18-mag,4,89,Sicilia,Caltaniss.,252803,61,63,150,213,Libero consorzio di comuni,CALTANISSETTA,21/05/2021 ore 17:51,21/05/21,Sicilia
+19-mag,5,89,Sicilia,Caltaniss.,252803,50,65,150,215,Libero consorzio di comuni,CALTANISSETTA,21/05/2021 ore 17:51,21/05/21,Sicilia
+20-mag,6,89,Sicilia,Caltaniss.,252803,47,65,151,216,Libero consorzio di comuni,CALTANISSETTA,21/05/2021 ore 17:51,21/05/21,Sicilia
+21-mag,7,89,Sicilia,Caltaniss.,252803,35,66,152,218,Libero consorzio di comuni,CALTANISSETTA,21/05/2021 ore 17:51,21/05/21,Sicilia
+15-mag,1,90,Sicilia,Catania,1066765,122,63,150,213,Città metropolitana,CATANIA,21/05/2021 ore 17:51,21/05/21,Sicilia
+16-mag,2,90,Sicilia,Catania,1066765,121,62,150,212,Città metropolitana,CATANIA,21/05/2021 ore 17:51,21/05/21,Sicilia
+17-mag,3,90,Sicilia,Catania,1066765,117,62,149,211,Città metropolitana,CATANIA,21/05/2021 ore 17:51,21/05/21,Sicilia
+18-mag,4,90,Sicilia,Catania,1066765,95,63,150,213,Città metropolitana,CATANIA,21/05/2021 ore 17:51,21/05/21,Sicilia
+19-mag,5,90,Sicilia,Catania,1066765,97,65,150,215,Città metropolitana,CATANIA,21/05/2021 ore 17:51,21/05/21,Sicilia
+20-mag,6,90,Sicilia,Catania,1066765,91,65,151,216,Città metropolitana,CATANIA,21/05/2021 ore 17:51,21/05/21,Sicilia
+21-mag,7,90,Sicilia,Catania,1066765,88,66,152,218,Città metropolitana,CATANIA,21/05/2021 ore 17:51,21/05/21,Sicilia
+15-mag,1,91,Sicilia,Enna,158183,39,63,150,213,Libero consorzio di comuni,ENNA,21/05/2021 ore 17:51,21/05/21,Sicilia
+16-mag,2,91,Sicilia,Enna,158183,59,62,150,212,Libero consorzio di comuni,ENNA,21/05/2021 ore 17:51,21/05/21,Sicilia
+17-mag,3,91,Sicilia,Enna,158183,63,62,149,211,Libero consorzio di comuni,ENNA,21/05/2021 ore 17:51,21/05/21,Sicilia
+18-mag,4,91,Sicilia,Enna,158183,54,63,150,213,Libero consorzio di comuni,ENNA,21/05/2021 ore 17:51,21/05/21,Sicilia
+19-mag,5,91,Sicilia,Enna,158183,46,65,150,215,Libero consorzio di comuni,ENNA,21/05/2021 ore 17:51,21/05/21,Sicilia
+20-mag,6,91,Sicilia,Enna,158183,65,65,151,216,Libero consorzio di comuni,ENNA,21/05/2021 ore 17:51,21/05/21,Sicilia
+21-mag,7,91,Sicilia,Enna,158183,64,66,152,218,Libero consorzio di comuni,ENNA,21/05/2021 ore 17:51,21/05/21,Sicilia
+15-mag,1,92,Sicilia,Messina,609223,76,63,150,213,Città metropolitana,MESSINA,21/05/2021 ore 17:51,21/05/21,Sicilia
+16-mag,2,92,Sicilia,Messina,609223,77,62,150,212,Città metropolitana,MESSINA,21/05/2021 ore 17:51,21/05/21,Sicilia
+17-mag,3,92,Sicilia,Messina,609223,76,62,149,211,Città metropolitana,MESSINA,21/05/2021 ore 17:51,21/05/21,Sicilia
+18-mag,4,92,Sicilia,Messina,609223,70,63,150,213,Città metropolitana,MESSINA,21/05/2021 ore 17:51,21/05/21,Sicilia
+19-mag,5,92,Sicilia,Messina,609223,66,65,150,215,Città metropolitana,MESSINA,21/05/2021 ore 17:51,21/05/21,Sicilia
+20-mag,6,92,Sicilia,Messina,609223,63,65,151,216,Città metropolitana,MESSINA,21/05/2021 ore 17:51,21/05/21,Sicilia
+21-mag,7,92,Sicilia,Messina,609223,68,66,152,218,Città metropolitana,MESSINA,21/05/2021 ore 17:51,21/05/21,Sicilia
+15-mag,1,93,Sicilia,Palermo,1214291,89,63,150,213,Città metropolitana,PALERMO,21/05/2021 ore 17:51,21/05/21,Sicilia
+16-mag,2,93,Sicilia,Palermo,1214291,87,62,150,212,Città metropolitana,PALERMO,21/05/2021 ore 17:51,21/05/21,Sicilia
+17-mag,3,93,Sicilia,Palermo,1214291,71,62,149,211,Città metropolitana,PALERMO,21/05/2021 ore 17:51,21/05/21,Sicilia
+18-mag,4,93,Sicilia,Palermo,1214291,67,63,150,213,Città metropolitana,PALERMO,21/05/2021 ore 17:51,21/05/21,Sicilia
+19-mag,5,93,Sicilia,Palermo,1214291,67,65,150,215,Città metropolitana,PALERMO,21/05/2021 ore 17:51,21/05/21,Sicilia
+20-mag,6,93,Sicilia,Palermo,1214291,63,65,151,216,Città metropolitana,PALERMO,21/05/2021 ore 17:51,21/05/21,Sicilia
+21-mag,7,93,Sicilia,Palermo,1214291,59,66,152,218,Città metropolitana,PALERMO,21/05/2021 ore 17:51,21/05/21,Sicilia
+15-mag,1,94,Sicilia,Ragusa,314950,108,63,150,213,Libero consorzio di comuni,RAGUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+16-mag,2,94,Sicilia,Ragusa,314950,96,62,150,212,Libero consorzio di comuni,RAGUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+17-mag,3,94,Sicilia,Ragusa,314950,99,62,149,211,Libero consorzio di comuni,RAGUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+18-mag,4,94,Sicilia,Ragusa,314950,86,63,150,213,Libero consorzio di comuni,RAGUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+19-mag,5,94,Sicilia,Ragusa,314950,94,65,150,215,Libero consorzio di comuni,RAGUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+20-mag,6,94,Sicilia,Ragusa,314950,103,65,151,216,Libero consorzio di comuni,RAGUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+21-mag,7,94,Sicilia,Ragusa,314950,103,66,152,218,Libero consorzio di comuni,RAGUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+15-mag,1,95,Sicilia,Siracusa,386451,82,63,150,213,Libero consorzio di comuni,SIRACUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+16-mag,2,95,Sicilia,Siracusa,386451,79,62,150,212,Libero consorzio di comuni,SIRACUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+17-mag,3,95,Sicilia,Siracusa,386451,67,62,149,211,Libero consorzio di comuni,SIRACUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+18-mag,4,95,Sicilia,Siracusa,386451,64,63,150,213,Libero consorzio di comuni,SIRACUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+19-mag,5,95,Sicilia,Siracusa,386451,62,65,150,215,Libero consorzio di comuni,SIRACUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+20-mag,6,95,Sicilia,Siracusa,386451,57,65,151,216,Libero consorzio di comuni,SIRACUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+21-mag,7,95,Sicilia,Siracusa,386451,50,66,152,218,Libero consorzio di comuni,SIRACUSA,21/05/2021 ore 17:51,21/05/21,Sicilia
+15-mag,1,96,Sicilia,Trapani,418363,49,63,150,213,Libero consorzio di comuni,TRAPANI,21/05/2021 ore 17:51,21/05/21,Sicilia
+16-mag,2,96,Sicilia,Trapani,418363,49,62,150,212,Libero consorzio di comuni,TRAPANI,21/05/2021 ore 17:51,21/05/21,Sicilia
+17-mag,3,96,Sicilia,Trapani,418363,47,62,149,211,Libero consorzio di comuni,TRAPANI,21/05/2021 ore 17:51,21/05/21,Sicilia
+18-mag,4,96,Sicilia,Trapani,418363,46,63,150,213,Libero consorzio di comuni,TRAPANI,21/05/2021 ore 17:51,21/05/21,Sicilia
+19-mag,5,96,Sicilia,Trapani,418363,48,65,150,215,Libero consorzio di comuni,TRAPANI,21/05/2021 ore 17:51,21/05/21,Sicilia
+20-mag,6,96,Sicilia,Trapani,418363,45,65,151,216,Libero consorzio di comuni,TRAPANI,21/05/2021 ore 17:51,21/05/21,Sicilia
+21-mag,7,96,Sicilia,Trapani,418363,50,66,152,218,Libero consorzio di comuni,TRAPANI,21/05/2021 ore 17:51,21/05/21,Sicilia
+15-mag,1,122,Sardegna,Cagliari,420117,27,86,111,197,Città metropolitana,CAGLIARI,21/05/2021 ore 17:51,21/05/21,Sardegna
+16-mag,2,122,Sardegna,Cagliari,420117,25,87,111,198,Città metropolitana,CAGLIARI,21/05/2021 ore 17:51,21/05/21,Sardegna
+17-mag,3,122,Sardegna,Cagliari,420117,22,87,111,198,Città metropolitana,CAGLIARI,21/05/2021 ore 17:51,21/05/21,Sardegna
+18-mag,4,122,Sardegna,Cagliari,420117,23,87,110,197,Città metropolitana,CAGLIARI,21/05/2021 ore 17:51,21/05/21,Sardegna
+19-mag,5,122,Sardegna,Cagliari,420117,21,88,111,199,Città metropolitana,CAGLIARI,21/05/2021 ore 17:51,21/05/21,Sardegna
+20-mag,6,122,Sardegna,Cagliari,420117,21,88,112,200,Città metropolitana,CAGLIARI,21/05/2021 ore 17:51,21/05/21,Sardegna
+21-mag,7,122,Sardegna,Cagliari,420117,21,88,113,201,Città metropolitana,CAGLIARI,21/05/2021 ore 17:51,21/05/21,Sardegna
+15-mag,1,123,Sardegna,Sud Sard.,340879,32,86,111,197,Provincia,SUD SARDEGNA,21/05/2021 ore 17:51,21/05/21,Sardegna
+16-mag,2,123,Sardegna,Sud Sard.,340879,31,87,111,198,Provincia,SUD SARDEGNA,21/05/2021 ore 17:51,21/05/21,Sardegna
+17-mag,3,123,Sardegna,Sud Sard.,340879,31,87,111,198,Provincia,SUD SARDEGNA,21/05/2021 ore 17:51,21/05/21,Sardegna
+18-mag,4,123,Sardegna,Sud Sard.,340879,33,87,110,197,Provincia,SUD SARDEGNA,21/05/2021 ore 17:51,21/05/21,Sardegna
+19-mag,5,123,Sardegna,Sud Sard.,340879,32,88,111,199,Provincia,SUD SARDEGNA,21/05/2021 ore 17:51,21/05/21,Sardegna
+20-mag,6,123,Sardegna,Sud Sard.,340879,27,88,112,200,Provincia,SUD SARDEGNA,21/05/2021 ore 17:51,21/05/21,Sardegna
+21-mag,7,123,Sardegna,Sud Sard.,340879,27,88,113,201,Provincia,SUD SARDEGNA,21/05/2021 ore 17:51,21/05/21,Sardegna
+15-mag,1,124,Sardegna,Oristano,153226,52,86,111,197,Provincia,ORISTANO,21/05/2021 ore 17:51,21/05/21,Sardegna
+16-mag,2,124,Sardegna,Oristano,153226,54,87,111,198,Provincia,ORISTANO,21/05/2021 ore 17:51,21/05/21,Sardegna
+17-mag,3,124,Sardegna,Oristano,153226,50,87,111,198,Provincia,ORISTANO,21/05/2021 ore 17:51,21/05/21,Sardegna
+18-mag,4,124,Sardegna,Oristano,153226,44,87,110,197,Provincia,ORISTANO,21/05/2021 ore 17:51,21/05/21,Sardegna
+19-mag,5,124,Sardegna,Oristano,153226,46,88,111,199,Provincia,ORISTANO,21/05/2021 ore 17:51,21/05/21,Sardegna
+20-mag,6,124,Sardegna,Oristano,153226,55,88,112,200,Provincia,ORISTANO,21/05/2021 ore 17:51,21/05/21,Sardegna
+21-mag,7,124,Sardegna,Oristano,153226,47,88,113,201,Provincia,ORISTANO,21/05/2021 ore 17:51,21/05/21,Sardegna
+15-mag,1,125,Sardegna,Nuoro,202951,25,86,111,197,Provincia,NUORO,21/05/2021 ore 17:51,21/05/21,Sardegna
+16-mag,2,125,Sardegna,Nuoro,202951,25,87,111,198,Provincia,NUORO,21/05/2021 ore 17:51,21/05/21,Sardegna
+17-mag,3,125,Sardegna,Nuoro,202951,27,87,111,198,Provincia,NUORO,21/05/2021 ore 17:51,21/05/21,Sardegna
+18-mag,4,125,Sardegna,Nuoro,202951,27,87,110,197,Provincia,NUORO,21/05/2021 ore 17:51,21/05/21,Sardegna
+19-mag,5,125,Sardegna,Nuoro,202951,26,88,111,199,Provincia,NUORO,21/05/2021 ore 17:51,21/05/21,Sardegna
+20-mag,6,125,Sardegna,Nuoro,202951,18,88,112,200,Provincia,NUORO,21/05/2021 ore 17:51,21/05/21,Sardegna
+21-mag,7,125,Sardegna,Nuoro,202951,13,88,113,201,Provincia,NUORO,21/05/2021 ore 17:51,21/05/21,Sardegna
+15-mag,1,126,Sardegna,Sassari,481052,27,86,111,197,Provincia,SASSARI,21/05/2021 ore 17:51,21/05/21,Sardegna
+16-mag,2,126,Sardegna,Sassari,481052,25,87,111,198,Provincia,SASSARI,21/05/2021 ore 17:51,21/05/21,Sardegna
+17-mag,3,126,Sardegna,Sassari,481052,26,87,111,198,Provincia,SASSARI,21/05/2021 ore 17:51,21/05/21,Sardegna
+18-mag,4,126,Sardegna,Sassari,481052,22,87,110,197,Provincia,SASSARI,21/05/2021 ore 17:51,21/05/21,Sardegna
+19-mag,5,126,Sardegna,Sassari,481052,19,88,111,199,Provincia,SASSARI,21/05/2021 ore 17:51,21/05/21,Sardegna
+20-mag,6,126,Sardegna,Sassari,481052,18,88,112,200,Provincia,SASSARI,21/05/2021 ore 17:51,21/05/21,Sardegna
+21-mag,7,126,Sardegna,Sassari,481052,14,88,113,201,Provincia,SASSARI,21/05/2021 ore 17:51,21/05/21,Sardegna
