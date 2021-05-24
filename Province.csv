@@ -2428,7 +2428,7 @@
 21-mag,27,98,Puglia,Città metropolitana di BARI,Bari,-44,99,92
 22-mag,28,98,Puglia,Città metropolitana di BARI,Bari,-37,97,106
 23-mag,29,98,Puglia,Città metropolitana di BARI,Bari,-29,95,80
-24-mag,30,98,Puglia,Città metropolitana di BARI,Bari,-10129,-13353,-94118
+24-mag,30,98,Puglia,Città metropolitana di BARI,Bari,-31,92,0
 25-apr,1,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,9,140,122
 26-apr,2,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,11,142,39
 27-apr,3,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,-3,132,145
@@ -2458,7 +2458,7 @@
 21-mag,27,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,-37,52,38
 22-mag,28,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,-30,51,57
 23-mag,29,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,-18,52,50
-24-mag,30,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,-5627,-3513,-24948
+24-mag,30,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,-20,51,0
 25-apr,1,100,Puglia,Provincia di BRINDISI,Brindisi,22,128,117
 26-apr,2,100,Puglia,Provincia di BRINDISI,Brindisi,22,125,34
 27-apr,3,100,Puglia,Provincia di BRINDISI,Brindisi,15,123,145
@@ -2488,7 +2488,7 @@
 21-mag,27,100,Puglia,Provincia di BRINDISI,Brindisi,-11,48,65
 22-mag,28,100,Puglia,Provincia di BRINDISI,Brindisi,-9,47,56
 23-mag,29,100,Puglia,Provincia di BRINDISI,Brindisi,-13,46,29
-24-mag,30,100,Puglia,Provincia di BRINDISI,Brindisi,-5128,-2679,-19052
+24-mag,30,100,Puglia,Provincia di BRINDISI,Brindisi,-21,42,0
 25-apr,1,101,Puglia,Provincia di FOGGIA,Foggia,-14,191,174
 26-apr,2,101,Puglia,Provincia di FOGGIA,Foggia,-7,202,208
 27-apr,3,101,Puglia,Provincia di FOGGIA,Foggia,-6,199,171
@@ -2518,7 +2518,7 @@
 21-mag,27,101,Puglia,Provincia di FOGGIA,Foggia,-29,60,56
 22-mag,28,101,Puglia,Provincia di FOGGIA,Foggia,-42,49,61
 23-mag,29,101,Puglia,Provincia di FOGGIA,Foggia,-39,47,58
-24-mag,30,101,Puglia,Provincia di FOGGIA,Foggia,-8508,-6318,-44523
+24-mag,30,101,Puglia,Provincia di FOGGIA,Foggia,-44,42,0
 25-apr,1,102,Puglia,Provincia di LECCE,Lecce,-6,158,166
 26-apr,2,102,Puglia,Provincia di LECCE,Lecce,8,158,83
 27-apr,3,102,Puglia,Provincia di LECCE,Lecce,17,164,167
@@ -2548,7 +2548,7 @@
 21-mag,27,102,Puglia,Provincia di LECCE,Lecce,-34,85,73
 22-mag,28,102,Puglia,Provincia di LECCE,Lecce,-30,80,70
 23-mag,29,102,Puglia,Provincia di LECCE,Lecce,-44,68,43
-24-mag,30,102,Puglia,Provincia di LECCE,Lecce,-3446,-3672,-26123
+24-mag,30,102,Puglia,Provincia di LECCE,Lecce,-45,60,0
 25-apr,1,103,Puglia,Provincia di TARANTO,Taranto,-21,205,121
 26-apr,2,103,Puglia,Provincia di TARANTO,Taranto,-21,203,8
 27-apr,3,103,Puglia,Provincia di TARANTO,Taranto,-20,205,232
@@ -2578,7 +2578,7 @@
 21-mag,27,103,Puglia,Provincia di TARANTO,Taranto,-54,40,40
 22-mag,28,103,Puglia,Provincia di TARANTO,Taranto,-53,36,44
 23-mag,29,103,Puglia,Provincia di TARANTO,Taranto,-52,35,12
-24-mag,30,103,Puglia,Provincia di TARANTO,Taranto,-7770,-5511,-38818
+24-mag,30,103,Puglia,Provincia di TARANTO,Taranto,-52,34,0
 25-apr,1,128,Basilicata,Provincia di POTENZA,Potenza,-5,102,99
 26-apr,2,128,Basilicata,Provincia di POTENZA,Potenza,-4,102,33
 27-apr,3,128,Basilicata,Provincia di POTENZA,Potenza,-8,96,59
@@ -3238,4 +3238,4 @@
 21-mag,27,140,Italia,ITALIA,Italia,-32,5251,5215
 22-mag,28,140,Italia,ITALIA,Italia,-31,4974,4714
 23-mag,29,140,Italia,ITALIA,Italia,-31,4723,3993
-24-mag,30,140,Italia,ITALIA,Italia,-568,-30962,-246340
+24-mag,30,140,Italia,ITALIA,Italia,-31,4575,2418
