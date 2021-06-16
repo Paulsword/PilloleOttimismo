@@ -1,11 +1,10 @@
 ﻿Data,NUO TI,NUO RIC,NUO DEC,Terapie Intensive,Ricoveri,Decessi,Regione
-16-dic,-77,-445,680,-77,-445,680,Italia
-17-dic,-71,-470,683,-74,-458,682,Italia
-18-dic,-36,-658,674,-61,-524,679,Italia
-19-dic,-35,-405,553,-55,-495,648,Italia
-20-dic,-41,-206,351,-52,-437,588,Italia
-21-dic,-12,-13,416,-45,-366,560,Italia
-22-dic,-44,-197,628,-45,-342,569,Italia
+17-dic,-71,-470,683,-71,-470,683,Italia
+18-dic,-36,-658,674,-54,-564,679,Italia
+19-dic,-35,-405,553,-47,-511,637,Italia
+20-dic,-41,-206,351,-46,-435,565,Italia
+21-dic,-12,-13,416,-39,-350,535,Italia
+22-dic,-44,-197,628,-40,-325,551,Italia
 23-dic,-63,-402,553,-43,-336,551,Italia
 24-dic,-35,-476,505,-38,-337,526,Italia
 25-dic,-5,-668,459,-34,-338,495,Italia
@@ -181,14 +180,14 @@
 13-giu,-9,-113,26,-30,-203,68,Italia
 14-giu,-29,-77,36,-32,-206,64,Italia
 15-giu,-32,-132,63,-26,-193,59,Italia
+16-giu,-33,-269,52,-27,-188,55,Italia
 ,,,,,,,
-16-dic,-27,-50,106,-27,-50,106,Lombardia
-17-dic,-18,-153,68,-23,-102,87,Lombardia
-18-dic,-9,-137,60,-18,-113,78,Lombardia
-19-dic,-10,-161,105,-16,-125,85,Lombardia
-20-dic,-9,-154,49,-15,-131,78,Lombardia
-21-dic,-22,-109,41,-16,-127,72,Lombardia
-22-dic,-21,58,92,-17,-101,74,Lombardia
+17-dic,-18,-153,68,-18,-153,68,Lombardia
+18-dic,-9,-137,60,-14,-145,64,Lombardia
+19-dic,-10,-161,105,-12,-150,78,Lombardia
+20-dic,-9,-154,49,-12,-151,71,Lombardia
+21-dic,-22,-109,41,-14,-143,65,Lombardia
+22-dic,-21,58,92,-15,-109,69,Lombardia
 23-dic,-4,-47,98,-13,-100,73,Lombardia
 24-dic,-15,-65,67,-13,-88,73,Lombardia
 25-dic,1,-202,105,-11,-97,80,Lombardia
@@ -364,14 +363,14 @@
 13-giu,-4,-5,6,-8,-29,8,Lombardia
 14-giu,-5,-32,3,-8,-29,8,Lombardia
 15-giu,-9,-6,8,-6,-32,7,Lombardia
+16-giu,-8,-56,5,-7,-31,7,Lombardia
 ,,,,,,,
-16-dic,-2,-24,78,-2,-24,78,Emilia-Romagna
-17-dic,-6,28,78,-4,2,78,Emilia-Romagna
-18-dic,1,-37,75,-2,-11,77,Emilia-Romagna
-19-dic,-1,55,73,-2,6,76,Emilia-Romagna
-20-dic,-5,33,59,-3,11,73,Emilia-Romagna
-21-dic,2,62,38,-2,20,67,Emilia-Romagna
-22-dic,7,-23,68,-1,13,67,Emilia-Romagna
+17-dic,-6,28,78,-6,28,78,Emilia-Romagna
+18-dic,1,-37,75,-3,-5,77,Emilia-Romagna
+19-dic,-1,55,73,-2,15,75,Emilia-Romagna
+20-dic,-5,33,59,-3,20,71,Emilia-Romagna
+21-dic,2,62,38,-2,28,65,Emilia-Romagna
+22-dic,7,-23,68,0,20,65,Emilia-Romagna
 23-dic,-3,-88,71,-1,4,66,Emilia-Romagna
 24-dic,-6,-85,76,-1,-12,66,Emilia-Romagna
 25-dic,5,-7,65,0,-8,64,Emilia-Romagna
@@ -547,14 +546,14 @@
 13-giu,2,-3,3,-1,-18,3,Emilia-Romagna
 14-giu,0,3,1,-1,-16,3,Emilia-Romagna
 15-giu,-6,-12,2,-2,-15,2,Emilia-Romagna
+16-giu,-5,-10,3,-3,-13,3,Emilia-Romagna
 ,,,,,,,
-16-dic,1,4,77,1,4,77,Veneto
-17-dic,5,3,92,3,4,85,Veneto
-18-dic,-13,-14,107,-2,-2,92,Veneto
-19-dic,0,-91,114,-2,-25,98,Veneto
-20-dic,0,31,52,-1,-13,88,Veneto
-21-dic,6,22,47,0,-8,82,Veneto
-22-dic,4,23,150,0,-3,91,Veneto
+17-dic,5,3,92,5,3,92,Veneto
+18-dic,-13,-14,107,-4,-6,100,Veneto
+19-dic,0,-91,114,-3,-34,104,Veneto
+20-dic,0,31,52,-2,-18,91,Veneto
+21-dic,6,22,47,0,-10,82,Veneto
+22-dic,4,23,150,0,-4,94,Veneto
 23-dic,1,-12,116,0,-5,97,Veneto
 24-dic,1,-30,112,0,-10,100,Veneto
 25-dic,-5,-48,94,1,-15,98,Veneto
@@ -730,14 +729,14 @@
 13-giu,-1,-3,0,-2,-9,3,Veneto
 14-giu,-2,0,0,-2,-8,3,Veneto
 15-giu,-2,-7,0,-2,-8,2,Veneto
+16-giu,0,-19,1,-1,-10,1,Veneto
 ,,,,,,,
-16-dic,-9,-63,89,-9,-63,89,Piemonte
-17-dic,-17,-101,80,-13,-82,85,Piemonte
-18-dic,3,-81,79,-8,-82,83,Piemonte
-19-dic,-9,-79,38,-8,-81,72,Piemonte
-20-dic,-13,-48,29,-9,-74,63,Piemonte
-21-dic,9,20,43,-6,-59,60,Piemonte
-22-dic,-2,-78,50,-5,-61,58,Piemonte
+17-dic,-17,-101,80,-17,-101,80,Piemonte
+18-dic,3,-81,79,-7,-91,80,Piemonte
+19-dic,-9,-79,38,-8,-87,66,Piemonte
+20-dic,-13,-48,29,-9,-77,57,Piemonte
+21-dic,9,20,43,-5,-58,54,Piemonte
+22-dic,-2,-78,50,-5,-61,53,Piemonte
 23-dic,-13,-92,58,-6,-66,54,Piemonte
 24-dic,-2,-95,48,-4,-65,49,Piemonte
 25-dic,1,-115,28,-4,-70,42,Piemonte
@@ -913,14 +912,14 @@
 13-giu,2,-8,1,-2,-21,3,Piemonte
 14-giu,-2,-14,3,-3,-23,3,Piemonte
 15-giu,2,-12,3,-1,-17,3,Piemonte
+16-giu,-8,-19,3,-2,-16,3,Piemonte
 ,,,,,,,
-16-dic,-2,-20,40,-2,-20,40,Friuli VG
-17-dic,3,-4,27,1,-12,34,Friuli VG
-18-dic,2,-29,33,1,-18,33,Friuli VG
-19-dic,-4,-7,9,0,-15,27,Friuli VG
-20-dic,0,8,21,0,-10,26,Friuli VG
-21-dic,1,5,15,0,-8,24,Friuli VG
-22-dic,1,-9,33,0,-8,25,Friuli VG
+17-dic,3,-4,27,3,-4,27,Friuli VG
+18-dic,2,-29,33,3,-17,30,Friuli VG
+19-dic,-4,-7,9,0,-13,23,Friuli VG
+20-dic,0,8,21,0,-8,23,Friuli VG
+21-dic,1,5,15,0,-5,21,Friuli VG
+22-dic,1,-9,33,1,-6,23,Friuli VG
 23-dic,-1,-3,22,0,-6,23,Friuli VG
 24-dic,0,-13,15,0,-7,21,Friuli VG
 25-dic,-2,-10,20,-1,-4,19,Friuli VG
@@ -1096,14 +1095,14 @@
 13-giu,1,-4,0,0,-3,0,Friuli VG
 14-giu,0,1,0,0,-3,0,Friuli VG
 15-giu,-1,1,1,0,-3,0,Friuli VG
+16-giu,-1,-2,0,0,-2,0,Friuli VG
 ,,,,,,,
-16-dic,1,-7,4,1,-7,4,Valle d'Aosta
-17-dic,1,3,2,1,-2,3,Valle d'Aosta
-18-dic,-1,0,3,0,-1,3,Valle d'Aosta
-19-dic,-3,6,1,-1,1,3,Valle d'Aosta
-20-dic,0,2,2,0,1,2,Valle d'Aosta
-21-dic,0,6,0,0,2,2,Valle d'Aosta
-22-dic,1,6,0,0,2,2,Valle d'Aosta
+17-dic,1,3,2,1,3,2,Valle d'Aosta
+18-dic,-1,0,3,0,2,3,Valle d'Aosta
+19-dic,-3,6,1,-1,3,2,Valle d'Aosta
+20-dic,0,2,2,-1,3,2,Valle d'Aosta
+21-dic,0,6,0,-1,3,2,Valle d'Aosta
+22-dic,1,6,0,0,4,1,Valle d'Aosta
 23-dic,-1,-6,2,0,2,1,Valle d'Aosta
 24-dic,0,-1,1,-1,2,1,Valle d'Aosta
 25-dic,0,1,0,0,2,1,Valle d'Aosta
@@ -1279,14 +1278,14 @@
 13-giu,0,0,0,0,0,0,Valle d'Aosta
 14-giu,0,0,0,0,0,0,Valle d'Aosta
 15-giu,0,1,0,0,0,0,Valle d'Aosta
+16-giu,0,-2,0,0,0,0,Valle d'Aosta
 ,,,,,,,
-16-dic,0,-13,11,0,-13,11,Liguria
-17-dic,-2,-9,19,-1,-11,15,Liguria
-18-dic,1,-30,30,0,-17,20,Liguria
-19-dic,1,-14,12,0,-17,18,Liguria
-20-dic,-1,-7,2,0,-15,15,Liguria
+17-dic,-2,-9,19,-2,-9,19,Liguria
+18-dic,1,-30,30,-1,-20,25,Liguria
+19-dic,1,-14,12,0,-18,20,Liguria
+20-dic,-1,-7,2,0,-15,16,Liguria
 21-dic,0,-7,14,0,-13,15,Liguria
-22-dic,-5,12,16,-1,-10,15,Liguria
+22-dic,-5,12,16,-1,-9,16,Liguria
 23-dic,-1,-11,21,-1,-9,16,Liguria
 24-dic,0,-2,12,-1,-8,15,Liguria
 25-dic,0,-24,11,-1,-8,13,Liguria
@@ -1462,14 +1461,14 @@
 13-giu,0,-3,0,-2,-3,2,Liguria
 14-giu,0,-4,1,-2,-3,1,Liguria
 15-giu,0,-4,0,-1,-4,1,Liguria
+16-giu,-1,-14,0,-1,-5,0,Liguria
 ,,,,,,,
-16-dic,-3,2,13,-3,2,13,Trento
-17-dic,-2,-6,13,-3,-2,13,Trento
-18-dic,2,-30,14,-1,-11,13,Trento
-19-dic,0,0,4,-1,-9,11,Trento
-20-dic,-1,3,3,-1,-6,9,Trento
-21-dic,0,1,13,-1,-5,10,Trento
-22-dic,0,-18,13,-1,-7,10,Trento
+17-dic,-2,-6,13,-2,-6,13,Trento
+18-dic,2,-30,14,0,-18,14,Trento
+19-dic,0,0,4,0,-12,10,Trento
+20-dic,-1,3,3,0,-8,9,Trento
+21-dic,0,1,13,0,-6,9,Trento
+22-dic,0,-18,13,0,-8,10,Trento
 23-dic,-2,-18,10,0,-10,10,Trento
 24-dic,2,-20,9,0,-12,9,Trento
 25-dic,0,-20,5,0,-10,8,Trento
@@ -1645,14 +1644,14 @@
 13-giu,0,0,0,0,-1,0,Trento
 14-giu,0,0,0,0,-1,0,Trento
 15-giu,-1,-3,0,0,-1,0,Trento
+16-giu,0,0,0,0,-1,0,Trento
 ,,,,,,,
-16-dic,-2,-5,11,-2,-5,11,Bolzano
-17-dic,0,-13,5,-1,-9,8,Bolzano
-18-dic,1,-15,6,0,-11,7,Bolzano
-19-dic,0,0,8,0,-8,8,Bolzano
-20-dic,-3,-5,3,-1,-8,7,Bolzano
-21-dic,2,9,2,0,-5,6,Bolzano
-22-dic,1,-3,6,0,-5,6,Bolzano
+17-dic,0,-13,5,0,-13,5,Bolzano
+18-dic,1,-15,6,1,-14,6,Bolzano
+19-dic,0,0,8,0,-9,6,Bolzano
+20-dic,-3,-5,3,-1,-8,6,Bolzano
+21-dic,2,9,2,0,-5,5,Bolzano
+22-dic,1,-3,6,0,-5,5,Bolzano
 23-dic,-4,-6,1,0,-5,4,Bolzano
 24-dic,-2,-13,5,-1,-5,4,Bolzano
 25-dic,2,-10,7,-1,-4,5,Bolzano
@@ -1828,14 +1827,14 @@
 13-giu,0,0,0,0,0,0,Bolzano
 14-giu,0,2,0,0,0,0,Bolzano
 15-giu,0,-6,0,0,0,0,Bolzano
+16-giu,0,0,0,0,0,0,Bolzano
 ,,,,,,,
-16-dic,-3,-19,9,-3,-19,9,Marche
-17-dic,-8,-12,9,-6,-16,9,Marche
-18-dic,-3,-9,13,-5,-13,10,Marche
-19-dic,1,-11,10,-3,-13,10,Marche
-20-dic,-1,0,7,-3,-10,10,Marche
-21-dic,-1,7,8,-3,-7,9,Marche
-22-dic,-2,-2,7,-2,-7,9,Marche
+17-dic,-8,-12,9,-8,-12,9,Marche
+18-dic,-3,-9,13,-6,-11,11,Marche
+19-dic,1,-11,10,-3,-11,11,Marche
+20-dic,-1,0,7,-3,-8,10,Marche
+21-dic,-1,7,8,-2,-5,9,Marche
+22-dic,-2,-2,7,-2,-5,9,Marche
 23-dic,0,-10,4,-2,-5,8,Marche
 24-dic,3,-2,9,0,-4,8,Marche
 25-dic,-4,-11,12,-1,-4,8,Marche
@@ -2011,14 +2010,14 @@
 13-giu,-1,-5,0,-1,-4,1,Marche
 14-giu,0,0,0,-1,-4,0,Marche
 15-giu,0,-1,1,-1,-5,0,Marche
+16-giu,-1,-10,0,0,-5,0,Marche
 ,,,,,,,
-16-dic,-12,-55,47,-12,-55,47,Toscana
-17-dic,-3,-39,63,-8,-47,55,Toscana
-18-dic,-8,-53,42,-8,-49,51,Toscana
-19-dic,-2,-11,25,-6,-40,44,Toscana
-20-dic,-2,-35,24,-5,-39,40,Toscana
-21-dic,-2,2,34,-5,-32,39,Toscana
-22-dic,-10,-24,22,-6,-31,37,Toscana
+17-dic,-3,-39,63,-3,-39,63,Toscana
+18-dic,-8,-53,42,-6,-46,53,Toscana
+19-dic,-2,-11,25,-4,-34,43,Toscana
+20-dic,-2,-35,24,-4,-35,39,Toscana
+21-dic,-2,2,34,-3,-27,38,Toscana
+22-dic,-10,-24,22,-5,-27,35,Toscana
 23-dic,-9,-38,22,-5,-28,33,Toscana
 24-dic,-5,-15,35,-5,-25,29,Toscana
 25-dic,5,-45,6,-4,-24,24,Toscana
@@ -2194,14 +2193,14 @@
 13-giu,-4,-9,6,-4,-14,8,Toscana
 14-giu,-3,-5,3,-4,-15,8,Toscana
 15-giu,-9,-4,7,-4,-15,7,Toscana
+16-giu,-4,-13,6,-4,-13,7,Toscana
 ,,,,,,,
-16-dic,-16,-52,40,-16,-52,40,Lazio
-17-dic,6,-9,57,-5,-31,49,Lazio
-18-dic,-1,-80,74,-4,-47,57,Lazio
-19-dic,-4,-7,41,-4,-37,53,Lazio
-20-dic,0,11,21,-3,-27,47,Lazio
-21-dic,1,-64,42,-2,-34,46,Lazio
-22-dic,-15,0,56,-4,-29,47,Lazio
+17-dic,6,-9,57,6,-9,57,Lazio
+18-dic,-1,-80,74,3,-45,66,Lazio
+19-dic,-4,-7,41,0,-32,57,Lazio
+20-dic,0,11,21,0,-21,48,Lazio
+21-dic,1,-64,42,0,-30,47,Lazio
+22-dic,-15,0,56,-2,-25,49,Lazio
 23-dic,-6,20,44,-3,-18,48,Lazio
 24-dic,7,-50,24,-3,-24,43,Lazio
 25-dic,-3,-24,31,-3,-16,37,Lazio
@@ -2377,14 +2376,14 @@
 13-giu,-4,-31,0,-4,-34,6,Lazio
 14-giu,-4,4,6,-4,-33,6,Lazio
 15-giu,-4,-24,13,-3,-31,7,Lazio
+16-giu,-5,-38,11,-3,-28,8,Lazio
 ,,,,,,,
-16-dic,1,-18,6,1,-18,6,Umbria
-17-dic,-5,0,8,-2,-9,7,Umbria
-18-dic,1,-5,4,-1,-8,6,Umbria
-19-dic,-2,-4,6,-1,-7,6,Umbria
-20-dic,3,-10,8,0,-7,6,Umbria
-21-dic,-3,7,7,-1,-5,7,Umbria
-22-dic,3,-14,4,0,-6,6,Umbria
+17-dic,-5,0,8,-5,0,8,Umbria
+18-dic,1,-5,4,-2,-3,6,Umbria
+19-dic,-2,-4,6,-2,-3,6,Umbria
+20-dic,3,-10,8,-1,-5,7,Umbria
+21-dic,-3,7,7,-1,-2,7,Umbria
+22-dic,3,-14,4,-1,-4,6,Umbria
 23-dic,-4,-5,6,-1,-4,6,Umbria
 24-dic,-2,-1,7,-1,-5,6,Umbria
 25-dic,-2,2,6,-1,-4,6,Umbria
@@ -2560,14 +2559,14 @@
 13-giu,-1,3,0,0,0,2,Umbria
 14-giu,1,-3,0,0,-1,2,Umbria
 15-giu,0,0,0,0,0,2,Umbria
+16-giu,0,-9,1,0,-1,2,Umbria
 ,,,,,,,
-16-dic,-3,-2,12,-3,-2,12,Abruzzo
-17-dic,-7,-15,18,-5,-9,15,Abruzzo
-18-dic,-7,-25,9,-6,-14,13,Abruzzo
-19-dic,1,6,9,-4,-9,12,Abruzzo
-20-dic,-1,-8,4,-3,-9,10,Abruzzo
-21-dic,1,-2,5,-3,-8,10,Abruzzo
-22-dic,-2,-21,8,-3,-10,9,Abruzzo
+17-dic,-7,-15,18,-7,-15,18,Abruzzo
+18-dic,-7,-25,9,-7,-20,14,Abruzzo
+19-dic,1,6,9,-4,-11,12,Abruzzo
+20-dic,-1,-8,4,-4,-11,10,Abruzzo
+21-dic,1,-2,5,-3,-9,9,Abruzzo
+22-dic,-2,-21,8,-3,-11,9,Abruzzo
 23-dic,-2,-28,14,-2,-13,10,Abruzzo
 24-dic,-4,-15,5,-2,-13,8,Abruzzo
 25-dic,-1,-56,6,-1,-18,7,Abruzzo
@@ -2743,13 +2742,13 @@
 13-giu,0,1,0,-1,-3,2,Abruzzo
 14-giu,0,2,0,0,-3,1,Abruzzo
 15-giu,0,-6,1,0,-3,1,Abruzzo
+16-giu,-1,-4,3,0,-3,1,Abruzzo
 ,,,,,,,
-16-dic,2,-1,2,2,-1,2,Molise
-17-dic,0,0,4,1,-1,3,Molise
-18-dic,-1,-1,0,0,-1,2,Molise
-19-dic,1,2,0,1,0,2,Molise
-20-dic,1,-1,1,1,0,1,Molise
-21-dic,-2,1,2,0,0,2,Molise
+17-dic,0,0,4,0,0,4,Molise
+18-dic,-1,-1,0,-1,-1,2,Molise
+19-dic,1,2,0,0,0,1,Molise
+20-dic,1,-1,1,0,0,1,Molise
+21-dic,-2,1,2,0,0,1,Molise
 22-dic,-1,-3,0,0,0,1,Molise
 23-dic,-1,-3,2,0,-1,1,Molise
 24-dic,0,0,1,0,-1,1,Molise
@@ -2926,14 +2925,14 @@
 13-giu,0,0,0,0,0,0,Molise
 14-giu,0,0,0,0,0,0,Molise
 15-giu,0,0,0,0,0,0,Molise
+16-giu,0,1,0,0,0,0,Molise
 ,,,,,,,
-16-dic,1,-19,34,1,-19,34,Campania
-17-dic,-5,-45,48,-2,-32,41,Campania
-18-dic,1,-35,56,-1,-33,46,Campania
-19-dic,2,-23,32,0,-31,43,Campania
-20-dic,-3,-44,11,-1,-33,36,Campania
-21-dic,1,17,28,-1,-25,35,Campania
-22-dic,-2,-42,25,-1,-27,33,Campania
+17-dic,-5,-45,48,-5,-45,48,Campania
+18-dic,1,-35,56,-2,-40,52,Campania
+19-dic,2,-23,32,-1,-34,45,Campania
+20-dic,-3,-44,11,-1,-37,37,Campania
+21-dic,1,17,28,-1,-26,35,Campania
+22-dic,-2,-42,25,-1,-29,33,Campania
 23-dic,-11,-16,19,-2,-27,31,Campania
 24-dic,-5,-25,20,-2,-24,27,Campania
 25-dic,0,-39,7,-3,-25,20,Campania
@@ -3109,14 +3108,14 @@
 13-giu,-2,-30,3,-2,-23,14,Campania
 14-giu,-5,-31,5,-3,-27,13,Campania
 15-giu,-1,-13,15,-3,-27,13,Campania
+16-giu,0,-29,6,-3,-26,11,Campania
 ,,,,,,,
-16-dic,-2,-32,45,-2,-32,45,Puglia
-17-dic,-6,-24,43,-4,-28,44,Puglia
-18-dic,-5,-17,30,-4,-24,39,Puglia
-19-dic,3,-25,26,-3,-25,36,Puglia
-20-dic,-8,4,23,-4,-19,33,Puglia
-21-dic,-5,-5,31,-4,-17,33,Puglia
-22-dic,3,-10,35,-3,-16,33,Puglia
+17-dic,-6,-24,43,-6,-24,43,Puglia
+18-dic,-5,-17,30,-6,-21,37,Puglia
+19-dic,3,-25,26,-3,-22,33,Puglia
+20-dic,-8,4,23,-4,-16,31,Puglia
+21-dic,-5,-5,31,-4,-13,31,Puglia
+22-dic,3,-10,35,-3,-13,31,Puglia
 23-dic,5,-4,20,-2,-12,30,Puglia
 24-dic,-2,5,19,-1,-7,26,Puglia
 25-dic,-4,-9,26,-1,-6,26,Puglia
@@ -3292,14 +3291,14 @@
 13-giu,0,-5,0,-2,-21,7,Puglia
 14-giu,-1,0,2,-2,-19,6,Puglia
 15-giu,2,-16,2,-1,-14,4,Puglia
+16-giu,-1,-16,3,-1,-14,4,Puglia
 ,,,,,,,
-16-dic,0,3,0,0,3,0,Basilicata
-17-dic,-1,-3,5,-1,0,3,Basilicata
-18-dic,0,-7,1,0,-2,2,Basilicata
-19-dic,0,-3,2,0,-3,2,Basilicata
-20-dic,-1,-3,0,0,-3,2,Basilicata
-21-dic,-1,-2,4,-1,-3,2,Basilicata
-22-dic,0,2,4,0,-2,2,Basilicata
+17-dic,-1,-3,5,-1,-3,5,Basilicata
+18-dic,0,-7,1,-1,-5,3,Basilicata
+19-dic,0,-3,2,0,-4,3,Basilicata
+20-dic,-1,-3,0,-1,-4,2,Basilicata
+21-dic,-1,-2,4,-1,-4,2,Basilicata
+22-dic,0,2,4,-1,-3,3,Basilicata
 23-dic,1,-2,3,0,-3,3,Basilicata
 24-dic,-1,5,4,0,-1,3,Basilicata
 25-dic,-1,-9,5,0,-2,3,Basilicata
@@ -3475,14 +3474,14 @@
 13-giu,0,4,0,0,-1,0,Basilicata
 14-giu,0,-2,1,0,-1,0,Basilicata
 15-giu,0,-2,1,0,-1,0,Basilicata
+16-giu,0,-1,0,0,-1,0,Basilicata
 ,,,,,,,
-16-dic,1,-17,4,1,-17,4,Calabria
-17-dic,-1,-22,5,0,-20,5,Calabria
-18-dic,0,-2,6,0,-14,5,Calabria
-19-dic,0,-4,7,0,-11,6,Calabria
-20-dic,1,-3,1,0,-10,5,Calabria
-21-dic,0,13,7,0,-6,5,Calabria
-22-dic,1,-8,5,0,-6,5,Calabria
+17-dic,-1,-22,5,-1,-22,5,Calabria
+18-dic,0,-2,6,-1,-12,6,Calabria
+19-dic,0,-4,7,0,-9,6,Calabria
+20-dic,1,-3,1,0,-8,5,Calabria
+21-dic,0,13,7,0,-4,5,Calabria
+22-dic,1,-8,5,0,-4,5,Calabria
 23-dic,-4,5,2,0,-3,5,Calabria
 24-dic,2,-13,1,0,-2,4,Calabria
 25-dic,0,-14,4,0,-3,4,Calabria
@@ -3658,14 +3657,14 @@
 13-giu,-1,-1,1,-1,-6,3,Calabria
 14-giu,-1,-3,4,-1,-6,3,Calabria
 15-giu,2,2,1,0,-5,3,Calabria
+16-giu,0,-8,1,0,-5,3,Calabria
 ,,,,,,,
-16-dic,-2,-37,29,-2,-37,29,Sicilia
-17-dic,-4,-57,28,-3,-47,29,Sicilia
-18-dic,3,-40,22,-1,-45,26,Sicilia
-19-dic,-8,-20,22,-3,-39,25,Sicilia
-20-dic,4,5,24,-1,-30,25,Sicilia
-21-dic,3,10,26,-1,-23,25,Sicilia
-22-dic,-5,-27,22,-1,-24,25,Sicilia
+17-dic,-4,-57,28,-4,-57,28,Sicilia
+18-dic,3,-40,22,-1,-49,25,Sicilia
+19-dic,-8,-20,22,-3,-39,24,Sicilia
+20-dic,4,5,24,-1,-28,24,Sicilia
+21-dic,3,10,26,0,-20,24,Sicilia
+22-dic,-5,-27,22,-1,-22,24,Sicilia
 23-dic,0,-31,10,-1,-23,22,Sicilia
 24-dic,-3,-20,26,-1,-18,22,Sicilia
 25-dic,1,-13,17,-1,-14,21,Sicilia
@@ -3841,14 +3840,14 @@
 13-giu,4,-16,5,0,-10,5,Sicilia
 14-giu,-8,9,7,-1,-10,5,Sicilia
 15-giu,-5,-10,8,-1,-8,5,Sicilia
+16-giu,2,-17,8,0,-10,5,Sicilia
 ,,,,,,,
-16-dic,-1,-20,23,-1,-20,23,Sardegna
-17-dic,-1,8,11,-1,-6,17,Sardegna
-18-dic,-3,-11,10,-2,-8,15,Sardegna
-19-dic,-1,-14,9,-2,-9,13,Sardegna
-20-dic,-2,15,7,-2,-4,12,Sardegna
-21-dic,-2,-6,9,-2,-5,12,Sardegna
-22-dic,0,-16,12,-1,-6,12,Sardegna
+17-dic,-1,8,11,-1,8,11,Sardegna
+18-dic,-3,-11,10,-2,-2,11,Sardegna
+19-dic,-1,-14,9,-2,-6,10,Sardegna
+20-dic,-2,15,7,-2,-1,9,Sardegna
+21-dic,-2,-6,9,-2,-2,9,Sardegna
+22-dic,0,-16,12,-2,-4,10,Sardegna
 23-dic,-4,-7,8,-2,-4,9,Sardegna
 24-dic,-3,-21,9,-2,-9,9,Sardegna
 25-dic,2,-14,3,-1,-9,8,Sardegna
@@ -4024,3 +4023,4 @@
 13-giu,0,2,1,0,-3,2,Sardegna
 14-giu,1,-4,0,0,-3,1,Sardegna
 15-giu,0,-10,0,0,-4,1,Sardegna
+16-giu,0,-3,1,0,-3,1,Sardegna
