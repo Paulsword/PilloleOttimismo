@@ -1,45 +1,45 @@
 ﻿REGIONE,,Abitanti,Totale posti letto,Posti letto/100.000 ab.,% variazione ricoveri ultimi 7 gg rispetto al totale,% occupazione posti letto,POPUP % incremento ricoveri ultimi 7 gg rispetto al totale,POPUP % occupazione posti letto,Control,Aggiornamento AGENAS,Aggiornamento
-ITALIA,,59257566,56659,96,-26,2.8,-26,2.8,Reparti,30/06/2021 ore 18:25,30/06/21
-Lombardia,,9966992,6749,68,-38,3.2,-38,3.2,Reparti,30/06/2021 ore 18:25,30/06/21
-Emilia Romagna,Emilia,4445549,6538,147,-9,2.8,-9,2.8,Reparti,30/06/2021 ore 18:25,30/06/21
-Veneto,,4852453,6000,124,-34,0.8,-34,0.8,Reparti,30/06/2021 ore 18:25,30/06/21
-Piemonte,,4273210,5824,136,-24,2.6,-24,2.6,Reparti,30/06/2021 ore 18:25,30/06/21
-Friuli VG,Friuli,1198753,1277,107,-11,0.6,-11,0.6,Reparti,30/06/2021 ore 18:25,30/06/21
-Valle d'Aosta,Valle,123895,81,65,0,1.2,0,1.2,Reparti,30/06/2021 ore 18:25,30/06/21
-Liguria,,1509805,1702,113,-24,1.1,-24,1.1,Reparti,30/06/2021 ore 18:25,30/06/21
-Trento,Trento,544745,517,95,-29,1.0,-29,1.0,Reparti,30/06/2021 ore 18:25,30/06/21
-Bolzano,Bolzano,533715,389,73,0,1.5,0,1.5,Reparti,30/06/2021 ore 18:25,30/06/21
-Marche,,1501406,954,64,-40,1.7,-41,1.7,Reparti,30/06/2021 ore 18:25,30/06/21
-Toscana,,3668333,5033,137,-24,1.8,-24,1.8,Reparti,30/06/2021 ore 18:25,30/06/21
-Lazio,,5720796,6421,112,-26,3.0,-26,3.0,Reparti,30/06/2021 ore 18:25,30/06/21
-Umbria,,865013,671,78,-35,2.2,-35,2.2,Reparti,30/06/2021 ore 18:25,30/06/21
-Abruzzo,,1285256,1369,107,-29,1.8,-29,1.8,Reparti,30/06/2021 ore 18:25,30/06/21
-Molise,,296547,221,75,-33,1.8,-33,1.8,Reparti,30/06/2021 ore 18:25,30/06/21
-Campania,,5679759,3917,69,-17,5.6,-17,5.6,Reparti,30/06/2021 ore 18:25,30/06/21
-Puglia,,3926931,2989,76,-29,4.0,-29,4.0,Reparti,30/06/2021 ore 18:25,30/06/21
-Basilicata,,547579,412,75,-40,4.1,-45,4.1,Reparti,30/06/2021 ore 18:25,30/06/21
-Calabria,,1877728,906,48,-17,7.6,-17,7.6,Reparti,30/06/2021 ore 18:25,30/06/21
-Sicilia,,4840876,3087,64,-25,5.0,-25,5.0,Reparti,30/06/2021 ore 18:25,30/06/21
-Sardegna,,1598225,1602,100,-32,2.2,-32,2.2,Reparti,30/06/2021 ore 18:25,30/06/21
-ITALIA,,59257566,8500,14,-28,2.9,-28,2.9,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Lombardia,,9966992,1416,14,-29,3.6,-29,3.6,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Emilia Romagna,Emilia,4445549,760,17,-16,3.6,-16,3.6,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Veneto,,4852453,1000,21,-40,0.7,-46,0.7,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Piemonte,,4273210,628,15,-39,2.2,-39,2.2,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Friuli VG,Friuli,1198753,175,15,0,0.0,0,0.0,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Valle d'Aosta,Valle,123895,30,24,0,0.0,0,0.0,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Liguria,,1509805,221,15,-13,3.2,-13,3.2,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Trento,Trento,544745,60,11,-40,0.0,-100,0.0,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Bolzano,Bolzano,533715,100,19,0,3.0,0,3.0,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Marche,,1501406,209,14,-20,1.9,-20,1.9,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Toscana,,3668333,451,12,-25,5.3,-25,5.3,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Lazio,,5720796,943,16,-35,5.2,-35,5.2,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Umbria,,865013,97,11,-40,1.0,-50,1.0,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Abruzzo,,1285256,185,14,-40,0.5,-50,0.5,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Molise,,296547,36,12,0,0.0,0,0.0,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Campania,,5679759,584,10,-9,3.4,-9,3.4,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Puglia,,3926931,491,13,-31,2.2,-31,2.2,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Basilicata,,547579,88,16,0,0.0,0,0.0,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Calabria,,1877728,146,8,-29,3.4,-29,3.4,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Sicilia,,4840876,664,14,-20,3.0,-20,3.0,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
-Sardegna,,1598225,216,14,-25,1.4,-25,1.4,Terapie Intensive,30/06/2021 ore 18:25,30/06/21
+ITALIA,,59257566,56659,96,-24,2.7,-24,2.7,Reparti,30/06/2021 ore 18:25,01/07/21
+Lombardia,,9966992,6749,68,-37,3.0,-37,3.0,Reparti,30/06/2021 ore 18:25,01/07/21
+Emilia Romagna,Emilia,4445549,6538,147,-9,2.7,-9,2.7,Reparti,30/06/2021 ore 18:25,01/07/21
+Veneto,,4852453,6000,124,-24,0.8,-24,0.8,Reparti,30/06/2021 ore 18:25,01/07/21
+Piemonte,,4273210,5824,136,-28,2.5,-28,2.5,Reparti,30/06/2021 ore 18:25,01/07/21
+Friuli VG,Friuli,1198753,1277,107,-20,0.6,-20,0.6,Reparti,30/06/2021 ore 18:25,01/07/21
+Valle d'Aosta,Valle,123895,81,65,0,1.2,0,1.2,Reparti,30/06/2021 ore 18:25,01/07/21
+Liguria,,1509805,1702,113,-24,0.9,-24,0.9,Reparti,30/06/2021 ore 18:25,01/07/21
+Trento,Trento,544745,517,95,-40,0.8,-50,0.8,Reparti,30/06/2021 ore 18:25,01/07/21
+Bolzano,Bolzano,533715,389,73,17,1.8,17,1.8,Reparti,30/06/2021 ore 18:25,01/07/21
+Marche,,1501406,954,64,-40,1.3,-56,1.3,Reparti,30/06/2021 ore 18:25,01/07/21
+Toscana,,3668333,5033,137,-24,1.7,-24,1.7,Reparti,30/06/2021 ore 18:25,01/07/21
+Lazio,,5720796,6421,112,-29,2.8,-29,2.8,Reparti,30/06/2021 ore 18:25,01/07/21
+Umbria,,865013,671,78,-29,2.2,-29,2.2,Reparti,30/06/2021 ore 18:25,01/07/21
+Abruzzo,,1285256,1369,107,-23,1.8,-23,1.8,Reparti,30/06/2021 ore 18:25,01/07/21
+Molise,,296547,221,75,-40,1.8,-50,1.8,Reparti,30/06/2021 ore 18:25,01/07/21
+Campania,,5679759,3917,69,-14,5.5,-14,5.5,Reparti,30/06/2021 ore 18:25,01/07/21
+Puglia,,3926931,2989,76,-28,4.0,-28,4.0,Reparti,30/06/2021 ore 18:25,01/07/21
+Basilicata,,547579,412,75,-40,3.6,-44,3.6,Reparti,30/06/2021 ore 18:25,01/07/21
+Calabria,,1877728,906,48,-24,6.5,-24,6.5,Reparti,30/06/2021 ore 18:25,01/07/21
+Sicilia,,4840876,3087,64,-18,4.9,-18,4.9,Reparti,30/06/2021 ore 18:25,01/07/21
+Sardegna,,1598225,1602,100,2,2.7,2,2.7,Reparti,30/06/2021 ore 18:25,01/07/21
+ITALIA,,59257566,8500,14,-30,2.7,-30,2.7,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Lombardia,,9966992,1416,14,-25,3.5,-25,3.5,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Emilia Romagna,Emilia,4445549,760,17,-20,3.2,-20,3.2,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Veneto,,4852453,1000,21,-40,0.6,-50,0.6,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Piemonte,,4273210,628,15,-35,1.8,-35,1.8,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Friuli VG,Friuli,1198753,175,15,0,0.0,0,0.0,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Valle d'Aosta,Valle,123895,30,24,0,0.0,0,0.0,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Liguria,,1509805,221,15,-25,2.7,-25,2.7,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Trento,Trento,544745,60,11,-40,0.0,-100,0.0,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Bolzano,Bolzano,533715,100,19,-33,2.0,-33,2.0,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Marche,,1501406,209,14,-40,1.4,-50,1.4,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Toscana,,3668333,451,12,-21,5.1,-21,5.1,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Lazio,,5720796,943,16,-37,5.0,-37,5.0,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Umbria,,865013,97,11,-40,1.0,-50,1.0,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Abruzzo,,1285256,185,14,-40,0.5,-50,0.5,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Molise,,296547,36,12,0,0.0,0,0.0,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Campania,,5679759,584,10,-5,3.3,-5,3.3,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Puglia,,3926931,491,13,-31,2.2,-31,2.2,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Basilicata,,547579,88,16,0,0.0,0,0.0,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Calabria,,1877728,146,8,-33,4.1,-33,4.1,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Sicilia,,4840876,664,14,-33,2.7,-33,2.7,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
+Sardegna,,1598225,216,14,-40,0.9,-60,0.9,Terapie Intensive,30/06/2021 ore 18:25,01/07/21
