@@ -1,11 +1,10 @@
 ﻿Data,NUO TI,NUO RIC,NUO DEC,Terapie Intensive,Ricoveri,Decessi,Regione
-25-gen,21,115,420,21,115,420,Italia
-26-gen,-49,-69,540,-14,23,480,Italia
-27-gen,-20,-194,468,-16,-49,476,Italia
-28-gen,-64,-383,492,-28,-133,480,Italia
-29-gen,-18,-381,477,-26,-182,479,Italia
-30-gen,-52,-299,421,-30,-202,470,Italia
-31-gen,-3,-2,237,-26,-173,436,Italia
+26-gen,-49,-69,540,-49,-69,540,Italia
+27-gen,-20,-194,468,-35,-132,504,Italia
+28-gen,-64,-383,492,-44,-215,500,Italia
+29-gen,-18,-381,477,-38,-257,494,Italia
+30-gen,-52,-299,421,-41,-265,480,Italia
+31-gen,-3,-2,237,-34,-221,439,Italia
 1-feb,37,164,329,-24,-166,423,Italia
 2-feb,-38,57,498,-23,-148,417,Italia
 3-feb,-69,-246,476,-30,-156,419,Italia
@@ -181,14 +180,14 @@
 23-lug,-3,70,17,-1,31,12,Italia
 24-lug,17,36,5,1,33,11,Italia
 25-lug,6,52,7,3,37,12,Italia
+26-lug,4,120,22,3,46,14,Italia
 ,,,,,,,
-25-gen,2,-16,46,2,-16,46,Lombardia
-26-gen,-15,118,77,-7,51,62,Lombardia
-27-gen,-15,43,62,-9,48,62,Lombardia
-28-gen,-6,-36,88,-9,27,68,Lombardia
-29-gen,8,-47,77,-5,12,70,Lombardia
-30-gen,-2,-36,58,-5,4,68,Lombardia
-31-gen,-15,49,24,-6,11,62,Lombardia
+26-gen,-15,118,77,-15,118,77,Lombardia
+27-gen,-15,43,62,-15,81,70,Lombardia
+28-gen,-6,-36,88,-12,42,76,Lombardia
+29-gen,8,-47,77,-7,20,76,Lombardia
+30-gen,-2,-36,58,-6,8,72,Lombardia
+31-gen,-15,49,24,-8,15,64,Lombardia
 1-feb,9,-14,52,-5,11,63,Lombardia
 2-feb,-10,55,63,-4,2,61,Lombardia
 3-feb,-2,10,46,-3,-3,58,Lombardia
@@ -364,14 +363,14 @@
 23-lug,-1,7,1,0,0,2,Lombardia
 24-lug,-1,11,0,-1,2,1,Lombardia
 25-lug,1,-3,1,-1,2,1,Lombardia
+26-lug,1,1,1,0,2,1,Lombardia
 ,,,,,,,
-25-gen,3,39,76,3,39,76,Emilia-Romagna
-26-gen,-2,-129,74,1,-45,75,Emilia-Romagna
-27-gen,-10,-12,38,-3,-34,63,Emilia-Romagna
-28-gen,-1,-39,56,-3,-35,61,Emilia-Romagna
-29-gen,0,-70,64,-2,-42,62,Emilia-Romagna
-30-gen,-6,-48,27,-3,-43,56,Emilia-Romagna
-31-gen,3,-12,22,-2,-39,51,Emilia-Romagna
+26-gen,-2,-129,74,-2,-129,74,Emilia-Romagna
+27-gen,-10,-12,38,-6,-71,56,Emilia-Romagna
+28-gen,-1,-39,56,-4,-60,56,Emilia-Romagna
+29-gen,0,-70,64,-3,-63,58,Emilia-Romagna
+30-gen,-6,-48,27,-4,-60,52,Emilia-Romagna
+31-gen,3,-12,22,-3,-52,47,Emilia-Romagna
 1-feb,1,69,34,-2,-34,45,Emilia-Romagna
 2-feb,-9,-5,71,-3,-17,45,Emilia-Romagna
 3-feb,-4,-54,75,-2,-23,50,Emilia-Romagna
@@ -547,14 +546,14 @@
 23-lug,-3,5,0,-1,-1,1,Emilia-Romagna
 24-lug,0,6,0,-1,1,1,Emilia-Romagna
 25-lug,0,0,1,-1,1,1,Emilia-Romagna
+26-lug,-1,11,4,-1,3,1,Emilia-Romagna
 ,,,,,,,
-25-gen,-2,-35,43,-2,-35,43,Veneto
-26-gen,-19,-19,93,-11,-27,68,Veneto
-27-gen,-7,-42,62,-9,-32,66,Veneto
-28-gen,-9,-101,52,-9,-49,63,Veneto
-29-gen,-9,-90,53,-9,-57,61,Veneto
-30-gen,-18,-71,60,-11,-60,61,Veneto
-31-gen,-5,-8,9,-10,-52,53,Veneto
+26-gen,-19,-19,93,-19,-19,93,Veneto
+27-gen,-7,-42,62,-13,-31,78,Veneto
+28-gen,-9,-101,52,-12,-54,69,Veneto
+29-gen,-9,-90,53,-11,-63,65,Veneto
+30-gen,-18,-71,60,-12,-65,64,Veneto
+31-gen,-5,-8,9,-11,-55,55,Veneto
 1-feb,-3,-20,39,-10,-50,53,Veneto
 2-feb,-21,13,76,-10,-46,50,Veneto
 3-feb,-17,-117,57,-12,-56,49,Veneto
@@ -730,14 +729,14 @@
 23-lug,2,-2,0,0,3,0,Veneto
 24-lug,2,0,2,1,2,0,Veneto
 25-lug,1,1,0,1,2,0,Veneto
+26-lug,1,3,1,1,2,0,Veneto
 ,,,,,,,
-25-gen,7,19,21,7,19,21,Piemonte
-26-gen,0,-57,38,4,-19,30,Piemonte
-27-gen,0,-27,51,2,-22,37,Piemonte
-28-gen,-12,-86,43,-1,-38,38,Piemonte
-29-gen,-1,-31,38,-1,-36,38,Piemonte
-30-gen,0,-36,59,-1,-36,42,Piemonte
-31-gen,-4,-5,14,-1,-32,38,Piemonte
+26-gen,0,-57,38,0,-57,38,Piemonte
+27-gen,0,-27,51,0,-42,45,Piemonte
+28-gen,-12,-86,43,-4,-57,44,Piemonte
+29-gen,-1,-31,38,-3,-50,43,Piemonte
+30-gen,0,-36,59,-3,-47,46,Piemonte
+31-gen,-4,-5,14,-3,-40,41,Piemonte
 1-feb,7,29,11,-1,-30,36,Piemonte
 2-feb,-1,-13,37,-2,-24,36,Piemonte
 3-feb,-5,-46,25,-2,-27,32,Piemonte
@@ -913,14 +912,14 @@
 23-lug,0,-5,0,0,0,0,Piemonte
 24-lug,0,7,0,0,1,0,Piemonte
 25-lug,0,4,0,0,2,0,Piemonte
+26-lug,0,10,0,0,2,0,Piemonte
 ,,,,,,,
-25-gen,1,1,23,1,1,23,Friuli VG
-26-gen,2,-18,33,2,-9,28,Friuli VG
-27-gen,-3,-22,26,0,-13,27,Friuli VG
-28-gen,-2,-27,21,-1,-17,26,Friuli VG
-29-gen,0,-14,18,0,-16,24,Friuli VG
-30-gen,-2,-9,14,-1,-15,23,Friuli VG
-31-gen,3,-6,16,0,-14,22,Friuli VG
+26-gen,2,-18,33,2,-18,33,Friuli VG
+27-gen,-3,-22,26,-1,-20,30,Friuli VG
+28-gen,-2,-27,21,-1,-22,27,Friuli VG
+29-gen,0,-14,18,-1,-20,25,Friuli VG
+30-gen,-2,-9,14,-1,-18,22,Friuli VG
+31-gen,3,-6,16,0,-16,21,Friuli VG
 1-feb,1,3,24,0,-13,22,Friuli VG
 2-feb,0,-14,26,0,-13,21,Friuli VG
 3-feb,2,-18,27,0,-12,21,Friuli VG
@@ -1096,14 +1095,14 @@
 23-lug,0,1,0,0,0,0,Friuli VG
 24-lug,2,-2,0,0,0,0,Friuli VG
 25-lug,0,2,0,0,0,0,Friuli VG
+26-lug,0,-1,0,0,0,0,Friuli VG
 ,,,,,,,
-25-gen,1,0,0,1,0,0,Valle d'Aosta
 26-gen,1,-1,0,1,-1,0,Valle d'Aosta
-27-gen,0,-1,1,1,-1,0,Valle d'Aosta
-28-gen,0,-2,1,1,-1,1,Valle d'Aosta
-29-gen,0,-5,0,0,-2,0,Valle d'Aosta
+27-gen,0,-1,1,1,-1,1,Valle d'Aosta
+28-gen,0,-2,1,0,-1,1,Valle d'Aosta
+29-gen,0,-5,0,0,-2,1,Valle d'Aosta
 30-gen,0,-1,1,0,-2,1,Valle d'Aosta
-31-gen,-1,-3,0,0,-2,0,Valle d'Aosta
+31-gen,-1,-3,0,0,-2,1,Valle d'Aosta
 1-feb,0,1,1,0,-2,1,Valle d'Aosta
 2-feb,0,-8,0,0,-3,1,Valle d'Aosta
 3-feb,0,4,1,0,-2,1,Valle d'Aosta
@@ -1279,14 +1278,14 @@
 23-lug,0,0,0,0,0,0,Valle d'Aosta
 24-lug,0,0,0,0,0,0,Valle d'Aosta
 25-lug,0,1,0,0,0,0,Valle d'Aosta
+26-lug,0,0,0,0,0,0,Valle d'Aosta
 ,,,,,,,
-25-gen,3,19,6,3,19,6,Liguria
-26-gen,-2,-5,17,1,7,12,Liguria
-27-gen,3,-26,20,1,-4,14,Liguria
-28-gen,-1,-3,22,1,-4,16,Liguria
-29-gen,-3,3,25,0,-2,18,Liguria
-30-gen,-2,-3,16,0,-3,18,Liguria
-31-gen,3,24,11,0,1,17,Liguria
+26-gen,-2,-5,17,-2,-5,17,Liguria
+27-gen,3,-26,20,1,-16,19,Liguria
+28-gen,-1,-3,22,0,-11,20,Liguria
+29-gen,-3,3,25,-1,-8,21,Liguria
+30-gen,-2,-3,16,-1,-7,20,Liguria
+31-gen,3,24,11,0,-2,19,Liguria
 1-feb,0,19,7,0,1,17,Liguria
 2-feb,-1,-1,12,0,2,16,Liguria
 3-feb,0,11,27,-1,7,17,Liguria
@@ -1462,14 +1461,14 @@
 23-lug,-1,5,0,0,2,0,Liguria
 24-lug,0,2,1,0,1,0,Liguria
 25-lug,1,10,0,0,3,0,Liguria
+26-lug,0,7,0,0,3,0,Liguria
 ,,,,,,,
-25-gen,-2,8,3,-2,8,3,Trento
-26-gen,-5,1,7,-4,5,5,Trento
-27-gen,-1,-15,2,-3,-2,4,Trento
-28-gen,-1,-10,0,-2,-4,3,Trento
-29-gen,0,-4,1,-2,-4,3,Trento
-30-gen,1,-14,2,-1,-6,3,Trento
-31-gen,0,5,1,-1,-4,2,Trento
+26-gen,-5,1,7,-5,1,7,Trento
+27-gen,-1,-15,2,-3,-7,5,Trento
+28-gen,-1,-10,0,-2,-8,3,Trento
+29-gen,0,-4,1,-2,-7,3,Trento
+30-gen,1,-14,2,-1,-8,2,Trento
+31-gen,0,5,1,-1,-6,2,Trento
 1-feb,0,2,0,-1,-5,2,Trento
 2-feb,-1,-6,3,0,-6,1,Trento
 3-feb,-1,-16,3,0,-6,1,Trento
@@ -1645,14 +1644,14 @@
 23-lug,0,-1,0,0,0,0,Trento
 24-lug,0,3,0,0,1,0,Trento
 25-lug,0,-1,0,0,1,0,Trento
+26-lug,0,2,0,0,1,0,Trento
 ,,,,,,,
-25-gen,3,13,4,3,13,4,Bolzano
-26-gen,2,-14,8,3,-1,6,Bolzano
-27-gen,2,-8,2,2,-3,5,Bolzano
-28-gen,-2,-1,4,1,-3,5,Bolzano
-29-gen,0,3,3,1,-1,4,Bolzano
-30-gen,2,-3,7,1,-2,5,Bolzano
-31-gen,0,7,4,1,0,5,Bolzano
+26-gen,2,-14,8,2,-14,8,Bolzano
+27-gen,2,-8,2,2,-11,5,Bolzano
+28-gen,-2,-1,4,1,-8,5,Bolzano
+29-gen,0,3,3,1,-5,4,Bolzano
+30-gen,2,-3,7,1,-5,5,Bolzano
+31-gen,0,7,4,1,-3,5,Bolzano
 1-feb,2,10,2,1,-1,4,Bolzano
 2-feb,0,0,5,1,1,4,Bolzano
 3-feb,-2,8,5,0,3,4,Bolzano
@@ -1828,14 +1827,14 @@
 23-lug,0,-2,0,0,0,0,Bolzano
 24-lug,0,0,0,0,-1,0,Bolzano
 25-lug,0,1,0,0,-1,0,Bolzano
+26-lug,0,7,0,0,0,0,Bolzano
 ,,,,,,,
-25-gen,-1,3,9,-1,3,9,Marche
-26-gen,0,-4,11,-1,-1,10,Marche
-27-gen,-1,9,15,-1,3,12,Marche
-28-gen,-2,-3,17,-1,1,13,Marche
-29-gen,3,-11,13,0,-1,13,Marche
-30-gen,-2,2,16,-1,-1,14,Marche
-31-gen,1,-13,11,0,-2,13,Marche
+26-gen,0,-4,11,0,-4,11,Marche
+27-gen,-1,9,15,-1,3,13,Marche
+28-gen,-2,-3,17,-1,1,14,Marche
+29-gen,3,-11,13,0,-2,14,Marche
+30-gen,-2,2,16,0,-1,14,Marche
+31-gen,1,-13,11,0,-3,14,Marche
 1-feb,0,6,12,0,-2,14,Marche
 2-feb,-4,9,8,-1,0,13,Marche
 3-feb,0,-9,10,-1,-3,12,Marche
@@ -2011,14 +2010,14 @@
 23-lug,0,-2,0,0,0,0,Marche
 24-lug,0,1,0,0,1,0,Marche
 25-lug,0,0,0,0,0,0,Marche
+26-lug,1,0,0,0,0,0,Marche
 ,,,,,,,
-25-gen,3,25,14,3,25,14,Toscana
-26-gen,-6,21,9,-2,23,12,Toscana
-27-gen,0,-6,12,-1,13,12,Toscana
-28-gen,-3,-4,16,-2,9,13,Toscana
-29-gen,0,-13,26,-1,5,15,Toscana
-30-gen,-5,-11,22,-2,2,17,Toscana
-31-gen,1,0,8,-1,2,15,Toscana
+26-gen,-6,21,9,-6,21,9,Toscana
+27-gen,0,-6,12,-3,8,11,Toscana
+28-gen,-3,-4,16,-3,4,12,Toscana
+29-gen,0,-13,26,-2,-1,16,Toscana
+30-gen,-5,-11,22,-3,-3,17,Toscana
+31-gen,1,0,8,-2,-2,16,Toscana
 1-feb,5,8,15,-1,-1,15,Toscana
 2-feb,8,13,9,1,-2,15,Toscana
 3-feb,0,-6,21,1,-2,17,Toscana
@@ -2194,14 +2193,14 @@
 23-lug,-1,9,0,-1,4,0,Toscana
 24-lug,2,-1,0,0,3,0,Toscana
 25-lug,2,11,2,0,4,1,Toscana
+26-lug,0,7,1,0,4,1,Toscana
 ,,,,,,,
-25-gen,1,16,40,1,16,40,Lazio
-26-gen,-4,-16,43,-2,0,42,Lazio
-27-gen,0,-36,62,-1,-12,48,Lazio
-28-gen,6,-50,43,1,-22,47,Lazio
-29-gen,0,-20,48,1,-21,47,Lazio
-30-gen,-7,-31,27,-1,-23,44,Lazio
-31-gen,2,-19,39,0,-22,43,Lazio
+26-gen,-4,-16,43,-4,-16,43,Lazio
+27-gen,0,-36,62,-2,-26,53,Lazio
+28-gen,6,-50,43,1,-34,49,Lazio
+29-gen,0,-20,48,1,-31,49,Lazio
+30-gen,-7,-31,27,-1,-31,45,Lazio
+31-gen,2,-19,39,-1,-29,44,Lazio
 1-feb,4,-15,38,0,-27,43,Lazio
 2-feb,1,-37,52,1,-30,44,Lazio
 3-feb,-10,14,49,-1,-23,42,Lazio
@@ -2377,13 +2376,13 @@
 23-lug,1,33,1,1,11,1,Lazio
 24-lug,2,13,0,1,13,1,Lazio
 25-lug,0,15,2,1,13,1,Lazio
+26-lug,2,29,2,1,16,1,Lazio
 ,,,,,,,
-25-gen,0,9,6,0,9,6,Umbria
-26-gen,3,34,5,2,22,6,Umbria
-27-gen,0,0,5,1,14,5,Umbria
-28-gen,4,4,4,2,12,5,Umbria
-29-gen,-1,11,7,1,12,5,Umbria
-30-gen,2,-3,5,1,9,5,Umbria
+26-gen,3,34,5,3,34,5,Umbria
+27-gen,0,0,5,2,17,5,Umbria
+28-gen,4,4,4,2,13,5,Umbria
+29-gen,-1,11,7,2,12,5,Umbria
+30-gen,2,-3,5,2,9,5,Umbria
 31-gen,-1,15,9,1,10,6,Umbria
 1-feb,4,2,8,2,9,6,Umbria
 2-feb,3,6,12,2,5,7,Umbria
@@ -2560,14 +2559,14 @@
 23-lug,0,2,0,0,1,0,Umbria
 24-lug,1,-4,0,0,0,0,Umbria
 25-lug,0,2,0,0,1,0,Umbria
+26-lug,0,0,0,0,0,0,Umbria
 ,,,,,,,
-25-gen,0,-4,25,0,-4,25,Abruzzo
-26-gen,-2,-11,17,-1,-8,21,Abruzzo
-27-gen,-2,-13,6,-1,-9,16,Abruzzo
-28-gen,0,-3,5,-1,-8,13,Abruzzo
-29-gen,0,-10,7,-1,-8,12,Abruzzo
-30-gen,3,0,9,0,-7,12,Abruzzo
-31-gen,3,-6,5,0,-7,11,Abruzzo
+26-gen,-2,-11,17,-2,-11,17,Abruzzo
+27-gen,-2,-13,6,-2,-12,12,Abruzzo
+28-gen,0,-3,5,-1,-9,9,Abruzzo
+29-gen,0,-10,7,-1,-9,9,Abruzzo
+30-gen,3,0,9,0,-7,9,Abruzzo
+31-gen,3,-6,5,0,-7,8,Abruzzo
 1-feb,1,18,3,0,-4,7,Abruzzo
 2-feb,-3,13,8,0,0,6,Abruzzo
 3-feb,3,13,4,1,4,6,Abruzzo
@@ -2743,14 +2742,14 @@
 23-lug,0,1,1,0,-1,0,Abruzzo
 24-lug,0,3,0,0,0,0,Abruzzo
 25-lug,-1,2,0,0,0,0,Abruzzo
+26-lug,0,1,0,0,0,0,Abruzzo
 ,,,,,,,
-25-gen,-2,2,5,-2,2,5,Molise
-26-gen,0,-1,5,-1,1,5,Molise
-27-gen,1,0,2,0,0,4,Molise
-28-gen,1,-3,2,0,-1,4,Molise
-29-gen,-1,5,2,0,1,3,Molise
-30-gen,0,1,2,0,1,3,Molise
-31-gen,1,4,0,0,1,3,Molise
+26-gen,0,-1,5,0,-1,5,Molise
+27-gen,1,0,2,1,-1,4,Molise
+28-gen,1,-3,2,1,-1,3,Molise
+29-gen,-1,5,2,0,0,3,Molise
+30-gen,0,1,2,0,0,3,Molise
+31-gen,1,4,0,0,1,2,Molise
 1-feb,0,3,1,0,1,2,Molise
 2-feb,-1,-3,4,0,1,2,Molise
 3-feb,-2,7,4,0,2,2,Molise
@@ -2926,14 +2925,14 @@
 23-lug,0,0,0,0,0,0,Molise
 24-lug,0,0,0,0,0,0,Molise
 25-lug,0,0,0,0,0,0,Molise
+26-lug,0,0,0,0,0,0,Molise
 ,,,,,,,
-25-gen,-7,7,20,-7,7,20,Campania
-26-gen,-4,15,25,-6,11,23,Campania
-27-gen,6,-23,26,-2,0,24,Campania
-28-gen,-9,27,35,-4,7,27,Campania
-29-gen,-3,-49,21,-3,-5,25,Campania
-30-gen,-3,10,22,-3,-2,25,Campania
-31-gen,7,-18,10,-2,-4,23,Campania
+26-gen,-4,15,25,-4,15,25,Campania
+27-gen,6,-23,26,1,-4,26,Campania
+28-gen,-9,27,35,-2,6,29,Campania
+29-gen,-3,-49,21,-3,-8,27,Campania
+30-gen,-3,10,22,-3,-4,26,Campania
+31-gen,7,-18,10,-1,-6,23,Campania
 1-feb,-2,20,8,-1,-3,21,Campania
 2-feb,6,43,38,0,1,23,Campania
 3-feb,-3,-5,17,-1,4,22,Campania
@@ -3109,14 +3108,14 @@
 23-lug,-1,5,7,0,3,3,Campania
 24-lug,1,-13,1,0,-1,3,Campania
 25-lug,-1,4,0,0,1,3,Campania
+26-lug,1,8,1,0,1,2,Campania
 ,,,,,,,
-25-gen,5,-11,32,5,-11,32,Puglia
-26-gen,11,23,30,8,6,31,Puglia
-27-gen,2,7,30,6,6,31,Puglia
-28-gen,-9,-16,34,2,1,32,Puglia
-29-gen,-5,7,24,1,2,30,Puglia
-30-gen,-5,-12,29,0,0,30,Puglia
-31-gen,1,8,13,0,1,27,Puglia
+26-gen,11,23,30,11,23,30,Puglia
+27-gen,2,7,30,7,15,30,Puglia
+28-gen,-9,-16,34,1,5,31,Puglia
+29-gen,-5,7,24,0,5,30,Puglia
+30-gen,-5,-12,29,-1,2,29,Puglia
+31-gen,1,8,13,-1,3,27,Puglia
 1-feb,7,14,36,0,4,28,Puglia
 2-feb,-1,21,26,-1,4,27,Puglia
 3-feb,-15,-3,46,-4,3,30,Puglia
@@ -3292,14 +3291,14 @@
 23-lug,0,3,0,0,2,1,Puglia
 24-lug,0,1,0,0,2,1,Puglia
 25-lug,0,-3,0,0,2,1,Puglia
+26-lug,-1,-3,3,0,1,1,Puglia
 ,,,,,,,
-25-gen,2,5,4,2,5,4,Basilicata
-26-gen,-4,-3,4,-1,1,4,Basilicata
-27-gen,0,-2,0,-1,0,3,Basilicata
-28-gen,0,-7,1,-1,-2,2,Basilicata
-29-gen,2,-3,3,0,-2,2,Basilicata
-30-gen,-2,-1,2,0,-2,2,Basilicata
-31-gen,0,-4,1,0,-2,2,Basilicata
+26-gen,-4,-3,4,-4,-3,4,Basilicata
+27-gen,0,-2,0,-2,-3,2,Basilicata
+28-gen,0,-7,1,-1,-4,2,Basilicata
+29-gen,2,-3,3,-1,-4,2,Basilicata
+30-gen,-2,-1,2,-1,-3,2,Basilicata
+31-gen,0,-4,1,-1,-3,2,Basilicata
 1-feb,0,5,0,-1,-2,2,Basilicata
 2-feb,0,1,0,0,-2,1,Basilicata
 3-feb,-1,-2,2,0,-2,1,Basilicata
@@ -3475,14 +3474,14 @@
 23-lug,0,3,0,0,1,0,Basilicata
 24-lug,0,-6,0,0,0,0,Basilicata
 25-lug,0,-3,0,0,0,0,Basilicata
+26-lug,0,2,0,0,0,0,Basilicata
 ,,,,,,,
-25-gen,1,-1,6,1,-1,6,Calabria
-26-gen,-3,5,5,-1,2,6,Calabria
-27-gen,3,-9,1,0,-2,4,Calabria
-28-gen,-1,-1,4,0,-2,4,Calabria
-29-gen,-1,1,3,0,-1,4,Calabria
-30-gen,-2,-2,3,-1,-1,4,Calabria
-31-gen,2,4,4,0,0,4,Calabria
+26-gen,-3,5,5,-3,5,5,Calabria
+27-gen,3,-9,1,0,-2,3,Calabria
+28-gen,-1,-1,4,0,-2,3,Calabria
+29-gen,-1,1,3,-1,-1,3,Calabria
+30-gen,-2,-2,3,-1,-1,3,Calabria
+31-gen,2,4,4,0,0,3,Calabria
 1-feb,1,0,4,0,0,3,Calabria
 2-feb,3,-12,3,1,-3,3,Calabria
 3-feb,-1,-11,7,0,-3,4,Calabria
@@ -3658,14 +3657,14 @@
 23-lug,0,3,5,0,0,1,Calabria
 24-lug,-1,4,0,0,1,1,Calabria
 25-lug,0,-2,0,0,0,1,Calabria
+26-lug,1,1,9,0,0,2,Calabria
 ,,,,,,,
-25-gen,0,8,34,0,8,34,Sicilia
-26-gen,2,-4,36,1,2,35,Sicilia
-27-gen,3,-14,38,2,-3,36,Sicilia
-28-gen,-17,-16,37,-3,-7,36,Sicilia
-29-gen,-4,-32,37,-3,-12,36,Sicilia
-30-gen,-3,-28,35,-3,-14,36,Sicilia
-31-gen,-4,-20,35,-3,-15,36,Sicilia
+26-gen,2,-4,36,2,-4,36,Sicilia
+27-gen,3,-14,38,3,-9,37,Sicilia
+28-gen,-17,-16,37,-4,-11,37,Sicilia
+29-gen,-4,-32,37,-4,-17,37,Sicilia
+30-gen,-3,-28,35,-4,-19,37,Sicilia
+31-gen,-4,-20,35,-4,-19,36,Sicilia
 1-feb,0,11,30,-3,-15,35,Sicilia
 2-feb,-2,-9,37,-4,-15,36,Sicilia
 3-feb,-9,-10,34,-6,-15,35,Sicilia
@@ -3841,14 +3840,14 @@
 23-lug,-1,14,2,0,4,2,Sicilia
 24-lug,6,10,1,1,6,3,Sicilia
 25-lug,2,10,0,1,6,3,Sicilia
+26-lug,-1,24,0,1,9,2,Sicilia
 ,,,,,,,
-25-gen,3,8,3,3,8,3,Sardegna
-26-gen,-4,-4,3,-1,2,3,Sardegna
-27-gen,-1,3,7,-1,2,4,Sardegna
-28-gen,0,-6,7,-1,0,5,Sardegna
-29-gen,-3,-12,7,-1,-2,5,Sardegna
-30-gen,-1,-3,5,-1,-2,5,Sardegna
-31-gen,0,-4,1,-1,-3,5,Sardegna
+26-gen,-4,-4,3,-4,-4,3,Sardegna
+27-gen,-1,3,7,-3,-1,5,Sardegna
+28-gen,0,-6,7,-2,-2,6,Sardegna
+29-gen,-3,-12,7,-2,-5,6,Sardegna
+30-gen,-1,-3,5,-2,-4,6,Sardegna
+31-gen,0,-4,1,-2,-4,5,Sardegna
 1-feb,0,-7,4,-1,-5,5,Sardegna
 2-feb,-5,-9,8,-1,-5,6,Sardegna
 3-feb,-5,-14,7,-2,-8,6,Sardegna
@@ -4024,3 +4023,4 @@
 23-lug,2,-9,0,0,1,0,Sardegna
 24-lug,3,1,0,1,-1,0,Sardegna
 25-lug,1,1,1,1,-1,0,Sardegna
+26-lug,0,11,0,1,1,0,Sardegna
