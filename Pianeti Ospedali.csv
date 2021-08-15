@@ -1,45 +1,45 @@
 ﻿REGIONE,,Abitanti,Totale posti letto,Posti letto/100.000 ab.,% variazione ricoveri ultimi 7 gg rispetto al totale,% occupazione posti letto,POPUP % incremento ricoveri ultimi 7 gg rispetto al totale,POPUP % occupazione posti letto,Control,Aggiornamento AGENAS,Aggiornamento
-ITALIA,,59257566,56189,95,22,5.5,22,5.5,Reparti,13/08/2021 ore 18:29,14/08/21
-Lombardia,,9966992,6369,64,22,5.0,22,5.0,Reparti,13/08/2021 ore 18:29,14/08/21
-Emilia Romagna,Emilia,4445549,6538,147,13,4.8,13,4.8,Reparti,13/08/2021 ore 18:29,14/08/21
-Veneto,,4852453,6000,124,-4,2.4,-4,2.4,Reparti,13/08/2021 ore 18:29,14/08/21
-Piemonte,,4273210,5824,136,28,1.9,28,1.9,Reparti,13/08/2021 ore 18:29,14/08/21
-Friuli VG,Friuli,1198753,1277,107,45,2.3,45,2.3,Reparti,13/08/2021 ore 18:29,14/08/21
-Valle d'Aosta,Valle,123895,83,67,33,4.8,33,4.8,Reparti,13/08/2021 ore 18:29,14/08/21
-Liguria,,1509805,1675,111,50,3.9,50,3.9,Reparti,13/08/2021 ore 18:29,14/08/21
-Trento,Trento,544745,517,95,-6,3.1,-6,3.1,Reparti,13/08/2021 ore 18:29,14/08/21
-Bolzano,Bolzano,533715,391,73,71,3.1,71,3.1,Reparti,13/08/2021 ore 18:29,14/08/21
-Marche,,1501406,951,63,-23,3.6,-23,3.6,Reparti,13/08/2021 ore 18:29,14/08/21
-Toscana,,3668333,5033,137,20,5.3,20,5.3,Reparti,13/08/2021 ore 18:29,14/08/21
-Lazio,,5720796,6421,112,19,7.1,19,7.1,Reparti,13/08/2021 ore 18:29,14/08/21
-Umbria,,865013,684,79,33,4.7,33,4.7,Reparti,13/08/2021 ore 18:29,14/08/21
-Abruzzo,,1285256,1324,103,19,3.8,19,3.8,Reparti,13/08/2021 ore 18:29,14/08/21
-Molise,,296547,176,59,100,4.5,300,4.5,Reparti,13/08/2021 ore 18:29,14/08/21
-Campania,,5679759,3832,67,25,8.3,25,8.3,Reparti,13/08/2021 ore 18:29,14/08/21
-Puglia,,3926931,2731,70,27,4.7,27,4.7,Reparti,13/08/2021 ore 18:29,14/08/21
-Basilicata,,547579,354,65,48,8.8,48,8.8,Reparti,13/08/2021 ore 18:29,14/08/21
-Calabria,,1877728,797,42,41,13.0,41,13.0,Reparti,13/08/2021 ore 18:29,14/08/21
-Sicilia,,4840876,3610,75,35,14.7,35,14.7,Reparti,13/08/2021 ore 18:29,14/08/21
-Sardegna,,1598225,1602,100,21,8.2,21,8.2,Reparti,13/08/2021 ore 18:29,14/08/21
-ITALIA,,59257566,8695,15,29,4.3,29,4.3,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Lombardia,,9966992,1416,14,3,2.5,3,2.5,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Emilia Romagna,Emilia,4445549,760,17,73,5.0,73,5.0,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Veneto,,4852453,1000,21,50,2.7,50,2.7,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Piemonte,,4273210,628,15,60,1.3,60,1.3,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Friuli VG,Friuli,1198753,175,15,100,2.3,100,2.3,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Valle d'Aosta,Valle,123895,33,27,0,0.0,0,0.0,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Liguria,,1509805,218,14,-20,5.5,-20,5.5,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Trento,Trento,544745,90,17,0,1.1,0,1.1,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Bolzano,Bolzano,533715,100,19,-40,1.0,-50,1.0,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Marche,,1501406,209,14,20,2.9,20,2.9,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Toscana,,3668333,570,16,32,5.8,32,5.8,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Lazio,,5720796,943,16,24,7.1,24,7.1,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Umbria,,865013,91,11,100,2.2,100,2.2,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Abruzzo,,1285256,177,14,100,2.8,400,2.8,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Molise,,296547,39,13,0,2.6,0,2.6,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Campania,,5679759,548,10,7,2.9,7,2.9,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Puglia,,3926931,482,12,62,4.4,62,4.4,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Basilicata,,547579,88,16,-40,1.1,-50,1.1,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Calabria,,1877728,169,9,75,4.1,75,4.1,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Sicilia,,4840876,755,16,38,8.6,38,8.6,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
-Sardegna,,1598225,204,13,5,10.3,5,10.3,Terapie Intensive,13/08/2021 ore 18:29,14/08/21
+ITALIA,,59257566,56128,95,22,5.5,22,5.5,Reparti,14/08/2021 ore 18:24,14/08/21
+Lombardia,,9966992,6369,64,22,5.0,22,5.0,Reparti,14/08/2021 ore 18:24,14/08/21
+Emilia Romagna,Emilia,4445549,6538,147,13,4.8,13,4.8,Reparti,14/08/2021 ore 18:24,14/08/21
+Veneto,,4852453,6000,124,-4,2.4,-4,2.4,Reparti,14/08/2021 ore 18:24,14/08/21
+Piemonte,,4273210,5824,136,28,1.9,28,1.9,Reparti,14/08/2021 ore 18:24,14/08/21
+Friuli VG,Friuli,1198753,1277,107,45,2.3,45,2.3,Reparti,14/08/2021 ore 18:24,14/08/21
+Valle d'Aosta,Valle,123895,83,67,33,4.8,33,4.8,Reparti,14/08/2021 ore 18:24,14/08/21
+Liguria,,1509805,1675,111,50,3.9,50,3.9,Reparti,14/08/2021 ore 18:24,14/08/21
+Trento,Trento,544745,517,95,-6,3.1,-6,3.1,Reparti,14/08/2021 ore 18:24,14/08/21
+Bolzano,Bolzano,533715,391,73,71,3.1,71,3.1,Reparti,14/08/2021 ore 18:24,14/08/21
+Marche,,1501406,951,63,-23,3.6,-23,3.6,Reparti,14/08/2021 ore 18:24,14/08/21
+Toscana,,3668333,5033,137,20,5.3,20,5.3,Reparti,14/08/2021 ore 18:24,14/08/21
+Lazio,,5720796,6421,112,19,7.1,19,7.1,Reparti,14/08/2021 ore 18:24,14/08/21
+Umbria,,865013,684,79,33,4.7,33,4.7,Reparti,14/08/2021 ore 18:24,14/08/21
+Abruzzo,,1285256,1324,103,19,3.8,19,3.8,Reparti,14/08/2021 ore 18:24,14/08/21
+Molise,,296547,176,59,100,4.5,300,4.5,Reparti,14/08/2021 ore 18:24,14/08/21
+Campania,,5679759,3832,67,25,8.3,25,8.3,Reparti,14/08/2021 ore 18:24,14/08/21
+Puglia,,3926931,2731,70,27,4.7,27,4.7,Reparti,14/08/2021 ore 18:24,14/08/21
+Basilicata,,547579,354,65,48,8.8,48,8.8,Reparti,14/08/2021 ore 18:24,14/08/21
+Calabria,,1877728,797,42,41,13.0,41,13.0,Reparti,14/08/2021 ore 18:24,14/08/21
+Sicilia,,4840876,3549,73,35,15.0,35,15.0,Reparti,14/08/2021 ore 18:24,14/08/21
+Sardegna,,1598225,1602,100,21,8.2,21,8.2,Reparti,14/08/2021 ore 18:24,14/08/21
+ITALIA,,59257566,8694,15,29,4.3,29,4.3,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Lombardia,,9966992,1416,14,3,2.5,3,2.5,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Emilia Romagna,Emilia,4445549,760,17,73,5.0,73,5.0,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Veneto,,4852453,1000,21,50,2.7,50,2.7,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Piemonte,,4273210,628,15,60,1.3,60,1.3,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Friuli VG,Friuli,1198753,175,15,100,2.3,100,2.3,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Valle d'Aosta,Valle,123895,33,27,0,0.0,0,0.0,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Liguria,,1509805,218,14,-20,5.5,-20,5.5,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Trento,Trento,544745,90,17,0,1.1,0,1.1,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Bolzano,Bolzano,533715,100,19,-40,1.0,-50,1.0,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Marche,,1501406,209,14,20,2.9,20,2.9,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Toscana,,3668333,570,16,32,5.8,32,5.8,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Lazio,,5720796,943,16,24,7.1,24,7.1,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Umbria,,865013,91,11,100,2.2,100,2.2,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Abruzzo,,1285256,177,14,100,2.8,400,2.8,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Molise,,296547,39,13,0,2.6,0,2.6,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Campania,,5679759,548,10,7,2.9,7,2.9,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Puglia,,3926931,482,12,62,4.4,62,4.4,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Basilicata,,547579,88,16,-40,1.1,-50,1.1,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Calabria,,1877728,169,9,75,4.1,75,4.1,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Sicilia,,4840876,754,16,38,8.6,38,8.6,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
+Sardegna,,1598225,204,13,5,10.3,5,10.3,Terapie Intensive,14/08/2021 ore 18:24,14/08/21
