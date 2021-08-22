@@ -1,4 +1,4 @@
-﻿#,Provincia,Sigla,LAT,LON,codice,data,incidenza,italia,
+﻿#,Provincia,Sigla,LAT,LON,codice,data,casi,italia,posizione
 0,Agrigento,AG,37.30971088,13.58457496,84,22/08/20,4,8,88
 0,Alessandria,AL,44.91297351,8.61540116,6,22/08/20,0,8,41
 0,Ancona,AN,43.61675973,13.51887537,42,22/08/20,3,8,34
