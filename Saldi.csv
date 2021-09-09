@@ -1,11 +1,10 @@
 ﻿Data,NUO TI,NUO RIC,NUO DEC,Terapie Intensive,Ricoveri,Decessi,Regione
-11-mar,32,365,376,32,365,376,Italia
-12-mar,55,409,383,44,387,380,Italia
-13-mar,68,497,320,52,424,360,Italia
-14-mar,100,365,267,64,409,337,Italia
-15-mar,75,820,357,66,491,341,Italia
-16-mar,99,760,505,72,536,368,Italia
-17-mar,61,419,434,70,519,377,Italia
+12-mar,55,409,383,55,409,383,Italia
+13-mar,68,497,320,62,453,352,Italia
+14-mar,100,365,267,74,424,323,Italia
+15-mar,75,820,357,75,523,332,Italia
+16-mar,99,760,505,79,570,366,Italia
+17-mar,61,419,434,76,545,378,Italia
 18-mar,16,177,426,68,492,385,Italia
 19-mar,31,164,389,64,457,385,Italia
 20-mar,23,203,404,58,415,397,Italia
@@ -181,14 +180,14 @@
 6-set,-2,86,52,3,5,60,Italia
 7-set,-7,5,71,3,8,60,Italia
 8-set,1,-72,69,3,1,60,Italia
+9-set,-6,-5,59,0,4,59,Italia
 ,,,,,,,
-11-mar,28,134,81,28,134,81,Lombardia
-12-mar,22,191,89,25,163,85,Lombardia
-13-mar,27,159,66,26,161,79,Lombardia
-14-mar,20,9,61,24,123,74,Lombardia
-15-mar,14,121,79,22,123,75,Lombardia
-16-mar,37,276,81,25,148,76,Lombardia
-17-mar,16,167,79,23,151,77,Lombardia
+12-mar,22,191,89,22,191,89,Lombardia
+13-mar,27,159,66,25,175,78,Lombardia
+14-mar,20,9,61,23,120,72,Lombardia
+15-mar,14,121,79,21,120,74,Lombardia
+16-mar,37,276,81,24,151,75,Lombardia
+17-mar,16,167,79,23,154,76,Lombardia
 18-mar,5,103,92,20,147,78,Lombardia
 19-mar,2,52,80,17,127,77,Lombardia
 20-mar,3,95,78,14,118,79,Lombardia
@@ -364,14 +363,14 @@
 6-set,-2,10,3,1,5,3,Lombardia
 7-set,-2,9,1,1,4,3,Lombardia
 8-set,1,2,6,1,4,3,Lombardia
+9-set,3,9,2,1,7,3,Lombardia
 ,,,,,,,
-11-mar,12,67,45,12,67,45,Emilia-Romagna
-12-mar,5,36,35,9,52,40,Emilia-Romagna
-13-mar,4,57,31,7,53,37,Emilia-Romagna
-14-mar,10,67,51,8,57,41,Emilia-Romagna
-15-mar,9,143,61,8,74,45,Emilia-Romagna
-16-mar,5,52,47,8,70,45,Emilia-Romagna
-17-mar,3,26,52,7,64,46,Emilia-Romagna
+12-mar,5,36,35,5,36,35,Emilia-Romagna
+13-mar,4,57,31,5,47,33,Emilia-Romagna
+14-mar,10,67,51,6,53,39,Emilia-Romagna
+15-mar,9,143,61,7,76,45,Emilia-Romagna
+16-mar,5,52,47,7,71,45,Emilia-Romagna
+17-mar,3,26,52,6,64,46,Emilia-Romagna
 18-mar,4,9,65,6,56,49,Emilia-Romagna
 19-mar,1,-2,42,5,50,50,Emilia-Romagna
 20-mar,15,-30,47,7,38,52,Emilia-Romagna
@@ -547,14 +546,14 @@
 6-set,-2,19,3,0,-1,4,Emilia-Romagna
 7-set,-4,0,2,-1,1,3,Emilia-Romagna
 8-set,0,-7,8,-1,2,3,Emilia-Romagna
+9-set,0,-1,3,0,2,4,Emilia-Romagna
 ,,,,,,,
-11-mar,6,12,22,6,12,22,Veneto
-12-mar,0,33,29,3,23,26,Veneto
-13-mar,16,5,24,7,17,25,Veneto
-14-mar,11,-4,8,8,12,21,Veneto
-15-mar,5,34,10,8,16,19,Veneto
-16-mar,0,141,84,6,37,30,Veneto
-17-mar,5,55,59,6,39,34,Veneto
+12-mar,0,33,29,0,33,29,Veneto
+13-mar,16,5,24,8,19,27,Veneto
+14-mar,11,-4,8,9,11,20,Veneto
+15-mar,5,34,10,8,17,18,Veneto
+16-mar,0,141,84,6,42,31,Veneto
+17-mar,5,55,59,6,44,36,Veneto
 18-mar,2,15,36,6,40,36,Veneto
 19-mar,6,1,23,6,35,35,Veneto
 20-mar,6,19,20,5,37,34,Veneto
@@ -730,14 +729,14 @@
 6-set,3,7,1,-1,3,3,Veneto
 7-set,-1,4,3,0,1,3,Veneto
 8-set,2,-3,2,0,1,2,Veneto
+9-set,4,7,7,0,2,3,Veneto
 ,,,,,,,
-11-mar,-1,73,42,-1,73,42,Piemonte
-12-mar,4,79,28,2,76,35,Piemonte
-13-mar,4,106,28,2,86,33,Piemonte
-14-mar,16,96,3,6,89,25,Piemonte
-15-mar,9,184,19,6,108,24,Piemonte
-16-mar,23,99,43,9,106,27,Piemonte
-17-mar,16,112,41,10,107,29,Piemonte
+12-mar,4,79,28,4,79,28,Piemonte
+13-mar,4,106,28,4,93,28,Piemonte
+14-mar,16,96,3,8,94,20,Piemonte
+15-mar,9,184,19,8,116,20,Piemonte
+16-mar,23,99,43,11,113,24,Piemonte
+17-mar,16,112,41,12,113,27,Piemonte
 18-mar,0,-2,45,10,96,30,Piemonte
 19-mar,11,53,33,11,93,30,Piemonte
 20-mar,6,29,52,12,82,34,Piemonte
@@ -913,14 +912,14 @@
 6-set,-1,22,0,1,4,1,Piemonte
 7-set,2,-8,3,1,4,1,Piemonte
 8-set,0,-2,1,1,2,2,Piemonte
+9-set,-2,5,2,0,3,1,Piemonte
 ,,,,,,,
-11-mar,-3,8,16,-3,8,16,Friuli VG
-12-mar,4,1,14,1,5,15,Friuli VG
-13-mar,0,6,15,0,5,15,Friuli VG
-14-mar,2,24,10,1,10,14,Friuli VG
-15-mar,3,4,17,1,9,14,Friuli VG
-16-mar,7,-2,15,2,7,15,Friuli VG
-17-mar,-1,8,15,2,7,15,Friuli VG
+12-mar,4,1,14,4,1,14,Friuli VG
+13-mar,0,6,15,2,4,15,Friuli VG
+14-mar,2,24,10,2,10,13,Friuli VG
+15-mar,3,4,17,2,9,14,Friuli VG
+16-mar,7,-2,15,3,7,14,Friuli VG
+17-mar,-1,8,15,3,7,14,Friuli VG
 18-mar,1,7,19,2,7,15,Friuli VG
 19-mar,0,2,21,2,7,16,Friuli VG
 20-mar,3,17,14,2,9,16,Friuli VG
@@ -1096,14 +1095,14 @@
 6-set,0,5,0,0,0,1,Friuli VG
 7-set,-2,1,2,0,0,1,Friuli VG
 8-set,-1,2,1,0,0,1,Friuli VG
+9-set,0,-4,0,0,-1,1,Friuli VG
 ,,,,,,,
-11-mar,0,0,0,0,0,0,Valle d'Aosta
 12-mar,0,0,0,0,0,0,Valle d'Aosta
-13-mar,0,3,0,0,1,0,Valle d'Aosta
+13-mar,0,3,0,0,2,0,Valle d'Aosta
 14-mar,0,-1,0,0,1,0,Valle d'Aosta
 15-mar,1,1,0,0,1,0,Valle d'Aosta
 16-mar,0,-1,1,0,0,0,Valle d'Aosta
-17-mar,-1,1,1,0,0,0,Valle d'Aosta
+17-mar,-1,1,1,0,1,0,Valle d'Aosta
 18-mar,0,7,0,0,1,0,Valle d'Aosta
 19-mar,0,2,0,0,2,0,Valle d'Aosta
 20-mar,0,1,0,0,1,0,Valle d'Aosta
@@ -1279,14 +1278,14 @@
 6-set,0,1,0,0,0,0,Valle d'Aosta
 7-set,0,0,0,0,0,0,Valle d'Aosta
 8-set,0,0,0,0,0,0,Valle d'Aosta
+9-set,0,0,0,0,0,0,Valle d'Aosta
 ,,,,,,,
-11-mar,-3,-12,5,-3,-12,5,Liguria
-12-mar,0,-2,9,-2,-7,7,Liguria
-13-mar,0,0,8,-1,-5,7,Liguria
-14-mar,-1,23,8,-1,2,8,Liguria
-15-mar,1,33,13,-1,8,9,Liguria
-16-mar,1,2,12,0,7,9,Liguria
-17-mar,-2,4,8,-1,7,9,Liguria
+12-mar,0,-2,9,0,-2,9,Liguria
+13-mar,0,0,8,0,-1,9,Liguria
+14-mar,-1,23,8,0,7,8,Liguria
+15-mar,1,33,13,0,14,10,Liguria
+16-mar,1,2,12,0,11,10,Liguria
+17-mar,-2,4,8,0,10,10,Liguria
 18-mar,1,-7,11,0,8,10,Liguria
 19-mar,-1,11,5,0,9,9,Liguria
 20-mar,2,7,5,0,10,9,Liguria
@@ -1462,13 +1461,13 @@
 6-set,1,2,0,0,0,0,Liguria
 7-set,-1,-1,1,0,0,0,Liguria
 8-set,0,-4,1,0,-1,0,Liguria
+9-set,0,16,0,0,2,0,Liguria
 ,,,,,,,
-11-mar,0,-3,1,0,-3,1,Trento
-12-mar,-3,-4,1,-2,-4,1,Trento
-13-mar,-1,-2,2,-1,-3,1,Trento
-14-mar,2,8,1,-1,0,1,Trento
-15-mar,1,13,4,0,2,2,Trento
-16-mar,4,-6,2,1,1,2,Trento
+12-mar,-3,-4,1,-3,-4,1,Trento
+13-mar,-1,-2,2,-2,-3,2,Trento
+14-mar,2,8,1,-1,1,1,Trento
+15-mar,1,13,4,0,4,2,Trento
+16-mar,4,-6,2,1,2,2,Trento
 17-mar,2,-8,3,1,0,2,Trento
 18-mar,1,5,3,1,1,2,Trento
 19-mar,0,-1,3,1,1,3,Trento
@@ -1645,14 +1644,14 @@
 6-set,0,-1,1,0,-1,0,Trento
 7-set,0,1,0,0,-1,0,Trento
 8-set,0,1,0,0,0,0,Trento
+9-set,0,3,0,0,1,0,Trento
 ,,,,,,,
-11-mar,-2,-9,1,-2,-9,1,Bolzano
-12-mar,0,-3,6,-1,-6,4,Bolzano
-13-mar,-2,-11,2,-1,-8,3,Bolzano
-14-mar,-3,5,3,-2,-5,3,Bolzano
-15-mar,0,-1,0,-1,-4,2,Bolzano
-16-mar,0,-5,8,-1,-4,3,Bolzano
-17-mar,0,-13,2,-1,-5,3,Bolzano
+12-mar,0,-3,6,0,-3,6,Bolzano
+13-mar,-2,-11,2,-1,-7,4,Bolzano
+14-mar,-3,5,3,-2,-3,4,Bolzano
+15-mar,0,-1,0,-1,-3,3,Bolzano
+16-mar,0,-5,8,-1,-3,4,Bolzano
+17-mar,0,-13,2,-1,-5,4,Bolzano
 18-mar,-2,-6,7,-1,-5,4,Bolzano
 19-mar,1,-13,0,-1,-6,3,Bolzano
 20-mar,0,-1,2,-1,-5,3,Bolzano
@@ -1828,14 +1827,14 @@
 6-set,2,-4,1,0,0,0,Bolzano
 7-set,0,0,0,1,0,0,Bolzano
 8-set,1,-3,0,1,0,0,Bolzano
+9-set,-1,-1,1,0,0,0,Bolzano
 ,,,,,,,
-11-mar,0,9,10,0,9,10,Marche
-12-mar,4,11,11,2,10,11,Marche
-13-mar,7,22,11,4,14,11,Marche
-14-mar,13,8,16,6,13,12,Marche
-15-mar,1,19,11,5,14,12,Marche
-16-mar,1,13,15,4,14,12,Marche
-17-mar,0,12,15,4,13,13,Marche
+12-mar,4,11,11,4,11,11,Marche
+13-mar,7,22,11,6,17,11,Marche
+14-mar,13,8,16,8,14,13,Marche
+15-mar,1,19,11,6,15,12,Marche
+16-mar,1,13,15,5,15,13,Marche
+17-mar,0,12,15,4,14,13,Marche
 18-mar,6,5,12,5,13,13,Marche
 19-mar,2,-3,9,4,11,13,Marche
 20-mar,-1,6,20,3,9,14,Marche
@@ -2011,14 +2010,14 @@
 6-set,-1,-3,1,1,-1,1,Marche
 7-set,-1,2,0,0,0,1,Marche
 8-set,0,1,0,0,-1,1,Marche
+9-set,3,-2,2,1,-1,1,Marche
 ,,,,,,,
-11-mar,0,32,20,0,32,20,Toscana
-12-mar,10,12,25,5,22,23,Toscana
-13-mar,-1,40,20,3,28,22,Toscana
-14-mar,19,31,19,7,29,21,Toscana
-15-mar,5,39,11,7,31,19,Toscana
-16-mar,-2,28,18,5,30,19,Toscana
-17-mar,2,23,21,5,29,19,Toscana
+12-mar,10,12,25,10,12,25,Toscana
+13-mar,-1,40,20,5,26,23,Toscana
+14-mar,19,31,19,9,28,21,Toscana
+15-mar,5,39,11,8,31,19,Toscana
+16-mar,-2,28,18,6,30,19,Toscana
+17-mar,2,23,21,6,29,19,Toscana
 18-mar,5,1,25,5,25,20,Toscana
 19-mar,0,-6,25,4,22,20,Toscana
 20-mar,-6,-24,18,3,13,20,Toscana
@@ -2194,14 +2193,14 @@
 6-set,-2,4,4,0,-4,4,Toscana
 7-set,-3,-2,8,0,-4,4,Toscana
 8-set,3,-2,2,1,-3,4,Toscana
+9-set,2,-2,6,0,-2,4,Toscana
 ,,,,,,,
-11-mar,-9,12,16,-9,12,16,Lazio
-12-mar,12,40,24,2,26,20,Lazio
-13-mar,8,44,19,4,32,20,Lazio
-14-mar,1,42,10,3,35,17,Lazio
-15-mar,14,83,20,5,44,18,Lazio
-16-mar,1,102,32,5,54,20,Lazio
-17-mar,2,9,20,4,47,20,Lazio
+12-mar,12,40,24,12,40,24,Lazio
+13-mar,8,44,19,10,42,22,Lazio
+14-mar,1,42,10,7,42,18,Lazio
+15-mar,14,83,20,9,52,18,Lazio
+16-mar,1,102,32,7,62,21,Lazio
+17-mar,2,9,20,6,53,21,Lazio
 18-mar,3,14,23,6,48,21,Lazio
 19-mar,9,17,38,5,44,23,Lazio
 20-mar,1,45,24,4,45,24,Lazio
@@ -2377,14 +2376,14 @@
 6-set,1,20,7,-1,-1,5,Lazio
 7-set,-1,12,5,-1,3,5,Lazio
 8-set,1,-15,2,-1,3,5,Lazio
+9-set,-6,-3,5,-1,2,5,Lazio
 ,,,,,,,
-11-mar,0,-6,4,0,-6,4,Umbria
-12-mar,-1,-4,7,-1,-5,6,Umbria
-13-mar,1,-12,10,0,-7,7,Umbria
-14-mar,-1,11,5,0,-3,7,Umbria
-15-mar,-5,5,9,-1,-1,7,Umbria
-16-mar,4,-5,10,0,-2,8,Umbria
-17-mar,1,4,10,0,-1,8,Umbria
+12-mar,-1,-4,7,-1,-4,7,Umbria
+13-mar,1,-12,10,0,-8,9,Umbria
+14-mar,-1,11,5,0,-2,7,Umbria
+15-mar,-5,5,9,-2,0,8,Umbria
+16-mar,4,-5,10,0,-1,8,Umbria
+17-mar,1,4,10,0,0,9,Umbria
 18-mar,-3,-2,6,-1,0,8,Umbria
 19-mar,-1,-19,6,-1,-3,8,Umbria
 20-mar,-1,-13,12,-1,-3,8,Umbria
@@ -2560,14 +2559,14 @@
 6-set,0,2,0,0,0,1,Umbria
 7-set,-1,1,0,0,0,0,Umbria
 8-set,0,2,0,0,1,0,Umbria
+9-set,0,-3,1,0,1,0,Umbria
 ,,,,,,,
-11-mar,4,-8,37,4,-8,37,Abruzzo
-12-mar,1,-9,11,3,-9,24,Abruzzo
-13-mar,2,-3,11,2,-7,20,Abruzzo
-14-mar,-1,24,7,2,1,17,Abruzzo
-15-mar,-6,12,10,0,3,15,Abruzzo
-16-mar,0,-10,13,0,1,15,Abruzzo
-17-mar,2,-8,10,0,0,14,Abruzzo
+12-mar,1,-9,11,1,-9,11,Abruzzo
+13-mar,2,-3,11,2,-6,11,Abruzzo
+14-mar,-1,24,7,1,4,10,Abruzzo
+15-mar,-6,12,10,-1,6,10,Abruzzo
+16-mar,0,-10,13,-1,3,10,Abruzzo
+17-mar,2,-8,10,0,1,10,Abruzzo
 18-mar,0,0,9,0,1,10,Abruzzo
 19-mar,-1,5,29,-1,3,13,Abruzzo
 20-mar,-5,-4,35,-2,3,16,Abruzzo
@@ -2743,14 +2742,14 @@
 6-set,-1,0,1,0,-1,1,Abruzzo
 7-set,2,0,0,0,-1,1,Abruzzo
 8-set,0,-3,0,0,-1,1,Abruzzo
+9-set,0,-3,0,0,-1,0,Abruzzo
 ,,,,,,,
-11-mar,-4,6,6,-4,6,6,Molise
-12-mar,-2,-3,8,-3,2,7,Molise
-13-mar,0,-1,2,-2,1,5,Molise
-14-mar,0,-5,2,-2,-1,5,Molise
-15-mar,2,5,1,-1,0,4,Molise
-16-mar,-1,-11,2,-1,-2,4,Molise
-17-mar,-2,6,4,-1,0,4,Molise
+12-mar,-2,-3,8,-2,-3,8,Molise
+13-mar,0,-1,2,-1,-2,5,Molise
+14-mar,0,-5,2,-1,-3,4,Molise
+15-mar,2,5,1,0,-1,3,Molise
+16-mar,-1,-11,2,0,-3,3,Molise
+17-mar,-2,6,4,-1,-2,3,Molise
 18-mar,-3,-3,5,-1,-2,3,Molise
 19-mar,0,0,4,-1,-1,3,Molise
 20-mar,2,4,2,0,-1,3,Molise
@@ -2926,14 +2925,14 @@
 6-set,0,0,0,0,1,0,Molise
 7-set,0,0,0,0,1,0,Molise
 8-set,0,0,0,0,1,0,Molise
+9-set,0,0,0,0,1,0,Molise
 ,,,,,,,
-11-mar,13,21,27,13,21,27,Campania
-12-mar,-7,10,29,3,16,28,Campania
-13-mar,1,45,23,2,25,26,Campania
-14-mar,11,-18,29,5,15,27,Campania
-15-mar,0,14,35,4,14,29,Campania
-16-mar,4,17,65,4,15,35,Campania
-17-mar,-4,-19,33,3,10,34,Campania
+12-mar,-7,10,29,-7,10,29,Campania
+13-mar,1,45,23,-3,28,26,Campania
+14-mar,11,-18,29,2,12,27,Campania
+15-mar,0,14,35,1,13,29,Campania
+16-mar,4,17,65,2,14,36,Campania
+17-mar,-4,-19,33,1,8,36,Campania
 18-mar,-8,21,13,0,10,32,Campania
 19-mar,2,7,13,1,10,30,Campania
 20-mar,6,6,28,2,4,31,Campania
@@ -3109,14 +3108,14 @@
 6-set,-3,-18,11,1,-2,9,Campania
 7-set,-2,3,7,0,-4,8,Campania
 8-set,-3,-1,7,0,-3,7,Campania
+9-set,-2,-2,9,-1,-2,7,Campania
 ,,,,,,,
-11-mar,7,2,17,7,2,17,Puglia
-12-mar,2,10,32,5,6,25,Puglia
-13-mar,1,33,23,3,15,24,Puglia
-14-mar,-1,16,9,2,15,20,Puglia
-15-mar,15,54,34,5,23,23,Puglia
-16-mar,7,42,30,5,26,24,Puglia
-17-mar,22,38,34,8,28,26,Puglia
+12-mar,2,10,32,2,10,32,Puglia
+13-mar,1,33,23,2,22,28,Puglia
+14-mar,-1,16,9,1,20,21,Puglia
+15-mar,15,54,34,4,28,25,Puglia
+16-mar,7,42,30,5,31,26,Puglia
+17-mar,22,38,34,8,32,27,Puglia
 18-mar,1,-10,27,7,26,27,Puglia
 19-mar,-5,48,27,6,32,26,Puglia
 20-mar,-5,38,26,5,32,27,Puglia
@@ -3292,14 +3291,14 @@
 6-set,2,2,2,0,-3,3,Puglia
 7-set,9,-15,5,2,-3,2,Puglia
 8-set,-5,0,5,1,-3,3,Puglia
+9-set,-1,-8,0,0,-4,3,Puglia
 ,,,,,,,
-11-mar,-3,13,3,-3,13,3,Basilicata
-12-mar,0,6,1,-2,10,2,Basilicata
-13-mar,1,-2,1,-1,6,2,Basilicata
-14-mar,2,22,1,0,10,2,Basilicata
-15-mar,1,13,0,0,10,1,Basilicata
-16-mar,-1,6,6,0,10,2,Basilicata
-17-mar,-2,-4,4,0,8,2,Basilicata
+12-mar,0,6,1,0,6,1,Basilicata
+13-mar,1,-2,1,1,2,1,Basilicata
+14-mar,2,22,1,1,9,1,Basilicata
+15-mar,1,13,0,1,10,1,Basilicata
+16-mar,-1,6,6,1,9,2,Basilicata
+17-mar,-2,-4,4,0,7,2,Basilicata
 18-mar,-2,5,4,0,7,2,Basilicata
 19-mar,1,3,5,0,6,3,Basilicata
 20-mar,1,-1,0,0,6,3,Basilicata
@@ -3475,14 +3474,14 @@
 6-set,0,2,0,0,0,0,Basilicata
 7-set,0,3,1,0,0,0,Basilicata
 8-set,1,-5,2,0,0,1,Basilicata
+9-set,-1,5,1,0,1,1,Basilicata
 ,,,,,,,
-11-mar,-3,7,2,-3,7,2,Calabria
-12-mar,4,2,5,1,5,4,Calabria
-13-mar,-2,-1,5,0,3,4,Calabria
-14-mar,-2,2,8,-1,3,5,Calabria
-15-mar,-2,12,4,-1,4,5,Calabria
-16-mar,1,19,4,-1,7,5,Calabria
-17-mar,-1,6,6,-1,7,5,Calabria
+12-mar,4,2,5,4,2,5,Calabria
+13-mar,-2,-1,5,1,1,5,Calabria
+14-mar,-2,2,8,0,1,6,Calabria
+15-mar,-2,12,4,-1,4,6,Calabria
+16-mar,1,19,4,0,7,5,Calabria
+17-mar,-1,6,6,0,7,5,Calabria
 18-mar,5,11,6,0,7,5,Calabria
 19-mar,3,6,6,0,8,6,Calabria
 20-mar,1,5,4,1,9,5,Calabria
@@ -3658,14 +3657,14 @@
 6-set,0,2,4,0,3,4,Calabria
 7-set,0,3,1,0,3,3,Calabria
 8-set,3,-2,1,0,2,3,Calabria
+9-set,-3,-8,5,0,0,3,Calabria
 ,,,,,,,
-11-mar,-8,4,21,-8,4,21,Sicilia
-12-mar,1,0,16,-4,2,19,Sicilia
-13-mar,-2,13,16,-3,6,18,Sicilia
-14-mar,1,7,16,-2,6,17,Sicilia
-15-mar,7,27,17,0,10,17,Sicilia
-16-mar,6,7,16,1,10,17,Sicilia
-17-mar,3,9,15,1,10,17,Sicilia
+12-mar,1,0,16,1,0,16,Sicilia
+13-mar,-2,13,16,-1,7,16,Sicilia
+14-mar,1,7,16,0,7,16,Sicilia
+15-mar,7,27,17,2,12,16,Sicilia
+16-mar,6,7,16,3,11,16,Sicilia
+17-mar,3,9,15,3,11,16,Sicilia
 18-mar,1,-3,17,2,9,16,Sicilia
 19-mar,4,-5,18,3,8,16,Sicilia
 20-mar,1,5,13,3,7,16,Sicilia
@@ -3841,14 +3840,14 @@
 6-set,0,10,10,1,3,19,Sicilia
 7-set,-4,-5,29,0,4,20,Sicilia
 8-set,0,-27,29,0,-2,21,Sicilia
+9-set,1,-14,12,0,-6,19,Sicilia
 ,,,,,,,
-11-mar,-2,3,0,-2,3,0,Sardegna
-12-mar,-1,3,3,-2,3,2,Sardegna
-13-mar,4,-4,3,0,1,2,Sardegna
-14-mar,1,-2,0,1,0,2,Sardegna
-15-mar,0,5,2,0,1,2,Sardegna
+12-mar,-1,3,3,-1,3,3,Sardegna
+13-mar,4,-4,3,2,-1,3,Sardegna
+14-mar,1,-2,0,1,-1,2,Sardegna
+15-mar,0,5,2,1,1,2,Sardegna
 16-mar,2,-4,1,1,0,2,Sardegna
-17-mar,0,-9,2,1,-1,2,Sardegna
+17-mar,0,-9,2,1,-2,2,Sardegna
 18-mar,-1,7,1,1,-1,2,Sardegna
 19-mar,-3,6,2,0,0,2,Sardegna
 20-mar,-3,-1,2,-1,0,1,Sardegna
@@ -4024,3 +4023,4 @@
 6-set,1,4,3,0,1,3,Sardegna
 7-set,2,-3,3,0,-1,3,Sardegna
 8-set,-2,-6,2,1,-1,3,Sardegna
+9-set,-3,1,3,0,0,2,Sardegna
