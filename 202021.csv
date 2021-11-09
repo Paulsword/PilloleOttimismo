@@ -1,15 +1,15 @@
 ﻿Data 2020,Data 2021,aggiornamento,X,Filter,2020,2021,unità
 30/09/20,30/09/21,09/11/21,30 settembre,Incidenza,20.8,37.4,nuovi casi settimanali ogni 100.000 abitanti
-01/10/20,01/10/21,09/11/21,1 settembre,Incidenza,22,36.7,nuovi casi settimanali ogni 100.000 abitanti
-02/10/20,02/10/21,09/11/21,2 settembre,Incidenza,23,36.4,nuovi casi settimanali ogni 100.000 abitanti
-03/10/20,03/10/21,09/11/21,3 settembre,Incidenza,25,36.2,nuovi casi settimanali ogni 100.000 abitanti
-04/10/20,04/10/21,09/11/21,4 settembre,Incidenza,26,35.9,nuovi casi settimanali ogni 100.000 abitanti
-05/10/20,05/10/21,09/11/21,5 settembre,Incidenza,27,35,nuovi casi settimanali ogni 100.000 abitanti
-06/10/20,06/10/21,09/11/21,6 settembre,Incidenza,29,35.1,nuovi casi settimanali ogni 100.000 abitanti
-07/10/20,07/10/21,09/11/21,7 settembre,Incidenza,32,33.6,nuovi casi settimanali ogni 100.000 abitanti
-08/10/20,08/10/21,09/11/21,8 settembre,Incidenza,35,33,nuovi casi settimanali ogni 100.000 abitanti
-09/10/20,09/10/21,09/11/21,9 settembre,Incidenza,40,32,nuovi casi settimanali ogni 100.000 abitanti
-10/10/20,10/10/21,09/11/21,10 settembre,Incidenza,45,30.9,nuovi casi settimanali ogni 100.000 abitanti
+01/10/20,01/10/21,09/11/21,1 ottobre,Incidenza,22,36.7,nuovi casi settimanali ogni 100.000 abitanti
+02/10/20,02/10/21,09/11/21,2 ottobre,Incidenza,23,36.4,nuovi casi settimanali ogni 100.000 abitanti
+03/10/20,03/10/21,09/11/21,3 ottobre,Incidenza,25,36.2,nuovi casi settimanali ogni 100.000 abitanti
+04/10/20,04/10/21,09/11/21,4 ottobre,Incidenza,26,35.9,nuovi casi settimanali ogni 100.000 abitanti
+05/10/20,05/10/21,09/11/21,5 ottobre,Incidenza,27,35,nuovi casi settimanali ogni 100.000 abitanti
+06/10/20,06/10/21,09/11/21,6 ottobre,Incidenza,29,35.1,nuovi casi settimanali ogni 100.000 abitanti
+07/10/20,07/10/21,09/11/21,7 ottobre,Incidenza,32,33.6,nuovi casi settimanali ogni 100.000 abitanti
+08/10/20,08/10/21,09/11/21,8 ottobre,Incidenza,35,33,nuovi casi settimanali ogni 100.000 abitanti
+09/10/20,09/10/21,09/11/21,9 ottobre,Incidenza,40,32,nuovi casi settimanali ogni 100.000 abitanti
+10/10/20,10/10/21,09/11/21,10 ottobre,Incidenza,45,30.9,nuovi casi settimanali ogni 100.000 abitanti
 11/10/20,11/10/21,09/11/21,11 ottobre,Incidenza,50,30.7,nuovi casi settimanali ogni 100.000 abitanti
 12/10/20,12/10/21,09/11/21,12 ottobre,Incidenza,54,30.7,nuovi casi settimanali ogni 100.000 abitanti
 13/10/20,13/10/21,09/11/21,13 ottobre,Incidenza,59,30,nuovi casi settimanali ogni 100.000 abitanti
@@ -31,16 +31,16 @@
 29/10/20,29/10/21,09/11/21,29 ottobre,Incidenza,255,49,nuovi casi settimanali ogni 100.000 abitanti
 30/10/20,30/10/21,09/11/21,30 ottobre,Incidenza,275,50.6,nuovi casi settimanali ogni 100.000 abitanti
 31/10/20,31/10/21,09/11/21,31 ottobre,Incidenza,295,51.9,nuovi casi settimanali ogni 100.000 abitanti
-01/11/20,01/11/21,09/11/21,1 ottobre,Incidenza,310,52.4,nuovi casi settimanali ogni 100.000 abitanti
-02/11/20,02/11/21,09/11/21,2 ottobre,Incidenza,319,50.4,nuovi casi settimanali ogni 100.000 abitanti
-03/11/20,03/11/21,09/11/21,3 ottobre,Incidenza,329,51.4,nuovi casi settimanali ogni 100.000 abitanti
-04/11/20,04/11/21,09/11/21,4 ottobre,Incidenza,339,53.1,nuovi casi settimanali ogni 100.000 abitanti
-05/11/20,05/11/21,09/11/21,5 ottobre,Incidenza,351,55.6,nuovi casi settimanali ogni 100.000 abitanti
-06/11/20,06/11/21,09/11/21,6 ottobre,Incidenza,363,58.8,nuovi casi settimanali ogni 100.000 abitanti
-07/11/20,07/11/21,09/11/21,7 ottobre,Incidenza,376,61.6,nuovi casi settimanali ogni 100.000 abitanti
-08/11/20,08/11/21,09/11/21,8 ottobre,Incidenza,381,63.9,nuovi casi settimanali ogni 100.000 abitanti
-09/11/20,09/11/21,09/11/21,9 ottobre,Incidenza,386,69.3,nuovi casi settimanali ogni 100.000 abitanti
-10/11/20,10/11/21,09/11/21,10 ottobre,Incidenza,398,,nuovi casi settimanali ogni 100.000 abitanti
+01/11/20,01/11/21,09/11/21,1 novembre,Incidenza,310,52.4,nuovi casi settimanali ogni 100.000 abitanti
+02/11/20,02/11/21,09/11/21,2 novembre,Incidenza,319,50.4,nuovi casi settimanali ogni 100.000 abitanti
+03/11/20,03/11/21,09/11/21,3 novembre,Incidenza,329,51.4,nuovi casi settimanali ogni 100.000 abitanti
+04/11/20,04/11/21,09/11/21,4 novembre,Incidenza,339,53.1,nuovi casi settimanali ogni 100.000 abitanti
+05/11/20,05/11/21,09/11/21,5 novembre,Incidenza,351,55.6,nuovi casi settimanali ogni 100.000 abitanti
+06/11/20,06/11/21,09/11/21,6 novembre,Incidenza,363,58.8,nuovi casi settimanali ogni 100.000 abitanti
+07/11/20,07/11/21,09/11/21,7 novembre,Incidenza,376,61.6,nuovi casi settimanali ogni 100.000 abitanti
+08/11/20,08/11/21,09/11/21,8 novembre,Incidenza,381,63.9,nuovi casi settimanali ogni 100.000 abitanti
+09/11/20,09/11/21,09/11/21,9 novembre,Incidenza,386,69.3,nuovi casi settimanali ogni 100.000 abitanti
+10/11/20,10/11/21,09/11/21,10 novembre,Incidenza,398,,nuovi casi settimanali ogni 100.000 abitanti
 11/11/20,11/11/21,09/11/21,11 novembre,Incidenza,402,,nuovi casi settimanali ogni 100.000 abitanti
 12/11/20,12/11/21,09/11/21,12 novembre,Incidenza,408,,nuovi casi settimanali ogni 100.000 abitanti
 13/11/20,13/11/21,09/11/21,13 novembre,Incidenza,413,,nuovi casi settimanali ogni 100.000 abitanti
@@ -60,16 +60,16 @@
 27/11/20,27/11/21,09/11/21,27 novembre,Incidenza,326,,nuovi casi settimanali ogni 100.000 abitanti
 28/11/20,28/11/21,09/11/21,28 novembre,Incidenza,312,,nuovi casi settimanali ogni 100.000 abitanti
 30/09/20,30/09/21,09/11/21,30 settembre,Ricoveri,5.14,5.4,persone ricoverate ogni 100.000 abitanti
-01/10/20,01/10/21,09/11/21,1 settembre,Ricoveri,5.23,5.26,persone ricoverate ogni 100.000 abitanti
-02/10/20,02/10/21,09/11/21,2 settembre,Ricoveri,5.3,5.16,persone ricoverate ogni 100.000 abitanti
-03/10/20,03/10/21,09/11/21,3 settembre,Ricoveri,5.41,5.05,persone ricoverate ogni 100.000 abitanti
-04/10/20,04/10/21,09/11/21,4 settembre,Ricoveri,5.55,5.12,persone ricoverate ogni 100.000 abitanti
-05/10/20,05/10/21,09/11/21,5 settembre,Ricoveri,5.88,5.01,persone ricoverate ogni 100.000 abitanti
-06/10/20,06/10/21,09/11/21,6 settembre,Ricoveri,6.12,4.85,persone ricoverate ogni 100.000 abitanti
-07/10/20,07/10/21,09/11/21,7 settembre,Ricoveri,6.38,4.77,persone ricoverate ogni 100.000 abitanti
-08/10/20,08/10/21,09/11/21,8 settembre,Ricoveri,6.62,4.63,persone ricoverate ogni 100.000 abitanti
-09/10/20,09/10/21,09/11/21,9 settembre,Ricoveri,6.9,4.54,persone ricoverate ogni 100.000 abitanti
-10/10/20,10/10/21,09/11/21,10 settembre,Ricoveri,7.32,4.47,persone ricoverate ogni 100.000 abitanti
+01/10/20,01/10/21,09/11/21,1 ottobre,Ricoveri,5.23,5.26,persone ricoverate ogni 100.000 abitanti
+02/10/20,02/10/21,09/11/21,2 ottobre,Ricoveri,5.3,5.16,persone ricoverate ogni 100.000 abitanti
+03/10/20,03/10/21,09/11/21,3 ottobre,Ricoveri,5.41,5.05,persone ricoverate ogni 100.000 abitanti
+04/10/20,04/10/21,09/11/21,4 ottobre,Ricoveri,5.55,5.12,persone ricoverate ogni 100.000 abitanti
+05/10/20,05/10/21,09/11/21,5 ottobre,Ricoveri,5.88,5.01,persone ricoverate ogni 100.000 abitanti
+06/10/20,06/10/21,09/11/21,6 ottobre,Ricoveri,6.12,4.85,persone ricoverate ogni 100.000 abitanti
+07/10/20,07/10/21,09/11/21,7 ottobre,Ricoveri,6.38,4.77,persone ricoverate ogni 100.000 abitanti
+08/10/20,08/10/21,09/11/21,8 ottobre,Ricoveri,6.62,4.63,persone ricoverate ogni 100.000 abitanti
+09/10/20,09/10/21,09/11/21,9 ottobre,Ricoveri,6.9,4.54,persone ricoverate ogni 100.000 abitanti
+10/10/20,10/10/21,09/11/21,10 ottobre,Ricoveri,7.32,4.47,persone ricoverate ogni 100.000 abitanti
 11/10/20,11/10/21,09/11/21,11 ottobre,Ricoveri,7.63,4.54,persone ricoverate ogni 100.000 abitanti
 12/10/20,12/10/21,09/11/21,12 ottobre,Ricoveri,8.14,4.5,persone ricoverate ogni 100.000 abitanti
 13/10/20,13/10/21,09/11/21,13 ottobre,Ricoveri,8.57,4.31,persone ricoverate ogni 100.000 abitanti
@@ -91,16 +91,16 @@
 29/10/20,29/10/21,09/11/21,29 ottobre,Ricoveri,26.94,4.49,persone ricoverate ogni 100.000 abitanti
 30/10/20,30/10/21,09/11/21,30 ottobre,Ricoveri,28.68,4.57,persone ricoverate ogni 100.000 abitanti
 31/10/20,31/10/21,09/11/21,31 ottobre,Ricoveri,30.32,4.65,persone ricoverate ogni 100.000 abitanti
-01/11/20,01/11/21,09/11/21,1 ottobre,Ricoveri,31.9,4.83,persone ricoverate ogni 100.000 abitanti
-02/11/20,02/11/21,09/11/21,2 ottobre,Ricoveri,33.48,5.05,persone ricoverate ogni 100.000 abitanti
-03/11/20,03/11/21,09/11/21,3 ottobre,Ricoveri,35.63,5.11,persone ricoverate ogni 100.000 abitanti
-04/11/20,04/11/21,09/11/21,4 ottobre,Ricoveri,37.32,5.14,persone ricoverate ogni 100.000 abitanti
-05/11/20,05/11/21,09/11/21,5 ottobre,Ricoveri,39.25,5.27,persone ricoverate ogni 100.000 abitanti
-06/11/20,06/11/21,09/11/21,6 ottobre,Ricoveri,40.51,5.35,persone ricoverate ogni 100.000 abitanti
-07/11/20,07/11/21,09/11/21,7 ottobre,Ricoveri,42.37,5.43,persone ricoverate ogni 100.000 abitanti
-08/11/20,08/11/21,09/11/21,8 ottobre,Ricoveri,44.62,5.67,persone ricoverate ogni 100.000 abitanti
-09/11/20,09/11/21,09/11/21,9 ottobre,Ricoveri,46.64,5.8,persone ricoverate ogni 100.000 abitanti
-10/11/20,10/11/21,09/11/21,10 ottobre,Ricoveri,48.32,,persone ricoverate ogni 100.000 abitanti
+01/11/20,01/11/21,09/11/21,1 novembre,Ricoveri,31.9,4.83,persone ricoverate ogni 100.000 abitanti
+02/11/20,02/11/21,09/11/21,2 novembre,Ricoveri,33.48,5.05,persone ricoverate ogni 100.000 abitanti
+03/11/20,03/11/21,09/11/21,3 novembre,Ricoveri,35.63,5.11,persone ricoverate ogni 100.000 abitanti
+04/11/20,04/11/21,09/11/21,4 novembre,Ricoveri,37.32,5.14,persone ricoverate ogni 100.000 abitanti
+05/11/20,05/11/21,09/11/21,5 novembre,Ricoveri,39.25,5.27,persone ricoverate ogni 100.000 abitanti
+06/11/20,06/11/21,09/11/21,6 novembre,Ricoveri,40.51,5.35,persone ricoverate ogni 100.000 abitanti
+07/11/20,07/11/21,09/11/21,7 novembre,Ricoveri,42.37,5.43,persone ricoverate ogni 100.000 abitanti
+08/11/20,08/11/21,09/11/21,8 novembre,Ricoveri,44.62,5.67,persone ricoverate ogni 100.000 abitanti
+09/11/20,09/11/21,09/11/21,9 novembre,Ricoveri,46.64,5.8,persone ricoverate ogni 100.000 abitanti
+10/11/20,10/11/21,09/11/21,10 novembre,Ricoveri,48.32,,persone ricoverate ogni 100.000 abitanti
 11/11/20,11/11/21,09/11/21,11 novembre,Ricoveri,49.69,,persone ricoverate ogni 100.000 abitanti
 12/11/20,12/11/21,09/11/21,12 novembre,Ricoveri,50.41,,persone ricoverate ogni 100.000 abitanti
 13/11/20,13/11/21,09/11/21,13 novembre,Ricoveri,52.17,,persone ricoverate ogni 100.000 abitanti
@@ -120,16 +120,16 @@
 27/11/20,27/11/21,09/11/21,27 novembre,Ricoveri,56.84,,persone ricoverate ogni 100.000 abitanti
 28/11/20,28/11/21,09/11/21,28 novembre,Ricoveri,56.19,,persone ricoverate ogni 100.000 abitanti
 30/09/20,30/09/21,09/11/21,30 settembre,Terapie Intensive,4.70,7.40,persone in terapia intensiva ogni milione di abitanti
-01/10/20,01/10/21,09/11/21,1 settembre,Terapie Intensive,4.90,7.20,persone in terapia intensiva ogni milione di abitanti
-02/10/20,02/10/21,09/11/21,2 settembre,Terapie Intensive,5.00,7.30,persone in terapia intensiva ogni milione di abitanti
-03/10/20,03/10/21,09/11/21,3 settembre,Terapie Intensive,5.00,7.30,persone in terapia intensiva ogni milione di abitanti
-04/10/20,04/10/21,09/11/21,4 settembre,Terapie Intensive,5.10,7.40,persone in terapia intensiva ogni milione di abitanti
-05/10/20,05/10/21,09/11/21,5 settembre,Terapie Intensive,5.50,7.30,persone in terapia intensiva ogni milione di abitanti
-06/10/20,06/10/21,09/11/21,6 settembre,Terapie Intensive,5.40,7.00,persone in terapia intensiva ogni milione di abitanti
-07/10/20,07/10/21,09/11/21,7 settembre,Terapie Intensive,5.70,6.80,persone in terapia intensiva ogni milione di abitanti
-08/10/20,08/10/21,09/11/21,8 settembre,Terapie Intensive,6.00,6.50,persone in terapia intensiva ogni milione di abitanti
-09/10/20,09/10/21,09/11/21,9 settembre,Terapie Intensive,6.50,6.20,persone in terapia intensiva ogni milione di abitanti
-10/10/20,10/10/21,09/11/21,10 settembre,Terapie Intensive,6.60,6.10,persone in terapia intensiva ogni milione di abitanti
+01/10/20,01/10/21,09/11/21,1 ottobre,Terapie Intensive,4.90,7.20,persone in terapia intensiva ogni milione di abitanti
+02/10/20,02/10/21,09/11/21,2 ottobre,Terapie Intensive,5.00,7.30,persone in terapia intensiva ogni milione di abitanti
+03/10/20,03/10/21,09/11/21,3 ottobre,Terapie Intensive,5.00,7.30,persone in terapia intensiva ogni milione di abitanti
+04/10/20,04/10/21,09/11/21,4 ottobre,Terapie Intensive,5.10,7.40,persone in terapia intensiva ogni milione di abitanti
+05/10/20,05/10/21,09/11/21,5 ottobre,Terapie Intensive,5.50,7.30,persone in terapia intensiva ogni milione di abitanti
+06/10/20,06/10/21,09/11/21,6 ottobre,Terapie Intensive,5.40,7.00,persone in terapia intensiva ogni milione di abitanti
+07/10/20,07/10/21,09/11/21,7 ottobre,Terapie Intensive,5.70,6.80,persone in terapia intensiva ogni milione di abitanti
+08/10/20,08/10/21,09/11/21,8 ottobre,Terapie Intensive,6.00,6.50,persone in terapia intensiva ogni milione di abitanti
+09/10/20,09/10/21,09/11/21,9 ottobre,Terapie Intensive,6.50,6.20,persone in terapia intensiva ogni milione di abitanti
+10/10/20,10/10/21,09/11/21,10 ottobre,Terapie Intensive,6.60,6.10,persone in terapia intensiva ogni milione di abitanti
 11/10/20,11/10/21,09/11/21,11 ottobre,Terapie Intensive,7.10,6.30,persone in terapia intensiva ogni milione di abitanti
 12/10/20,12/10/21,09/11/21,12 ottobre,Terapie Intensive,7.60,6.20,persone in terapia intensiva ogni milione di abitanti
 13/10/20,13/10/21,09/11/21,13 ottobre,Terapie Intensive,8.70,6.20,persone in terapia intensiva ogni milione di abitanti
@@ -151,16 +151,16 @@
 29/10/20,29/10/21,09/11/21,29 ottobre,Terapie Intensive,27.90,5.90,persone in terapia intensiva ogni milione di abitanti
 30/10/20,30/10/21,09/11/21,30 ottobre,Terapie Intensive,29.50,5.80,persone in terapia intensiva ogni milione di abitanti
 31/10/20,31/10/21,09/11/21,31 ottobre,Terapie Intensive,31.10,5.80,persone in terapia intensiva ogni milione di abitanti
-01/11/20,01/11/21,09/11/21,1 ottobre,Terapie Intensive,32.70,6.10,persone in terapia intensiva ogni milione di abitanti
-02/11/20,02/11/21,09/11/21,2 ottobre,Terapie Intensive,34.10,6.50,persone in terapia intensiva ogni milione di abitanti
-03/11/20,03/11/21,09/11/21,3 ottobre,Terapie Intensive,37.50,6.40,persone in terapia intensiva ogni milione di abitanti
-04/11/20,04/11/21,09/11/21,4 ottobre,Terapie Intensive,38.70,6.50,persone in terapia intensiva ogni milione di abitanti
-05/11/20,05/11/21,09/11/21,5 ottobre,Terapie Intensive,40.30,6.70,persone in terapia intensiva ogni milione di abitanti
-06/11/20,06/11/21,09/11/21,6 ottobre,Terapie Intensive,42.40,6.60,persone in terapia intensiva ogni milione di abitanti
-07/11/20,07/11/21,09/11/21,7 ottobre,Terapie Intensive,44.50,6.70,persone in terapia intensiva ogni milione di abitanti
-08/11/20,08/11/21,09/11/21,8 ottobre,Terapie Intensive,46.40,7.00,persone in terapia intensiva ogni milione di abitanti
-09/11/20,09/11/21,09/11/21,9 ottobre,Terapie Intensive,48.10,7.10,persone in terapia intensiva ogni milione di abitanti
-10/11/20,10/11/21,09/11/21,10 ottobre,Terapie Intensive,50.10,,persone in terapia intensiva ogni milione di abitanti
+01/11/20,01/11/21,09/11/21,1 novembre,Terapie Intensive,32.70,6.10,persone in terapia intensiva ogni milione di abitanti
+02/11/20,02/11/21,09/11/21,2 novembre,Terapie Intensive,34.10,6.50,persone in terapia intensiva ogni milione di abitanti
+03/11/20,03/11/21,09/11/21,3 novembre,Terapie Intensive,37.50,6.40,persone in terapia intensiva ogni milione di abitanti
+04/11/20,04/11/21,09/11/21,4 novembre,Terapie Intensive,38.70,6.50,persone in terapia intensiva ogni milione di abitanti
+05/11/20,05/11/21,09/11/21,5 novembre,Terapie Intensive,40.30,6.70,persone in terapia intensiva ogni milione di abitanti
+06/11/20,06/11/21,09/11/21,6 novembre,Terapie Intensive,42.40,6.60,persone in terapia intensiva ogni milione di abitanti
+07/11/20,07/11/21,09/11/21,7 novembre,Terapie Intensive,44.50,6.70,persone in terapia intensiva ogni milione di abitanti
+08/11/20,08/11/21,09/11/21,8 novembre,Terapie Intensive,46.40,7.00,persone in terapia intensiva ogni milione di abitanti
+09/11/20,09/11/21,09/11/21,9 novembre,Terapie Intensive,48.10,7.10,persone in terapia intensiva ogni milione di abitanti
+10/11/20,10/11/21,09/11/21,10 novembre,Terapie Intensive,50.10,,persone in terapia intensiva ogni milione di abitanti
 11/11/20,11/11/21,09/11/21,11 novembre,Terapie Intensive,52.00,,persone in terapia intensiva ogni milione di abitanti
 12/11/20,12/11/21,09/11/21,12 novembre,Terapie Intensive,53.50,,persone in terapia intensiva ogni milione di abitanti
 13/11/20,13/11/21,09/11/21,13 novembre,Terapie Intensive,54.50,,persone in terapia intensiva ogni milione di abitanti
@@ -180,16 +180,16 @@
 27/11/20,27/11/21,09/11/21,27 novembre,Terapie Intensive,63.80,,persone in terapia intensiva ogni milione di abitanti
 28/11/20,28/11/21,09/11/21,28 novembre,Terapie Intensive,63.50,,persone in terapia intensiva ogni milione di abitanti
 30/09/20,30/09/21,09/11/21,30 settembre,Decessi,2.3,6.2,decessi settimanali ogni milione di abitanti
-01/10/20,01/10/21,09/11/21,1 settembre,Decessi,2.3,6.2,decessi settimanali ogni milione di abitanti
-02/10/20,02/10/21,09/11/21,2 settembre,Decessi,2.4,5.8,decessi settimanali ogni milione di abitanti
-03/10/20,03/10/21,09/11/21,3 settembre,Decessi,2.5,5.6,decessi settimanali ogni milione di abitanti
-04/10/20,04/10/21,09/11/21,4 settembre,Decessi,2.5,5.5,decessi settimanali ogni milione di abitanti
-05/10/20,05/10/21,09/11/21,5 settembre,Decessi,2.5,5.2,decessi settimanali ogni milione di abitanti
-06/10/20,06/10/21,09/11/21,6 settembre,Decessi,2.6,4.8,decessi settimanali ogni milione di abitanti
-07/10/20,07/10/21,09/11/21,7 settembre,Decessi,2.8,4.7,decessi settimanali ogni milione di abitanti
-08/10/20,08/10/21,09/11/21,8 settembre,Decessi,2.8,4.3,decessi settimanali ogni milione di abitanti
-09/10/20,09/10/21,09/11/21,9 settembre,Decessi,2.9,4.7,decessi settimanali ogni milione di abitanti
-10/10/20,10/10/21,09/11/21,10 settembre,Decessi,2.9,4.6,decessi settimanali ogni milione di abitanti
+01/10/20,01/10/21,09/11/21,1 ottobre,Decessi,2.3,6.2,decessi settimanali ogni milione di abitanti
+02/10/20,02/10/21,09/11/21,2 ottobre,Decessi,2.4,5.8,decessi settimanali ogni milione di abitanti
+03/10/20,03/10/21,09/11/21,3 ottobre,Decessi,2.5,5.6,decessi settimanali ogni milione di abitanti
+04/10/20,04/10/21,09/11/21,4 ottobre,Decessi,2.5,5.5,decessi settimanali ogni milione di abitanti
+05/10/20,05/10/21,09/11/21,5 ottobre,Decessi,2.5,5.2,decessi settimanali ogni milione di abitanti
+06/10/20,06/10/21,09/11/21,6 ottobre,Decessi,2.6,4.8,decessi settimanali ogni milione di abitanti
+07/10/20,07/10/21,09/11/21,7 ottobre,Decessi,2.8,4.7,decessi settimanali ogni milione di abitanti
+08/10/20,08/10/21,09/11/21,8 ottobre,Decessi,2.8,4.3,decessi settimanali ogni milione di abitanti
+09/10/20,09/10/21,09/11/21,9 ottobre,Decessi,2.9,4.7,decessi settimanali ogni milione di abitanti
+10/10/20,10/10/21,09/11/21,10 ottobre,Decessi,2.9,4.6,decessi settimanali ogni milione di abitanti
 11/10/20,11/10/21,09/11/21,11 ottobre,Decessi,3,4.5,decessi settimanali ogni milione di abitanti
 12/10/20,12/10/21,09/11/21,12 ottobre,Decessi,3.4,4.5,decessi settimanali ogni milione di abitanti
 13/10/20,13/10/21,09/11/21,13 ottobre,Decessi,3.6,4.5,decessi settimanali ogni milione di abitanti
@@ -211,16 +211,16 @@
 29/10/20,29/10/21,09/11/21,29 ottobre,Decessi,19.5,4.6,decessi settimanali ogni milione di abitanti
 30/10/20,30/10/21,09/11/21,30 ottobre,Decessi,21.3,4.6,decessi settimanali ogni milione di abitanti
 31/10/20,31/10/21,09/11/21,31 ottobre,Decessi,23.8,4.6,decessi settimanali ogni milione di abitanti
-01/11/20,01/11/21,09/11/21,1 ottobre,Decessi,25.1,4.5,decessi settimanali ogni milione di abitanti
-02/11/20,02/11/21,09/11/21,2 ottobre,Decessi,26.7,4.3,decessi settimanali ogni milione di abitanti
-03/11/20,03/11/21,09/11/21,3 ottobre,Decessi,28.9,4.6,decessi settimanali ogni milione di abitanti
-04/11/20,04/11/21,09/11/21,4 ottobre,Decessi,31.1,4.7,decessi settimanali ogni milione di abitanti
-05/11/20,05/11/21,09/11/21,5 ottobre,Decessi,34.9,5,decessi settimanali ogni milione di abitanti
-06/11/20,06/11/21,09/11/21,6 ottobre,Decessi,39.1,4.9,decessi settimanali ogni milione di abitanti
-07/11/20,07/11/21,09/11/21,7 ottobre,Decessi,41.3,4.8,decessi settimanali ogni milione di abitanti
-08/11/20,08/11/21,09/11/21,8 ottobre,Decessi,43.3,5.1,decessi settimanali ogni milione di abitanti
-09/11/20,09/11/21,09/11/21,9 ottobre,Decessi,45.4,5.6,decessi settimanali ogni milione di abitanti
-10/11/20,10/11/21,09/11/21,10 ottobre,Decessi,49.2,,decessi settimanali ogni milione di abitanti
+01/11/20,01/11/21,09/11/21,1 novembre,Decessi,25.1,4.5,decessi settimanali ogni milione di abitanti
+02/11/20,02/11/21,09/11/21,2 novembre,Decessi,26.7,4.3,decessi settimanali ogni milione di abitanti
+03/11/20,03/11/21,09/11/21,3 novembre,Decessi,28.9,4.6,decessi settimanali ogni milione di abitanti
+04/11/20,04/11/21,09/11/21,4 novembre,Decessi,31.1,4.7,decessi settimanali ogni milione di abitanti
+05/11/20,05/11/21,09/11/21,5 novembre,Decessi,34.9,5,decessi settimanali ogni milione di abitanti
+06/11/20,06/11/21,09/11/21,6 novembre,Decessi,39.1,4.9,decessi settimanali ogni milione di abitanti
+07/11/20,07/11/21,09/11/21,7 novembre,Decessi,41.3,4.8,decessi settimanali ogni milione di abitanti
+08/11/20,08/11/21,09/11/21,8 novembre,Decessi,43.3,5.1,decessi settimanali ogni milione di abitanti
+09/11/20,09/11/21,09/11/21,9 novembre,Decessi,45.4,5.6,decessi settimanali ogni milione di abitanti
+10/11/20,10/11/21,09/11/21,10 novembre,Decessi,49.2,,decessi settimanali ogni milione di abitanti
 11/11/20,11/11/21,09/11/21,11 novembre,Decessi,54.1,,decessi settimanali ogni milione di abitanti
 12/11/20,12/11/21,09/11/21,12 novembre,Decessi,57.3,,decessi settimanali ogni milione di abitanti
 13/11/20,13/11/21,09/11/21,13 novembre,Decessi,59.1,,decessi settimanali ogni milione di abitanti
