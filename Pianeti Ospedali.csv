@@ -1,45 +1,45 @@
 ﻿REGIONE,,Abitanti,Totale posti letto,Posti letto/100.000 ab.,% variazione ricoveri ultimi 7 gg rispetto al totale,% occupazione posti letto,POPUP % incremento ricoveri ultimi 7 gg rispetto al totale,POPUP % occupazione posti letto,Control,Aggiornamento AGENAS,Aggiornamento
-ITALIA,,59257566,63906,108,33,23.4,33,23.4,Reparti,07/01/2022 ore 20:03,08/01/22
-Lombardia,,9966992,10457,105,34,24.9,34,24.9,Reparti,07/01/2022 ore 20:03,08/01/22
-Emilia Romagna,Emilia,4445549,9001,202,38,20.8,38,20.8,Reparti,07/01/2022 ore 20:03,08/01/22
-Veneto,,4852453,6000,124,20,22.7,20,22.7,Reparti,07/01/2022 ore 20:03,08/01/22
-Piemonte,,4273210,5824,136,34,28.6,34,28.6,Reparti,07/01/2022 ore 20:03,08/01/22
-Friuli VG,Friuli,1198753,1277,107,22,26.2,22,26.2,Reparti,07/01/2022 ore 20:03,08/01/22
-Valle d'Aosta,Valle,123895,99,80,31,42.4,31,42.4,Reparti,07/01/2022 ore 20:03,08/01/22
-Liguria,,1509805,1774,117,34,37.4,34,37.4,Reparti,07/01/2022 ore 20:03,08/01/22
-Trento,Trento,544745,517,95,0,20.1,0,20.1,Reparti,07/01/2022 ore 20:03,08/01/22
-Bolzano,Bolzano,533715,500,94,6,15.2,6,15.2,Reparti,07/01/2022 ore 20:03,08/01/22
-Marche,,1501406,1007,67,13,24.9,13,24.9,Reparti,07/01/2022 ore 20:03,08/01/22
-Toscana,,3668333,5033,137,52,19.7,52,19.7,Reparti,07/01/2022 ore 20:03,08/01/22
-Lazio,,5720796,6421,112,21,21.8,21,21.8,Reparti,07/01/2022 ore 20:03,08/01/22
-Umbria,,865013,662,77,44,29.0,44,29.0,Reparti,07/01/2022 ore 20:03,08/01/22
-Abruzzo,,1285256,1324,103,58,21.3,58,21.3,Reparti,07/01/2022 ore 20:03,08/01/22
-Molise,,296547,176,59,26,13.6,26,13.6,Reparti,07/01/2022 ore 20:03,08/01/22
-Campania,,5679759,4394,77,40,21.9,40,21.9,Reparti,07/01/2022 ore 20:03,08/01/22
-Puglia,,3926931,2711,69,55,15.9,55,15.9,Reparti,07/01/2022 ore 20:03,08/01/22
-Basilicata,,547579,354,65,5,19.2,5,19.2,Reparti,07/01/2022 ore 20:03,08/01/22
-Calabria,,1877728,1055,56,18,34.4,18,34.4,Reparti,07/01/2022 ore 20:03,08/01/22
-Sicilia,,4840876,3718,77,37,28.2,37,28.2,Reparti,07/01/2022 ore 20:03,08/01/22
-Sardegna,,1598225,1602,100,32,11.7,32,11.7,Reparti,07/01/2022 ore 20:03,08/01/22
-ITALIA,,59257566,9253,16,20,16.8,20,16.8,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Lombardia,,9966992,1530,15,7,15.5,7,15.5,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Emilia Romagna,Emilia,4445549,889,20,16,16.2,16,16.2,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Veneto,,4852453,1000,21,6,19.5,6,19.5,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Piemonte,,4273210,628,15,34,23.1,34,23.1,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Friuli VG,Friuli,1198753,175,15,25,20.0,25,20.0,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Valle d'Aosta,Valle,123895,33,27,100,18.2,100,18.2,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Liguria,,1509805,219,15,-10,19.6,-10,19.6,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Trento,Trento,544745,90,17,20,26.7,20,26.7,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Bolzano,Bolzano,533715,100,19,6,18.0,6,18.0,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Marche,,1501406,252,17,19,22.2,19,22.2,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Toscana,,3668333,570,16,40,19.8,40,19.8,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Lazio,,5720796,943,16,25,20.3,25,20.3,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Umbria,,865013,86,10,50,14.0,50,14.0,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Abruzzo,,1285256,181,14,29,14.9,29,14.9,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Molise,,296547,39,13,100,5.1,100,5.1,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Campania,,5679759,702,12,35,10.5,35,10.5,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Puglia,,3926931,493,13,26,7.9,26,7.9,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Basilicata,,547579,79,14,100,2.5,100,2.5,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Calabria,,1877728,189,10,14,16.9,14,16.9,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Sicilia,,4840876,851,18,34,16.1,34,16.1,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
-Sardegna,,1598225,204,13,67,12.3,67,12.3,Terapie Intensive,07/01/2022 ore 20:03,08/01/22
+ITALIA,,59257566,63906,108,33,24.5,33,24.5,Reparti,07/01/2022 ore 20:03,09/01/22
+Lombardia,,9966992,10457,105,41,27.6,41,27.6,Reparti,07/01/2022 ore 20:03,09/01/22
+Emilia Romagna,Emilia,4445549,9001,202,33,21.4,33,21.4,Reparti,07/01/2022 ore 20:03,09/01/22
+Veneto,,4852453,6000,124,26,23.5,26,23.5,Reparti,07/01/2022 ore 20:03,09/01/22
+Piemonte,,4273210,5824,136,33,29.6,33,29.6,Reparti,07/01/2022 ore 20:03,09/01/22
+Friuli VG,Friuli,1198753,1277,107,16,27.0,16,27.0,Reparti,07/01/2022 ore 20:03,09/01/22
+Valle d'Aosta,Valle,123895,99,80,25,45.5,25,45.5,Reparti,07/01/2022 ore 20:03,09/01/22
+Liguria,,1509805,1774,117,28,36.9,28,36.9,Reparti,07/01/2022 ore 20:03,09/01/22
+Trento,Trento,544745,517,95,-9,20.1,-9,20.1,Reparti,07/01/2022 ore 20:03,09/01/22
+Bolzano,Bolzano,533715,500,94,3,15.6,3,15.6,Reparti,07/01/2022 ore 20:03,09/01/22
+Marche,,1501406,1007,67,12,25.3,12,25.3,Reparti,07/01/2022 ore 20:03,09/01/22
+Toscana,,3668333,5033,137,49,20.6,49,20.6,Reparti,07/01/2022 ore 20:03,09/01/22
+Lazio,,5720796,6421,112,23,22.5,23,22.5,Reparti,07/01/2022 ore 20:03,09/01/22
+Umbria,,865013,662,77,31,29.8,31,29.8,Reparti,07/01/2022 ore 20:03,09/01/22
+Abruzzo,,1285256,1324,103,58,22.0,58,22.0,Reparti,07/01/2022 ore 20:03,09/01/22
+Molise,,296547,176,59,33,15.9,33,15.9,Reparti,07/01/2022 ore 20:03,09/01/22
+Campania,,5679759,4394,77,44,23.5,44,23.5,Reparti,07/01/2022 ore 20:03,09/01/22
+Puglia,,3926931,2711,69,51,15.8,51,15.8,Reparti,07/01/2022 ore 20:03,09/01/22
+Basilicata,,547579,354,65,-3,19.5,-3,19.5,Reparti,07/01/2022 ore 20:03,09/01/22
+Calabria,,1877728,1055,56,21,35.8,21,35.8,Reparti,07/01/2022 ore 20:03,09/01/22
+Sicilia,,4840876,3718,77,39,30.2,39,30.2,Reparti,07/01/2022 ore 20:03,09/01/22
+Sardegna,,1598225,1602,100,20,11.9,20,11.9,Reparti,07/01/2022 ore 20:03,09/01/22
+ITALIA,,59257566,9253,16,21,17.2,21,17.2,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Lombardia,,9966992,1530,15,13,15.9,13,15.9,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Emilia Romagna,Emilia,4445549,889,20,13,16.5,13,16.5,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Veneto,,4852453,1000,21,10,20.6,10,20.6,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Piemonte,,4273210,628,15,33,23.1,33,23.1,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Friuli VG,Friuli,1198753,175,15,32,21.1,32,21.1,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Valle d'Aosta,Valle,123895,33,27,100,18.2,100,18.2,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Liguria,,1509805,219,15,-2,21.0,-2,21.0,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Trento,Trento,544745,90,17,18,28.9,18,28.9,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Bolzano,Bolzano,533715,100,19,6,18.0,6,18.0,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Marche,,1501406,252,17,8,21.4,8,21.4,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Toscana,,3668333,570,16,35,20.2,35,20.2,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Lazio,,5720796,943,16,28,20.6,28,20.6,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Umbria,,865013,86,10,63,15.1,63,15.1,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Abruzzo,,1285256,181,14,23,14.9,23,14.9,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Molise,,296547,39,13,100,5.1,100,5.1,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Campania,,5679759,702,12,38,10.8,38,10.8,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Puglia,,3926931,493,13,25,8.1,25,8.1,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Basilicata,,547579,79,14,0,2.5,0,2.5,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Calabria,,1877728,189,10,21,18.0,21,18.0,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Sicilia,,4840876,851,18,29,16.2,29,16.2,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
+Sardegna,,1598225,204,13,47,12.3,47,12.3,Terapie Intensive,07/01/2022 ore 20:03,09/01/22
