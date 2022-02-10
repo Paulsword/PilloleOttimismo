@@ -27,8 +27,8 @@
 5-feb,26,0,Lombardia,Provincia di BERGAMO,Bergamo,-41,1252,1112
 6-feb,27,0,Lombardia,Provincia di BERGAMO,Bergamo,-43,1150,776
 7-feb,28,0,Lombardia,Provincia di BERGAMO,Bergamo,-43,1113,225
-8-feb,29,0,Lombardia,Provincia di BERGAMO,Bergamo,-43,1113,225
-9-feb,30,0,Lombardia,Provincia di BERGAMO,Bergamo,-43,1113,225
+8-feb,29,0,Lombardia,Provincia di BERGAMO,Bergamo,-46,1001,1067
+9-feb,30,0,Lombardia,Provincia di BERGAMO,Bergamo,-45,897,836
 11-gen,1,1,Lombardia,Provincia di BRESCIA,Brescia,58,4935,6408
 12-gen,2,1,Lombardia,Provincia di BRESCIA,Brescia,36,4897,5880
 13-gen,3,1,Lombardia,Provincia di BRESCIA,Brescia,17,4719,5363
@@ -57,8 +57,8 @@
 5-feb,26,1,Lombardia,Provincia di BRESCIA,Brescia,-41,1881,1539
 6-feb,27,1,Lombardia,Provincia di BRESCIA,Brescia,-42,1752,1253
 7-feb,28,1,Lombardia,Provincia di BRESCIA,Brescia,-42,1723,469
-8-feb,29,1,Lombardia,Provincia di BRESCIA,Brescia,-42,1723,469
-9-feb,30,1,Lombardia,Provincia di BRESCIA,Brescia,-42,1723,469
+8-feb,29,1,Lombardia,Provincia di BRESCIA,Brescia,-43,1550,1758
+9-feb,30,1,Lombardia,Provincia di BRESCIA,Brescia,-44,1388,1241
 11-gen,1,2,Lombardia,Provincia di COMO,Como,29,2216,3279
 12-gen,2,2,Lombardia,Provincia di COMO,Como,16,2209,2637
 13-gen,3,2,Lombardia,Provincia di COMO,Como,7,2141,2261
@@ -87,8 +87,8 @@
 5-feb,26,2,Lombardia,Provincia di COMO,Como,-36,808,685
 6-feb,27,2,Lombardia,Provincia di COMO,Como,-38,741,403
 7-feb,28,2,Lombardia,Provincia di COMO,Como,-39,719,250
-8-feb,29,2,Lombardia,Provincia di COMO,Como,-39,719,250
-9-feb,30,2,Lombardia,Provincia di COMO,Como,-39,719,250
+8-feb,29,2,Lombardia,Provincia di COMO,Como,-39,681,768
+9-feb,30,2,Lombardia,Provincia di COMO,Como,-42,610,583
 11-gen,1,3,Lombardia,Provincia di CREMONA,Cremona,27,1215,1611
 12-gen,2,3,Lombardia,Provincia di CREMONA,Cremona,14,1195,1395
 13-gen,3,3,Lombardia,Provincia di CREMONA,Cremona,-1,1123,1178
@@ -117,8 +117,8 @@
 5-feb,26,3,Lombardia,Provincia di CREMONA,Cremona,-35,525,436
 6-feb,27,3,Lombardia,Provincia di CREMONA,Cremona,-37,491,334
 7-feb,28,3,Lombardia,Provincia di CREMONA,Cremona,-38,482,80
-8-feb,29,3,Lombardia,Provincia di CREMONA,Cremona,-38,482,80
-9-feb,30,3,Lombardia,Provincia di CREMONA,Cremona,-38,482,80
+8-feb,29,3,Lombardia,Provincia di CREMONA,Cremona,-41,430,451
+9-feb,30,3,Lombardia,Provincia di CREMONA,Cremona,-42,391,360
 11-gen,1,4,Lombardia,Provincia di LECCO,Lecco,26,1173,1443
 12-gen,2,4,Lombardia,Provincia di LECCO,Lecco,6,1116,1292
 13-gen,3,4,Lombardia,Provincia di LECCO,Lecco,-9,1047,1202
@@ -147,8 +147,8 @@
 5-feb,26,4,Lombardia,Provincia di LECCO,Lecco,-42,346,282
 6-feb,27,4,Lombardia,Provincia di LECCO,Lecco,-44,315,240
 7-feb,28,4,Lombardia,Provincia di LECCO,Lecco,-43,310,60
-8-feb,29,4,Lombardia,Provincia di LECCO,Lecco,-43,310,60
-9-feb,30,4,Lombardia,Provincia di LECCO,Lecco,-43,310,60
+8-feb,29,4,Lombardia,Provincia di LECCO,Lecco,-44,279,340
+9-feb,30,4,Lombardia,Provincia di LECCO,Lecco,-45,251,234
 11-gen,1,5,Lombardia,Provincia di LODI,Lodi,10,980,1126
 12-gen,2,5,Lombardia,Provincia di LODI,Lodi,-5,907,994
 13-gen,3,5,Lombardia,Provincia di LODI,Lodi,-19,816,1024
@@ -177,8 +177,8 @@
 5-feb,26,5,Lombardia,Provincia di LODI,Lodi,-39,277,225
 6-feb,27,5,Lombardia,Provincia di LODI,Lodi,-41,260,205
 7-feb,28,5,Lombardia,Provincia di LODI,Lodi,-39,256,38
-8-feb,29,5,Lombardia,Provincia di LODI,Lodi,-39,256,38
-9-feb,30,5,Lombardia,Provincia di LODI,Lodi,-39,256,38
+8-feb,29,5,Lombardia,Provincia di LODI,Lodi,-40,237,240
+9-feb,30,5,Lombardia,Provincia di LODI,Lodi,-40,214,228
 11-gen,1,6,Lombardia,Provincia di MONZA E DELLA BRIANZA,Monza B.,7,3553,3831
 12-gen,2,6,Lombardia,Provincia di MONZA E DELLA BRIANZA,Monza B.,-9,3296,3597
 13-gen,3,6,Lombardia,Provincia di MONZA E DELLA BRIANZA,Monza B.,-18,3057,3242
@@ -207,8 +207,8 @@
 5-feb,26,6,Lombardia,Provincia di MONZA E DELLA BRIANZA,Monza B.,-40,1097,851
 6-feb,27,6,Lombardia,Provincia di MONZA E DELLA BRIANZA,Monza B.,-40,1036,683
 7-feb,28,6,Lombardia,Provincia di MONZA E DELLA BRIANZA,Monza B.,-40,1020,212
-8-feb,29,6,Lombardia,Provincia di MONZA E DELLA BRIANZA,Monza B.,-40,1020,212
-9-feb,30,6,Lombardia,Provincia di MONZA E DELLA BRIANZA,Monza B.,-40,1020,212
+8-feb,29,6,Lombardia,Provincia di MONZA E DELLA BRIANZA,Monza B.,-47,859,910
+9-feb,30,6,Lombardia,Provincia di MONZA E DELLA BRIANZA,Monza B.,-46,779,825
 11-gen,1,7,Lombardia,Città metropolitana di MILANO,Milano,4,12297,13022
 12-gen,2,7,Lombardia,Città metropolitana di MILANO,Milano,-6,11609,12065
 13-gen,3,7,Lombardia,Città metropolitana di MILANO,Milano,-12,11060,13192
@@ -237,8 +237,8 @@
 5-feb,26,7,Lombardia,Città metropolitana di MILANO,Milano,-39,3862,3200
 6-feb,27,7,Lombardia,Città metropolitana di MILANO,Milano,-40,3637,2440
 7-feb,28,7,Lombardia,Città metropolitana di MILANO,Milano,-40,3531,1055
-8-feb,29,7,Lombardia,Città metropolitana di MILANO,Milano,-40,3531,1055
-9-feb,30,7,Lombardia,Città metropolitana di MILANO,Milano,-40,3531,1055
+8-feb,29,7,Lombardia,Città metropolitana di MILANO,Milano,-40,3300,3565
+9-feb,30,7,Lombardia,Città metropolitana di MILANO,Milano,-39,3025,2808
 11-gen,1,8,Lombardia,Provincia di MANTOVA,Mantova,53,1293,1876
 12-gen,2,8,Lombardia,Provincia di MANTOVA,Mantova,32,1285,1550
 13-gen,3,8,Lombardia,Provincia di MANTOVA,Mantova,14,1255,1494
@@ -267,8 +267,8 @@
 5-feb,26,8,Lombardia,Provincia di MANTOVA,Mantova,-36,730,640
 6-feb,27,8,Lombardia,Provincia di MANTOVA,Mantova,-38,678,455
 7-feb,28,8,Lombardia,Provincia di MANTOVA,Mantova,-38,664,83
-8-feb,29,8,Lombardia,Provincia di MANTOVA,Mantova,-38,664,83
-9-feb,30,8,Lombardia,Provincia di MANTOVA,Mantova,-38,664,83
+8-feb,29,8,Lombardia,Provincia di MANTOVA,Mantova,-40,603,740
+9-feb,30,8,Lombardia,Provincia di MANTOVA,Mantova,-39,561,523
 11-gen,1,9,Lombardia,Provincia di PAVIA,Pavia,15,1982,2525
 12-gen,2,9,Lombardia,Provincia di PAVIA,Pavia,2,1899,2127
 13-gen,3,9,Lombardia,Provincia di PAVIA,Pavia,-8,1793,2020
@@ -297,8 +297,8 @@
 5-feb,26,9,Lombardia,Provincia di PAVIA,Pavia,-41,736,658
 6-feb,27,9,Lombardia,Provincia di PAVIA,Pavia,-41,697,447
 7-feb,28,9,Lombardia,Provincia di PAVIA,Pavia,-41,679,192
-8-feb,29,9,Lombardia,Provincia di PAVIA,Pavia,-41,679,192
-9-feb,30,9,Lombardia,Provincia di PAVIA,Pavia,-41,679,192
+8-feb,29,9,Lombardia,Provincia di PAVIA,Pavia,-43,620,831
+9-feb,30,9,Lombardia,Provincia di PAVIA,Pavia,-41,578,516
 11-gen,1,10,Lombardia,Provincia di SONDRIO,Sondrio,68,714,782
 12-gen,2,10,Lombardia,Provincia di SONDRIO,Sondrio,49,717,735
 13-gen,3,10,Lombardia,Provincia di SONDRIO,Sondrio,28,695,696
@@ -327,8 +327,8 @@
 5-feb,26,10,Lombardia,Provincia di SONDRIO,Sondrio,-46,185,151
 6-feb,27,10,Lombardia,Provincia di SONDRIO,Sondrio,-48,167,155
 7-feb,28,10,Lombardia,Provincia di SONDRIO,Sondrio,-48,166,35
-8-feb,29,10,Lombardia,Provincia di SONDRIO,Sondrio,-48,166,35
-9-feb,30,10,Lombardia,Provincia di SONDRIO,Sondrio,-48,166,35
+8-feb,29,10,Lombardia,Provincia di SONDRIO,Sondrio,-47,154,154
+9-feb,30,10,Lombardia,Provincia di SONDRIO,Sondrio,-45,150,167
 11-gen,1,11,Lombardia,Provincia di VARESE,Varese,35,3509,4187
 12-gen,2,11,Lombardia,Provincia di VARESE,Varese,17,3345,3337
 13-gen,3,11,Lombardia,Provincia di VARESE,Varese,1,3122,2972
@@ -357,8 +357,8 @@
 5-feb,26,11,Lombardia,Provincia di VARESE,Varese,-34,1146,997
 6-feb,27,11,Lombardia,Provincia di VARESE,Varese,-36,1073,727
 7-feb,28,11,Lombardia,Provincia di VARESE,Varese,-38,1015,298
-8-feb,29,11,Lombardia,Provincia di VARESE,Varese,-38,1015,298
-9-feb,30,11,Lombardia,Provincia di VARESE,Varese,-38,1015,298
+8-feb,29,11,Lombardia,Provincia di VARESE,Varese,-39,949,973
+9-feb,30,11,Lombardia,Provincia di VARESE,Varese,-39,887,730
 11-gen,1,14,Emilia Romagna,Provincia di PIACENZA,Piacenza,115,889,4057
 12-gen,2,14,Emilia Romagna,Provincia di PIACENZA,Piacenza,103,850,39
 13-gen,3,14,Emilia Romagna,Provincia di PIACENZA,Piacenza,189,1177,2617
@@ -387,8 +387,8 @@
 5-feb,26,14,Emilia Romagna,Provincia di PIACENZA,Piacenza,-42,442,349
 6-feb,27,14,Emilia Romagna,Provincia di PIACENZA,Piacenza,-46,395,272
 7-feb,28,14,Emilia Romagna,Provincia di PIACENZA,Piacenza,-47,373,192
-8-feb,29,14,Emilia Romagna,Provincia di PIACENZA,Piacenza,-47,373,192
-9-feb,30,14,Emilia Romagna,Provincia di PIACENZA,Piacenza,-47,373,192
+8-feb,29,14,Emilia Romagna,Provincia di PIACENZA,Piacenza,-52,330,231
+9-feb,30,14,Emilia Romagna,Provincia di PIACENZA,Piacenza,-51,301,265
 11-gen,1,15,Emilia Romagna,Provincia di PARMA,Parma,110,1561,2078
 12-gen,2,15,Emilia Romagna,Provincia di PARMA,Parma,74,1639,2211
 13-gen,3,15,Emilia Romagna,Provincia di PARMA,Parma,47,1656,1918
@@ -417,8 +417,8 @@
 5-feb,26,15,Emilia Romagna,Provincia di PARMA,Parma,-31,900,801
 6-feb,27,15,Emilia Romagna,Provincia di PARMA,Parma,-36,817,644
 7-feb,28,15,Emilia Romagna,Provincia di PARMA,Parma,-34,818,295
-8-feb,29,15,Emilia Romagna,Provincia di PARMA,Parma,-34,818,295
-9-feb,30,15,Emilia Romagna,Provincia di PARMA,Parma,-34,818,295
+8-feb,29,15,Emilia Romagna,Provincia di PARMA,Parma,-36,756,610
+9-feb,30,15,Emilia Romagna,Provincia di PARMA,Parma,-39,672,763
 11-gen,1,16,Emilia Romagna,Provincia di REGGIO NELL' EMILIA,Reggio E.,167,2059,931
 12-gen,2,16,Emilia Romagna,Provincia di REGGIO NELL' EMILIA,Reggio E.,177,2269,2318
 13-gen,3,16,Emilia Romagna,Provincia di REGGIO NELL' EMILIA,Reggio E.,7,1687,1974
@@ -447,8 +447,8 @@
 5-feb,26,16,Emilia Romagna,Provincia di REGGIO NELL' EMILIA,Reggio E.,-38,1120,897
 6-feb,27,16,Emilia Romagna,Provincia di REGGIO NELL' EMILIA,Reggio E.,-39,1047,1079
 7-feb,28,16,Emilia Romagna,Provincia di REGGIO NELL' EMILIA,Reggio E.,-41,972,705
-8-feb,29,16,Emilia Romagna,Provincia di REGGIO NELL' EMILIA,Reggio E.,-41,972,705
-9-feb,30,16,Emilia Romagna,Provincia di REGGIO NELL' EMILIA,Reggio E.,-41,972,705
+8-feb,29,16,Emilia Romagna,Provincia di REGGIO NELL' EMILIA,Reggio E.,-42,938,288
+9-feb,30,16,Emilia Romagna,Provincia di REGGIO NELL' EMILIA,Reggio E.,-41,873,991
 11-gen,1,17,Emilia Romagna,Provincia di MODENA,Modena,253,3374,4863
 12-gen,2,17,Emilia Romagna,Provincia di MODENA,Modena,245,3551,2482
 13-gen,3,17,Emilia Romagna,Provincia di MODENA,Modena,-10,2254,2241
@@ -477,8 +477,8 @@
 5-feb,26,17,Emilia Romagna,Provincia di MODENA,Modena,-40,1380,1269
 6-feb,27,17,Emilia Romagna,Provincia di MODENA,Modena,-43,1260,964
 7-feb,28,17,Emilia Romagna,Provincia di MODENA,Modena,-44,1176,806
-8-feb,29,17,Emilia Romagna,Provincia di MODENA,Modena,-44,1176,806
-9-feb,30,17,Emilia Romagna,Provincia di MODENA,Modena,-44,1176,806
+8-feb,29,17,Emilia Romagna,Provincia di MODENA,Modena,-41,1126,702
+9-feb,30,17,Emilia Romagna,Provincia di MODENA,Modena,-34,1115,878
 11-gen,1,18,Emilia Romagna,Città metropolitana di BOLOGNA,Bologna,133,4095,3023
 12-gen,2,18,Emilia Romagna,Città metropolitana di BOLOGNA,Bologna,107,4339,4513
 13-gen,3,18,Emilia Romagna,Città metropolitana di BOLOGNA,Bologna,30,3849,3581
@@ -507,8 +507,8 @@
 5-feb,26,18,Emilia Romagna,Città metropolitana di BOLOGNA,Bologna,-44,2225,1832
 6-feb,27,18,Emilia Romagna,Città metropolitana di BOLOGNA,Bologna,-46,2019,1581
 7-feb,28,18,Emilia Romagna,Città metropolitana di BOLOGNA,Bologna,-42,1975,1399
-8-feb,29,18,Emilia Romagna,Città metropolitana di BOLOGNA,Bologna,-42,1975,1399
-9-feb,30,18,Emilia Romagna,Città metropolitana di BOLOGNA,Bologna,-42,1975,1399
+8-feb,29,18,Emilia Romagna,Città metropolitana di BOLOGNA,Bologna,-43,1840,1052
+9-feb,30,18,Emilia Romagna,Città metropolitana di BOLOGNA,Bologna,-38,1800,1644
 11-gen,1,19,Emilia Romagna,Provincia di FERRARA,Ferrara,81,1154,615
 12-gen,2,19,Emilia Romagna,Provincia di FERRARA,Ferrara,71,1220,1359
 13-gen,3,19,Emilia Romagna,Provincia di FERRARA,Ferrara,3,1026,1204
@@ -537,8 +537,8 @@
 5-feb,26,19,Emilia Romagna,Provincia di FERRARA,Ferrara,-18,1080,654
 6-feb,27,19,Emilia Romagna,Provincia di FERRARA,Ferrara,-7,1040,660
 7-feb,28,19,Emilia Romagna,Provincia di FERRARA,Ferrara,-5,994,515
-8-feb,29,19,Emilia Romagna,Provincia di FERRARA,Ferrara,-5,994,515
-9-feb,30,19,Emilia Romagna,Provincia di FERRARA,Ferrara,-5,994,515
+8-feb,29,19,Emilia Romagna,Provincia di FERRARA,Ferrara,-4,966,268
+9-feb,30,19,Emilia Romagna,Provincia di FERRARA,Ferrara,-2,922,659
 11-gen,1,20,Emilia Romagna,Provincia di RAVENNA,Ravenna,97,1875,1419
 12-gen,2,20,Emilia Romagna,Provincia di RAVENNA,Ravenna,61,1840,1434
 13-gen,3,20,Emilia Romagna,Provincia di RAVENNA,Ravenna,22,1763,2604
@@ -567,8 +567,8 @@
 5-feb,26,20,Emilia Romagna,Provincia di RAVENNA,Ravenna,-44,911,766
 6-feb,27,20,Emilia Romagna,Provincia di RAVENNA,Ravenna,-45,848,709
 7-feb,28,20,Emilia Romagna,Provincia di RAVENNA,Ravenna,-46,772,472
-8-feb,29,20,Emilia Romagna,Provincia di RAVENNA,Ravenna,-46,772,472
-9-feb,30,20,Emilia Romagna,Provincia di RAVENNA,Ravenna,-46,772,472
+8-feb,29,20,Emilia Romagna,Provincia di RAVENNA,Ravenna,-40,778,417
+9-feb,30,20,Emilia Romagna,Provincia di RAVENNA,Ravenna,-43,724,736
 11-gen,1,21,Emilia Romagna,Provincia di FORLI'-CESENA,Forlì CE,96,1955,1451
 12-gen,2,21,Emilia Romagna,Provincia di FORLI'-CESENA,Forlì CE,71,2001,2108
 13-gen,3,21,Emilia Romagna,Provincia di FORLI'-CESENA,Forlì CE,39,1931,1929
@@ -597,8 +597,8 @@
 5-feb,26,21,Emilia Romagna,Provincia di FORLI'-CESENA,Forlì CE,-38,1051,746
 6-feb,27,21,Emilia Romagna,Provincia di FORLI'-CESENA,Forlì CE,-41,949,646
 7-feb,28,21,Emilia Romagna,Provincia di FORLI'-CESENA,Forlì CE,-43,889,627
-8-feb,29,21,Emilia Romagna,Provincia di FORLI'-CESENA,Forlì CE,-43,889,627
-9-feb,30,21,Emilia Romagna,Provincia di FORLI'-CESENA,Forlì CE,-43,889,627
+8-feb,29,21,Emilia Romagna,Provincia di FORLI'-CESENA,Forlì CE,-39,870,459
+9-feb,30,21,Emilia Romagna,Provincia di FORLI'-CESENA,Forlì CE,-43,755,657
 11-gen,1,22,Emilia Romagna,Provincia di RIMINI,Rimini,93,2150,1590
 12-gen,2,22,Emilia Romagna,Provincia di RIMINI,Rimini,56,2089,1743
 13-gen,3,22,Emilia Romagna,Provincia di RIMINI,Rimini,15,1921,2029
@@ -627,8 +627,8 @@
 5-feb,26,22,Emilia Romagna,Provincia di RIMINI,Rimini,-39,833,795
 6-feb,27,22,Emilia Romagna,Provincia di RIMINI,Rimini,-39,778,746
 7-feb,28,22,Emilia Romagna,Provincia di RIMINI,Rimini,-37,763,583
-8-feb,29,22,Emilia Romagna,Provincia di RIMINI,Rimini,-37,763,583
-9-feb,30,22,Emilia Romagna,Provincia di RIMINI,Rimini,-37,763,583
+8-feb,29,22,Emilia Romagna,Provincia di RIMINI,Rimini,-31,770,414
+9-feb,30,22,Emilia Romagna,Provincia di RIMINI,Rimini,-34,691,654
 11-gen,1,25,Veneto,Provincia di PADOVA,Padova,55,2658,3561
 12-gen,2,25,Veneto,Provincia di PADOVA,Padova,42,2725,3580
 13-gen,3,25,Veneto,Provincia di PADOVA,Padova,33,2728,3146
@@ -657,8 +657,8 @@
 5-feb,26,25,Veneto,Provincia di PADOVA,Padova,-44,2071,2038
 6-feb,27,25,Veneto,Provincia di PADOVA,Padova,-45,1985,1380
 7-feb,28,25,Veneto,Provincia di PADOVA,Padova,-45,1959,486
-8-feb,29,25,Veneto,Provincia di PADOVA,Padova,-45,1959,486
-9-feb,30,25,Veneto,Provincia di PADOVA,Padova,-45,1959,486
+8-feb,29,25,Veneto,Provincia di PADOVA,Padova,-34,1795,2213
+9-feb,30,25,Veneto,Provincia di PADOVA,Padova,-35,1643,1382
 11-gen,1,26,Veneto,Città metropolitana di VENEZIA,Venezia,40,2276,3164
 12-gen,2,26,Veneto,Città metropolitana di VENEZIA,Venezia,31,2329,3008
 13-gen,3,26,Veneto,Città metropolitana di VENEZIA,Venezia,23,2328,2668
@@ -687,8 +687,8 @@
 5-feb,26,26,Veneto,Città metropolitana di VENEZIA,Venezia,-38,1873,1606
 6-feb,27,26,Veneto,Città metropolitana di VENEZIA,Venezia,-41,1758,1093
 7-feb,28,26,Veneto,Città metropolitana di VENEZIA,Venezia,-41,1727,488
-8-feb,29,26,Veneto,Città metropolitana di VENEZIA,Venezia,-41,1727,488
-9-feb,30,26,Veneto,Città metropolitana di VENEZIA,Venezia,-41,1727,488
+8-feb,29,26,Veneto,Città metropolitana di VENEZIA,Venezia,-24,1666,1852
+9-feb,30,26,Veneto,Città metropolitana di VENEZIA,Venezia,-28,1542,1383
 11-gen,1,27,Veneto,Provincia di ROVIGO,Rovigo,79,822,1186
 12-gen,2,27,Veneto,Provincia di ROVIGO,Rovigo,60,841,997
 13-gen,3,27,Veneto,Provincia di ROVIGO,Rovigo,44,860,1069
@@ -717,8 +717,8 @@
 5-feb,26,27,Veneto,Provincia di ROVIGO,Rovigo,-46,461,379
 6-feb,27,27,Veneto,Provincia di ROVIGO,Rovigo,-45,445,308
 7-feb,28,27,Veneto,Provincia di ROVIGO,Rovigo,-47,427,128
-8-feb,29,27,Veneto,Provincia di ROVIGO,Rovigo,-47,427,128
-9-feb,30,27,Veneto,Provincia di ROVIGO,Rovigo,-47,427,128
+8-feb,29,27,Veneto,Provincia di ROVIGO,Rovigo,-35,396,504
+9-feb,30,27,Veneto,Provincia di ROVIGO,Rovigo,-38,359,296
 11-gen,1,28,Veneto,Provincia di VICENZA,Vicenza,56,2606,3731
 12-gen,2,28,Veneto,Provincia di VICENZA,Vicenza,42,2688,3592
 13-gen,3,28,Veneto,Provincia di VICENZA,Vicenza,28,2697,3475
@@ -747,8 +747,8 @@
 5-feb,26,28,Veneto,Provincia di VICENZA,Vicenza,-46,2127,1711
 6-feb,27,28,Veneto,Provincia di VICENZA,Vicenza,-48,1992,1332
 7-feb,28,28,Veneto,Provincia di VICENZA,Vicenza,-50,1917,490
-8-feb,29,28,Veneto,Provincia di VICENZA,Vicenza,-50,1917,490
-9-feb,30,28,Veneto,Provincia di VICENZA,Vicenza,-50,1917,490
+8-feb,29,28,Veneto,Provincia di VICENZA,Vicenza,-42,1729,2061
+9-feb,30,28,Veneto,Provincia di VICENZA,Vicenza,-44,1563,1316
 11-gen,1,29,Veneto,Provincia di VERONA,Verona,68,3157,4585
 12-gen,2,29,Veneto,Provincia di VERONA,Verona,53,3294,4277
 13-gen,3,29,Veneto,Provincia di VERONA,Verona,36,3298,3910
@@ -777,8 +777,8 @@
 5-feb,26,29,Veneto,Provincia di VERONA,Verona,-45,2099,1751
 6-feb,27,29,Veneto,Provincia di VERONA,Verona,-46,2013,1486
 7-feb,28,29,Veneto,Provincia di VERONA,Verona,-46,1975,655
-8-feb,29,29,Veneto,Provincia di VERONA,Verona,-46,1975,655
-9-feb,30,29,Veneto,Provincia di VERONA,Verona,-46,1975,655
+8-feb,29,29,Veneto,Provincia di VERONA,Verona,-35,1798,2014
+9-feb,30,29,Veneto,Provincia di VERONA,Verona,-37,1659,1532
 11-gen,1,30,Veneto,Provincia di BELLUNO,Belluno,80,506,672
 12-gen,2,30,Veneto,Provincia di BELLUNO,Belluno,71,529,601
 13-gen,3,30,Veneto,Provincia di BELLUNO,Belluno,69,555,756
@@ -807,8 +807,8 @@
 5-feb,26,30,Veneto,Provincia di BELLUNO,Belluno,-42,435,411
 6-feb,27,30,Veneto,Provincia di BELLUNO,Belluno,-43,419,308
 7-feb,28,30,Veneto,Provincia di BELLUNO,Belluno,-45,406,98
-8-feb,29,30,Veneto,Provincia di BELLUNO,Belluno,-45,406,98
-9-feb,30,30,Veneto,Provincia di BELLUNO,Belluno,-45,406,98
+8-feb,29,30,Veneto,Provincia di BELLUNO,Belluno,-32,379,445
+9-feb,30,30,Veneto,Provincia di BELLUNO,Belluno,-36,336,252
 11-gen,1,31,Veneto,Provincia di TREVISO,Treviso,37,2627,4018
 12-gen,2,31,Veneto,Provincia di TREVISO,Treviso,25,2643,3028
 13-gen,3,31,Veneto,Provincia di TREVISO,Treviso,9,2589,2492
@@ -837,8 +837,8 @@
 5-feb,26,31,Veneto,Provincia di TREVISO,Treviso,-46,1959,1899
 6-feb,27,31,Veneto,Provincia di TREVISO,Treviso,-46,1896,1455
 7-feb,28,31,Veneto,Provincia di TREVISO,Treviso,-48,1813,455
-8-feb,29,31,Veneto,Provincia di TREVISO,Treviso,-48,1813,455
-9-feb,30,31,Veneto,Provincia di TREVISO,Treviso,-48,1813,455
+8-feb,29,31,Veneto,Provincia di TREVISO,Treviso,-31,1786,1896
+9-feb,30,31,Veneto,Provincia di TREVISO,Treviso,-20,1997,4616
 11-gen,1,41,Piemonte,Provincia di ALESSANDRIA,Alessandria,9,1054,1374
 12-gen,2,41,Piemonte,Provincia di ALESSANDRIA,Alessandria,3,1045,1295
 13-gen,3,41,Piemonte,Provincia di ALESSANDRIA,Alessandria,4,1048,1192
@@ -867,8 +867,8 @@
 5-feb,26,41,Piemonte,Provincia di ALESSANDRIA,Alessandria,-34,568,477
 6-feb,27,41,Piemonte,Provincia di ALESSANDRIA,Alessandria,-33,547,281
 7-feb,28,41,Piemonte,Provincia di ALESSANDRIA,Alessandria,-36,522,334
-8-feb,29,41,Piemonte,Provincia di ALESSANDRIA,Alessandria,-36,522,334
-9-feb,30,41,Piemonte,Provincia di ALESSANDRIA,Alessandria,-36,522,334
+8-feb,29,41,Piemonte,Provincia di ALESSANDRIA,Alessandria,-32,495,624
+9-feb,30,41,Piemonte,Provincia di ALESSANDRIA,Alessandria,-32,455,414
 11-gen,1,42,Piemonte,Provincia di ASTI,Asti,35,614,802
 12-gen,2,42,Piemonte,Provincia di ASTI,Asti,19,596,637
 13-gen,3,42,Piemonte,Provincia di ASTI,Asti,15,599,630
@@ -897,8 +897,8 @@
 5-feb,26,42,Piemonte,Provincia di ASTI,Asti,-35,313,255
 6-feb,27,42,Piemonte,Provincia di ASTI,Asti,-38,295,169
 7-feb,28,42,Piemonte,Provincia di ASTI,Asti,-40,281,190
-8-feb,29,42,Piemonte,Provincia di ASTI,Asti,-40,281,190
-9-feb,30,42,Piemonte,Provincia di ASTI,Asti,-40,281,190
+8-feb,29,42,Piemonte,Provincia di ASTI,Asti,-37,261,289
+9-feb,30,42,Piemonte,Provincia di ASTI,Asti,-37,241,228
 11-gen,1,43,Piemonte,Provincia di BIELLA,Biella,24,538,800
 12-gen,2,43,Piemonte,Provincia di BIELLA,Biella,20,549,660
 13-gen,3,43,Piemonte,Provincia di BIELLA,Biella,21,561,593
@@ -927,8 +927,8 @@
 5-feb,26,43,Piemonte,Provincia di BIELLA,Biella,-37,337,244
 6-feb,27,43,Piemonte,Provincia di BIELLA,Biella,-39,313,138
 7-feb,28,43,Piemonte,Provincia di BIELLA,Biella,-45,278,182
-8-feb,29,43,Piemonte,Provincia di BIELLA,Biella,-45,278,182
-9-feb,30,43,Piemonte,Provincia di BIELLA,Biella,-45,278,182
+8-feb,29,43,Piemonte,Provincia di BIELLA,Biella,-45,250,266
+9-feb,30,43,Piemonte,Provincia di BIELLA,Biella,-42,239,232
 11-gen,1,44,Piemonte,Provincia di CUNEO,Cuneo,33,1831,2539
 12-gen,2,44,Piemonte,Provincia di CUNEO,Cuneo,22,1827,2274
 13-gen,3,44,Piemonte,Provincia di CUNEO,Cuneo,19,1833,2024
@@ -957,8 +957,8 @@
 5-feb,26,44,Piemonte,Provincia di CUNEO,Cuneo,-42,810,613
 6-feb,27,44,Piemonte,Provincia di CUNEO,Cuneo,-43,769,347
 7-feb,28,44,Piemonte,Provincia di CUNEO,Cuneo,-46,715,368
-8-feb,29,44,Piemonte,Provincia di CUNEO,Cuneo,-46,715,368
-9-feb,30,44,Piemonte,Provincia di CUNEO,Cuneo,-46,715,368
+8-feb,29,44,Piemonte,Provincia di CUNEO,Cuneo,-44,646,673
+9-feb,30,44,Piemonte,Provincia di CUNEO,Cuneo,-45,571,478
 11-gen,1,45,Piemonte,Provincia di NOVARA,Novara,29,1016,1443
 12-gen,2,45,Piemonte,Provincia di NOVARA,Novara,24,1037,1352
 13-gen,3,45,Piemonte,Provincia di NOVARA,Novara,27,1072,1257
@@ -987,8 +987,8 @@
 5-feb,26,45,Piemonte,Provincia di NOVARA,Novara,-42,473,377
 6-feb,27,45,Piemonte,Provincia di NOVARA,Novara,-44,446,218
 7-feb,28,45,Piemonte,Provincia di NOVARA,Novara,-45,425,227
-8-feb,29,45,Piemonte,Provincia di NOVARA,Novara,-45,425,227
-9-feb,30,45,Piemonte,Provincia di NOVARA,Novara,-45,425,227
+8-feb,29,45,Piemonte,Provincia di NOVARA,Novara,-44,381,446
+9-feb,30,45,Piemonte,Provincia di NOVARA,Novara,-46,339,280
 11-gen,1,46,Piemonte,Città metropolitana di TORINO,Torino,46,6488,9312
 12-gen,2,46,Piemonte,Città metropolitana di TORINO,Torino,34,6625,8819
 13-gen,3,46,Piemonte,Città metropolitana di TORINO,Torino,33,6798,7718
@@ -1017,8 +1017,8 @@
 5-feb,26,46,Piemonte,Città metropolitana di TORINO,Torino,-36,4089,3389
 6-feb,27,46,Piemonte,Città metropolitana di TORINO,Torino,-38,3867,2091
 7-feb,28,46,Piemonte,Città metropolitana di TORINO,Torino,-40,3692,2044
-8-feb,29,46,Piemonte,Città metropolitana di TORINO,Torino,-40,3692,2044
-9-feb,30,46,Piemonte,Città metropolitana di TORINO,Torino,-40,3692,2044
+8-feb,29,46,Piemonte,Città metropolitana di TORINO,Torino,-37,3430,3551
+9-feb,30,46,Piemonte,Città metropolitana di TORINO,Torino,-39,3097,2840
 11-gen,1,47,Piemonte,Provincia di VERCELLI,Vercelli,59,474,661
 12-gen,2,47,Piemonte,Provincia di VERCELLI,Vercelli,43,495,731
 13-gen,3,47,Piemonte,Provincia di VERCELLI,Vercelli,44,511,583
@@ -1047,8 +1047,8 @@
 5-feb,26,47,Piemonte,Provincia di VERCELLI,Vercelli,-36,263,219
 6-feb,27,47,Piemonte,Provincia di VERCELLI,Vercelli,-35,254,125
 7-feb,28,47,Piemonte,Provincia di VERCELLI,Vercelli,-40,238,122
-8-feb,29,47,Piemonte,Provincia di VERCELLI,Vercelli,-40,238,122
-9-feb,30,47,Piemonte,Provincia di VERCELLI,Vercelli,-40,238,122
+8-feb,29,47,Piemonte,Provincia di VERCELLI,Vercelli,-40,218,276
+9-feb,30,47,Piemonte,Provincia di VERCELLI,Vercelli,-38,202,164
 11-gen,1,48,Piemonte,Provincia di VERBANO-CUSIO-OSSOLA,VCO,59,575,653
 12-gen,2,48,Piemonte,Provincia di VERBANO-CUSIO-OSSOLA,VCO,34,559,602
 13-gen,3,48,Piemonte,Provincia di VERBANO-CUSIO-OSSOLA,VCO,17,536,506
@@ -1077,8 +1077,8 @@
 5-feb,26,48,Piemonte,Provincia di VERBANO-CUSIO-OSSOLA,VCO,-37,212,168
 6-feb,27,48,Piemonte,Provincia di VERBANO-CUSIO-OSSOLA,VCO,-37,201,96
 7-feb,28,48,Piemonte,Provincia di VERBANO-CUSIO-OSSOLA,VCO,-40,186,129
-8-feb,29,48,Piemonte,Provincia di VERBANO-CUSIO-OSSOLA,VCO,-40,186,129
-9-feb,30,48,Piemonte,Provincia di VERBANO-CUSIO-OSSOLA,VCO,-40,186,129
+8-feb,29,48,Piemonte,Provincia di VERBANO-CUSIO-OSSOLA,VCO,-38,169,173
+9-feb,30,48,Piemonte,Provincia di VERBANO-CUSIO-OSSOLA,VCO,-40,154,133
 11-gen,1,82,Friuli VG,Provincia di TRIESTE,Trieste,50,685,804
 12-gen,2,82,Friuli VG,Provincia di TRIESTE,Trieste,30,685,896
 13-gen,3,82,Friuli VG,Provincia di TRIESTE,Trieste,18,664,733
@@ -1107,8 +1107,8 @@
 5-feb,26,82,Friuli VG,Provincia di TRIESTE,Trieste,-33,495,495
 6-feb,27,82,Friuli VG,Provincia di TRIESTE,Trieste,-33,483,343
 7-feb,28,82,Friuli VG,Provincia di TRIESTE,Trieste,-32,472,91
-8-feb,29,82,Friuli VG,Provincia di TRIESTE,Trieste,-32,472,91
-9-feb,30,82,Friuli VG,Provincia di TRIESTE,Trieste,-32,472,91
+8-feb,29,82,Friuli VG,Provincia di TRIESTE,Trieste,-34,448,600
+9-feb,30,82,Friuli VG,Provincia di TRIESTE,Trieste,-38,413,397
 11-gen,1,83,Friuli VG,Provincia di GORIZIA,Gorizia,75,294,406
 12-gen,2,83,Friuli VG,Provincia di GORIZIA,Gorizia,66,301,389
 13-gen,3,83,Friuli VG,Provincia di GORIZIA,Gorizia,41,311,457
@@ -1137,8 +1137,8 @@
 5-feb,26,83,Friuli VG,Provincia di GORIZIA,Gorizia,-26,338,354
 6-feb,27,83,Friuli VG,Provincia di GORIZIA,Gorizia,-31,315,142
 7-feb,28,83,Friuli VG,Provincia di GORIZIA,Gorizia,-32,306,61
-8-feb,29,83,Friuli VG,Provincia di GORIZIA,Gorizia,-32,306,61
-9-feb,30,83,Friuli VG,Provincia di GORIZIA,Gorizia,-32,306,61
+8-feb,29,83,Friuli VG,Provincia di GORIZIA,Gorizia,-32,299,345
+9-feb,30,83,Friuli VG,Provincia di GORIZIA,Gorizia,-36,275,230
 11-gen,1,84,Friuli VG,Provincia di UDINE,Udine,81,1376,1760
 12-gen,2,84,Friuli VG,Provincia di UDINE,Udine,62,1432,1922
 13-gen,3,84,Friuli VG,Provincia di UDINE,Udine,42,1438,1671
@@ -1167,8 +1167,8 @@
 5-feb,26,84,Friuli VG,Provincia di UDINE,Udine,-32,1104,1176
 6-feb,27,84,Friuli VG,Provincia di UDINE,Udine,-37,1029,645
 7-feb,28,84,Friuli VG,Provincia di UDINE,Udine,-35,1003,275
-8-feb,29,84,Friuli VG,Provincia di UDINE,Udine,-35,1003,275
-9-feb,30,84,Friuli VG,Provincia di UDINE,Udine,-35,1003,275
+8-feb,29,84,Friuli VG,Provincia di UDINE,Udine,-36,962,1089
+9-feb,30,84,Friuli VG,Provincia di UDINE,Udine,-40,871,788
 11-gen,1,85,Friuli VG,Provincia di PORDENONE,Pordenone,61,934,1129
 12-gen,2,85,Friuli VG,Provincia di PORDENONE,Pordenone,46,974,1349
 13-gen,3,85,Friuli VG,Provincia di PORDENONE,Pordenone,29,961,1087
@@ -1197,8 +1197,8 @@
 5-feb,26,85,Friuli VG,Provincia di PORDENONE,Pordenone,-34,775,759
 6-feb,27,85,Friuli VG,Provincia di PORDENONE,Pordenone,-37,729,407
 7-feb,28,85,Friuli VG,Provincia di PORDENONE,Pordenone,-35,722,208
-8-feb,29,85,Friuli VG,Provincia di PORDENONE,Pordenone,-35,722,208
-9-feb,30,85,Friuli VG,Provincia di PORDENONE,Pordenone,-35,722,208
+8-feb,29,85,Friuli VG,Provincia di PORDENONE,Pordenone,-37,666,699
+9-feb,30,85,Friuli VG,Provincia di PORDENONE,Pordenone,-43,597,502
 11-gen,1,131,Valle d'Aosta,Provincia di AOSTA,Aosta,125,438,598
 12-gen,2,131,Valle d'Aosta,Provincia di AOSTA,Aosta,131,482,556
 13-gen,3,131,Valle d'Aosta,Provincia di AOSTA,Aosta,122,509,552
@@ -1227,8 +1227,8 @@
 5-feb,26,131,Valle d'Aosta,Provincia di AOSTA,Aosta,-45,167,147
 6-feb,27,131,Valle d'Aosta,Provincia di AOSTA,Aosta,-47,153,115
 7-feb,28,131,Valle d'Aosta,Provincia di AOSTA,Aosta,-47,150,24
-8-feb,29,131,Valle d'Aosta,Provincia di AOSTA,Aosta,-47,150,24
-9-feb,30,131,Valle d'Aosta,Provincia di AOSTA,Aosta,-47,150,24
+8-feb,29,131,Valle d'Aosta,Provincia di AOSTA,Aosta,-50,129,158
+9-feb,30,131,Valle d'Aosta,Provincia di AOSTA,Aosta,-51,115,82
 11-gen,1,76,Liguria,Provincia di SAVONA,Savona,215,912,1355
 12-gen,2,76,Liguria,Provincia di SAVONA,Savona,231,985,855
 13-gen,3,76,Liguria,Provincia di SAVONA,Savona,175,990,809
@@ -1257,8 +1257,8 @@
 5-feb,26,76,Liguria,Provincia di SAVONA,Savona,-30,589,509
 6-feb,27,76,Liguria,Provincia di SAVONA,Savona,-33,544,341
 7-feb,28,76,Liguria,Provincia di SAVONA,Savona,-34,523,222
-8-feb,29,76,Liguria,Provincia di SAVONA,Savona,-34,523,222
-9-feb,30,76,Liguria,Provincia di SAVONA,Savona,-34,523,222
+8-feb,29,76,Liguria,Provincia di SAVONA,Savona,-34,492,532
+9-feb,30,76,Liguria,Provincia di SAVONA,Savona,-38,442,355
 11-gen,1,77,Liguria,Provincia di LA SPEZIA,La Spezia,133,786,1147
 12-gen,2,77,Liguria,Provincia di LA SPEZIA,La Spezia,151,867,910
 13-gen,3,77,Liguria,Provincia di LA SPEZIA,La Spezia,157,903,656
@@ -1287,8 +1287,8 @@
 5-feb,26,77,Liguria,Provincia di LA SPEZIA,La Spezia,-36,376,256
 6-feb,27,77,Liguria,Provincia di LA SPEZIA,La Spezia,-35,360,307
 7-feb,28,77,Liguria,Provincia di LA SPEZIA,La Spezia,-35,350,87
-8-feb,29,77,Liguria,Provincia di LA SPEZIA,La Spezia,-35,350,87
-9-feb,30,77,Liguria,Provincia di LA SPEZIA,La Spezia,-35,350,87
+8-feb,29,77,Liguria,Provincia di LA SPEZIA,La Spezia,-30,337,404
+9-feb,30,77,Liguria,Provincia di LA SPEZIA,La Spezia,-37,294,258
 11-gen,1,78,Liguria,Provincia di IMPERIA,Imperia,124,660,1953
 12-gen,2,78,Liguria,Provincia di IMPERIA,Imperia,116,696,693
 13-gen,3,78,Liguria,Provincia di IMPERIA,Imperia,137,757,737
@@ -1317,8 +1317,8 @@
 5-feb,26,78,Liguria,Provincia di IMPERIA,Imperia,-38,421,339
 6-feb,27,78,Liguria,Provincia di IMPERIA,Imperia,-40,386,269
 7-feb,28,78,Liguria,Provincia di IMPERIA,Imperia,-44,365,48
-8-feb,29,78,Liguria,Provincia di IMPERIA,Imperia,-44,365,48
-9-feb,30,78,Liguria,Provincia di IMPERIA,Imperia,-44,365,48
+8-feb,29,78,Liguria,Provincia di IMPERIA,Imperia,-37,367,420
+9-feb,30,78,Liguria,Provincia di IMPERIA,Imperia,-44,311,277
 11-gen,1,79,Liguria,Città metropolitana di GENOVA,Genova,262,2806,4409
 12-gen,2,79,Liguria,Città metropolitana di GENOVA,Genova,284,3121,3190
 13-gen,3,79,Liguria,Città metropolitana di GENOVA,Genova,261,3348,3064
@@ -1347,8 +1347,8 @@
 5-feb,26,79,Liguria,Città metropolitana di GENOVA,Genova,-40,1614,1270
 6-feb,27,79,Liguria,Città metropolitana di GENOVA,Genova,-40,1534,942
 7-feb,28,79,Liguria,Città metropolitana di GENOVA,Genova,-41,1477,552
-8-feb,29,79,Liguria,Città metropolitana di GENOVA,Genova,-41,1477,552
-9-feb,30,79,Liguria,Città metropolitana di GENOVA,Genova,-41,1477,552
+8-feb,29,79,Liguria,Città metropolitana di GENOVA,Genova,-39,1382,1637
+9-feb,30,79,Liguria,Città metropolitana di GENOVA,Genova,-40,1251,1008
 11-gen,1,120,Trento,Provincia autonoma di TRENTO,Trento,82,2161,3052
 12-gen,2,120,Trento,Provincia autonoma di TRENTO,Trento,54,2148,2278
 13-gen,3,120,Trento,Provincia autonoma di TRENTO,Trento,32,2114,2357
@@ -1377,8 +1377,8 @@
 5-feb,26,120,Trento,Provincia autonoma di TRENTO,Trento,-41,1086,883
 6-feb,27,120,Trento,Provincia autonoma di TRENTO,Trento,-42,1020,657
 7-feb,28,120,Trento,Provincia autonoma di TRENTO,Trento,-41,987,361
-8-feb,29,120,Trento,Provincia autonoma di TRENTO,Trento,-41,987,361
-9-feb,30,120,Trento,Provincia autonoma di TRENTO,Trento,-41,987,361
+8-feb,29,120,Trento,Provincia autonoma di TRENTO,Trento,-42,893,1079
+9-feb,30,120,Trento,Provincia autonoma di TRENTO,Trento,-41,826,712
 11-gen,1,119,Bolzano,Provincia autonoma di BOLZANO,Bolzano,146,1650,3041
 12-gen,2,119,Bolzano,Provincia autonoma di BOLZANO,Bolzano,124,1784,2310
 13-gen,3,119,Bolzano,Provincia autonoma di BOLZANO,Bolzano,108,1935,2650
@@ -1407,8 +1407,8 @@
 5-feb,26,119,Bolzano,Provincia autonoma di BOLZANO,Bolzano,-32,1550,1304
 6-feb,27,119,Bolzano,Provincia autonoma di BOLZANO,Bolzano,-32,1503,870
 7-feb,28,119,Bolzano,Provincia autonoma di BOLZANO,Bolzano,-33,1452,600
-8-feb,29,119,Bolzano,Provincia autonoma di BOLZANO,Bolzano,-33,1452,600
-9-feb,30,119,Bolzano,Provincia autonoma di BOLZANO,Bolzano,-33,1452,600
+8-feb,29,119,Bolzano,Provincia autonoma di BOLZANO,Bolzano,-49,1310,1703
+9-feb,30,119,Bolzano,Provincia autonoma di BOLZANO,Bolzano,-34,1228,1007
 11-gen,1,34,Marche,Provincia di ANCONA,Ancona,52,785,824
 12-gen,2,34,Marche,Provincia di ANCONA,Ancona,61,853,1127
 13-gen,3,34,Marche,Provincia di ANCONA,Ancona,21,784,797
@@ -1437,8 +1437,8 @@
 5-feb,26,34,Marche,Provincia di ANCONA,Ancona,-26,1148,714
 6-feb,27,34,Marche,Provincia di ANCONA,Ancona,-28,1081,750
 7-feb,28,34,Marche,Provincia di ANCONA,Ancona,-29,1055,338
-8-feb,29,34,Marche,Provincia di ANCONA,Ancona,-29,1055,338
-9-feb,30,34,Marche,Provincia di ANCONA,Ancona,-29,1055,338
+8-feb,29,34,Marche,Provincia di ANCONA,Ancona,-35,923,876
+9-feb,30,34,Marche,Provincia di ANCONA,Ancona,-38,856,877
 11-gen,1,35,Marche,Provincia di PESARO E URBINO,Pesaro,19,214,145
 12-gen,2,35,Marche,Provincia di PESARO E URBINO,Pesaro,20,220,276
 13-gen,3,35,Marche,Provincia di PESARO E URBINO,Pesaro,29,233,340
@@ -1467,8 +1467,8 @@
 5-feb,26,35,Marche,Provincia di PESARO E URBINO,Pesaro,-36,804,413
 6-feb,27,35,Marche,Provincia di PESARO E URBINO,Pesaro,-39,731,426
 7-feb,28,35,Marche,Provincia di PESARO E URBINO,Pesaro,-41,704,144
-8-feb,29,35,Marche,Provincia di PESARO E URBINO,Pesaro,-41,704,144
-9-feb,30,35,Marche,Provincia di PESARO E URBINO,Pesaro,-41,704,144
+8-feb,29,35,Marche,Provincia di PESARO E URBINO,Pesaro,-44,607,553
+9-feb,30,35,Marche,Provincia di PESARO E URBINO,Pesaro,-48,538,597
 11-gen,1,36,Marche,Provincia di MACERATA,Macerata,30,256,186
 12-gen,2,36,Marche,Provincia di MACERATA,Macerata,19,252,264
 13-gen,3,36,Marche,Provincia di MACERATA,Macerata,-18,200,178
@@ -1497,8 +1497,8 @@
 5-feb,26,36,Marche,Provincia di MACERATA,Macerata,-16,922,521
 6-feb,27,36,Marche,Provincia di MACERATA,Macerata,-22,855,594
 7-feb,28,36,Marche,Provincia di MACERATA,Macerata,-23,837,290
-8-feb,29,36,Marche,Provincia di MACERATA,Macerata,-23,837,290
-9-feb,30,36,Marche,Provincia di MACERATA,Macerata,-23,837,290
+8-feb,29,36,Marche,Provincia di MACERATA,Macerata,-30,749,715
+9-feb,30,36,Marche,Provincia di MACERATA,Macerata,-34,692,800
 11-gen,1,37,Marche,Provincia di FERMO,Fermo,5,253,230
 12-gen,2,37,Marche,Provincia di FERMO,Fermo,-13,215,206
 13-gen,3,37,Marche,Provincia di FERMO,Fermo,-31,187,283
@@ -1527,8 +1527,8 @@
 5-feb,26,37,Marche,Provincia di FERMO,Fermo,-24,460,329
 6-feb,27,37,Marche,Provincia di FERMO,Fermo,-27,429,301
 7-feb,28,37,Marche,Provincia di FERMO,Fermo,-28,416,80
-8-feb,29,37,Marche,Provincia di FERMO,Fermo,-28,416,80
-9-feb,30,37,Marche,Provincia di FERMO,Fermo,-28,416,80
+8-feb,29,37,Marche,Provincia di FERMO,Fermo,-33,374,425
+9-feb,30,37,Marche,Provincia di FERMO,Fermo,-35,347,353
 11-gen,1,38,Marche,Provincia di ASCOLI PICENO,Ascoli P.,36,270,252
 12-gen,2,38,Marche,Provincia di ASCOLI PICENO,Ascoli P.,23,276,397
 13-gen,3,38,Marche,Provincia di ASCOLI PICENO,Ascoli P.,5,254,259
@@ -1557,8 +1557,8 @@
 5-feb,26,38,Marche,Provincia di ASCOLI PICENO,Ascoli P.,-18,572,400
 6-feb,27,38,Marche,Provincia di ASCOLI PICENO,Ascoli P.,-20,536,363
 7-feb,28,38,Marche,Provincia di ASCOLI PICENO,Ascoli P.,-22,520,127
-8-feb,29,38,Marche,Provincia di ASCOLI PICENO,Ascoli P.,-22,520,127
-9-feb,30,38,Marche,Provincia di ASCOLI PICENO,Ascoli P.,-22,520,127
+8-feb,29,38,Marche,Provincia di ASCOLI PICENO,Ascoli P.,-28,465,473
+9-feb,30,38,Marche,Provincia di ASCOLI PICENO,Ascoli P.,-25,454,460
 11-gen,1,51,Toscana,Città metropolitana di FIRENZE,Firenze,-1,4310,5217
 12-gen,2,51,Toscana,Città metropolitana di FIRENZE,Firenze,-13,4132,4110
 13-gen,3,51,Toscana,Città metropolitana di FIRENZE,Firenze,-19,3910,4258
@@ -1587,8 +1587,8 @@
 5-feb,26,51,Toscana,Città metropolitana di FIRENZE,Firenze,-35,2010,1716
 6-feb,27,51,Toscana,Città metropolitana di FIRENZE,Firenze,-36,1881,1426
 7-feb,28,51,Toscana,Città metropolitana di FIRENZE,Firenze,-38,1811,662
-8-feb,29,51,Toscana,Città metropolitana di FIRENZE,Firenze,-38,1811,662
-9-feb,30,51,Toscana,Città metropolitana di FIRENZE,Firenze,-38,1811,662
+8-feb,29,51,Toscana,Città metropolitana di FIRENZE,Firenze,-38,1676,1639
+9-feb,30,51,Toscana,Città metropolitana di FIRENZE,Firenze,-39,1548,1292
 11-gen,1,52,Toscana,Provincia di PISTOIA,Pistoia,17,1054,1287
 12-gen,2,52,Toscana,Provincia di PISTOIA,Pistoia,-2,1010,1081
 13-gen,3,52,Toscana,Provincia di PISTOIA,Pistoia,-9,963,1034
@@ -1617,8 +1617,8 @@
 5-feb,26,52,Toscana,Provincia di PISTOIA,Pistoia,-35,569,474
 6-feb,27,52,Toscana,Provincia di PISTOIA,Pistoia,-36,534,464
 7-feb,28,52,Toscana,Provincia di PISTOIA,Pistoia,-37,520,221
-8-feb,29,52,Toscana,Provincia di PISTOIA,Pistoia,-37,520,221
-9-feb,30,52,Toscana,Provincia di PISTOIA,Pistoia,-37,520,221
+8-feb,29,52,Toscana,Provincia di PISTOIA,Pistoia,-36,484,536
+9-feb,30,52,Toscana,Provincia di PISTOIA,Pistoia,-36,457,370
 11-gen,1,53,Toscana,Provincia di LUCCA,Lucca,9,1270,1460
 12-gen,2,53,Toscana,Provincia di LUCCA,Lucca,-10,1201,1339
 13-gen,3,53,Toscana,Provincia di LUCCA,Lucca,-14,1142,1205
@@ -1647,8 +1647,8 @@
 5-feb,26,53,Toscana,Provincia di LUCCA,Lucca,-22,795,774
 6-feb,27,53,Toscana,Provincia di LUCCA,Lucca,-24,751,597
 7-feb,28,53,Toscana,Provincia di LUCCA,Lucca,-27,725,295
-8-feb,29,53,Toscana,Provincia di LUCCA,Lucca,-27,725,295
-9-feb,30,53,Toscana,Provincia di LUCCA,Lucca,-27,725,295
+8-feb,29,53,Toscana,Provincia di LUCCA,Lucca,-28,685,730
+9-feb,30,53,Toscana,Provincia di LUCCA,Lucca,-28,656,555
 11-gen,1,54,Toscana,Provincia di SIENA,Siena,-19,807,1022
 12-gen,2,54,Toscana,Provincia di SIENA,Siena,-29,757,738
 13-gen,3,54,Toscana,Provincia di SIENA,Siena,-28,729,770
@@ -1677,8 +1677,8 @@
 5-feb,26,54,Toscana,Provincia di SIENA,Siena,-23,449,434
 6-feb,27,54,Toscana,Provincia di SIENA,Siena,-23,443,446
 7-feb,28,54,Toscana,Provincia di SIENA,Siena,-21,435,183
-8-feb,29,54,Toscana,Provincia di SIENA,Siena,-21,435,183
-9-feb,30,54,Toscana,Provincia di SIENA,Siena,-21,435,183
+8-feb,29,54,Toscana,Provincia di SIENA,Siena,-23,413,438
+9-feb,30,54,Toscana,Provincia di SIENA,Siena,-29,385,327
 11-gen,1,55,Toscana,Provincia di MASSA-CARRARA,Massa C.,21,591,722
 12-gen,2,55,Toscana,Provincia di MASSA-CARRARA,Massa C.,3,584,714
 13-gen,3,55,Toscana,Provincia di MASSA-CARRARA,Massa C.,-8,548,528
@@ -1707,8 +1707,8 @@
 5-feb,26,55,Toscana,Provincia di MASSA-CARRARA,Massa C.,-26,292,276
 6-feb,27,55,Toscana,Provincia di MASSA-CARRARA,Massa C.,-28,275,234
 7-feb,28,55,Toscana,Provincia di MASSA-CARRARA,Massa C.,-30,267,104
-8-feb,29,55,Toscana,Provincia di MASSA-CARRARA,Massa C.,-30,267,104
-9-feb,30,55,Toscana,Provincia di MASSA-CARRARA,Massa C.,-30,267,104
+8-feb,29,55,Toscana,Provincia di MASSA-CARRARA,Massa C.,-31,250,304
+9-feb,30,55,Toscana,Provincia di MASSA-CARRARA,Massa C.,-29,243,220
 11-gen,1,56,Toscana,Provincia di AREZZO,Arezzo,-2,1077,1454
 12-gen,2,56,Toscana,Provincia di AREZZO,Arezzo,-10,1069,1210
 13-gen,3,56,Toscana,Provincia di AREZZO,Arezzo,-14,1018,1110
@@ -1737,8 +1737,8 @@
 5-feb,26,56,Toscana,Provincia di AREZZO,Arezzo,-29,662,523
 6-feb,27,56,Toscana,Provincia di AREZZO,Arezzo,-30,631,532
 7-feb,28,56,Toscana,Provincia di AREZZO,Arezzo,-28,626,309
-8-feb,29,56,Toscana,Provincia di AREZZO,Arezzo,-28,626,309
-9-feb,30,56,Toscana,Provincia di AREZZO,Arezzo,-28,626,309
+8-feb,29,56,Toscana,Provincia di AREZZO,Arezzo,-29,584,622
+9-feb,30,56,Toscana,Provincia di AREZZO,Arezzo,-34,544,480
 11-gen,1,57,Toscana,Provincia di PISA,Pisa,10,1562,1896
 12-gen,2,57,Toscana,Provincia di PISA,Pisa,-10,1479,1644
 13-gen,3,57,Toscana,Provincia di PISA,Pisa,-16,1411,1600
@@ -1767,8 +1767,8 @@
 5-feb,26,57,Toscana,Provincia di PISA,Pisa,-29,838,756
 6-feb,27,57,Toscana,Provincia di PISA,Pisa,-30,790,559
 7-feb,28,57,Toscana,Provincia di PISA,Pisa,-31,772,281
-8-feb,29,57,Toscana,Provincia di PISA,Pisa,-31,772,281
-9-feb,30,57,Toscana,Provincia di PISA,Pisa,-31,772,281
+8-feb,29,57,Toscana,Provincia di PISA,Pisa,-32,713,828
+9-feb,30,57,Toscana,Provincia di PISA,Pisa,-33,668,515
 11-gen,1,58,Toscana,Provincia di LIVORNO,Livorno,36,1005,1331
 12-gen,2,58,Toscana,Provincia di LIVORNO,Livorno,21,999,1073
 13-gen,3,58,Toscana,Provincia di LIVORNO,Livorno,12,985,1195
@@ -1797,8 +1797,8 @@
 5-feb,26,58,Toscana,Provincia di LIVORNO,Livorno,-27,795,792
 6-feb,27,58,Toscana,Provincia di LIVORNO,Livorno,-30,745,594
 7-feb,28,58,Toscana,Provincia di LIVORNO,Livorno,-28,741,408
-8-feb,29,58,Toscana,Provincia di LIVORNO,Livorno,-28,741,408
-9-feb,30,58,Toscana,Provincia di LIVORNO,Livorno,-28,741,408
+8-feb,29,58,Toscana,Provincia di LIVORNO,Livorno,-29,686,642
+9-feb,30,58,Toscana,Provincia di LIVORNO,Livorno,-30,643,488
 11-gen,1,59,Toscana,Provincia di GROSSETO,Grosseto,45,536,698
 12-gen,2,59,Toscana,Provincia di GROSSETO,Grosseto,21,524,576
 13-gen,3,59,Toscana,Provincia di GROSSETO,Grosseto,14,524,603
@@ -1827,8 +1827,8 @@
 5-feb,26,59,Toscana,Provincia di GROSSETO,Grosseto,-25,459,424
 6-feb,27,59,Toscana,Provincia di GROSSETO,Grosseto,-18,467,462
 7-feb,28,59,Toscana,Provincia di GROSSETO,Grosseto,-18,454,177
-8-feb,29,59,Toscana,Provincia di GROSSETO,Grosseto,-18,454,177
-9-feb,30,59,Toscana,Provincia di GROSSETO,Grosseto,-18,454,177
+8-feb,29,59,Toscana,Provincia di GROSSETO,Grosseto,-19,432,475
+9-feb,30,59,Toscana,Provincia di GROSSETO,Grosseto,-26,395,269
 11-gen,1,60,Toscana,Provincia di PRATO,Prato,5,964,1203
 12-gen,2,60,Toscana,Provincia di PRATO,Prato,-12,903,856
 13-gen,3,60,Toscana,Provincia di PRATO,Prato,-18,840,848
@@ -1857,8 +1857,8 @@
 5-feb,26,60,Toscana,Provincia di PRATO,Prato,-29,523,479
 6-feb,27,60,Toscana,Provincia di PRATO,Prato,-33,486,369
 7-feb,28,60,Toscana,Provincia di PRATO,Prato,-35,462,143
-8-feb,29,60,Toscana,Provincia di PRATO,Prato,-35,462,143
-9-feb,30,60,Toscana,Provincia di PRATO,Prato,-35,462,143
+8-feb,29,60,Toscana,Provincia di PRATO,Prato,-36,429,439
+9-feb,30,60,Toscana,Provincia di PRATO,Prato,-37,401,344
 11-gen,1,69,Lazio,Città metropolitana di ROMA,Roma,74,10017,8914
 12-gen,2,69,Lazio,Città metropolitana di ROMA,Roma,33,9419,8763
 13-gen,3,69,Lazio,Città metropolitana di ROMA,Roma,12,9040,7862
@@ -1887,8 +1887,8 @@
 5-feb,26,69,Lazio,Città metropolitana di ROMA,Roma,-23,7649,6642
 6-feb,27,69,Lazio,Città metropolitana di ROMA,Roma,-25,7302,6254
 7-feb,28,69,Lazio,Città metropolitana di ROMA,Roma,-26,7134,4324
-8-feb,29,69,Lazio,Città metropolitana di ROMA,Roma,-26,7134,4324
-9-feb,30,69,Lazio,Città metropolitana di ROMA,Roma,-26,7134,4324
+8-feb,29,69,Lazio,Città metropolitana di ROMA,Roma,-23,6993,7378
+9-feb,30,69,Lazio,Città metropolitana di ROMA,Roma,-21,6676,5646
 11-gen,1,70,Lazio,Provincia di FROSINONE,Frosinone,20,813,1103
 12-gen,2,70,Lazio,Provincia di FROSINONE,Frosinone,9,797,850
 13-gen,3,70,Lazio,Provincia di FROSINONE,Frosinone,-1,764,770
@@ -1917,8 +1917,8 @@
 5-feb,26,70,Lazio,Provincia di FROSINONE,Frosinone,-6,815,855
 6-feb,27,70,Lazio,Provincia di FROSINONE,Frosinone,-11,782,713
 7-feb,28,70,Lazio,Provincia di FROSINONE,Frosinone,-13,769,180
-8-feb,29,70,Lazio,Provincia di FROSINONE,Frosinone,-13,769,180
-9-feb,30,70,Lazio,Provincia di FROSINONE,Frosinone,-13,769,180
+8-feb,29,70,Lazio,Provincia di FROSINONE,Frosinone,-17,737,979
+9-feb,30,70,Lazio,Provincia di FROSINONE,Frosinone,-18,705,664
 11-gen,1,71,Lazio,Provincia di RIETI,Rieti,60,423,484
 12-gen,2,71,Lazio,Provincia di RIETI,Rieti,34,422,491
 13-gen,3,71,Lazio,Provincia di RIETI,Rieti,18,398,327
@@ -1947,8 +1947,8 @@
 5-feb,26,71,Lazio,Provincia di RIETI,Rieti,-4,284,298
 6-feb,27,71,Lazio,Provincia di RIETI,Rieti,-12,266,171
 7-feb,28,71,Lazio,Provincia di RIETI,Rieti,2,290,212
-8-feb,29,71,Lazio,Provincia di RIETI,Rieti,2,290,212
-9-feb,30,71,Lazio,Provincia di RIETI,Rieti,2,290,212
+8-feb,29,71,Lazio,Provincia di RIETI,Rieti,6,292,316
+9-feb,30,71,Lazio,Provincia di RIETI,Rieti,12,309,407
 11-gen,1,72,Lazio,Provincia di VITERBO,Viterbo,107,636,688
 12-gen,2,72,Lazio,Provincia di VITERBO,Viterbo,47,577,611
 13-gen,3,72,Lazio,Provincia di VITERBO,Viterbo,18,556,629
@@ -1977,8 +1977,8 @@
 5-feb,26,72,Lazio,Provincia di VITERBO,Viterbo,-15,560,493
 6-feb,27,72,Lazio,Provincia di VITERBO,Viterbo,-12,548,472
 7-feb,28,72,Lazio,Provincia di VITERBO,Viterbo,-12,536,192
-8-feb,29,72,Lazio,Provincia di VITERBO,Viterbo,-12,536,192
-9-feb,30,72,Lazio,Provincia di VITERBO,Viterbo,-12,536,192
+8-feb,29,72,Lazio,Provincia di VITERBO,Viterbo,-14,514,608
+9-feb,30,72,Lazio,Provincia di VITERBO,Viterbo,-14,495,449
 11-gen,1,73,Lazio,Provincia di LATINA,Latina,57,1301,1599
 12-gen,2,73,Lazio,Provincia di LATINA,Latina,48,1340,1312
 13-gen,3,73,Lazio,Provincia di LATINA,Latina,28,1258,684
@@ -2007,8 +2007,8 @@
 5-feb,26,73,Lazio,Provincia di LATINA,Latina,-3,1168,873
 6-feb,27,73,Lazio,Provincia di LATINA,Latina,-5,1141,873
 7-feb,28,73,Lazio,Provincia di LATINA,Latina,-8,1123,405
-8-feb,29,73,Lazio,Provincia di LATINA,Latina,-8,1123,405
-9-feb,30,73,Lazio,Provincia di LATINA,Latina,-8,1123,405
+8-feb,29,73,Lazio,Provincia di LATINA,Latina,-9,1062,1061
+9-feb,30,73,Lazio,Provincia di LATINA,Latina,-5,1046,830
 11-gen,1,106,Umbria,Provincia di TERNI,Terni,11,738,886
 12-gen,2,106,Umbria,Provincia di TERNI,Terni,-4,684,708
 13-gen,3,106,Umbria,Provincia di TERNI,Terni,-9,644,545
@@ -2037,8 +2037,8 @@
 5-feb,26,106,Umbria,Provincia di TERNI,Terni,-16,347,414
 6-feb,27,106,Umbria,Provincia di TERNI,Terni,-14,348,316
 7-feb,28,106,Umbria,Provincia di TERNI,Terni,-10,356,167
-8-feb,29,106,Umbria,Provincia di TERNI,Terni,-10,356,167
-9-feb,30,106,Umbria,Provincia di TERNI,Terni,-10,356,167
+8-feb,29,106,Umbria,Provincia di TERNI,Terni,-9,341,367
+9-feb,30,106,Umbria,Provincia di TERNI,Terni,-5,342,347
 11-gen,1,107,Umbria,Provincia di PERUGIA,Perugia,-4,1822,2070
 12-gen,2,107,Umbria,Provincia di PERUGIA,Perugia,-12,1707,1861
 13-gen,3,107,Umbria,Provincia di PERUGIA,Perugia,-17,1593,1421
@@ -2067,8 +2067,8 @@
 5-feb,26,107,Umbria,Provincia di PERUGIA,Perugia,-17,1108,972
 6-feb,27,107,Umbria,Provincia di PERUGIA,Perugia,-19,1072,983
 7-feb,28,107,Umbria,Provincia di PERUGIA,Perugia,-18,1064,404
-8-feb,29,107,Umbria,Provincia di PERUGIA,Perugia,-18,1064,404
-9-feb,30,107,Umbria,Provincia di PERUGIA,Perugia,-18,1064,404
+8-feb,29,107,Umbria,Provincia di PERUGIA,Perugia,-24,973,842
+9-feb,30,107,Umbria,Provincia di PERUGIA,Perugia,-24,943,1205
 11-gen,1,110,Abruzzo,Provincia di L'AQUILA,L'Aquila,61,733,817
 12-gen,2,110,Abruzzo,Provincia di L'AQUILA,L'Aquila,32,709,725
 13-gen,3,110,Abruzzo,Provincia di L'AQUILA,L'Aquila,23,691,656
@@ -2097,8 +2097,8 @@
 5-feb,26,110,Abruzzo,Provincia di L'AQUILA,L'Aquila,-19,565,520
 6-feb,27,110,Abruzzo,Provincia di L'AQUILA,L'Aquila,-19,550,490
 7-feb,28,110,Abruzzo,Provincia di L'AQUILA,L'Aquila,-19,551,257
-8-feb,29,110,Abruzzo,Provincia di L'AQUILA,L'Aquila,-19,551,257
-9-feb,30,110,Abruzzo,Provincia di L'AQUILA,L'Aquila,-19,551,257
+8-feb,29,110,Abruzzo,Provincia di L'AQUILA,L'Aquila,-18,531,717
+9-feb,30,110,Abruzzo,Provincia di L'AQUILA,L'Aquila,-20,509,468
 11-gen,1,111,Abruzzo,Provincia di CHIETI,Chieti,36,1260,1398
 12-gen,2,111,Abruzzo,Provincia di CHIETI,Chieti,4,1186,1134
 13-gen,3,111,Abruzzo,Provincia di CHIETI,Chieti,-8,1134,1154
@@ -2127,8 +2127,8 @@
 5-feb,26,111,Abruzzo,Provincia di CHIETI,Chieti,-19,730,646
 6-feb,27,111,Abruzzo,Provincia di CHIETI,Chieti,-17,721,690
 7-feb,28,111,Abruzzo,Provincia di CHIETI,Chieti,-16,720,335
-8-feb,29,111,Abruzzo,Provincia di CHIETI,Chieti,-16,720,335
-9-feb,30,111,Abruzzo,Provincia di CHIETI,Chieti,-16,720,335
+8-feb,29,111,Abruzzo,Provincia di CHIETI,Chieti,-19,680,868
+9-feb,30,111,Abruzzo,Provincia di CHIETI,Chieti,-18,657,578
 11-gen,1,112,Abruzzo,Provincia di PESCARA,Pescara,19,923,1279
 12-gen,2,112,Abruzzo,Provincia di PESCARA,Pescara,-6,874,992
 13-gen,3,112,Abruzzo,Provincia di PESCARA,Pescara,-13,851,855
@@ -2157,8 +2157,8 @@
 5-feb,26,112,Abruzzo,Provincia di PESCARA,Pescara,-26,590,500
 6-feb,27,112,Abruzzo,Provincia di PESCARA,Pescara,-31,543,389
 7-feb,28,112,Abruzzo,Provincia di PESCARA,Pescara,-29,539,269
-8-feb,29,112,Abruzzo,Provincia di PESCARA,Pescara,-29,539,269
-9-feb,30,112,Abruzzo,Provincia di PESCARA,Pescara,-29,539,269
+8-feb,29,112,Abruzzo,Provincia di PESCARA,Pescara,-33,486,572
+9-feb,30,112,Abruzzo,Provincia di PESCARA,Pescara,-34,460,435
 11-gen,1,113,Abruzzo,Provincia di TERAMO,Teramo,50,1035,1280
 12-gen,2,113,Abruzzo,Provincia di TERAMO,Teramo,21,999,885
 13-gen,3,113,Abruzzo,Provincia di TERAMO,Teramo,7,946,813
@@ -2187,8 +2187,8 @@
 5-feb,26,113,Abruzzo,Provincia di TERAMO,Teramo,-26,575,493
 6-feb,27,113,Abruzzo,Provincia di TERAMO,Teramo,-29,544,443
 7-feb,28,113,Abruzzo,Provincia di TERAMO,Teramo,-31,520,169
-8-feb,29,113,Abruzzo,Provincia di TERAMO,Teramo,-31,520,169
-9-feb,30,113,Abruzzo,Provincia di TERAMO,Teramo,-31,520,169
+8-feb,29,113,Abruzzo,Provincia di TERAMO,Teramo,-29,509,679
+9-feb,30,113,Abruzzo,Provincia di TERAMO,Teramo,-25,504,490
 11-gen,1,115,Molise,Provincia di CAMPOBASSO,Campob.,65,305,446
 12-gen,2,115,Molise,Provincia di CAMPOBASSO,Campob.,65,344,573
 13-gen,3,115,Molise,Provincia di CAMPOBASSO,Campob.,90,396,556
@@ -2217,8 +2217,8 @@
 5-feb,26,115,Molise,Provincia di CAMPOBASSO,Campob.,9,279,324
 6-feb,27,115,Molise,Provincia di CAMPOBASSO,Campob.,13,284,269
 7-feb,28,115,Molise,Provincia di CAMPOBASSO,Campob.,12,286,150
-8-feb,29,115,Molise,Provincia di CAMPOBASSO,Campob.,12,286,150
-9-feb,30,115,Molise,Provincia di CAMPOBASSO,Campob.,12,286,150
+8-feb,29,115,Molise,Provincia di CAMPOBASSO,Campob.,7,283,276
+9-feb,30,115,Molise,Provincia di CAMPOBASSO,Campob.,4,285,391
 11-gen,1,116,Molise,Provincia di ISERNIA,Isernia,53,124,105
 12-gen,2,116,Molise,Provincia di ISERNIA,Isernia,21,128,225
 13-gen,3,116,Molise,Provincia di ISERNIA,Isernia,13,136,171
@@ -2247,8 +2247,8 @@
 5-feb,26,116,Molise,Provincia di ISERNIA,Isernia,-22,103,82
 6-feb,27,116,Molise,Provincia di ISERNIA,Isernia,-27,96,97
 7-feb,28,116,Molise,Provincia di ISERNIA,Isernia,-26,94,64
-8-feb,29,116,Molise,Provincia di ISERNIA,Isernia,-26,94,64
-9-feb,30,116,Molise,Provincia di ISERNIA,Isernia,-26,94,64
+8-feb,29,116,Molise,Provincia di ISERNIA,Isernia,-23,92,64
+9-feb,30,116,Molise,Provincia di ISERNIA,Isernia,-25,90,137
 11-gen,1,62,Campania,Città metropolitana di NAPOLI,Napoli,82,11200,37786
 12-gen,2,62,Campania,Città metropolitana di NAPOLI,Napoli,41,9529,-1922
 13-gen,3,62,Campania,Città metropolitana di NAPOLI,Napoli,46,10440,15714
@@ -2277,8 +2277,8 @@
 5-feb,26,62,Campania,Città metropolitana di NAPOLI,Napoli,-22,5374,4763
 6-feb,27,62,Campania,Città metropolitana di NAPOLI,Napoli,-21,5228,4398
 7-feb,28,62,Campania,Città metropolitana di NAPOLI,Napoli,-22,5128,2372
-8-feb,29,62,Campania,Città metropolitana di NAPOLI,Napoli,-22,5128,2372
-9-feb,30,62,Campania,Città metropolitana di NAPOLI,Napoli,-22,5128,2372
+8-feb,29,62,Campania,Città metropolitana di NAPOLI,Napoli,-23,4837,5628
+9-feb,30,62,Campania,Città metropolitana di NAPOLI,Napoli,-23,4635,4394
 11-gen,1,63,Campania,Provincia di SALERNO,Salerno,106,3162,9720
 12-gen,2,63,Campania,Provincia di SALERNO,Salerno,52,2656,-482
 13-gen,3,63,Campania,Provincia di SALERNO,Salerno,40,2744,3591
@@ -2307,8 +2307,8 @@
 5-feb,26,63,Campania,Provincia di SALERNO,Salerno,4,1941,1892
 6-feb,27,63,Campania,Provincia di SALERNO,Salerno,1,1868,1611
 7-feb,28,63,Campania,Provincia di SALERNO,Salerno,0,1839,732
-8-feb,29,63,Campania,Provincia di SALERNO,Salerno,0,1839,732
-9-feb,30,63,Campania,Provincia di SALERNO,Salerno,0,1839,732
+8-feb,29,63,Campania,Provincia di SALERNO,Salerno,-3,1757,2337
+9-feb,30,63,Campania,Provincia di SALERNO,Salerno,-19,1697,1557
 11-gen,1,64,Campania,Provincia di CASERTA,Caserta,61,2651,8002
 12-gen,2,64,Campania,Provincia di CASERTA,Caserta,26,2222,-675
 13-gen,3,64,Campania,Provincia di CASERTA,Caserta,22,2293,3151
@@ -2337,8 +2337,8 @@
 5-feb,26,64,Campania,Provincia di CASERTA,Caserta,-14,1426,1256
 6-feb,27,64,Campania,Provincia di CASERTA,Caserta,-14,1396,1261
 7-feb,28,64,Campania,Provincia di CASERTA,Caserta,-14,1381,631
-8-feb,29,64,Campania,Provincia di CASERTA,Caserta,-14,1381,631
-9-feb,30,64,Campania,Provincia di CASERTA,Caserta,-14,1381,631
+8-feb,29,64,Campania,Provincia di CASERTA,Caserta,-16,1336,1726
+9-feb,30,64,Campania,Provincia di CASERTA,Caserta,-16,1291,1282
 11-gen,1,65,Campania,Provincia di AVELLINO,Avellino,4,734,2388
 12-gen,2,65,Campania,Provincia di AVELLINO,Avellino,-16,606,-77
 13-gen,3,65,Campania,Provincia di AVELLINO,Avellino,-12,640,957
@@ -2367,8 +2367,8 @@
 5-feb,26,65,Campania,Provincia di AVELLINO,Avellino,-45,424,415
 6-feb,27,65,Campania,Provincia di AVELLINO,Avellino,-44,422,370
 7-feb,28,65,Campania,Provincia di AVELLINO,Avellino,-45,416,169
-8-feb,29,65,Campania,Provincia di AVELLINO,Avellino,-45,416,169
-9-feb,30,65,Campania,Provincia di AVELLINO,Avellino,-45,416,169
+8-feb,29,65,Campania,Provincia di AVELLINO,Avellino,-46,405,549
+9-feb,30,65,Campania,Provincia di AVELLINO,Avellino,-14,395,411
 11-gen,1,66,Campania,Provincia di BENEVENTO,Benev.,95,632,1800
 12-gen,2,66,Campania,Provincia di BENEVENTO,Benev.,37,519,-3
 13-gen,3,66,Campania,Provincia di BENEVENTO,Benev.,32,548,836
@@ -2397,8 +2397,8 @@
 5-feb,26,66,Campania,Provincia di BENEVENTO,Benev.,-20,320,316
 6-feb,27,66,Campania,Provincia di BENEVENTO,Benev.,-22,308,263
 7-feb,28,66,Campania,Provincia di BENEVENTO,Benev.,-18,315,118
-8-feb,29,66,Campania,Provincia di BENEVENTO,Benev.,-18,315,118
-9-feb,30,66,Campania,Provincia di BENEVENTO,Benev.,-18,315,118
+8-feb,29,66,Campania,Provincia di BENEVENTO,Benev.,-16,310,476
+9-feb,30,66,Campania,Provincia di BENEVENTO,Benev.,-16,295,250
 11-gen,1,98,Puglia,Città metropolitana di BARI,Bari,67,2053,2288
 12-gen,2,98,Puglia,Città metropolitana di BARI,Bari,45,1974,1298
 13-gen,3,98,Puglia,Città metropolitana di BARI,Bari,20,1816,1224
@@ -2427,8 +2427,8 @@
 5-feb,26,98,Puglia,Città metropolitana di BARI,Bari,-38,1715,1788
 6-feb,27,98,Puglia,Città metropolitana di BARI,Bari,-23,1823,1447
 7-feb,28,98,Puglia,Città metropolitana di BARI,Bari,-22,1806,706
-8-feb,29,98,Puglia,Città metropolitana di BARI,Bari,-22,1806,706
-9-feb,30,98,Puglia,Città metropolitana di BARI,Bari,-22,1806,706
+8-feb,29,98,Puglia,Città metropolitana di BARI,Bari,-15,1820,2603
+9-feb,30,98,Puglia,Città metropolitana di BARI,Bari,-17,1709,1374
 11-gen,1,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,48,523,708
 12-gen,2,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,28,484,258
 13-gen,3,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,11,434,288
@@ -2457,8 +2457,8 @@
 5-feb,26,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,-47,515,575
 6-feb,27,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,-34,543,408
 7-feb,28,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,-34,537,187
-8-feb,29,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,-34,537,187
-9-feb,30,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,-34,537,187
+8-feb,29,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,-23,532,735
+9-feb,30,99,Puglia,Provincia di BARLETTA-ANDRIA-TRANI,BAT,-26,486,330
 11-gen,1,100,Puglia,Provincia di BRINDISI,Brindisi,25,599,846
 12-gen,2,100,Puglia,Provincia di BRINDISI,Brindisi,14,587,478
 13-gen,3,100,Puglia,Provincia di BRINDISI,Brindisi,5,551,312
@@ -2487,8 +2487,8 @@
 5-feb,26,100,Puglia,Provincia di BRINDISI,Brindisi,-38,528,542
 6-feb,27,100,Puglia,Provincia di BRINDISI,Brindisi,-20,575,518
 7-feb,28,100,Puglia,Provincia di BRINDISI,Brindisi,-22,559,193
-8-feb,29,100,Puglia,Provincia di BRINDISI,Brindisi,-22,559,193
-9-feb,30,100,Puglia,Provincia di BRINDISI,Brindisi,-22,559,193
+8-feb,29,100,Puglia,Provincia di BRINDISI,Brindisi,-19,548,763
+9-feb,30,100,Puglia,Provincia di BRINDISI,Brindisi,-20,523,456
 11-gen,1,101,Puglia,Provincia di FOGGIA,Foggia,55,706,1059
 12-gen,2,101,Puglia,Provincia di FOGGIA,Foggia,39,685,406
 13-gen,3,101,Puglia,Provincia di FOGGIA,Foggia,28,663,486
@@ -2517,8 +2517,8 @@
 5-feb,26,101,Puglia,Provincia di FOGGIA,Foggia,-40,859,924
 6-feb,27,101,Puglia,Provincia di FOGGIA,Foggia,-26,922,740
 7-feb,28,101,Puglia,Provincia di FOGGIA,Foggia,-25,921,375
-8-feb,29,101,Puglia,Provincia di FOGGIA,Foggia,-25,921,375
-9-feb,30,101,Puglia,Provincia di FOGGIA,Foggia,-25,921,375
+8-feb,29,101,Puglia,Provincia di FOGGIA,Foggia,-13,947,1465
+9-feb,30,101,Puglia,Provincia di FOGGIA,Foggia,-12,916,852
 11-gen,1,102,Puglia,Provincia di LECCE,Lecce,41,1206,1451
 12-gen,2,102,Puglia,Provincia di LECCE,Lecce,35,1215,1000
 13-gen,3,102,Puglia,Provincia di LECCE,Lecce,28,1157,614
@@ -2547,8 +2547,8 @@
 5-feb,26,102,Puglia,Provincia di LECCE,Lecce,-18,1390,1582
 6-feb,27,102,Puglia,Provincia di LECCE,Lecce,0,1510,1317
 7-feb,28,102,Puglia,Provincia di LECCE,Lecce,3,1517,645
-8-feb,29,102,Puglia,Provincia di LECCE,Lecce,3,1517,645
-9-feb,30,102,Puglia,Provincia di LECCE,Lecce,3,1517,645
+8-feb,29,102,Puglia,Provincia di LECCE,Lecce,10,1590,2438
+9-feb,30,102,Puglia,Provincia di LECCE,Lecce,4,1526,1278
 11-gen,1,103,Puglia,Provincia di TARANTO,Taranto,89,617,835
 12-gen,2,103,Puglia,Provincia di TARANTO,Taranto,30,553,500
 13-gen,3,103,Puglia,Provincia di TARANTO,Taranto,34,553,226
@@ -2577,8 +2577,8 @@
 5-feb,26,103,Puglia,Provincia di TARANTO,Taranto,-40,707,788
 6-feb,27,103,Puglia,Provincia di TARANTO,Taranto,-24,757,652
 7-feb,28,103,Puglia,Provincia di TARANTO,Taranto,-24,749,209
-8-feb,29,103,Puglia,Provincia di TARANTO,Taranto,-24,749,209
-9-feb,30,103,Puglia,Provincia di TARANTO,Taranto,-24,749,209
+8-feb,29,103,Puglia,Provincia di TARANTO,Taranto,-16,757,1199
+9-feb,30,103,Puglia,Provincia di TARANTO,Taranto,-15,726,587
 11-gen,1,128,Basilicata,Provincia di POTENZA,Potenza,49,579,629
 12-gen,2,128,Basilicata,Provincia di POTENZA,Potenza,32,578,622
 13-gen,3,128,Basilicata,Provincia di POTENZA,Potenza,17,566,659
@@ -2607,8 +2607,8 @@
 5-feb,26,128,Basilicata,Provincia di POTENZA,Potenza,-1,576,678
 6-feb,27,128,Basilicata,Provincia di POTENZA,Potenza,-1,572,495
 7-feb,28,128,Basilicata,Provincia di POTENZA,Potenza,-2,570,276
-8-feb,29,128,Basilicata,Provincia di POTENZA,Potenza,-2,570,276
-9-feb,30,128,Basilicata,Provincia di POTENZA,Potenza,-2,570,276
+8-feb,29,128,Basilicata,Provincia di POTENZA,Potenza,-5,552,673
+9-feb,30,128,Basilicata,Provincia di POTENZA,Potenza,-5,551,606
 11-gen,1,129,Basilicata,Provincia di MATERA,Matera,62,237,212
 12-gen,2,129,Basilicata,Provincia di MATERA,Matera,53,243,287
 13-gen,3,129,Basilicata,Provincia di MATERA,Matera,42,251,296
@@ -2637,8 +2637,8 @@
 5-feb,26,129,Basilicata,Provincia di MATERA,Matera,-9,384,351
 6-feb,27,129,Basilicata,Provincia di MATERA,Matera,-9,379,294
 7-feb,28,129,Basilicata,Provincia di MATERA,Matera,-7,375,149
-8-feb,29,129,Basilicata,Provincia di MATERA,Matera,-7,375,149
-9-feb,30,129,Basilicata,Provincia di MATERA,Matera,-7,375,149
+8-feb,29,129,Basilicata,Provincia di MATERA,Matera,-16,352,484
+9-feb,30,129,Basilicata,Provincia di MATERA,Matera,-21,335,293
 11-gen,1,133,Calabria,Provincia di COSENZA,Cosenza,82,372,428
 12-gen,2,133,Calabria,Provincia di COSENZA,Cosenza,84,401,452
 13-gen,3,133,Calabria,Provincia di COSENZA,Cosenza,81,430,571
@@ -2667,8 +2667,8 @@
 5-feb,26,133,Calabria,Provincia di COSENZA,Cosenza,-5,134,129
 6-feb,27,133,Calabria,Provincia di COSENZA,Cosenza,-1,133,92
 7-feb,28,133,Calabria,Provincia di COSENZA,Cosenza,3,134,24
-8-feb,29,133,Calabria,Provincia di COSENZA,Cosenza,3,134,24
-9-feb,30,133,Calabria,Provincia di COSENZA,Cosenza,3,134,24
+8-feb,29,133,Calabria,Provincia di COSENZA,Cosenza,4,133,94
+9-feb,30,133,Calabria,Provincia di COSENZA,Cosenza,14,142,212
 11-gen,1,134,Calabria,Città metropolitana di REGGIO CALABRIA,Reggio C.,71,871,995
 12-gen,2,134,Calabria,Città metropolitana di REGGIO CALABRIA,Reggio C.,67,896,979
 13-gen,3,134,Calabria,Città metropolitana di REGGIO CALABRIA,Reggio C.,26,847,975
@@ -2697,8 +2697,8 @@
 5-feb,26,134,Calabria,Città metropolitana di REGGIO CALABRIA,Reggio C.,24,676,618
 6-feb,27,134,Calabria,Città metropolitana di REGGIO CALABRIA,Reggio C.,47,803,1434
 7-feb,28,134,Calabria,Città metropolitana di REGGIO CALABRIA,Reggio C.,49,821,609
-8-feb,29,134,Calabria,Città metropolitana di REGGIO CALABRIA,Reggio C.,49,821,609
-9-feb,30,134,Calabria,Città metropolitana di REGGIO CALABRIA,Reggio C.,49,821,609
+8-feb,29,134,Calabria,Città metropolitana di REGGIO CALABRIA,Reggio C.,47,903,1321
+9-feb,30,134,Calabria,Città metropolitana di REGGIO CALABRIA,Reggio C.,34,864,584
 11-gen,1,135,Calabria,Provincia di CATANZARO,Catanzaro,3,241,205
 12-gen,2,135,Calabria,Provincia di CATANZARO,Catanzaro,-19,208,208
 13-gen,3,135,Calabria,Provincia di CATANZARO,Catanzaro,-24,201,220
@@ -2727,8 +2727,8 @@
 5-feb,26,135,Calabria,Provincia di CATANZARO,Catanzaro,10,272,213
 6-feb,27,135,Calabria,Provincia di CATANZARO,Catanzaro,6,264,216
 7-feb,28,135,Calabria,Provincia di CATANZARO,Catanzaro,-2,256,125
-8-feb,29,135,Calabria,Provincia di CATANZARO,Catanzaro,-2,256,125
-9-feb,30,135,Calabria,Provincia di CATANZARO,Catanzaro,-2,256,125
+8-feb,29,135,Calabria,Provincia di CATANZARO,Catanzaro,-3,258,372
+9-feb,30,135,Calabria,Provincia di CATANZARO,Catanzaro,-7,252,275
 11-gen,1,136,Calabria,Provincia di VIBO VALENTIA,Vibo V.,9,416,403
 12-gen,2,136,Calabria,Provincia di VIBO VALENTIA,Vibo V.,2,414,552
 13-gen,3,136,Calabria,Provincia di VIBO VALENTIA,Vibo V.,-4,379,336
@@ -2757,8 +2757,8 @@
 5-feb,26,136,Calabria,Provincia di VIBO VALENTIA,Vibo V.,0,238,44
 6-feb,27,136,Calabria,Provincia di VIBO VALENTIA,Vibo V.,3,226,39
 7-feb,28,136,Calabria,Provincia di VIBO VALENTIA,Vibo V.,-16,210,154
-8-feb,29,136,Calabria,Provincia di VIBO VALENTIA,Vibo V.,-16,210,154
-9-feb,30,136,Calabria,Provincia di VIBO VALENTIA,Vibo V.,-16,210,154
+8-feb,29,136,Calabria,Provincia di VIBO VALENTIA,Vibo V.,-11,217,346
+9-feb,30,136,Calabria,Provincia di VIBO VALENTIA,Vibo V.,-22,201,232
 11-gen,1,137,Calabria,Provincia di CROTONE,Crotone,20,144,152
 12-gen,2,137,Calabria,Provincia di CROTONE,Crotone,13,137,91
 13-gen,3,137,Calabria,Provincia di CROTONE,Crotone,157,284,1101
@@ -2787,8 +2787,8 @@
 5-feb,26,137,Calabria,Provincia di CROTONE,Crotone,35,256,263
 6-feb,27,137,Calabria,Provincia di CROTONE,Crotone,12,231,75
 7-feb,28,137,Calabria,Provincia di CROTONE,Crotone,-2,217,157
-8-feb,29,137,Calabria,Provincia di CROTONE,Crotone,-2,217,157
-9-feb,30,137,Calabria,Provincia di CROTONE,Crotone,-2,217,157
+8-feb,29,137,Calabria,Provincia di CROTONE,Crotone,15,247,318
+9-feb,30,137,Calabria,Provincia di CROTONE,Crotone,-1,234,276
 11-gen,1,88,Sicilia,Libero consorzio di comuni di AGRIGENTO,Agrigento,160,984,1392
 12-gen,2,88,Sicilia,Libero consorzio di comuni di AGRIGENTO,Agrigento,120,1036,1047
 13-gen,3,88,Sicilia,Libero consorzio di comuni di AGRIGENTO,Agrigento,118,1070,737
@@ -2817,8 +2817,8 @@
 5-feb,26,88,Sicilia,Libero consorzio di comuni di AGRIGENTO,Agrigento,13,492,579
 6-feb,27,88,Sicilia,Libero consorzio di comuni di AGRIGENTO,Agrigento,18,507,434
 7-feb,28,88,Sicilia,Libero consorzio di comuni di AGRIGENTO,Agrigento,21,519,248
-8-feb,29,88,Sicilia,Libero consorzio di comuni di AGRIGENTO,Agrigento,21,519,248
-9-feb,30,88,Sicilia,Libero consorzio di comuni di AGRIGENTO,Agrigento,21,519,248
+8-feb,29,88,Sicilia,Libero consorzio di comuni di AGRIGENTO,Agrigento,15,505,670
+9-feb,30,88,Sicilia,Libero consorzio di comuni di AGRIGENTO,Agrigento,7,493,526
 11-gen,1,89,Sicilia,Libero consorzio di comuni di CALTANISSETTA,Caltaniss.,186,890,1093
 12-gen,2,89,Sicilia,Libero consorzio di comuni di CALTANISSETTA,Caltaniss.,138,920,952
 13-gen,3,89,Sicilia,Libero consorzio di comuni di CALTANISSETTA,Caltaniss.,70,870,797
@@ -2847,8 +2847,8 @@
 5-feb,26,89,Sicilia,Libero consorzio di comuni di CALTANISSETTA,Caltaniss.,-3,475,555
 6-feb,27,89,Sicilia,Libero consorzio di comuni di CALTANISSETTA,Caltaniss.,0,485,399
 7-feb,28,89,Sicilia,Libero consorzio di comuni di CALTANISSETTA,Caltaniss.,1,485,245
-8-feb,29,89,Sicilia,Libero consorzio di comuni di CALTANISSETTA,Caltaniss.,1,485,245
-9-feb,30,89,Sicilia,Libero consorzio di comuni di CALTANISSETTA,Caltaniss.,1,485,245
+8-feb,29,89,Sicilia,Libero consorzio di comuni di CALTANISSETTA,Caltaniss.,-7,457,458
+9-feb,30,89,Sicilia,Libero consorzio di comuni di CALTANISSETTA,Caltaniss.,-12,443,519
 11-gen,1,90,Sicilia,Città metropolitana di CATANIA,Catania,114,2178,2708
 12-gen,2,90,Sicilia,Città metropolitana di CATANIA,Catania,148,2516,3300
 13-gen,3,90,Sicilia,Città metropolitana di CATANIA,Catania,80,2472,3071
@@ -2877,8 +2877,8 @@
 5-feb,26,90,Sicilia,Città metropolitana di CATANIA,Catania,-4,1400,1204
 6-feb,27,90,Sicilia,Città metropolitana di CATANIA,Catania,-4,1403,1400
 7-feb,28,90,Sicilia,Città metropolitana di CATANIA,Catania,-2,1405,822
-8-feb,29,90,Sicilia,Città metropolitana di CATANIA,Catania,-2,1405,822
-9-feb,30,90,Sicilia,Città metropolitana di CATANIA,Catania,-2,1405,822
+8-feb,29,90,Sicilia,Città metropolitana di CATANIA,Catania,-4,1384,1499
+9-feb,30,90,Sicilia,Città metropolitana di CATANIA,Catania,-4,1399,1687
 11-gen,1,91,Sicilia,Libero consorzio di comuni di ENNA,Enna,42,388,133
 12-gen,2,91,Sicilia,Libero consorzio di comuni di ENNA,Enna,7,339,235
 13-gen,3,91,Sicilia,Libero consorzio di comuni di ENNA,Enna,-32,260,164
@@ -2907,8 +2907,8 @@
 5-feb,26,91,Sicilia,Libero consorzio di comuni di ENNA,Enna,24,155,170
 6-feb,27,91,Sicilia,Libero consorzio di comuni di ENNA,Enna,18,160,154
 7-feb,28,91,Sicilia,Libero consorzio di comuni di ENNA,Enna,17,162,78
-8-feb,29,91,Sicilia,Libero consorzio di comuni di ENNA,Enna,17,162,78
-9-feb,30,91,Sicilia,Libero consorzio di comuni di ENNA,Enna,17,162,78
+8-feb,29,91,Sicilia,Libero consorzio di comuni di ENNA,Enna,16,167,204
+9-feb,30,91,Sicilia,Libero consorzio di comuni di ENNA,Enna,9,169,241
 11-gen,1,92,Sicilia,Città metropolitana di MESSINA,Messina,132,1602,1562
 12-gen,2,92,Sicilia,Città metropolitana di MESSINA,Messina,85,1548,1111
 13-gen,3,92,Sicilia,Città metropolitana di MESSINA,Messina,54,1476,998
@@ -2937,8 +2937,8 @@
 5-feb,26,92,Sicilia,Città metropolitana di MESSINA,Messina,22,1046,1420
 6-feb,27,92,Sicilia,Città metropolitana di MESSINA,Messina,14,1050,1037
 7-feb,28,92,Sicilia,Città metropolitana di MESSINA,Messina,8,1031,660
-8-feb,29,92,Sicilia,Città metropolitana di MESSINA,Messina,8,1031,660
-9-feb,30,92,Sicilia,Città metropolitana di MESSINA,Messina,8,1031,660
+8-feb,29,92,Sicilia,Città metropolitana di MESSINA,Messina,9,1036,890
+9-feb,30,92,Sicilia,Città metropolitana di MESSINA,Messina,-5,946,719
 11-gen,1,93,Sicilia,Città metropolitana di PALERMO,Palermo,102,2155,3383
 12-gen,2,93,Sicilia,Città metropolitana di PALERMO,Palermo,124,2467,3404
 13-gen,3,93,Sicilia,Città metropolitana di PALERMO,Palermo,67,2427,2927
@@ -2967,8 +2967,8 @@
 5-feb,26,93,Sicilia,Città metropolitana di PALERMO,Palermo,-5,1402,1647
 6-feb,27,93,Sicilia,Città metropolitana di PALERMO,Palermo,-11,1358,1067
 7-feb,28,93,Sicilia,Città metropolitana di PALERMO,Palermo,-11,1378,849
-8-feb,29,93,Sicilia,Città metropolitana di PALERMO,Palermo,-11,1378,849
-9-feb,30,93,Sicilia,Città metropolitana di PALERMO,Palermo,-11,1378,849
+8-feb,29,93,Sicilia,Città metropolitana di PALERMO,Palermo,-8,1396,1432
+9-feb,30,93,Sicilia,Città metropolitana di PALERMO,Palermo,-8,1347,1636
 11-gen,1,94,Sicilia,Libero consorzio di comuni di RAGUSA,Ragusa,185,889,970
 12-gen,2,94,Sicilia,Libero consorzio di comuni di RAGUSA,Ragusa,155,937,894
 13-gen,3,94,Sicilia,Libero consorzio di comuni di RAGUSA,Ragusa,74,886,840
@@ -2997,8 +2997,8 @@
 5-feb,26,94,Sicilia,Libero consorzio di comuni di RAGUSA,Ragusa,-11,680,676
 6-feb,27,94,Sicilia,Libero consorzio di comuni di RAGUSA,Ragusa,-13,661,552
 7-feb,28,94,Sicilia,Libero consorzio di comuni di RAGUSA,Ragusa,-15,649,265
-8-feb,29,94,Sicilia,Libero consorzio di comuni di RAGUSA,Ragusa,-15,649,265
-9-feb,30,94,Sicilia,Libero consorzio di comuni di RAGUSA,Ragusa,-15,649,265
+8-feb,29,94,Sicilia,Libero consorzio di comuni di RAGUSA,Ragusa,-15,636,683
+9-feb,30,94,Sicilia,Libero consorzio di comuni di RAGUSA,Ragusa,-20,606,691
 11-gen,1,95,Sicilia,Libero consorzio di comuni di SIRACUSA,Siracusa,193,1100,1502
 12-gen,2,95,Sicilia,Libero consorzio di comuni di SIRACUSA,Siracusa,215,1245,1441
 13-gen,3,95,Sicilia,Libero consorzio di comuni di SIRACUSA,Siracusa,108,1200,1226
@@ -3027,8 +3027,8 @@
 5-feb,26,95,Sicilia,Libero consorzio di comuni di SIRACUSA,Siracusa,0,762,752
 6-feb,27,95,Sicilia,Libero consorzio di comuni di SIRACUSA,Siracusa,1,777,716
 7-feb,28,95,Sicilia,Libero consorzio di comuni di SIRACUSA,Siracusa,9,788,306
-8-feb,29,95,Sicilia,Libero consorzio di comuni di SIRACUSA,Siracusa,9,788,306
-9-feb,30,95,Sicilia,Libero consorzio di comuni di SIRACUSA,Siracusa,9,788,306
+8-feb,29,95,Sicilia,Libero consorzio di comuni di SIRACUSA,Siracusa,14,826,1111
+9-feb,30,95,Sicilia,Libero consorzio di comuni di SIRACUSA,Siracusa,2,794,890
 11-gen,1,96,Sicilia,Libero consorzio di comuni di TRAPANI,Trapani,109,850,488
 12-gen,2,96,Sicilia,Libero consorzio di comuni di TRAPANI,Trapani,85,845,664
 13-gen,3,96,Sicilia,Libero consorzio di comuni di TRAPANI,Trapani,42,777,594
@@ -3057,8 +3057,8 @@
 5-feb,26,96,Sicilia,Libero consorzio di comuni di TRAPANI,Trapani,-4,403,447
 6-feb,27,96,Sicilia,Libero consorzio di comuni di TRAPANI,Trapani,52,647,2093
 7-feb,28,96,Sicilia,Libero consorzio di comuni di TRAPANI,Trapani,53,662,349
-8-feb,29,96,Sicilia,Libero consorzio di comuni di TRAPANI,Trapani,53,662,349
-9-feb,30,96,Sicilia,Libero consorzio di comuni di TRAPANI,Trapani,53,662,349
+8-feb,29,96,Sicilia,Libero consorzio di comuni di TRAPANI,Trapani,72,733,881
+9-feb,30,96,Sicilia,Libero consorzio di comuni di TRAPANI,Trapani,61,729,577
 11-gen,1,122,Sardegna,Città metropolitana di CAGLIARI,Cagliari,11,240,174
 12-gen,2,122,Sardegna,Città metropolitana di CAGLIARI,Cagliari,45,263,289
 13-gen,3,122,Sardegna,Città metropolitana di CAGLIARI,Cagliari,22,252,302
@@ -3087,8 +3087,8 @@
 5-feb,26,122,Sardegna,Città metropolitana di CAGLIARI,Cagliari,79,438,1190
 6-feb,27,122,Sardegna,Città metropolitana di CAGLIARI,Cagliari,145,563,994
 7-feb,28,122,Sardegna,Città metropolitana di CAGLIARI,Cagliari,126,579,418
-8-feb,29,122,Sardegna,Città metropolitana di CAGLIARI,Cagliari,126,579,418
-9-feb,30,122,Sardegna,Città metropolitana di CAGLIARI,Cagliari,126,579,418
+8-feb,29,122,Sardegna,Città metropolitana di CAGLIARI,Cagliari,210,710,1093
+9-feb,30,122,Sardegna,Città metropolitana di CAGLIARI,Cagliari,210,793,1011
 11-gen,1,123,Sardegna,Provincia di SUD SARDEGNA,Sud Sard.,25,165,86
 12-gen,2,123,Sardegna,Provincia di SUD SARDEGNA,Sud Sard.,22,172,211
 13-gen,3,123,Sardegna,Provincia di SUD SARDEGNA,Sud Sard.,13,174,230
@@ -3117,8 +3117,8 @@
 5-feb,26,123,Sardegna,Provincia di SUD SARDEGNA,Sud Sard.,74,302,872
 6-feb,27,123,Sardegna,Provincia di SUD SARDEGNA,Sud Sard.,127,383,610
 7-feb,28,123,Sardegna,Provincia di SUD SARDEGNA,Sud Sard.,182,439,473
-8-feb,29,123,Sardegna,Provincia di SUD SARDEGNA,Sud Sard.,182,439,473
-9-feb,30,123,Sardegna,Provincia di SUD SARDEGNA,Sud Sard.,182,439,473
+8-feb,29,123,Sardegna,Provincia di SUD SARDEGNA,Sud Sard.,237,542,816
+9-feb,30,123,Sardegna,Provincia di SUD SARDEGNA,Sud Sard.,259,622,874
 11-gen,1,124,Sardegna,Provincia di ORISTANO,Oristano,113,161,90
 12-gen,2,124,Sardegna,Provincia di ORISTANO,Oristano,88,170,261
 13-gen,3,124,Sardegna,Provincia di ORISTANO,Oristano,83,177,200
@@ -3147,8 +3147,8 @@
 5-feb,26,124,Sardegna,Provincia di ORISTANO,Oristano,-39,114,140
 6-feb,27,124,Sardegna,Provincia di ORISTANO,Oristano,-40,113,70
 7-feb,28,124,Sardegna,Provincia di ORISTANO,Oristano,-17,137,245
-8-feb,29,124,Sardegna,Provincia di ORISTANO,Oristano,-17,137,245
-9-feb,30,124,Sardegna,Provincia di ORISTANO,Oristano,-17,137,245
+8-feb,29,124,Sardegna,Provincia di ORISTANO,Oristano,18,151,204
+9-feb,30,124,Sardegna,Provincia di ORISTANO,Oristano,65,170,295
 11-gen,1,125,Sardegna,Provincia di NUORO,Nuoro,103,317,412
 12-gen,2,125,Sardegna,Provincia di NUORO,Nuoro,34,282,137
 13-gen,3,125,Sardegna,Provincia di NUORO,Nuoro,45,306,200
@@ -3177,8 +3177,8 @@
 5-feb,26,125,Sardegna,Provincia di NUORO,Nuoro,-30,255,244
 6-feb,27,125,Sardegna,Provincia di NUORO,Nuoro,-37,242,297
 7-feb,28,125,Sardegna,Provincia di NUORO,Nuoro,-28,247,68
-8-feb,29,125,Sardegna,Provincia di NUORO,Nuoro,-28,247,68
-9-feb,30,125,Sardegna,Provincia di NUORO,Nuoro,-28,247,68
+8-feb,29,125,Sardegna,Provincia di NUORO,Nuoro,-19,252,333
+9-feb,30,125,Sardegna,Provincia di NUORO,Nuoro,-21,242,249
 11-gen,1,126,Sardegna,Provincia di SASSARI,Sassari,37,371,221
 12-gen,2,126,Sardegna,Provincia di SASSARI,Sassari,28,377,409
 13-gen,3,126,Sardegna,Provincia di SASSARI,Sassari,8,355,364
@@ -3207,8 +3207,8 @@
 5-feb,26,126,Sardegna,Provincia di SASSARI,Sassari,37,356,1090
 6-feb,27,126,Sardegna,Provincia di SASSARI,Sassari,62,441,885
 7-feb,28,126,Sardegna,Provincia di SASSARI,Sassari,95,461,236
-8-feb,29,126,Sardegna,Provincia di SASSARI,Sassari,95,461,236
-9-feb,30,126,Sardegna,Provincia di SASSARI,Sassari,95,461,236
+8-feb,29,126,Sardegna,Provincia di SASSARI,Sassari,123,526,572
+9-feb,30,126,Sardegna,Provincia di SASSARI,Sassari,153,597,780
 11-gen,1,140,Italia,#N/A,Italia,53,176880,250764
 12-gen,2,140,Italia,#N/A,Italia,35,173576,165960
 13-gen,3,140,Italia,#N/A,Italia,19,168597,184577
@@ -3237,5 +3237,5 @@
 5-feb,26,140,Italia,#N/A,Italia,-31,103060,93192
 6-feb,27,140,Italia,#N/A,Italia,-31,99464,78943
 7-feb,28,140,Italia,#N/A,Italia,-31,97175,41602
-8-feb,29,140,Italia,#N/A,Italia,-31,97175,41602
-9-feb,30,140,Italia,#N/A,Italia,-31,97175,41602
+8-feb,29,140,Italia,#N/A,Italia,-28,92764,102429
+9-feb,30,140,Italia,#N/A,Italia,-28,87812,84660
