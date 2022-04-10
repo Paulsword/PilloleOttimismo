@@ -1,13 +1,13 @@
-﻿Vaccino,,,10-mar,11-mar,12-mar,13-mar,14-mar,15-mar,16-mar,17-mar,18-mar,19-mar,20-mar,21-mar,22-mar,23-mar,24-mar,25-mar,26-mar,27-mar,28-mar,29-mar,30-mar,31-mar,1-apr,2-apr,3-apr,4-apr,5-apr,6-apr,7-apr,8-apr
-Pfizer/BioNTech prima dose,Pfizer/BioNTech,https://github.com/Paulsword/PilloleOttimismo/raw/main/Pfizer%20TR.png,1931,2176,1773,545,1938,2003,1964,1996,1987,1486,341,1653,1449,1399,1506,1478,1172,302,1228,1161,1080,1100,894,706,172,683,746,822,806,889
-Pfizer/BioNTech seconda dose,Pfizer/BioNTech,https://github.com/Paulsword/PilloleOttimismo/raw/main/Pfizer%20TR.png,6518,7234,5309,1804,5227,5002,4717,4807,5216,3903,896,3723,3594,3282,3580,3900,3092,780,3141,2905,2733,3052,2327,1893,396,2047,2086,2241,2208,2907
-Pfizer/BioNTech dose agg./booster,Pfizer/BioNTech,https://github.com/Paulsword/PilloleOttimismo/raw/main/Pfizer%20TR.png,34282,37996,38662,11788,31641,32338,29304,32007,35202,33092,8445,28125,27289,24992,28368,32758,31278,6984,26358,24594,22283,24399,19185,16650,3170,16393,17023,16738,17704,20063
-Moderna prima dose,Moderna,https://github.com/Paulsword/PilloleOttimismo/raw/main/moderna%20TR.png,626,565,411,140,504,503,418,432,388,290,87,300,357,278,317,227,235,55,215,235,194,264,144,134,38,125,167,127,160,115
-Moderna seconda dose,Moderna,https://github.com/Paulsword/PilloleOttimismo/raw/main/moderna%20TR.png,4240,4206,3165,1124,3196,3073,2569,2553,2413,1874,575,1982,1676,1592,1756,1677,1423,412,1276,1123,1146,1102,753,686,120,575,698,696,750,802
-Moderna dose aggiuntiva/booster,Moderna,https://github.com/Paulsword/PilloleOttimismo/raw/main/moderna%20TR.png,17955,19334,17929,5037,15150,14637,12742,12915,13886,13379,3223,12176,10487,8710,10422,10913,10379,2690,8889,7937,7896,8705,5927,6539,1251,5045,5898,5118,5422,5703
+﻿Vaccino,,,11-mar,12-mar,13-mar,14-mar,15-mar,16-mar,17-mar,18-mar,19-mar,20-mar,21-mar,22-mar,23-mar,24-mar,25-mar,26-mar,27-mar,28-mar,29-mar,30-mar,31-mar,1-apr,2-apr,3-apr,4-apr,5-apr,6-apr,7-apr,8-apr,9-apr
+Pfizer/BioNTech prima dose,Pfizer/BioNTech,https://github.com/Paulsword/PilloleOttimismo/raw/main/Pfizer%20TR.png,2176,1774,544,1938,2000,1964,1992,1988,1488,341,1652,1449,1398,1506,1478,1171,302,1228,1160,1077,1097,893,706,172,682,746,824,801,905,679
+Pfizer/BioNTech seconda dose,Pfizer/BioNTech,https://github.com/Paulsword/PilloleOttimismo/raw/main/Pfizer%20TR.png,7234,5309,1804,5227,5001,4717,4807,5216,3904,896,3722,3594,3282,3581,3900,3093,780,3141,2905,2735,3054,2327,1891,396,2048,2084,2242,2209,2697,2092
+Pfizer/BioNTech dose agg./booster,Pfizer/BioNTech,https://github.com/Paulsword/PilloleOttimismo/raw/main/Pfizer%20TR.png,37998,38662,11788,31642,32339,29306,32009,35202,33094,8445,28127,27289,24992,28367,32758,31279,6984,26357,24593,22282,24402,19186,16657,3170,16395,17029,16723,17689,20552,17722
+Moderna prima dose,Moderna,https://github.com/Paulsword/PilloleOttimismo/raw/main/moderna%20TR.png,563,411,140,504,503,418,432,388,290,87,300,357,278,316,227,235,55,215,235,194,263,144,133,38,125,167,126,159,115,138
+Moderna seconda dose,Moderna,https://github.com/Paulsword/PilloleOttimismo/raw/main/moderna%20TR.png,4207,3166,1124,3196,3073,2569,2553,2413,1874,575,1982,1676,1592,1756,1678,1423,412,1276,1123,1145,1101,753,686,120,575,702,696,749,761,565
+Moderna dose aggiuntiva/booster,Moderna,https://github.com/Paulsword/PilloleOttimismo/raw/main/moderna%20TR.png,19333,17929,5037,15150,14637,12742,12915,13886,13380,3224,12176,10488,8710,10423,10912,10379,2691,8889,7937,7897,8706,5927,6540,1251,5046,5920,5110,5454,5747,5915
 AstraZeneca prima dose,Vaxzevria (AstraZeneca),https://github.com/Paulsword/PilloleOttimismo/raw/main/AstraZeneca-Logo%20TR.png,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 AstraZeneca seconda dose,Vaxzevria (AstraZeneca),https://github.com/Paulsword/PilloleOttimismo/raw/main/AstraZeneca-Logo%20TR.png,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Johnson&Johnson,Janssen,https://github.com/Paulsword/PilloleOttimismo/raw/main/johnson-johnson-logo%20TR.png,0,12,0,0,2,4,0,0,2,2,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,5
+Johnson&Johnson,Janssen,https://github.com/Paulsword/PilloleOttimismo/raw/main/johnson-johnson-logo%20TR.png,12,0,0,2,4,0,0,2,2,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,5,0
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
